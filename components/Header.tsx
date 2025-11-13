@@ -8,7 +8,7 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-gold bg-parchment">
-      <div className="px-4 py-1.5">
+      <div className="px-4 py-2.5">
         <div className="flex items-center justify-between max-w-7xl mx-auto">
           
           <div className="flex items-center gap-2 sm:gap-3">
