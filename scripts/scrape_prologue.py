@@ -115,7 +115,7 @@ def save_entry(date_key, entry):
 
 def main():
     print("=" * 70)
-    print("📜 PROLOGUE FROM Ochrid - INDIVIDUAL FILES SCRAPER")
+    print("📜 PROLOGUE of Ochrid - INDIVIDUAL FILES SCRAPER")
     print("=" * 70)
     print()
     

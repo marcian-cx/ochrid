@@ -21,7 +21,7 @@ export default function Header() {
               <span 
                 className="px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-burgundy border border-burgundy/30 rounded leading-none"
               >
-                Alpha
+                Beta
               </span>
             </div>
             <span className="hidden sm:inline text-burgundy/30 text-sm leading-none">•</span>

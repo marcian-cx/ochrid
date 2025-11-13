@@ -21,7 +21,7 @@ export default function AboutPage() {
         </p>
 
         <p>
-          The Prologue from Ochrid is a collection of lives of saints and homilies for every day 
+          The Prologue of Ochrid is a collection of lives of saints and homilies for every day 
           of the year, compiled by St. Nikolai Velimirović (1880-1956), Bishop of Ochrid 
           and Žiča. This treasury of Orthodox wisdom has been a beloved companion to the faithful for 
           generations, offering daily spiritual nourishment through the examples of the saints, beautiful 
