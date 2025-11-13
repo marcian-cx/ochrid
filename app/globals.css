@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-base leading-relaxed;
+  }
+  
+  h1 {
+    @apply text-4xl font-bold mb-6 text-burgundy;
+  }
+  
+  h2 {
+    @apply text-2xl font-semibold mt-8 mb-4 text-burgundy border-b border-gold pb-2;
+  }
+  
+  p {
+    @apply mb-4 text-justify;
+  }
+  
+  a {
+    @apply text-burgundy hover:text-gold transition-colors;
+  }
+}
+
+@layer utilities {
+  .animate-spin-slow {
+    animation: spin 3s linear infinite;
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

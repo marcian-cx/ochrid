@@ -1,0 +1,39 @@
+"use client";
+
+import Link from "next/link";
+import { getNextDate, getPrevDate, formatDateDisplay } from "@/utils/date";
+
+type DateNavigatorProps = {
+  currentDate: string;
+};
+
+export default function DateNavigator({ currentDate }: DateNavigatorProps) {
+  const prevDate = getPrevDate(currentDate);
+  const nextDate = getNextDate(currentDate);
+
+  return (
+    <div className="w-3/5 mx-auto flex justify-between items-center mb-12 pb-6 border-b border-ink/10">
+      <Link
+        href={`/${prevDate}`}
+        className="text-sm text-burgundy hover:text-gold transition-colors flex items-center gap-1"
+      >
+        <span>←</span>
+        <span className="hidden sm:inline">Previous</span>
+      </Link>
+
+      <div className="text-center">
+        <p className="text-xs uppercase tracking-widest text-burgundy/50 mb-1">Reading for</p>
+        <p className="font-semibold text-burgundy">{formatDateDisplay(currentDate)}</p>
+      </div>
+
+      <Link
+        href={`/${nextDate}`}
+        className="text-sm text-burgundy hover:text-gold transition-colors flex items-center gap-1"
+      >
+        <span className="hidden sm:inline">Next</span>
+        <span>→</span>
+      </Link>
+    </div>
+  );
+}
+
