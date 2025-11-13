@@ -19,7 +19,7 @@ export default function RootLayout({
       <body className="bg-parchment text-ink font-serif antialiased">
         <div className="min-h-screen flex flex-col">
           <Header />
-          <main className="flex-grow px-6 py-12">
+          <main className="flex-grow py-12 px-4 md:px-6 lg:px-8 xl:px-12">
             {children}
           </main>
           <Footer />

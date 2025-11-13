@@ -74,7 +74,7 @@ export default function AboutPage() {
         </section>
 
         <div className="mt-16 pt-8 border-t border-ink/10">
-          <p className="text-center text-sm text-burgundy/60">
+          <p className="text-center text-sm text-burgundy/80">
             Lord Jesus Christ, by the prayers of St. Nikolai Velimirović and all the saints, have mercy on us.
           </p>
         </div>

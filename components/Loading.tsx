@@ -26,7 +26,7 @@ export default function Loading() {
             ✝
           </div>
         </div>
-        <p className="text-xs uppercase tracking-widest text-burgundy/60">Loading</p>
+        <p className="text-xs uppercase tracking-widest text-burgundy/80">Loading</p>
       </div>
     </div>
   );

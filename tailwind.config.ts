@@ -9,10 +9,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        parchment: "#f5f0e8",
-        ink: "#2c2416",
-        gold: "#d4af37",
-        burgundy: "#6b2a2a",
+        parchment: "#0a0a0a",
+        ink: "#e8e8e8",
+        gold: "#e6c458",
+        burgundy: "#d4a5a5",
       },
       fontFamily: {
         serif: ["Georgia", "Garamond", "serif"],
