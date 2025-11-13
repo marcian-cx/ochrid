@@ -1,6 +1,6 @@
-# 📜 Prologue from Ohrid
+# 📜 Prologue from Ochrid
 
-A clean, fast, devotional site hosting daily readings from the *Prologue from Ohrid* by St. Nikolai Velimirović.
+A clean, fast, devotional site hosting daily readings from the *Prologue from Ochrid* by St. Nikolai Velimirović.
 
 ---
 

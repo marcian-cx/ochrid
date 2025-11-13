@@ -14,7 +14,7 @@ export default function Entry({ entry }: EntryProps) {
     <article className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-12">
         <h1 className="text-4xl font-bold mb-1 text-burgundy">{entry.title}</h1>
-        <p className="text-xs uppercase tracking-widest text-burgundy/50">Prologue from Ohrid</p>
+        <p className="text-xs uppercase tracking-widest text-burgundy/50">Prologue from Ochrid</p>
       </div>
 
       {entry.saints && (
