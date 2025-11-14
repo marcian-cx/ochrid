@@ -133,15 +133,19 @@ const orthocalData = await fetchOrthocalByDate("12-25");
 
 ### Base URL
 ```
-https://orthocal.info/api/gregorian
+https://orthocal.info/api/julian
 ```
 
 ### Endpoints
 
-- **Today's data**: `GET /api/gregorian/`
-- **Specific date**: `GET /api/gregorian/{year}/{month}/{day}/`
-- **RSS Feed**: `GET /api/feed/gregorian/`
-- **iCal Feed**: `GET /api/gregorian/ical/`
+- **Today's data**: `GET /api/julian/`
+- **Specific date**: `GET /api/julian/{year}/{month}/{day}/`
+- **RSS Feed**: `GET /api/feed/julian/`
+- **iCal Feed**: `GET /api/julian/ical/`
+
+### Julian Calendar
+
+The application uses the Julian calendar (Old Calendar) for all Orthodox readings and commemorations. When displaying dates, both Julian and Gregorian dates are shown (e.g., "October 31 / November 13").
 
 ### Caching
 

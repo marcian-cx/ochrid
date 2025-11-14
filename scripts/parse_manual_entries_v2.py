@@ -16,13 +16,13 @@ def parse_entry(text, month, day):
     
     hymn_pattern = r'HYMN OF PRAISE'
     reflection_pattern = r'REFLECTION'
-    contemplation_pattern = r'To contemplate'
-    homily_pattern = r'About '
+    contemplation_pattern = r'(?:CONTEMPLATION|To contemplate)'
+    homily_pattern = r'(?:HOMILY|About )'
     
     hymn_match = re.search(hymn_pattern, text, re.IGNORECASE)
     reflection_match = re.search(reflection_pattern, text, re.IGNORECASE)
-    contemplation_match = re.search(contemplation_pattern, text)
-    homily_match = re.search(homily_pattern, text)
+    contemplation_match = re.search(contemplation_pattern, text, re.IGNORECASE)
+    homily_match = re.search(homily_pattern, text, re.IGNORECASE)
     
     markers = []
     if hymn_match:
@@ -30,9 +30,9 @@ def parse_entry(text, month, day):
     if reflection_match:
         markers.append(('reflection', reflection_match.start(), 'REFLECTION'))
     if contemplation_match:
-        markers.append(('contemplation', contemplation_match.start(), None))
+        markers.append(('contemplation', contemplation_match.start(), 'CONTEMPLATION'))
     if homily_match:
-        markers.append(('homily', homily_match.start(), None))
+        markers.append(('homily', homily_match.start(), 'HOMILY'))
     
     markers.sort(key=lambda x: x[1])
     
@@ -47,7 +47,11 @@ def parse_entry(text, month, day):
                 section_text = text[start_pos:].strip()
             
             if header:
-                section_text = re.sub(f'^{re.escape(header)}\\s*', '', section_text, flags=re.IGNORECASE).strip()
+                section_text = re.sub(f'^{re.escape(header)}\\s*\n?\\s*', '', section_text, flags=re.IGNORECASE | re.MULTILINE).strip()
+            elif section_name == 'contemplation':
+                section_text = re.sub(r'^CONTEMPLATION\s*\n?\s*', '', section_text, flags=re.IGNORECASE | re.MULTILINE).strip()
+            elif section_name == 'homily':
+                section_text = re.sub(r'^HOMILY\s*\n?\s*', '', section_text, flags=re.IGNORECASE | re.MULTILINE).strip()
             
             if section_name == 'hymns':
                 hymns = section_text
@@ -69,7 +73,7 @@ def parse_entry(text, month, day):
         "homily": homily
     }
 
-def process_file(filepath, month, day):
+def process_file(filepath, month, day, force=False):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -78,10 +82,53 @@ def process_file(filepath, month, day):
     
     if content.strip().startswith("{"):
         try:
-            json.loads(content)
-            return None
+            existing_json = json.loads(content)
+            reflection_text = existing_json.get("reflection", "")
+            contemplation_text = existing_json.get("contemplation", "")
+            homily_text = existing_json.get("homily", "")
+            
+            if not force and contemplation_text and homily_text and contemplation_text != "" and homily_text != "" and "CONTEMPLATION" not in reflection_text and "HOMILY" not in reflection_text:
+                return None
+            
+            if "CONTEMPLATION" in reflection_text or "HOMILY" in reflection_text:
+                contemplation_match = re.search(r'\n\nCONTEMPLATION\s*\n', reflection_text, re.IGNORECASE)
+                homily_match = re.search(r'\n\nHOMILY\s*\n', reflection_text, re.IGNORECASE)
+                
+                markers = []
+                if contemplation_match:
+                    markers.append(('contemplation', contemplation_match.start(), 'CONTEMPLATION'))
+                if homily_match:
+                    markers.append(('homily', homily_match.start(), 'HOMILY'))
+                markers.sort(key=lambda x: x[1])
+                
+                if markers:
+                    reflection_only = reflection_text[:markers[0][1]].strip()
+                    if len(markers) > 1:
+                        contemplation_only = reflection_text[markers[0][1]:markers[1][1]].strip()
+                        homily_only = reflection_text[markers[1][1]:].strip()
+                    else:
+                        contemplation_only = reflection_text[markers[0][1]:].strip() if markers[0][0] == 'contemplation' else ""
+                        homily_only = reflection_text[markers[0][1]:].strip() if markers[0][0] == 'homily' else ""
+                    
+                    if contemplation_only:
+                        contemplation_text = re.sub(r'^CONTEMPLATION\s*\n?\s*', '', contemplation_only, flags=re.IGNORECASE).strip()
+                    if homily_only:
+                        homily_text = re.sub(r'^HOMILY\s*\n?\s*', '', homily_only, flags=re.IGNORECASE).strip()
+                    reflection_text = reflection_only
+            
+            reconstructed = existing_json.get("saints", "")
+            if existing_json.get("hymns"):
+                reconstructed += "\n\n\nHYMN OF PRAISE\n\n" + existing_json.get("hymns", "")
+            if reflection_text:
+                reconstructed += "\n\n\nREFLECTION\n\n" + reflection_text
+            if contemplation_text:
+                reconstructed += "\n\n\nCONTEMPLATION\n\n" + contemplation_text
+            if homily_text:
+                reconstructed += "\n\n\nHOMILY\n\n" + homily_text
+            content = reconstructed
         except:
-            pass
+            if not force:
+                return None
     
     entry = parse_entry(content, month, day)
     
@@ -119,12 +166,12 @@ for month, (month_name, days_in_month) in MONTHS.items():
             continue
         
         try:
-            result = process_file(filename, month, day)
+            result = process_file(filename, month, day, force=True)
             if result:
                 print(f"  ✅ {month:02d}-{day:02d} parsed")
                 processed += 1
             else:
-                print(f"  ⏭️  {month:02d}-{day:02d} skipped (blank or already JSON)")
+                print(f"  ⏭️  {month:02d}-{day:02d} skipped (blank)")
                 skipped += 1
         except Exception as e:
             print(f"  ❌ {month:02d}-{day:02d} error: {str(e)}")

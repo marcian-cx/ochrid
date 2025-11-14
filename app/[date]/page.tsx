@@ -6,6 +6,7 @@ import DateNavigator from "@/components/DateNavigator";
 import OrthocalInfo from "@/components/OrthocalInfo";
 import FastingBanner from "@/components/FastingBanner";
 import { fetchOrthocalByDate } from "@/lib/orthocal";
+import { getJulianDateKey, formatJulianGregorianDisplay } from "@/utils/date";
 
 type PrologueEntry = {
   title: string;
@@ -16,10 +17,11 @@ type PrologueEntry = {
   contemplation?: string;
 };
 
-async function getEntry(date: string): Promise<PrologueEntry | null> {
+async function getEntry(gregorianDate: string): Promise<PrologueEntry | null> {
   try {
-    const [month, day] = date.split('-');
-    const filePath = join(process.cwd(), 'data', 'entries', month, `${date}.json`);
+    const julianDate = getJulianDateKey(gregorianDate);
+    const [month, day] = julianDate.split('-');
+    const filePath = join(process.cwd(), 'data', 'entries', month, `${julianDate}.json`);
     const fileContent = await readFile(filePath, 'utf-8');
     return JSON.parse(fileContent);
   } catch {
@@ -65,7 +67,7 @@ export default async function DayPage({ params }: { params: { date: string } }) 
     <div>
       <DateNavigator currentDate={params.date} />
       <FastingBanner data={orthocalData} />
-      <Entry entry={entry} />
+      <Entry entry={entry} currentDate={params.date} />
       <OrthocalInfo data={orthocalData} />
     </div>
   );
@@ -80,8 +82,10 @@ export async function generateMetadata({ params }: { params: { date: string } })
     };
   }
 
+  const displayDate = formatJulianGregorianDisplay(params.date);
+
   return {
-    title: `${entry.title} - OCHRID`,
+    title: `${displayDate} - OCHRID`,
     description: entry.saints?.substring(0, 160) || "Daily Orthodox reading from OCHRID",
   };
 }

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { getNextDate, getPrevDate, formatDateDisplay } from "@/utils/date";
+import { getNextDate, getPrevDate, formatJulianGregorianDisplay } from "@/utils/date";
 
 type DateNavigatorProps = {
   currentDate: string;
@@ -23,7 +23,7 @@ export default function DateNavigator({ currentDate }: DateNavigatorProps) {
 
       <div className="text-center">
         <p className="text-xs uppercase tracking-widest text-burgundy/50 mb-1">Reading for</p>
-        <p className="font-semibold text-burgundy">{formatDateDisplay(currentDate)}</p>
+        <p className="font-semibold text-burgundy">{formatJulianGregorianDisplay(currentDate)}</p>
       </div>
 
       <Link

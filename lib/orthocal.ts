@@ -42,7 +42,7 @@ export type OrthocalDay = {
   stories: Story[];
 };
 
-const ORTHOCAL_BASE_URL = "https://orthocal.info/api/gregorian";
+const ORTHOCAL_BASE_URL = "https://orthocal.info/api/julian";
 
 export async function fetchOrthocalDay(
   year?: number,
@@ -79,9 +79,10 @@ export async function fetchOrthocalToday(): Promise<OrthocalDay | null> {
   return fetchOrthocalDay();
 }
 
-export async function fetchOrthocalByDate(dateKey: string): Promise<OrthocalDay | null> {
-  const [month, day] = dateKey.split("-").map(Number);
+export async function fetchOrthocalByDate(gregorianDateKey: string): Promise<OrthocalDay | null> {
+  const [month, day] = gregorianDateKey.split("-").map(Number);
   const year = new Date().getFullYear();
+  
   return fetchOrthocalDay(year, month, day);
 }
 
