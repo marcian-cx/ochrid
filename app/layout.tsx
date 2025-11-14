@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -20,6 +21,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-parchment text-ink font-serif antialiased">
+        <Script
+          data-goatcounter="https://ochrid.goatcounter.com/count"
+          src="//gc.zgo.at/count.js"
+          strategy="afterInteractive"
+        />
         <div className="min-h-screen flex flex-col">
           <Header />
           <main className="flex-grow py-12 px-4 md:px-6 lg:px-8 xl:px-12">
