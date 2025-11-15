@@ -1,6 +1,5 @@
 import os
 import json
-import re
 
 def parse_entry(text, month, day):
     month_names = ["", "January", "February", "March", "April", "May", "June", 
@@ -14,59 +13,46 @@ def parse_entry(text, month, day):
     contemplation = ""
     homily = ""
     
-    lines = text.split('\n')
+    hymn_marker = "HYMN OF PRAISE"
+    reflection_marker = "REFLECTION"
+    contemplation_marker = "CONTEMPLATION"
+    homily_marker = "HOMILY"
     
-    hymn_idx = None
-    reflection_idx = None
-    contemplation_idx = None
-    homily_idx = None
+    hymn_pos = text.find(hymn_marker)
+    reflection_pos = text.find(reflection_marker)
+    contemplation_pos = text.find(contemplation_marker)
+    homily_pos = text.find(homily_marker)
     
-    for i, line in enumerate(lines):
-        if line.strip() == "HYMN OF PRAISE":
-            hymn_idx = i
-        elif line.strip() == "REFLECTION":
-            reflection_idx = i
-        elif line.strip() == "CONTEMPLATION":
-            contemplation_idx = i
-        elif line.strip() == "HOMILY":
-            homily_idx = i
+    positions = []
+    if hymn_pos != -1:
+        positions.append(('hymn', hymn_pos, hymn_marker))
+    if reflection_pos != -1:
+        positions.append(('reflection', reflection_pos, reflection_marker))
+    if contemplation_pos != -1:
+        positions.append(('contemplation', contemplation_pos, contemplation_marker))
+    if homily_pos != -1:
+        positions.append(('homily', homily_pos, homily_marker))
     
-    indices = []
-    if hymn_idx is not None:
-        indices.append(('hymn', hymn_idx))
-    if reflection_idx is not None:
-        indices.append(('reflection', reflection_idx))
-    if contemplation_idx is not None:
-        indices.append(('contemplation', contemplation_idx))
-    if homily_idx is not None:
-        indices.append(('homily', homily_idx))
+    positions.sort(key=lambda x: x[1])
     
-    indices.sort(key=lambda x: x[1])
-    
-    if indices:
-        saints = '\n'.join(lines[:indices[0][1]]).strip()
+    if positions:
+        saints = text[:positions[0][1]].strip()
         
-        for i in range(len(indices)):
-            section_type, start_idx = indices[i]
+        for i in range(len(positions)):
+            section_type, start_pos, marker = positions[i]
             
-            if i + 1 < len(indices):
-                end_idx = indices[i + 1][1]
+            if i + 1 < len(positions):
+                end_pos = positions[i + 1][1]
             else:
-                end_idx = len(lines)
+                end_pos = len(text)
             
-            section_lines = lines[start_idx+1:end_idx]
+            section_text = text[start_pos:end_pos]
             
-            while section_lines and not section_lines[0].strip():
-                section_lines.pop(0)
-            while section_lines and not section_lines[-1].strip():
-                section_lines.pop()
-            
-            section_content = '\n'.join(section_lines)
+            marker_end = start_pos + len(marker)
+            section_content = text[marker_end:end_pos].strip()
             
             if section_type == 'hymn':
-                if section_lines and not section_lines[0].strip().startswith('1.'):
-                    section_lines.pop(0)
-                hymns = '\n'.join(section_lines)
+                hymns = section_content
             elif section_type == 'reflection':
                 reflection = section_content
             elif section_type == 'contemplation':
@@ -149,4 +135,3 @@ for month, (month_name, days_in_month) in MONTHS.items():
 print("\n" + "="*60)
 print(f"COMPLETE! Processed: {processed}, Skipped: {skipped}, Errors: {errors}")
 print("="*60 + "\n")
-
