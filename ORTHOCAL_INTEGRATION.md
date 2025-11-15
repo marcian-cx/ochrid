@@ -1,6 +1,6 @@
 # 🕯️ Orthocal API Integration
 
-This document explains how the Orthocal.info API integration works in the Prologue of Ochrid website.
+This document explains how the Orthocal.info API integration works in the Prologue from Ochrid website.
 
 ---
 
@@ -163,7 +163,7 @@ fetch(url, {
 
 Each daily Prologue page (`app/[date]/page.tsx`) automatically fetches and displays:
 
-1. **Prologue of Ochrid** entry (saints, hymns, reflection, homily)
+1. **Prologue from Ochrid** entry (saints, hymns, reflection, homily)
 2. **Orthocal calendar data** (fasting, readings, commemorations)
 
 This provides a complete Orthodox devotional experience for each day.

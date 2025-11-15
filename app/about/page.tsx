@@ -12,7 +12,7 @@ export default function AboutPage() {
       
       <div className="space-y-8 text-base leading-normal text-ink">
         <p>
-          A friend recently sent me the link to the Prologue of Ochrid on the Australian ROCOR site. 
+          A friend recently sent me the link to the Prologue from Ochrid on the Australian ROCOR site. 
           When I clicked on the link, I found that the experience and visual design left much to be desired, 
           as it is hosted on the web archive. Being a software engineer by trade, I decided to rehost 
           this content to make it available to the Orthodox faithful in a simple, accessible, and focused way. 
@@ -21,7 +21,7 @@ export default function AboutPage() {
         </p>
 
         <p>
-          The Prologue of Ochrid is a collection of lives of saints and homilies for every day 
+          The Prologue from Ochrid is a collection of lives of saints and homilies for every day 
           of the year, compiled by St. Nikolai Velimirović (1880-1956), Bishop of Ochrid 
           and Žiča. This treasury of Orthodox wisdom has been a beloved companion to the faithful for 
           generations, offering daily spiritual nourishment through the examples of the saints, beautiful 

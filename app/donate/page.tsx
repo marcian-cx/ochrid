@@ -13,7 +13,7 @@ export default function DonatePage() {
       <div className="space-y-8 text-base leading-relaxed text-ink">
         <p>
           This website is provided free of charge as a service to the Orthodox faithful 
-          and all who seek spiritual nourishment from the Prologue of Ochrid.
+          and all who seek spiritual nourishment from the Prologue from Ochrid.
         </p>
 
         <p>

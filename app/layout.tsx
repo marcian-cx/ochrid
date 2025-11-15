@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "OCHRID - A Daily Orthodox Companion",
-  description: "A Daily Orthodox Companion Based on the Prologue of Ochrid by Saint Nicholai Velimirovic",
+  description: "A Daily Orthodox Companion Based on the Prologue from Ochrid by Saint Nicholai Velimirovic",
   keywords: ["Orthodox", "Christianity", "Saints", "Daily Reading", "Prologue", "Ochrid", "Saint Nicholai Velimirovic"],
   icons: {
     icon: "/ochrid_favicon.png",

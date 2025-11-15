@@ -5,7 +5,7 @@ Here’s your lean, high-impact launch plan in Markdown format—optimized for s
 
 # 📜 ochrid.com — Build Instructions
 
-A clean, fast, devotional site to host the *Prologue of Ochrid* with optional Orthocal integration and a support button.
+A clean, fast, devotional site to host the *Prologue from Ochrid* with optional Orthocal integration and a support button.
 
 ---
 
