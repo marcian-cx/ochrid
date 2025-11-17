@@ -24,7 +24,32 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
 
   if (!isOpen) return null;
 
-  // Parse the markdown content
+  const formatText = (text: string, idx: number) => {
+    const parts: React.ReactNode[] = [];
+    const codeRegex = /`([^`]+)`/g;
+    let lastIndex = 0;
+    let match;
+    let keyCounter = 0;
+
+    while ((match = codeRegex.exec(text)) !== null) {
+      if (match.index > lastIndex) {
+        parts.push(text.substring(lastIndex, match.index));
+      }
+      parts.push(
+        <code key={`${idx}-${keyCounter++}`} className="bg-white/20 px-1.5 py-0.5 rounded text-sm font-mono">
+          {match[1]}
+        </code>
+      );
+      lastIndex = match.index + match[0].length;
+    }
+
+    if (lastIndex < text.length) {
+      parts.push(text.substring(lastIndex));
+    }
+
+    return parts.length > 0 ? <>{parts}</> : text;
+  };
+
   const lines = content.split("\n");
   const title = lines[0].replace(/^#\s*/, "").trim();
   const bulletPoints = lines
@@ -52,7 +77,7 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
               {bulletPoints.map((point, idx) => (
                 <li key={idx} className="flex items-start gap-3 text-white">
                   <span className="text-white mt-1">✦</span>
-                  <span className="leading-relaxed">{point}</span>
+                  <span className="leading-relaxed">{formatText(point, idx)}</span>
                 </li>
               ))}
             </ul>
