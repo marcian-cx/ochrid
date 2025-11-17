@@ -211,7 +211,7 @@ export default function PrayersClient({ prayers }: { prayers: Record<string, Pra
           <div key={section.key} className="border border-burgundy/20 rounded-sm">
             <div className="px-6 py-2 flex flex-col xl:flex-row xl:items-center xl:justify-between gap-3">
               <div>
-                <h2 className="text-xl font-semibold text-burgundy mb-0.5">{section.title}</h2>
+                <h2 className="text-xl font-semibold text-burgundy mb-0.5 mt-3">{section.title}</h2>
                 <p className="text-sm text-burgundy/70">{section.description}</p>
               </div>
               <div className="flex flex-col md:flex-row gap-2 md:items-start w-full xl:w-auto">

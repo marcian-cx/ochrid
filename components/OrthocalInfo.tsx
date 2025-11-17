@@ -10,7 +10,7 @@ export default function OrthocalInfo({ data }: OrthocalInfoProps) {
   }
 
   return (
-    <div className="w-full md:w-3/5 mx-auto px-4 md:px-0 mt-16 pt-12 border-t border-ink/10">
+    <div className="w-full md:w-3/5 mx-auto px-4 md:px-0 mt-8 pt-12 border-t border-ink/10">
       {data.readings && data.readings.length > 0 && (
         <section className="mb-16">
           <h2 className="text-xl font-semibold mb-6 text-burgundy uppercase tracking-wide text-sm">
