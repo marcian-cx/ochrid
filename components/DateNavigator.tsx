@@ -14,7 +14,7 @@ export default function DateNavigator({ currentDate }: DateNavigatorProps) {
   return (
     <div className="w-full md:w-3/5 mx-auto px-4 md:px-0 flex justify-between items-center mb-12 pb-6 border-b border-ink/10">
       <Link
-        href={`/${prevDate}`}
+        href={`/readings/${prevDate}`}
         className="text-sm text-burgundy hover:text-gold transition-colors flex items-center gap-1"
       >
         <span>←</span>
@@ -27,7 +27,7 @@ export default function DateNavigator({ currentDate }: DateNavigatorProps) {
       </div>
 
       <Link
-        href={`/${nextDate}`}
+        href={`/readings/${nextDate}`}
         className="text-sm text-burgundy hover:text-gold transition-colors flex items-center gap-1"
       >
         <span className="hidden sm:inline">Next</span>

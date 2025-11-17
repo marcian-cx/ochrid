@@ -38,6 +38,12 @@ export default function Header() {
               Daily Reading
             </Link>
             <Link 
+              href="/prayers" 
+              className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
+            >
+              Prayers
+            </Link>
+            <Link 
               href="/about" 
               className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
             >
@@ -71,6 +77,13 @@ export default function Header() {
                 className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
               >
                 Daily Reading
+              </Link>
+              <Link 
+                href="/prayers" 
+                onClick={() => setMobileMenuOpen(false)}
+                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
+              >
+                Prayers
               </Link>
               <Link 
                 href="/about" 

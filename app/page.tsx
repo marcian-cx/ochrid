@@ -9,7 +9,7 @@ export default function Home() {
   const router = useRouter();
 
   useEffect(() => {
-    router.replace(`/${getTodayKey()}`);
+    router.replace(`/readings/${getTodayKey()}`);
   }, [router]);
 
   return <Loading />;

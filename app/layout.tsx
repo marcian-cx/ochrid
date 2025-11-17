@@ -3,6 +3,8 @@ import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import WhatsNewModal from "@/components/WhatsNewModal";
+import { getLatestChangelog } from "@/utils/changelog";
 
 export const metadata: Metadata = {
   title: "OCHRID - A Daily Orthodox Companion",
@@ -13,11 +15,13 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  const changelog = await getLatestChangelog();
+
   return (
     <html lang="en">
       <body className="bg-parchment text-ink font-serif antialiased">
@@ -33,6 +37,9 @@ export default function RootLayout({
           </main>
           <Footer />
         </div>
+        {changelog && (
+          <WhatsNewModal version={changelog.version} content={changelog.content} />
+        )}
       </body>
     </html>
   );

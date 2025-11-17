@@ -8,7 +8,10 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
-      <h1 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">About</h1>
+      <div className="mb-12">
+        <h1 className="text-4xl font-bold mb-1 text-burgundy">About</h1>
+        <p className="text-xs uppercase tracking-widest text-burgundy/50">About OCHRID</p>
+      </div>
       
       <div className="space-y-8 text-base leading-normal text-ink">
         <p>
