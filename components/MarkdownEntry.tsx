@@ -10,6 +10,33 @@ type MarkdownEntryProps = {
 export default function MarkdownEntry({ content, currentDate, languageToggle, subtitle = "Пролог из Охрида" }: MarkdownEntryProps) {
   const sections = content.split(/^## /m).filter(Boolean);
   
+  const parseInlineMarkdown = (text: string): React.ReactNode[] => {
+    const elements: React.ReactNode[] = [];
+    let keyCounter = 0;
+    
+    const boldRegex = /\*\*(.+?)\*\*/g;
+    const italicRegex = /\*(.+?)\*/g;
+    
+    const parts = text.split(boldRegex);
+    
+    parts.forEach((part, i) => {
+      if (i % 2 === 1) {
+        elements.push(<strong key={`b-${keyCounter++}`}>{part}</strong>);
+      } else {
+        const italicParts = part.split(italicRegex);
+        italicParts.forEach((iPart, j) => {
+          if (j % 2 === 1) {
+            elements.push(<em key={`i-${keyCounter++}`}>{iPart}</em>);
+          } else if (iPart) {
+            elements.push(iPart);
+          }
+        });
+      }
+    });
+    
+    return elements;
+  };
+  
   const renderBody = (body: string, isHymn: boolean = false) => {
     const parts = body.split(/^### /m).filter(Boolean);
     
@@ -17,14 +44,14 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
       if (isHymn) {
         return (
           <div className="text-base leading-snug">
-            <p className="whitespace-pre-line italic text-ink/90">{parts[0].trim()}</p>
+            <p className="whitespace-pre-line italic text-ink/90">{parseInlineMarkdown(parts[0].trim())}</p>
           </div>
         );
       }
       return (
         <div className="text-base leading-normal text-ink space-y-4">
           {parts[0].split('\n\n').map((paragraph, pIdx) => (
-            <p key={pIdx} className="whitespace-pre-line">{paragraph}</p>
+            <p key={pIdx} className="whitespace-pre-line">{parseInlineMarkdown(paragraph)}</p>
           ))}
         </div>
       );
@@ -40,8 +67,13 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
           return (
             <div key={partIdx} className={partIdx > 0 ? "mt-6" : ""}>
               <p className="whitespace-pre-line">
-                <strong>{subtitle}</strong>
-                {text && `\n\n${text}`}
+                <strong>{parseInlineMarkdown(subtitle)}</strong>
+                {text && (
+                  <>
+                    {'\n\n'}
+                    {parseInlineMarkdown(text)}
+                  </>
+                )}
               </p>
             </div>
           );
