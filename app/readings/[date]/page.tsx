@@ -29,6 +29,18 @@ async function getEnglishEntry(gregorianDate: string): Promise<PrologueEntry | n
   }
 }
 
+async function getEnglish2Content(gregorianDate: string): Promise<string | null> {
+  try {
+    const julianDate = getJulianDateKey(gregorianDate);
+    const [month, day] = julianDate.split('-');
+    const filePath = join(process.cwd(), 'data', 'english', month, `${julianDate}.md`);
+    const fileContent = await readFile(filePath, 'utf-8');
+    return fileContent;
+  } catch {
+    return null;
+  }
+}
+
 async function getSerbianContent(gregorianDate: string): Promise<string | null> {
   try {
     const julianDate = getJulianDateKey(gregorianDate);
@@ -68,6 +80,7 @@ export async function generateStaticParams() {
 
 export default async function DayPage({ params }: { params: { date: string } }) {
   const englishEntry = await getEnglishEntry(params.date);
+  const english2Content = await getEnglish2Content(params.date);
   const serbianContent = await getSerbianContent(params.date);
 
   if (!englishEntry) {
@@ -82,6 +95,7 @@ export default async function DayPage({ params }: { params: { date: string } }) 
       <FastingBanner data={orthocalData} />
       <ReadingContent 
         englishEntry={englishEntry}
+        english2Content={english2Content}
         serbianContent={serbianContent}
         currentDate={params.date}
       />

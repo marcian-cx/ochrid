@@ -4,9 +4,10 @@ type MarkdownEntryProps = {
   content: string;
   currentDate: string;
   languageToggle?: React.ReactNode;
+  subtitle?: string;
 };
 
-export default function MarkdownEntry({ content, currentDate, languageToggle }: MarkdownEntryProps) {
+export default function MarkdownEntry({ content, currentDate, languageToggle, subtitle = "Пролог из Охрида" }: MarkdownEntryProps) {
   const sections = content.split(/^## /m).filter(Boolean);
   
   const renderBody = (body: string, isHymn: boolean = false) => {
@@ -56,7 +57,7 @@ export default function MarkdownEntry({ content, currentDate, languageToggle }: 
           <h1 className="text-4xl font-bold text-burgundy">{formatJulianGregorianDisplay(currentDate)}</h1>
           {languageToggle && <div className="flex justify-end md:justify-start">{languageToggle}</div>}
         </div>
-        <p className="text-xs uppercase tracking-widest text-burgundy/50">Пролог из Охрида</p>
+        <p className="text-xs uppercase tracking-widest text-burgundy/50">{subtitle}</p>
       </div>
 
       {sections.map((section, idx) => {
