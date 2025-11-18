@@ -3,15 +3,59 @@ import { formatJulianGregorianDisplay } from "@/utils/date";
 type MarkdownEntryProps = {
   content: string;
   currentDate: string;
+  languageToggle?: React.ReactNode;
 };
 
-export default function MarkdownEntry({ content, currentDate }: MarkdownEntryProps) {
+export default function MarkdownEntry({ content, currentDate, languageToggle }: MarkdownEntryProps) {
   const sections = content.split(/^## /m).filter(Boolean);
+  
+  const renderBody = (body: string, isHymn: boolean = false) => {
+    const parts = body.split(/^### /m).filter(Boolean);
+    
+    if (parts.length === 1) {
+      if (isHymn) {
+        return (
+          <div className="text-base leading-snug">
+            <p className="whitespace-pre-line italic text-ink/90">{parts[0].trim()}</p>
+          </div>
+        );
+      }
+      return (
+        <div className="text-base leading-normal text-ink space-y-4">
+          {parts[0].split('\n\n').map((paragraph, pIdx) => (
+            <p key={pIdx} className="whitespace-pre-line">{paragraph}</p>
+          ))}
+        </div>
+      );
+    }
+    
+    return (
+      <div className="text-base leading-normal text-ink">
+        {parts.map((part, partIdx) => {
+          const lines = part.trim().split('\n');
+          const subtitle = lines[0];
+          const text = lines.slice(1).join('\n').trim();
+          
+          return (
+            <div key={partIdx} className={partIdx > 0 ? "mt-6" : ""}>
+              <p className="whitespace-pre-line">
+                <strong>{subtitle}</strong>
+                {text && `\n\n${text}`}
+              </p>
+            </div>
+          );
+        })}
+      </div>
+    );
+  };
   
   return (
     <article className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-12">
-        <h1 className="text-4xl font-bold mb-1 text-burgundy">{formatJulianGregorianDisplay(currentDate)}</h1>
+        <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-3 md:gap-4 mb-1">
+          <h1 className="text-4xl font-bold text-burgundy">{formatJulianGregorianDisplay(currentDate)}</h1>
+          {languageToggle && <div className="flex justify-end md:justify-start">{languageToggle}</div>}
+        </div>
         <p className="text-xs uppercase tracking-widest text-burgundy/50">Пролог из Охрида</p>
       </div>
 
@@ -19,17 +63,14 @@ export default function MarkdownEntry({ content, currentDate }: MarkdownEntryPro
         const lines = section.trim().split('\n');
         const heading = lines[0];
         const body = lines.slice(1).join('\n').trim();
+        const isHymn = heading.toLowerCase().includes('химна');
         
         return (
-          <section key={idx} className="mb-12">
+          <section key={idx} className={isHymn ? "mb-12 pl-6 border-l-2 border-burgundy/20" : "mb-12"}>
             <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
               {heading}
             </h2>
-            <div className="text-base leading-normal text-ink space-y-4">
-              {body.split('\n\n').map((paragraph, pIdx) => (
-                <p key={pIdx} className="whitespace-pre-line">{paragraph}</p>
-              ))}
-            </div>
+            {renderBody(body, isHymn)}
           </section>
         );
       })}

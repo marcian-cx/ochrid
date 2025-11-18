@@ -10,13 +10,17 @@ type EntryProps = {
     contemplation?: string;
   };
   currentDate: string;
+  languageToggle?: React.ReactNode;
 };
 
-export default function Entry({ entry, currentDate }: EntryProps) {
+export default function Entry({ entry, currentDate, languageToggle }: EntryProps) {
   return (
     <article className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-12">
-        <h1 className="text-4xl font-bold mb-1 text-burgundy">{formatJulianGregorianDisplay(currentDate)}</h1>
+        <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-3 md:gap-4 mb-1">
+          <h1 className="text-4xl font-bold text-burgundy">{formatJulianGregorianDisplay(currentDate)}</h1>
+          {languageToggle && <div className="flex justify-end md:justify-start">{languageToggle}</div>}
+        </div>
         <p className="text-xs uppercase tracking-widest text-burgundy/50">Prologue from Ochrid</p>
       </div>
 
