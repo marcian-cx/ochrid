@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import { readdir, readFile } from "fs/promises";
 import { join } from "path";
-import Entry from "@/components/Entry";
+import ReadingContent from "@/components/ReadingContent";
 import DateNavigator from "@/components/DateNavigator";
 import OrthocalInfo from "@/components/OrthocalInfo";
 import FastingBanner from "@/components/FastingBanner";
@@ -17,13 +17,25 @@ type PrologueEntry = {
   contemplation?: string;
 };
 
-async function getEntry(gregorianDate: string): Promise<PrologueEntry | null> {
+async function getEnglishEntry(gregorianDate: string): Promise<PrologueEntry | null> {
   try {
     const julianDate = getJulianDateKey(gregorianDate);
     const [month, day] = julianDate.split('-');
     const filePath = join(process.cwd(), 'data', 'entries', month, `${julianDate}.json`);
     const fileContent = await readFile(filePath, 'utf-8');
     return JSON.parse(fileContent);
+  } catch {
+    return null;
+  }
+}
+
+async function getSerbianContent(gregorianDate: string): Promise<string | null> {
+  try {
+    const julianDate = getJulianDateKey(gregorianDate);
+    const [month, day] = julianDate.split('-');
+    const filePath = join(process.cwd(), 'data', 'serbian', month, `${julianDate}.md`);
+    const fileContent = await readFile(filePath, 'utf-8');
+    return fileContent;
   } catch {
     return null;
   }
@@ -55,9 +67,10 @@ export async function generateStaticParams() {
 }
 
 export default async function DayPage({ params }: { params: { date: string } }) {
-  const entry = await getEntry(params.date);
+  const englishEntry = await getEnglishEntry(params.date);
+  const serbianContent = await getSerbianContent(params.date);
 
-  if (!entry) {
+  if (!englishEntry) {
     notFound();
   }
 
@@ -67,14 +80,18 @@ export default async function DayPage({ params }: { params: { date: string } }) 
     <div>
       <DateNavigator currentDate={params.date} />
       <FastingBanner data={orthocalData} />
-      <Entry entry={entry} currentDate={params.date} />
+      <ReadingContent 
+        englishEntry={englishEntry}
+        serbianContent={serbianContent}
+        currentDate={params.date}
+      />
       <OrthocalInfo data={orthocalData} />
     </div>
   );
 }
 
 export async function generateMetadata({ params }: { params: { date: string } }) {
-  const entry = await getEntry(params.date);
+  const entry = await getEnglishEntry(params.date);
   
   if (!entry) {
     return {
