@@ -38,9 +38,10 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
   };
   
   const renderBody = (body: string, isHymn: boolean = false) => {
+    const hasSubsections = body.trim().startsWith('###');
     const parts = body.split(/^### /m).filter(Boolean);
     
-    if (parts.length === 1) {
+    if (parts.length === 1 && !hasSubsections) {
       if (isHymn) {
         return (
           <div className="text-base leading-snug">
@@ -66,15 +67,14 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
           
           return (
             <div key={partIdx} className={partIdx > 0 ? "mt-6" : ""}>
-              <p className="whitespace-pre-line">
-                <strong>{parseInlineMarkdown(subtitle)}</strong>
-                {text && (
-                  <>
-                    {'\n\n'}
-                    {parseInlineMarkdown(text)}
-                  </>
-                )}
-              </p>
+              <p className="text-sm uppercase tracking-wider text-burgundy/90 mb-3 font-semibold">{subtitle}</p>
+              {text && (
+                <div className="space-y-4">
+                  {text.split('\n\n').map((paragraph, pIdx) => (
+                    <p key={pIdx} className="whitespace-pre-line">{parseInlineMarkdown(paragraph)}</p>
+                  ))}
+                </div>
+              )}
             </div>
           );
         })}
@@ -96,11 +96,12 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
         const lines = section.trim().split('\n');
         const heading = lines[0];
         const body = lines.slice(1).join('\n').trim();
-        const isHymn = heading.toLowerCase().includes('химна');
+        const headingLower = heading.toLowerCase();
+        const isHymn = headingLower.includes('химна') || headingLower.includes('hymn');
         
         return (
           <section key={idx} className={isHymn ? "mb-12 pl-6 border-l-2 border-burgundy/20" : "mb-12"}>
-            <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
+            <h2 className="text-base font-bold mb-4 text-burgundy uppercase tracking-wider">
               {heading}
             </h2>
             {renderBody(body, isHymn)}

@@ -8,34 +8,20 @@ import FastingBanner from "@/components/FastingBanner";
 import { fetchOrthocalByDate } from "@/lib/orthocal";
 import { getJulianDateKey, formatJulianGregorianDisplay } from "@/utils/date";
 
-type PrologueEntry = {
-  title: string;
-  saints?: string;
-  hymns?: string;
-  reflection?: string;
-  homily?: string;
-  contemplation?: string;
-};
-
-async function getEnglishEntry(gregorianDate: string): Promise<PrologueEntry | null> {
+async function getEnglishContent(gregorianDate: string): Promise<string | null> {
   try {
     const julianDate = getJulianDateKey(gregorianDate);
     const [month, day] = julianDate.split('-');
-    const filePath = join(process.cwd(), 'data', 'entries', month, `${julianDate}.json`);
-    const fileContent = await readFile(filePath, 'utf-8');
-    return JSON.parse(fileContent);
-  } catch {
-    return null;
-  }
-}
-
-async function getEnglish2Content(gregorianDate: string): Promise<string | null> {
-  try {
-    const julianDate = getJulianDateKey(gregorianDate);
-    const [month, day] = julianDate.split('-');
-    const filePath = join(process.cwd(), 'data', 'english', month, `${julianDate}.md`);
-    const fileContent = await readFile(filePath, 'utf-8');
-    return fileContent;
+    
+    const filePathWithExt = join(process.cwd(), 'data', 'english', month, `${julianDate}.md`);
+    try {
+      const fileContent = await readFile(filePathWithExt, 'utf-8');
+      return fileContent;
+    } catch {
+      const filePathWithoutExt = join(process.cwd(), 'data', 'english', month, julianDate);
+      const fileContent = await readFile(filePathWithoutExt, 'utf-8');
+      return fileContent;
+    }
   } catch {
     return null;
   }
@@ -45,79 +31,83 @@ async function getSerbianContent(gregorianDate: string): Promise<string | null> 
   try {
     const julianDate = getJulianDateKey(gregorianDate);
     const [month, day] = julianDate.split('-');
-    const filePath = join(process.cwd(), 'data', 'serbian', month, `${julianDate}.md`);
-    const fileContent = await readFile(filePath, 'utf-8');
-    return fileContent;
+    
+    const filePathWithExt = join(process.cwd(), 'data', 'serbian', month, `${julianDate}.md`);
+    try {
+      const fileContent = await readFile(filePathWithExt, 'utf-8');
+      return fileContent;
+    } catch {
+      const filePathWithoutExt = join(process.cwd(), 'data', 'serbian', month, julianDate);
+      const fileContent = await readFile(filePathWithoutExt, 'utf-8');
+      return fileContent;
+    }
   } catch {
     return null;
   }
 }
 
 export async function generateStaticParams() {
-  try {
-    const entriesDir = join(process.cwd(), 'data', 'entries');
-    const months = await readdir(entriesDir);
-    const allDates: { date: string }[] = [];
-    
-    for (const month of months) {
-      if (month.startsWith('.')) continue;
-      
-      const monthPath = join(entriesDir, month);
-      const files = await readdir(monthPath);
-      
-      files
-        .filter(file => file.endsWith('.json'))
-        .forEach(file => {
-          allDates.push({ date: file.replace('.json', '') });
-        });
+  const allDates: { date: string }[] = [];
+  const daysInMonth = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  
+  for (let month = 1; month <= 12; month++) {
+    const monthStr = month.toString().padStart(2, '0');
+    for (let day = 1; day <= daysInMonth[month - 1]; day++) {
+      const dayStr = day.toString().padStart(2, '0');
+      allDates.push({ date: `${monthStr}-${dayStr}` });
     }
-    
-    return allDates;
-  } catch {
-    return [];
   }
+  
+  return allDates;
 }
 
 export default async function DayPage({ params }: { params: { date: string } }) {
-  const englishEntry = await getEnglishEntry(params.date);
-  const english2Content = await getEnglish2Content(params.date);
+  const englishContent = await getEnglishContent(params.date);
   const serbianContent = await getSerbianContent(params.date);
-
-  if (!englishEntry) {
-    notFound();
-  }
-
   const orthocalData = await fetchOrthocalByDate(params.date);
 
   return (
     <div>
       <DateNavigator currentDate={params.date} />
       <FastingBanner data={orthocalData} />
-      <ReadingContent 
-        englishEntry={englishEntry}
-        english2Content={english2Content}
-        serbianContent={serbianContent}
-        currentDate={params.date}
-      />
+      {englishContent ? (
+        <ReadingContent 
+          englishContent={englishContent}
+          serbianContent={serbianContent}
+          currentDate={params.date}
+        />
+      ) : (
+        <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
+          <div className="mb-12">
+            <h1 className="text-4xl font-bold text-burgundy mb-1">{formatJulianGregorianDisplay(params.date)}</h1>
+            <p className="text-xs uppercase tracking-widest text-burgundy/50">Prologue from Ochrid</p>
+          </div>
+          <div className="text-center py-12">
+            <p className="text-lg text-burgundy/70 mb-2">Translation in progress</p>
+            <p className="text-sm text-ink/60">This entry has not yet been translated. Please check back later.</p>
+          </div>
+        </div>
+      )}
       <OrthocalInfo data={orthocalData} />
     </div>
   );
 }
 
 export async function generateMetadata({ params }: { params: { date: string } }) {
-  const entry = await getEnglishEntry(params.date);
+  const content = await getEnglishContent(params.date);
   
-  if (!entry) {
+  if (!content) {
     return {
       title: "Not Found",
     };
   }
 
   const displayDate = formatJulianGregorianDisplay(params.date);
+  const preview = content.substring(0, 160).replace(/[#*\n]/g, ' ').trim();
 
   return {
     title: `${displayDate} - OCHRID`,
-    description: entry.saints?.substring(0, 160) || "Daily Orthodox reading from OCHRID",
+    description: preview || "Daily Orthodox reading from OCHRID",
   };
 }
 
