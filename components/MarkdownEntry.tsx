@@ -85,11 +85,10 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
   return (
     <article className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-12">
-        <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-3 md:gap-4 mb-1">
-          <h1 className="text-4xl font-bold text-burgundy">{formatJulianGregorianDisplay(currentDate)}</h1>
+        <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-3 md:gap-4">
+          <h1 className="text-2xl font-bold uppercase tracking-wide text-burgundy">{subtitle}</h1>
           {languageToggle && <div className="flex justify-end md:justify-start">{languageToggle}</div>}
         </div>
-        <p className="text-xs uppercase tracking-widest text-burgundy/50">{subtitle}</p>
       </div>
 
       {sections.map((section, idx) => {

@@ -79,8 +79,7 @@ export default async function DayPage({ params }: { params: { date: string } }) 
       ) : (
         <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
           <div className="mb-12">
-            <h1 className="text-4xl font-bold text-burgundy mb-1">{formatJulianGregorianDisplay(params.date)}</h1>
-            <p className="text-xs uppercase tracking-widest text-burgundy/50">Prologue from Ochrid</p>
+            <h1 className="text-2xl font-bold uppercase tracking-wide text-burgundy">Prologue from Ochrid</h1>
           </div>
           <div className="text-center py-12">
             <p className="text-lg text-burgundy/70 mb-2">Translation in progress</p>

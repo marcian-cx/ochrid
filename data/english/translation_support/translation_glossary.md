@@ -44,6 +44,39 @@
 | Свешт. муч. Викторин | Hieromartyr Victorinus |
 | Блажени Јероним | Blessed Jerome |
 | Патријарх Флавијан Антиохијски | Patriarch Flavian of Antioch |
+| Свешт. муч. Акепсим еп. Наесонски | Hieromartyr Acepsimas, Bishop of Naeson |
+| Св. великомуч. Георгије | Holy Great Martyr George |
+| Преп. Илија Египатски | Venerable Elias of Egypt |
+| Преп. Јоаникије Велики | Venerable Joannicius the Great |
+| Свешт. муч. Никандр еп. Мирски | Hieromartyr Nicander, Bishop of Myra |
+| Ермеј презвитер | Hermas the Presbyter |
+| Апостол Тит | Apostle Titus |
+| Методије патријарх Цариградски | Patriarch Methodius of Constantinople |
+| Преп. муч. Галактион | Venerable Martyr Galaction |
+| Преп. муч. Епистима | Venerable Martyr Episteme |
+| Св. апостоли (из 70) | Holy Apostles (from the Seventy) |
+| Патров | Patrobas |
+| Ерма | Hermas |
+| Лин | Linus |
+| Гај | Gaius |
+| Филолог | Philologus |
+| Св. Јона архиеп. Новгородски | Saint Jonah, Archbishop of Novgorod |
+| Михаил јуродиви Клопски | Michael the fool-for-Christ of Klopsk |
+| Архиеп. Јевтимије | Archbishop Euthymius |
+| Св. Павле Исповедник | Saint Paul the Confessor |
+| Преп. Варлам Хутински | Venerable Barlaam of Khutyn |
+| Патријарх Александар | Patriarch Alexander |
+| Македоније | Macedonius |
+| Св. Атанасије Велики | Saint Athanasius the Great |
+| Папа Јулије | Pope Julius |
+| Цар Констанције | Emperor Constantius |
+| Цар Констанс | Emperor Constans |
+| Цар Теодосије | Emperor Theodosius |
+| Цар Лав Велики | Emperor Leo the Great |
+| Патријарх Генадије | Patriarch Gennadius |
+| Маркијан и Мартирије | Marcian and Martyrius |
+| Кнез Василије Васиљевич | Prince Basil Vasilievich |
+| Цар Иван Грозни | Tsar Ivan the Terrible |
 
 ### Personal Names (Non-Saints)
 | Serbian | English |
@@ -56,12 +89,20 @@
 | Мартин | Martin |
 | Параскева | Paraskeva |
 | Лидија | Lydia |
-| Сапор / Саворија | Sapor / Shapur |
+| Сапор / Саворија / Саворије | Sapor / Shapur |
 | Констанције | Constantius |
 | Валент | Valens |
 | Јевсевије | Eusebius |
 | Драгутин | Dragutin |
 | Милутин | Milutin |
+| Јосиф (презвитер) | Joseph (presbyter) |
+| Аитал (ђакон) | Aithalas (deacon) |
+| Диоклецијан | Diocletian |
+| Константин | Constantine |
+| Миритрикије | Myritricus |
+| Анастасија (мајка) | Anastasia (mother) |
+| Ливаније | Libanius |
+| Исав | Esau |
 
 ### Greek Name Conventions
 - When saint names appear with Greek etymological forms, preserve them
@@ -156,6 +197,18 @@
 | Угодник Божји | Saint of God |
 | Праведници | Righteous ones |
 | Племена земна | Tribes of the earth |
+| Врлина | Virtue |
+| Благодат | Grace |
+| Дух Божји | Spirit of God |
+| Гоњење | Persecution |
+| Промисао Божји | Divine Providence |
+| Демони | Demons |
+| Презвитер | Presbyter |
+| Пренос моштију | Translation of relics |
+| Освећење (храма) | Consecration (of a church) |
+| Небеско воинство | Heavenly host |
+| Творачко Слово | Creative Word |
+| Органи једнога тела | Organs of one body |
 | Јединосуштна | Consubstantial |
 | Неразделна | Undivided |
 | Пресвета Тројица | Most Holy Trinity |
@@ -172,6 +225,15 @@
 | Угодност воље | Good pleasure of will |
 | Заслуге | Merit |
 | Слободна воља | Free will |
+| Омофор | Omophorion |
+| Клирици | Clerics |
+| Секретари | Secretaries |
+| Литија | Procession, litany |
+| Архипастир | Archpastor |
+| Стадо словесно | Rational flock |
+| Низложен | Deposed |
+| Престо | Throne |
+| Дигоше главу | Raised their heads (idiom for rising up against) |
 
 ### Historical Denominations
 | Serbian | English |
@@ -272,6 +334,57 @@
 | Гостити | To entertain (guests) |
 | Изобличити | To reproach |
 | Јавити се | To appear, to manifest |
+| Ваплотити се | To become incarnate |
+| Измирити | To reconcile |
+| Сазидати | To build (church) |
+| Укопати | To bury (in ground) |
+| Израсти (над) | To grow (over) |
+| Избавити | To deliver, to rescue |
+| Пренети | To transfer, to carry |
+| Сједини | To unite |
+| Разгоревати се | To be enkindled |
+| Усиљавати се | To be strengthened |
+| Осветљавати се | To be illumined |
+| Обистинити се | To come true |
+| Целивати | To kiss |
+| Пасти (овце) | To pasture (sheep) |
+| Оградити | To surround, to encircle |
+| Удаљавати се | To wander away |
+| Разилазити се | To scatter |
+| Укроћавати | To tame |
+| Прорицати | To prophesy |
+| Преластити се | To be deceived |
+| Тргнути | To recover (from deception) |
+| Придобити | To win (converts) |
+| Гладовати | To starve |
+| Расхладити | To cool |
+| Затрпати | To cover (with earth) |
+| Бешчестити | To dishonor |
+| Надживљавати | To outlive |
+| Раскинути савез | To break a covenant |
+| Дражити | To provoke |
+| Ујести | To bite |
+| Црћи | To die (of animals) |
+| Распламтети | To inflame |
+| Смирити се | To be calmed |
+| Оживе | Came to life |
+| Удављен | Strangled |
+| Протераше | Drove into exile |
+| Сијати (врлинама) | To shine forth (in virtues) |
+| Подржаше | Upheld |
+| Букне | Blazed up |
+| Уплаши се | Was frightened |
+| Прибеже | Turned to, fled to |
+| Ваплаше се | Cried out in supplication |
+| Помрачи се | Darkened |
+| Зажарени | Set ablaze |
+| Помрачаваху | Darkened (repeatedly) |
+| Освану | Dawned |
+| Нагомилане | Accumulated |
+| Ублажена | Mitigated |
+| Припијати се | To cleave to |
+| Уздићиће се | Will be raised up |
+| Удостојили | Be made worthy |
 
 ### For Actions and States
 | Serbian | English |
@@ -345,6 +458,45 @@
 | Христос васкрсли | The risen Christ |
 | План света | Plan of the world |
 | Постање свијета | Foundation of the world |
+| Благо овој глави | Blessed is this head |
+| Пророчанство | Prophecy |
+| Христови војници | Soldiers of Christ |
+| Великомученик | Great Martyr |
+| Победоносац | Victorious one |
+| Ум Христов | Mind of Christ |
+| Радост Господа | Joy of the Lord |
+| Иконоборство | Iconoclasm |
+| Поштовање икона | Veneration of icons |
+| Поборник (икона) | Champion (of icons) |
+| Зли дуси | Evil spirits |
+| Телесно искушење | Carnal temptation |
+| Блудна похот | Lustful passion |
+| Погибељ | Perdition |
+| Жива учешћа | Living part |
+| Судба цркве | Destiny of the Church |
+| Наслеђе | Inheritance |
+| Наследници | Heirs |
+| Царство Божје | Kingdom of God |
+| Царство земно | Earthly kingdom |
+| Санаследници Христови | Co-heirs with Christ |
+| Стари човек | Old man (spiritual) |
+| Нови човек | New man (spiritual) |
+| Ноћна утвара | Night vision |
+| Бесмртно царство | Immortal kingdom |
+
+
+### Misc. Terms
+|---------|---------|
+| На самртној постељи | On his deathbed |
+| Личит човек | Handsome man |
+| Споља украшен | Outwardly adorned |
+| С педао висине | To the height of a span |
+| Гарав пепео | Sooty ash |
+| Благовремено покајање | Timely repentance |
+| Устрашени народ | Terrified people |
+| Окорели грешници | Hardened sinners |
+| Блудни син | Prodigal son |
+| Умртвљена телесина | Dead corpse |
 
 ---
 
@@ -379,6 +531,25 @@
 | Антиохија | Antioch |
 | Патав | Pettau |
 | Келија | Cell (monastic) |
+| Наесон | Naeson |
+| Никомидија | Nicomedia |
+| Лида Палестинска | Lydda in Palestine |
+| Антипо | Antinopolis |
+| Тиваида | Thebaid |
+| Митилена | Mytilene |
+| Крит | Crete |
+| Марикат (село) | Marikata (village) |
+| Витинијска (област) | Bithynia (region) |
+| Олимп Азијски | Mount Olympus in Asia |
+| Мир | Myra |
+| Коринт | Corinth |
+| Кукуз | Cucusus |
+| Јерменија | Armenia |
+| Венеција | Venice |
+| Новгород (велики) | (Great) Novgorod |
+| Река Волхова | River Volkhov |
+| Содом и Гомор | Sodom and Gomorrah |
+| Адамова поља | Adam's fields |
 
 ---
 
@@ -586,8 +757,74 @@
 | Очајање | Despair |
 | Сраму | Shame |
 | Сјај | Glory (brightness) |
+| Кнез жречевски | Prince of the priests |
+| Истјазање | Interrogation |
+| Дом вишњи | House on high |
+| Камење | Stones |
+| Марсина | Myrtle (tree) |
+| Бездушници | Merciless ones |
+| Урма | Dates (fruit) |
+| Недуг | Infirmity, affliction |
+| Сарацени | Saracens |
+| Пирати | Pirates |
+| Трпезар | Cup-bearer |
+| Икона | Icon |
+| Ропство | Captivity |
+| Витез | Knight |
+| Војвода | Commander |
+| Окови | Chains |
+| Кладе | Stocks |
+| Обезглављена маса | Beheaded mass |
+| Трупина | Torso |
+| Грчеви | Convulsions |
+| Кокош | Chicken |
+| Стакленце | Small glass |
+| Годишњи празник | Annual feast |
+| Заспало тело | Sleeping body |
+| Свеумна глава | All-wise Head |
+| Стене пустињске | Desert rocks |
+| Рђаве мисли | Evil thoughts |
+| Устремљење | Striving |
+| Бесповратно | Irrevocably |
+| Чобанин | Shepherd |
+| Стадо | Flock |
+| По ваздан | The whole day |
+| Војничка служба | Military service |
+|Div | Giant |
+| Крупан | Large |
+| Силан | Powerful |
+| Зверови | Wild beasts |
+| Змијурина | Great serpent |
+| По суху | On dry land / As on dry land |
+| Трудољубље | Diligence |
+| Монахиње | Nuns |
+| Женски манастир | Women's monastery |
+| Девица | Maiden |
+| Старешинство | Birthright |
+| Пламен похоте | Flame of lust |
+| Обилат дар | Abundant gift |
+| Светило духовно | Spiritual luminary |
+| Небески цар | Heavenly King |
+| Половина столећа | Half a century |
+| Демонске сплетке | Demonic plots |
+| Пола столећа | Half a century |
+| Чалме | Handkerchiefs |
+| Убрусе | Aprons |
+| Штап | Staff |
+| Дуварове | Walls |
+| Поплаве | Floods |
+| Потресе | Earthquakes |
+| Суше | Droughts |
+| Бичева | Scourges |
+| Трње | Thorns |
+| Сламу | Straw |
+| Пепео | Ash, ashes |
+| Облаци | Clouds |
+| Пламен | Flame |
+| Усеви | Crops |
+| Педао | Span (measurement) |
 
 ---
 
-**Last Updated:** Translation of November 2 entry (Holy Martyrs Acindynus, Pegasius and companions; Venerable Marcian; Hieromartyr Victorinus)
+**Last Updated:** Translation of November 6 entry
 **To be expanded** as we proceed through the Prologue
