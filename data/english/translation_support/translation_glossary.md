@@ -77,6 +77,50 @@
 | Маркијан и Мартирије | Marcian and Martyrius |
 | Кнез Василије Васиљевич | Prince Basil Vasilievich |
 | Цар Иван Грозни | Tsar Ivan the Terrible |
+| Св. муч. Јерон | Holy Martyr Hieron |
+| Стратоника | Stratonice |
+| Виктор | Victor |
+| Исихије | Hesychius |
+| Никандр | Nicander |
+| Атанасије | Athanasius |
+| Мамант | Mamas |
+| Варахије | Barachius |
+| Калиник | Callinicus |
+| Теоген | Theogenes |
+| Никон | Nicon |
+| Лонгин | Longinus |
+| Теодор | Theodore |
+| Валерије | Valerius |
+| Ксант | Xanthius |
+| Теодул | Theodulus |
+| Калимах | Callimachus |
+| Евгеније | Eugenius |
+| Теодот | Theodotus |
+| Острихије | Ostryches |
+| Епифаније | Epiphanius |
+| Максимијан | Maximian |
+| Дулкитије | Ducitius |
+| Клавдијан | Claudian |
+| Теофил | Theophilus |
+| Гигантије | Gigantius |
+| Доротеј | Dorotheus |
+| Кастрихије | Castryches |
+| Аникит | Anicetus |
+| Темелије | Themelius |
+| Евтихије | Eutychius |
+| Иларион | Hilarion |
+| Лиодот | Liodotus |
+| Амонит | Amonitus |
+| Хрисант / Хрисантије | Chrysanthus |
+| Антоније | Anthony |
+| Матронијан | Matronianus |
+| Св. муч. Тесалоникија | Holy Martyr Thessalonica |
+| Авкт | Auctus |
+| Таврион | Taurion |
+| Клеон | Cleon |
+| Преп. Лазар Галасијски | Venerable Lazarus of Galesium |
+| Св. Сава Освештани | Saint Sabbas the Sanctified |
+| Цар Константин Мономах | Emperor Constantine Monomachus |
 
 ### Personal Names (Non-Saints)
 | Serbian | English |
@@ -234,6 +278,27 @@
 | Низложен | Deposed |
 | Престо | Throne |
 | Дигоше главу | Raised their heads (idiom for rising up against) |
+| Синовска љубав | Filial love |
+| Беспомоћна | Helpless |
+| Радост неисказана | Unspeakable joy |
+| Драговољно | Willingly |
+| Једногласно | With one voice |
+| Царство бесмртно | Immortal kingdom |
+| Тренутак одлучан | Decisive moment |
+| Вечни живот | Eternal life |
+| Вечна смрт | Eternal death |
+| Књаз власти ваздушне | Prince of the power of the air |
+| Синови противљења | Children of disobedience |
+| Богопротивници | Those who oppose God |
+| Богоборци | Those who fight against God |
+| Духови зли | Evil spirits |
+| Власт ваздушна | Power of the air |
+| Чин злих духова | Rank of evil spirits |
+| Колебање | Fluctuation |
+| Тлетворан (ваздух) | Pestilential (air) |
+| Отровна жаока | Poisonous sting |
+| Празна страшила | Empty scarecrows |
+| Непостојане сенке | Inconstant shadows |
 
 ### Historical Denominations
 | Serbian | English |
@@ -483,6 +548,11 @@
 | Нови човек | New man (spiritual) |
 | Ноћна утвара | Night vision |
 | Бесмртно царство | Immortal kingdom |
+| Столпник | Stylite |
+| Столп | Pillar (for stylites) |
+| Жрец идолски | Pagan priest |
+| Губилиште | Place of execution |
+| Књига Живота | Book of Life |
 
 
 ### Misc. Terms
@@ -497,6 +567,23 @@
 | Окорели грешници | Hardened sinners |
 | Блудни син | Prodigal son |
 | Умртвљена телесина | Dead corpse |
+| Ревносан хришћанин | Zealous Christian |
+| Жао беше | Was loath |
+| Подвиг свршити | To complete one's struggle |
+| Честь и слава | Honor and glory |
+| Са дружином | With (his) companions |
+| По имену | By name |
+| Одлучни тренутак | Decisive moment |
+| Улудо пропустити | To waste, to let pass in vain |
+| Природна смрт | Natural death |
+| За добит | For profit |
+| Стремљење греховно | Sinful striving |
+| Рој мува на лешину | Swarm of flies upon a corpse |
+| Издалека | From afar |
+| При помену имена | At the mention of the name |
+| При знамењу крста | At the sign of the Cross |
+| Војводо наш | Our commander |
+| Ослободитељу наш | Our liberator |
 
 ---
 
@@ -550,6 +637,14 @@
 | Река Волхова | River Volkhov |
 | Содом и Гомор | Sodom and Gomorrah |
 | Адамова поља | Adam's fields |
+| Тијана | Tyana |
+| Кападокија / кападокијској | Cappadocia / in Cappadocia |
+| Мелитина | Melitene |
+| Амфипољ | Amphipolis |
+| Кавала | Kavala |
+| Магнезија | Magnesia |
+| Гора Галасијска | Mount Galesium |
+| Манaстир св. Саве Освештаног | Monastery of Saint Sabbas the Sanctified |
 
 ---
 
@@ -823,8 +918,24 @@
 | Пламен | Flame |
 | Усеви | Crops |
 | Педао | Span (measurement) |
+| Кнез | Prince |
+| Тамница | Prison |
+| Надзорник тамнички | Prison warden |
+| Списак оптужених | List of the accused |
+| Псалам | Psalm |
+| Маче | Sword |
+| Шибан | Flogged |
+| Одело бело | White garments |
+| Стуб од светлости | Pillar of light |
+| Змија | Serpent |
+| Искона | From of old |
+| Да обаја | To charm |
+| Блажен | Blessed |
+| Лешина | Corpse |
+| Мува | Fly |
 
 ---
 
-**Last Updated:** Translation of November 6 entry
+**First Updated:** Translation of November 1 entry
+**Last Updated:** Translation of November 7 entry
 **To be expanded** as we proceed through the Prologue
