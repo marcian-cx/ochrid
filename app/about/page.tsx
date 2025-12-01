@@ -10,17 +10,34 @@ export default function AboutPage() {
     <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-12">
         <h1 className="text-4xl font-bold mb-1 text-burgundy">About</h1>
-        <p className="text-xs uppercase tracking-widest text-burgundy/50">About OCHRID</p>
+        <p className="text-xs uppercase tracking-widest text-burgundy/50">About This Project</p>
       </div>
       
       <div className="space-y-8 text-base leading-normal text-ink">
         <p>
-          A friend recently sent me the link to the Prologue from Ochrid on the Australian ROCOR site. 
-          When I clicked on the link, I found that the experience and visual design left much to be desired, 
-          as it is hosted on the web archive. Being a software engineer by trade, I decided to rehost 
+          A friend recently sent me the link to the Prologue from Ochrid on the Australian ROCOR diocese website. 
+          When I clicked on the link, I found it led to a web archive version from an old serbian diocese website, which was both hard to use and ethically dubious. Being a software engineer by trade, I wanted to rehost 
           this content to make it available to the Orthodox faithful in a simple, accessible, and focused way. 
-          I have also elected to include the daily readings. I hope this will be useful for my brothers 
-          and sisters in Christ.
+
+        </p>
+
+        <p>
+          However, I soon realized that the translation used across the web, here and elsewhere, is under the copyright of the Serbian 
+          Orthodox Archdiocese. After they pulled it from their website, reproducing the web archive version 
+          was not ethically defensible. This created a need for a new, open source translation with complete 
+          fidelity to the original Serbian text, and an Orthodox flavor like the previous translation, but 
+          that could be shared and used by the faithful without permission and at will.
+        </p>
+
+        <p>
+          What you are reading now is a never before seen privately funded translation, made directly from the original 
+          Serbian text by St. Nikolai. This translation is licensed under{' '}
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener" className="text-burgundy hover:text-gold underline">
+            Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+          </a>, 
+          which means anyone can use, copy, and share it freely as long as they credit Rdr. Marcian Sakarya 
+          and OCHRID.COM. This work is offered freely to the Church, that the wisdom of St. Nikolai might 
+          be accessible to all who seek it.
         </p>
 
         <p>
@@ -32,15 +49,15 @@ export default function AboutPage() {
         </p>
 
         <section className="mt-12">
-          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
+          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide">
             What This Site Provides
           </h2>
           
           <div className="space-y-3">
             <p>
               <strong>Daily Prologue Readings</strong> — The complete entry for each day of the year, 
-              including lives of saints, hymns of praise, reflections, contemplations, and homilies from the{' '}
-              <a href="https://web.archive.org/web/20161104160610/http://westserbdio.org/en/prologue" target="_blank" rel="noopener" className="text-burgundy hover:text-gold underline">web archive</a>
+              including lives of saints, hymns of praise, reflections, contemplations, and homilies 
+              translated directly from the original Serbian text
             </p>
             <p>
               <strong>Daily Scripture Readings</strong> — The appointed Scripture passages for each day, 
@@ -52,27 +69,36 @@ export default function AboutPage() {
             <p>
               <strong>Commemorations</strong> — Saints and feasts celebrated on each day
             </p>
+            <p>
+              <strong>Calendar Toggle</strong> — Switch between Old Calendar (Julian) and New Calendar (Gregorian) dates by clicking on the date options at the top of the readings page.
+            </p>
           </div>
         </section>
 
         <section className="mt-12">
           <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
-            Source Material
+            Source Material & License
           </h2>
           <p>
-            Prologue passages provided from the internet archive. Scripture 
-            readings and calendar information are provided through the Orthocal API.
+            The Prologue translation is made directly from the original Serbian text by St. Nikolai Velimirović 
+            and is licensed under{' '}
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener" className="text-burgundy hover:text-gold underline">
+              CC BY-SA 4.0
+            </a>. You are free to use, copy, and share 
+            this translation as long as you credit Rdr. Marcian Sakarya and OCHRID.COM.
+          </p>
+          <p className="mt-3">
+            Scripture readings and calendar information are provided through the Orthocal API.
           </p>
         </section>
 
         <section className="mt-12">
           <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
-            Technical Details
+            About the Author
           </h2>
           <p>
-            This site is built with modern web technologies to provide 
-            a fast, clean, and reverent reading experience. The entire site is designed to 
-            be simple, accessible, and focused on the content.
+            Rdr. Marcian Sakarya is a Reader of the Russian Orthodox Church Outside of Russia. 
+            He lives in North Carolina with his wife and daughter.
           </p>
         </section>
 

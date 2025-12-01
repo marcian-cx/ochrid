@@ -12,7 +12,7 @@ export default function DateNavigator({ currentDate }: DateNavigatorProps) {
   const nextDate = getNextDate(currentDate);
 
   return (
-    <div className="w-full md:w-3/5 mx-auto px-4 md:px-0 flex justify-between items-center mb-12 pb-6 border-b border-ink/10">
+    <div className="w-full md:w-3/5 mx-auto px-4 md:px-0 flex justify-between items-center pb-6">
       <Link
         href={`/readings/${prevDate}`}
         className="text-sm text-burgundy hover:text-gold transition-colors flex items-center gap-1"
