@@ -1,4 +1,6 @@
 import Link from "next/link";
+import TranslationProgress from "@/components/TranslationProgress";
+import { parseTranslationProgress } from "@/utils/translationProgress";
 
 export const metadata = {
   title: "About - OCHRID",
@@ -6,6 +8,19 @@ export const metadata = {
 };
 
 export default function AboutPage() {
+  const progress = parseTranslationProgress();
+  
+  const dayStatuses: Record<string, Record<number, { translated: boolean; verified: boolean }>> = {};
+  for (const [month, days] of Object.entries(progress.daysByMonth)) {
+    dayStatuses[month] = {};
+    for (const day of days) {
+      dayStatuses[month][day.day] = {
+        translated: day.englishTranslated,
+        verified: day.englishVerified,
+      };
+    }
+  }
+
   return (
     <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-12">
@@ -76,7 +91,22 @@ export default function AboutPage() {
         </section>
 
         <section className="mt-12">
-          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
+          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide">
+            Translation Progress
+          </h2>
+          <p className="mb-6 text-sm text-burgundy/70">
+            This translation is an ongoing work. The calendar below shows our progress through the year.
+          </p>
+          <TranslationProgress 
+            totalDays={progress.totalDays}
+            translatedCount={progress.translatedCount}
+            verifiedCount={progress.verifiedCount}
+            dayStatuses={dayStatuses}
+          />
+        </section>
+
+        <section className="mt-12">
+          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide">
             Source Material & License
           </h2>
           <p>
@@ -93,7 +123,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mt-12">
-          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
+          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide">
             About the Author
           </h2>
           <p>
@@ -120,4 +150,3 @@ export default function AboutPage() {
     </div>
   );
 }
-
