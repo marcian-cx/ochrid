@@ -42,20 +42,23 @@ export type OrthocalDay = {
   stories: Story[];
 };
 
-const ORTHOCAL_BASE_URL = "https://orthocal.info/api/julian";
+const ORTHOCAL_JULIAN_URL = "https://orthocal.info/api/julian";
+const ORTHOCAL_GREGORIAN_URL = "https://orthocal.info/api/gregorian";
 
 export async function fetchOrthocalDay(
   year?: number,
   month?: number,
-  day?: number
+  day?: number,
+  useGregorian: boolean = false
 ): Promise<OrthocalDay | null> {
   try {
-    let url = ORTHOCAL_BASE_URL;
+    const baseUrl = useGregorian ? ORTHOCAL_GREGORIAN_URL : ORTHOCAL_JULIAN_URL;
+    let url = baseUrl;
     
     if (year && month && day) {
-      url = `${ORTHOCAL_BASE_URL}/${year}/${month}/${day}/`;
+      url = `${baseUrl}/${year}/${month}/${day}/`;
     } else {
-      url = `${ORTHOCAL_BASE_URL}/`;
+      url = `${baseUrl}/`;
     }
 
     const response = await fetch(url, {
@@ -71,6 +74,24 @@ export async function fetchOrthocalDay(
     return data as OrthocalDay;
   } catch (error) {
     console.error("Error fetching Orthocal data:", error);
+    return null;
+  }
+}
+
+export async function fetchOrthocalClient(
+  dateKey: string,
+  useGregorian: boolean = false
+): Promise<OrthocalDay | null> {
+  const [month, day] = dateKey.split("-").map(Number);
+  const year = new Date().getFullYear();
+  const baseUrl = useGregorian ? ORTHOCAL_GREGORIAN_URL : ORTHOCAL_JULIAN_URL;
+  const url = `${baseUrl}/${year}/${month}/${day}/`;
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+    return await response.json();
+  } catch {
     return null;
   }
 }

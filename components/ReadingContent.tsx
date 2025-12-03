@@ -1,52 +1,57 @@
 "use client";
 
-import { useState } from "react";
 import MarkdownEntry from "./MarkdownEntry";
+import { useCalendar } from "@/lib/CalendarContext";
+import { formatDateDisplay } from "@/utils/date";
 
 type ReadingContentProps = {
-  englishContent: string;
-  serbianContent: string | null;
-  currentDate: string;
+  gregorianDate: string;
+  julianDate: string;
+  julianEnglish: string | null;
+  julianSerbian: string | null;
+  gregorianEnglish: string | null;
+  gregorianSerbian: string | null;
 };
 
-export default function ReadingContent({ englishContent, serbianContent, currentDate }: ReadingContentProps) {
-  const [language, setLanguage] = useState<"english" | "serbian">("english");
+export default function ReadingContent({ 
+  gregorianDate,
+  julianDate,
+  julianEnglish, 
+  julianSerbian,
+  gregorianEnglish,
+  gregorianSerbian,
+}: ReadingContentProps) {
+  const { mode, language } = useCalendar();
 
-  const LanguageToggle = ({ activeLanguage }: { activeLanguage: "english" | "serbian" }) => (
-    <div className="inline-flex items-center gap-1 border border-burgundy/30 rounded-md p-0.5">
-      <button
-        onClick={() => setLanguage("english")}
-        className={`px-2 md:px-3 py-1 md:py-1.5 text-xs md:text-sm rounded transition-colors ${
-          activeLanguage === "english"
-            ? "bg-burgundy text-parchment"
-            : "text-burgundy hover:bg-burgundy/10"
-        }`}
-      >
-        English
-      </button>
-      <button
-        onClick={() => setLanguage("serbian")}
-        disabled={!serbianContent}
-        className={`px-2 md:px-3 py-1 md:py-1.5 text-xs md:text-sm rounded transition-colors ${
-          activeLanguage === "serbian"
-            ? "bg-burgundy text-parchment"
-            : serbianContent
-            ? "text-burgundy hover:bg-burgundy/10"
-            : "text-burgundy/30 cursor-not-allowed"
-        }`}
-      >
-        Српски
-      </button>
-    </div>
-  );
+  const englishContent = mode === "julian" ? julianEnglish : gregorianEnglish;
+  const serbianContent = mode === "julian" ? julianSerbian : gregorianSerbian;
+  const currentDate = mode === "julian" ? julianDate : gregorianDate;
+  const dateDisplay = formatDateDisplay(currentDate);
+  const hasSerbianContent = !!serbianContent;
+
+  if (!englishContent) {
+    return (
+      <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
+        <div className="mb-12">
+          <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-0">Prologue from Ochrid</h1>
+          <p className="text-xs uppercase tracking-widest text-burgundy/50">{dateDisplay}</p>
+        </div>
+        <div className="text-center py-12">
+          <p className="text-lg text-burgundy/70 mb-2">Translation in progress</p>
+          <p className="text-sm text-ink/60">This entry has not yet been translated. Please check back later.</p>
+        </div>
+      </div>
+    );
+  }
 
   if (language === "english") {
     return (
       <MarkdownEntry
         content={englishContent}
         currentDate={currentDate}
+        dateDisplay={dateDisplay}
         subtitle="Prologue from Ochrid"
-        languageToggle={<LanguageToggle activeLanguage="english" />}
+        hasSerbianContent={hasSerbianContent}
       />
     );
   }
@@ -63,8 +68,9 @@ export default function ReadingContent({ englishContent, serbianContent, current
       <MarkdownEntry
         content={serbianContent}
         currentDate={currentDate}
+        dateDisplay={dateDisplay}
         subtitle="Пролог из Охрида"
-        languageToggle={<LanguageToggle activeLanguage="serbian" />}
+        hasSerbianContent={hasSerbianContent}
       />
     );
   }

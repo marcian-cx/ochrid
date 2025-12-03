@@ -1,45 +1,18 @@
-import { notFound } from "next/navigation";
-import { readdir, readFile } from "fs/promises";
+import { readFile } from "fs/promises";
 import { join } from "path";
-import ReadingContent from "@/components/ReadingContent";
-import DateNavigator from "@/components/DateNavigator";
-import OrthocalInfo from "@/components/OrthocalInfo";
-import FastingBanner from "@/components/FastingBanner";
+import ReadingPageClient from "./ReadingPageClient";
 import { fetchOrthocalByDate } from "@/lib/orthocal";
 import { getJulianDateKey, formatJulianGregorianDisplay } from "@/utils/date";
 
-async function getEnglishContent(gregorianDate: string): Promise<string | null> {
+async function getContentForDate(dateKey: string, language: "english" | "serbian"): Promise<string | null> {
   try {
-    const julianDate = getJulianDateKey(gregorianDate);
-    const [month, day] = julianDate.split('-');
-    
-    const filePathWithExt = join(process.cwd(), 'data', 'english', month, `${julianDate}.md`);
+    const [month] = dateKey.split('-');
+    const filePath = join(process.cwd(), 'data', language, month, `${dateKey}.md`);
     try {
-      const fileContent = await readFile(filePathWithExt, 'utf-8');
-      return fileContent;
+      return await readFile(filePath, 'utf-8');
     } catch {
-      const filePathWithoutExt = join(process.cwd(), 'data', 'english', month, julianDate);
-      const fileContent = await readFile(filePathWithoutExt, 'utf-8');
-      return fileContent;
-    }
-  } catch {
-    return null;
-  }
-}
-
-async function getSerbianContent(gregorianDate: string): Promise<string | null> {
-  try {
-    const julianDate = getJulianDateKey(gregorianDate);
-    const [month, day] = julianDate.split('-');
-    
-    const filePathWithExt = join(process.cwd(), 'data', 'serbian', month, `${julianDate}.md`);
-    try {
-      const fileContent = await readFile(filePathWithExt, 'utf-8');
-      return fileContent;
-    } catch {
-      const filePathWithoutExt = join(process.cwd(), 'data', 'serbian', month, julianDate);
-      const fileContent = await readFile(filePathWithoutExt, 'utf-8');
-      return fileContent;
+      const filePathWithoutExt = join(process.cwd(), 'data', language, month, dateKey);
+      return await readFile(filePathWithoutExt, 'utf-8');
     }
   } catch {
     return null;
@@ -62,38 +35,33 @@ export async function generateStaticParams() {
 }
 
 export default async function DayPage({ params }: { params: { date: string } }) {
-  const englishContent = await getEnglishContent(params.date);
-  const serbianContent = await getSerbianContent(params.date);
-  const orthocalData = await fetchOrthocalByDate(params.date);
+  const gregorianDate = params.date;
+  const julianDate = getJulianDateKey(gregorianDate);
+
+  const [julianEnglish, julianSerbian, gregorianEnglish, gregorianSerbian, julianOrthocal] = await Promise.all([
+    getContentForDate(julianDate, "english"),
+    getContentForDate(julianDate, "serbian"),
+    getContentForDate(gregorianDate, "english"),
+    getContentForDate(gregorianDate, "serbian"),
+    fetchOrthocalByDate(gregorianDate),
+  ]);
 
   return (
-    <div>
-      <DateNavigator currentDate={params.date} />
-      <FastingBanner data={orthocalData} />
-      {englishContent ? (
-        <ReadingContent 
-          englishContent={englishContent}
-          serbianContent={serbianContent}
-          currentDate={params.date}
-        />
-      ) : (
-        <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
-          <div className="mb-12">
-            <h1 className="text-2xl font-bold uppercase tracking-wide text-burgundy">Prologue from Ochrid</h1>
-          </div>
-          <div className="text-center py-12">
-            <p className="text-lg text-burgundy/70 mb-2">Translation in progress</p>
-            <p className="text-sm text-ink/60">This entry has not yet been translated. Please check back later.</p>
-          </div>
-        </div>
-      )}
-      <OrthocalInfo data={orthocalData} />
-    </div>
+    <ReadingPageClient
+      gregorianDate={gregorianDate}
+      julianDate={julianDate}
+      julianEnglish={julianEnglish}
+      julianSerbian={julianSerbian}
+      gregorianEnglish={gregorianEnglish}
+      gregorianSerbian={gregorianSerbian}
+      initialOrthocal={julianOrthocal}
+    />
   );
 }
 
 export async function generateMetadata({ params }: { params: { date: string } }) {
-  const content = await getEnglishContent(params.date);
+  const julianDate = getJulianDateKey(params.date);
+  const content = await getContentForDate(julianDate, "english");
   
   if (!content) {
     return {
@@ -109,4 +77,3 @@ export async function generateMetadata({ params }: { params: { date: string } })
     description: preview || "Daily Orthodox reading from OCHRID",
   };
 }
-

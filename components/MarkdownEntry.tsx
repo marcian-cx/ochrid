@@ -1,13 +1,15 @@
-import { formatJulianGregorianDisplay } from "@/utils/date";
+import { useCalendar } from "@/lib/CalendarContext";
 
 type MarkdownEntryProps = {
   content: string;
   currentDate: string;
-  languageToggle?: React.ReactNode;
+  dateDisplay: string;
   subtitle?: string;
+  hasSerbianContent: boolean;
 };
 
-export default function MarkdownEntry({ content, currentDate, languageToggle, subtitle = "Пролог из Охрида" }: MarkdownEntryProps) {
+export default function MarkdownEntry({ content, dateDisplay, subtitle = "Пролог из Охрида", hasSerbianContent }: MarkdownEntryProps) {
+  const { language, setLanguage } = useCalendar();
   const sections = content.split(/^## /m).filter(Boolean);
   
   const parseInlineMarkdown = (text: string): React.ReactNode[] => {
@@ -81,13 +83,44 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
       </div>
     );
   };
+
+  const LanguageToggle = () => (
+    <div className="hidden lg:flex items-center gap-1 border border-burgundy/30 rounded-md p-0.5">
+      <button
+        onClick={() => setLanguage("english")}
+        className={`px-2 md:px-3 py-1 md:py-1.5 text-xs md:text-sm rounded transition-colors ${
+          language === "english"
+            ? "bg-burgundy text-parchment"
+            : "text-burgundy hover:bg-burgundy/10"
+        }`}
+      >
+        English
+      </button>
+      <button
+        onClick={() => setLanguage("serbian")}
+        disabled={!hasSerbianContent}
+        className={`px-2 md:px-3 py-1 md:py-1.5 text-xs md:text-sm rounded transition-colors ${
+          language === "serbian"
+            ? "bg-burgundy text-parchment"
+            : hasSerbianContent
+            ? "text-burgundy hover:bg-burgundy/10"
+            : "text-burgundy/30 cursor-not-allowed"
+        }`}
+      >
+        Српски
+      </button>
+    </div>
+  );
   
   return (
     <article className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-12">
-        <div className="flex flex-col md:flex-row md:items-baseline md:justify-between gap-3 md:gap-4">
-          <h1 className="text-2xl font-bold uppercase tracking-wide text-burgundy">{subtitle}</h1>
-          {languageToggle && <div className="flex justify-end md:justify-start">{languageToggle}</div>}
+        <div className="flex items-baseline justify-between gap-4">
+          <div>
+            <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-0">{subtitle}</h1>
+            <p className="text-xs uppercase tracking-widest text-burgundy/50">{dateDisplay}</p>
+          </div>
+          <LanguageToggle />
         </div>
       </div>
 
@@ -110,4 +143,3 @@ export default function MarkdownEntry({ content, currentDate, languageToggle, su
     </article>
   );
 }
-

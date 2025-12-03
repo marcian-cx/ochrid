@@ -1,25 +1,55 @@
 "use client";
 
 import { OrthocalDay } from "@/lib/orthocal";
+import { useCalendar } from "@/lib/CalendarContext";
 
 type FastingBannerProps = {
   data: OrthocalDay | null;
+  hasSerbianContent: boolean;
 };
 
-export default function FastingBanner({ data }: FastingBannerProps) {
+export default function FastingBanner({ data, hasSerbianContent }: FastingBannerProps) {
+  const { language, setLanguage } = useCalendar();
+
   if (!data) {
     return null;
   }
 
   return (
-    <div className="w-full md:w-3/5 mx-auto px-4 md:px-0 flex items-baseline justify-between mb-8 pb-3 border-b border-ink/10">
-      <div className="flex items-baseline gap-3">
+    <div className="w-full md:w-3/5 mx-auto px-4 md:px-0 flex items-center justify-between mb-8 pb-3 border-b border-ink/10">
+      <div className="flex items-center gap-3">
         <span className="text-xs uppercase tracking-wide text-burgundy/80 font-semibold">{data.fast_level_desc}</span>
       </div>
-      <div className="text-xs text-ink/50 hidden sm:block">
+      
+      <div className="text-xs text-ink/50 hidden lg:block">
         {data.summary_title}
+      </div>
+
+      <div className="flex lg:hidden items-center gap-1 border border-burgundy/30 rounded-md p-0.5">
+        <button
+          onClick={() => setLanguage("english")}
+          className={`px-2 py-1 text-xs rounded transition-colors ${
+            language === "english"
+              ? "bg-burgundy text-parchment"
+              : "text-burgundy hover:bg-burgundy/10"
+          }`}
+        >
+          English
+        </button>
+        <button
+          onClick={() => setLanguage("serbian")}
+          disabled={!hasSerbianContent}
+          className={`px-2 py-1 text-xs rounded transition-colors ${
+            language === "serbian"
+              ? "bg-burgundy text-parchment"
+              : hasSerbianContent
+              ? "text-burgundy hover:bg-burgundy/10"
+              : "text-burgundy/30 cursor-not-allowed"
+          }`}
+        >
+          Српски
+        </button>
       </div>
     </div>
   );
 }
-

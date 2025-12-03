@@ -118,7 +118,7 @@ export default function TranslationProgress({
             <span className="border-b border-dotted border-burgundy/40">Verified ({verifiedCount})</span>
           </div>
         </Tooltip>
-        <Tooltip text="Translation is 95% complete but may include awkward phrases, sentence fragments, or other minor aesthetic issues.">
+        <Tooltip text="Translation is complete but may include awkward phrases, sentence fragments, or other minor aesthetic issues.">
           <div className="flex items-center gap-1.5">
             <div className="w-2.5 h-2.5 rounded-sm bg-burgundy/50" />
             <span className="border-b border-dotted border-burgundy/40">Translated ({translatedCount - verifiedCount})</span>

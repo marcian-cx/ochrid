@@ -1,4 +1,4 @@
-# Translation Glossary: Serbian to English
+# November Translation Glossary: Serbian to English
 ## Prologue of Ochrid - Reference Guide
 
 **Format:** One comprehensive table with Type classifications for easy sorting and updates.
@@ -43,4958 +43,7438 @@
 
 | Serbian | English | Type |
 |---------|---------|------|
-| Господ Исус Христос | Lord Jesus Christ | Christ/Theotokos |
-| Господ наш | Our Lord | Christ/Theotokos |
-| Спас / Спаситељ | Savior | Christ/Theotokos |
-| Законодавац | Lawgiver | Christ/Theotokos |
-| Младенац божански | divine Infant | Christ/Theotokos |
-| Пресвета Дева | Most Holy Virgin | Christ/Theotokos |
-| Пресвета Богородица | Most Holy Theotokos | Christ/Theotokos |
-| Мати Божја | Mother of God | Christ/Theotokos |
-| Лекар бесребреник | Unmercenary Physician | Christ/Theotokos |
-| Св. Василије Велики | Saint Basil the Great | Saint Name |
-| Григорије Богослов | Gregory the Theologian | Saint Name |
-| Јулијан (цар одступник) | Julian (the apostate emperor) | Saint Name |
-| Златоуст | Chrysostom | Saint Name |
-| Св. Козма и Дамјан | Saints Cosmas and Damian | Saint Name |
-| Бесребреници | Unmercenaries | Saint Title |
-| Чудотворци | Wonderworkers | Saint Title |
-| Св. Марко Архиепископ Ефески | Saint Mark, Archbishop of Ephesus | Saint Name |
-| Стена Православља | Rock of Orthodoxy | Saint Title |
-| Св. муч. Ерминигелд | Saint Martyr Hermenegild | Saint Name |
-| Преп. муч. Јаков | Venerable Martyr James | Saint Name |
-| Св. Иларион Мегленски | Saint Hilarion of Moglen | Saint Name |
-| Св. муч. Акиндин | Holy Martyr Acindynus | Saint Name |
-| Пигасије | Pegasius | Saint Name |
-| Анемподист | Anempodistus | Saint Name |
-| Афтоније | Aphthonius | Saint Name |
-| Елпидифор | Elpidephorus | Saint Name |
-| Преп. Маркијан Кирски | Venerable Marcian of Cyrrhus | Saint Name |
-| Свешт. муч. Викторин | Hieromartyr Victorinus | Saint Name |
-| Блажени Јероним | Blessed Jerome | Saint Name |
-| Патријарх Флавијан Антиохијски | Patriarch Flavian of Antioch | Saint Name |
-| Свешт. муч. Акепсим еп. Наесонски | Hieromartyr Acepsimas, Bishop of Naeson | Saint Name |
-| Св. великомуч. Георгије | Holy Great Martyr George | Saint Name |
-| Преп. Илија Египатски | Venerable Elias of Egypt | Saint Name |
-| Преп. Јоаникије Велики | Venerable Joannicius the Great | Saint Name |
-| Свешт. муч. Никандр еп. Мирски | Hieromartyr Nicander, Bishop of Myra | Saint Name |
-| Ермеј презвитер | Hermas the Presbyter | Saint Name |
-| Апостол Тит | Apostle Titus | Saint Name |
-| Методије патријарх Цариградски | Patriarch Methodius of Constantinople | Saint Name |
-| Преп. муч. Галактион | Venerable Martyr Galaction | Saint Name |
-| Преп. муч. Епистима | Venerable Martyr Episteme | Saint Name |
-| Св. апостоли (из 70) | Holy Apostles (from the Seventy) | Saint Name |
-| Патров | Patrobas | Saint Name |
-| Ерма | Hermas | Saint Name |
-| Лин | Linus | Saint Name |
-| Гај | Gaius | Saint Name |
-| Филолог | Philologus | Saint Name |
-| Св. Јона архиеп. Новгородски | Saint Jonah, Archbishop of Novgorod | Saint Name |
-| Михаил јуродиви Клопски | Michael the fool-for-Christ of Klopsk | Saint Name |
-| Архиеп. Јевтимије | Archbishop Euthymius | Saint Name |
-| Св. Павле Исповедник | Saint Paul the Confessor | Saint Name |
-| Преп. Варлам Хутински | Venerable Barlaam of Khutyn | Saint Name |
-| Патријарх Александар | Patriarch Alexander | Saint Name |
-| Македоније | Macedonius | Personal Name |
-| Св. Атанасије Велики | Saint Athanasius the Great | Saint Name |
-| Папа Јулије | Pope Julius | Saint Name |
-| Цар Констанције | Emperor Constantius | Personal Name |
-| Цар Констанс | Emperor Constans | Personal Name |
-| Цар Теодосије | Emperor Theodosius | Personal Name |
-| Цар Лав Велики | Emperor Leo the Great | Personal Name |
-| Патријарх Генадије | Patriarch Gennadius | Saint Name |
-| Маркијан и Мартирије | Marcian and Martyrius | Saint Name |
-| Кнез Василије Васиљевич | Prince Basil Vasilievich | Personal Name |
-| Цар Иван Грозни | Tsar Ivan the Terrible | Personal Name |
-| Св. муч. Јерон | Holy Martyr Hieron | Saint Name |
-| Стратоника | Stratonice | Personal Name |
-| Виктор | Victor | Personal Name |
-| Исихије | Hesychius | Saint Name |
-| Никандр | Nicander | Saint Name |
-| Атанасије | Athanasius | Saint Name |
-| Мамант | Mamas | Saint Name |
-| Варахије | Barachius | Saint Name |
-| Калиник | Callinicus | Saint Name |
-| Теоген | Theogenes | Saint Name |
-| Никон | Nicon | Saint Name |
-| Лонгин | Longinus | Saint Name |
-| Теодор | Theodore | Saint Name |
-| Валерије | Valerius | Saint Name |
-| Ксант | Xanthius | Saint Name |
-| Теодул | Theodulus | Saint Name |
-| Калимах | Callimachus | Saint Name |
-| Евгеније | Eugenius | Saint Name |
-| Теодот | Theodotus | Saint Name |
-| Острихије | Ostryches | Saint Name |
-| Епифаније | Epiphanius | Saint Name |
-| Максимијан | Maximian | Saint Name |
-| Дулкитије | Ducitius | Saint Name |
-| Клавдијан | Claudian | Saint Name |
-| Теофил | Theophilus | Saint Name |
-| Гигантије | Gigantius | Saint Name |
-| Доротеј | Dorotheus | Saint Name |
-| Кастрихије | Castryches | Saint Name |
-| Аникит | Anicetus | Saint Name |
-| Темелије | Themelius | Saint Name |
-| Евтихије | Eutychius | Saint Name |
-| Иларион | Hilarion | Saint Name |
-| Лиодот | Liodotus | Saint Name |
-| Амонит | Amonitus | Saint Name |
-| Хрисант / Хрисантије | Chrysanthus | Personal Name |
-| Антоније | Anthony | Saint Name |
-| Матронијан | Matronianus | Personal Name |
-| Св. муч. Тесалоникија | Holy Martyr Thessalonica | Saint Name |
-| Авкт | Auctus | Saint Name |
-| Таврион | Taurion | Saint Name |
-| Клеон | Cleon | Personal Name |
-| Преп. Лазар Галасијски | Venerable Lazarus of Galesium | Saint Name |
-| Св. Сава Освештани | Saint Sabbas the Sanctified | Saint Name |
-| Цар Константин Мономах | Emperor Constantine Monomachus | Personal Name |
-| Теодотија | Theodotia | Personal Name |
-| Лисије | Lycias | Personal Name |
-| Евул | Evulus | Personal Name |
-| Паладија | Palladia | Personal Name |
-| Лувигелд | Leovigild | Personal Name |
-| Мартин | Martin | Personal Name |
-| Параскева | Paraskeva | Personal Name |
-| Лидија | Lydia | Personal Name |
-| Сапор / Саворија / Саворије | Sapor / Shapur | Personal Name |
-| Констанције | Constantius | Personal Name |
-| Валент | Valens | Personal Name |
-| Јевсевије | Eusebius | Personal Name |
-| Драгутин | Dragutin | Personal Name |
-| Милутин | Milutin | Personal Name |
-| Јосиф (презвитер) | Joseph (presbyter) | Personal Name |
-| Аитал (ђакон) | Aithalas (deacon) | Personal Name |
-| Диоклецијан | Diocletian | Personal Name |
-| Константин | Constantine | Personal Name |
-| Миритрикије | Myritricus | Personal Name |
-| Анастасија (мајка) | Anastasia (mother) | Personal Name |
-| Ливаније | Libanius | Personal Name |
-| Исав | Esau | Personal Name |
-| Архиепископ (Архиеп.) | Archbishop | Church Title |
-| Епископ (еп.) | Bishop | Church Title |
-| Свештеник | Priest | Church Title |
-| Ђакон | Deacon | Church Title |
-| Игуман | Abbot / Igumen | Church Title |
-| Јерарх | Hierarch | Church Title |
-| Архијереј | Hierarch | Church Title |
-| Отац Цркве | Father of the Church | Church Title |
-| Управитељ | Governor | Church Title |
-| Свешт. муч. | Hieromartyr (abbr.) | Church Title |
-| Божић | Nativity (of Christ) | Feast |
-| Богојављење | Theophany | Feast |
-| Обрезање | Circumcision | Feast |
-| Ускрс | Pascha | Feast |
-| Уочи (+ feast name) | Eve of (+ feast name) | Feast |
-| Часни пост / Велики пост | Great Lent | Feast |
-| Цветна недеља | Palm Sunday | Feast |
-| Велики Четвртак | Great and Holy Thursday | Feast |
-| Велика Субота | Great and Holy Saturday | Feast |
-| Предпразниство | Forefeast | Feast |
-| Попразниство | Afterfeast | Feast |
-| Служба | Liturgy / Service | Liturgical |
-| Црквена служба | Church service | Liturgical |
-| Литургија | Liturgy | Liturgical |
-| Православље | Orthodoxy | Theological |
-| Јеретик/јеретици | Heretic/heretics | Theological |
-| Јерес | Heresy | Theological |
-| Аријева јерес | Arian heresy | Theological |
-| Старозаветни | Old Testament (adj.) | Theological |
-| Новозаветни | New Testament (adj.) | Theological |
-| Предображавати | To prefigure | Theological Verb |
-| Закон | Law (Mosaic Law) | Theological |
-| Пропис законски | Ordinance of the Law | Theological |
-| Плотски | Carnal, fleshly | Theological |
-| Духовни | Spiritual | Theological |
-| Страст/страсти | Passion/passions | Theological |
-| Порок | Vice | Theological |
-| Грех | Sin | Theological |
-| Савест | Conscience | Theological |
-| Покајање | Repentance | Theological |
-| Спасење | Salvation | Theological |
-| Мошти | Relics | Ecclesiological |
-| Чудотворне мошти | Wonderworking relics | Ecclesiological |
-| Идоли | Idols | Theological |
-| Идолски (град) | Idolatrous (city) | Theological |
-| Исповедници Христови | Confessors of Christ | Ecclesiological |
-| Силом Христовом | By the power of Christ | Phrase |
-| Исход Светога Духа (и од Сина) | Procession of the Holy Spirit (from the Son also) | Theological |
-| Првенство папе | Primacy of the Pope | Theological |
-| Чистилиште | Purgatory | Theological |
-| Бранитељ вере | Defender of the Faith | Theological |
-| Богумили | Bogomils | Theological |
-| Прваци богумилски | Leaders of the Bogomils | Theological |
-| Незнабошац | Pagan, unbeliever | Theological |
-| Крсно знако | Sign of the Cross | Liturgical |
-| Дрво (Крста) | Wood (of the Cross) | Theological |
-| Светиња | Holiness, holy place | Theological |
-| Угодник Божји | Saint of God | Ecclesiological |
-| Праведници | Righteous ones | Theological |
-| Племена земна | Tribes of the earth | Phrase |
-| Врлина | Virtue | Theological |
-| Благодат | Grace | Theological |
-| Дух Божји | Spirit of God | Theological |
-| Гоњење | Persecution | Historical |
-| Промисао Божји | Divine Providence | Theological |
-| Демони | Demons | Demonic |
-| Презвитер | Presbyter | Church Title |
-| Пренос моштију | Translation of relics | Ecclesiological |
-| Освећење (храма) | Consecration (of a church) | Liturgical |
-| Небеско воинство | Heavenly host | Angelic |
-| Творачко Слово | Creative Word | Theological |
-| Органи једнога тела | Organs of one body | Theological |
-| Јединосуштна | Consubstantial | Theological |
-| Неразделна | Undivided | Theological |
-| Пресвета Тројица | Most Holy Trinity | Theological |
-| Псалмопјеније | Psalmody | Liturgical |
-| Мучење | Torture | Martyrdom |
-| Тамновање | Imprisonment | Martyrdom |
-| Мучитељи | Torturers | Martyrdom |
-| Отечество | Homeland, fatherland | Phrase |
-| Словенац | Slavic (person) | Phrase |
-| Благочестив | Pious | Theological |
-| Тумачења | Commentaries | Theological |
-| Избрање | Election (divine) | Theological |
-| Посиновљење | Adoption as sons | Theological |
-| Угодност воље | Good pleasure of will | Theological |
-| Заслуге | Merit | Theological |
-| Слободна воља | Free will | Theological |
-| Омофор | Omophorion | Liturgical |
-| Клирици | Clerics | Church Title |
-| Секретари | Secretaries | Church Title |
-| Литија | Procession, litany | Liturgical |
-| Архипастир | Archpastor | Church Title |
-| Стадо словесно | Rational flock | Ecclesiological |
-| Низложен | Deposed | Ecclesiastical Verb |
-| Престо | Throne | Ecclesiological |
-| Дигоше главу | Raised their heads (idiom for rising up against) | Idiom |
-| Синовска љубав | Filial love | Phrase |
-| Беспомоћна | Helpless | Adjective |
-| Радост неисказана | Unspeakable joy | Hagiographic Phrase |
-| Драговољно | Willingly | Adverb |
-| Једногласно | With one voice | Phrase |
-| Царство бесмртно | Immortal kingdom | Theological |
-| Тренутак одлучан | Decisive moment | Phrase |
-| Вечни живот | Eternal life | Theological |
-| Вечна смрт | Eternal death | Theological |
-| Књаз власти ваздушне | Prince of the power of the air | Demonic |
-| Синови противљења | Children of disobedience | Demonic |
-| Богопротивници | Those who oppose God | Demonic |
-| Богоборци | Those who fight against God | Demonic |
-| Духови зли | Evil spirits | Demonic |
-| Власт ваздушна | Power of the air | Demonic |
-| Чин злих духова | Rank of evil spirits | Demonic |
-| Колебање | Fluctuation | Phrase |
-| Тлетворан (ваздух) | Pestilential (air) | Demonic |
-| Отровна жаока | Poisonous sting | Demonic |
-| Празна страшила | Empty scarecrows | Demonic |
-| Непостојане сенке | Inconstant shadows | Demonic |
-| Римокатолички | Roman Catholic | Historical Denomination |
-| Паписти | Papists | Historical Denomination |
-| Латини | Latins | Historical Denomination |
-| Подвижнички (adj.) | Ascetical | Monastic |
-| Подвижништво | Asceticism | Monastic |
-| Канонски | Canonical | Ecclesiastical |
-| Богословски | Theological | Ecclesiastical |
-| Апологетски | Apologetic | Ecclesiastical |
-| Пустиња | Desert, wilderness | Monastic |
-| Пост | Fasting | Monastic |
-| Молитва | Prayer | Spiritual |
-| Чистота | Purity | Theological |
-| Смирење | Humility, abasement | Theological |
-| Понижење | Humiliation, self-abasement | Theological |
-| Манастир | Monastery | Monastic |
-| Света Гора | Holy Mountain (Mount Athos) | Geographical |
-| Замонашити се | To become a monk | Monastic Verb |
-| Подвизивати се | To struggle ascetically | Monastic Verb |
-| Упокоји се | Reposed | Death Verb |
-| Мирно се упокоји | Reposed peacefully | Death Verb |
-| Пресели (се у царство) | Departed (to the Kingdom) | Death Verb |
-| Завршити земни живот | To end one's earthly life | Death Verb |
-| Преминути | To pass away, to depart this life | Death Verb |
-| Скончати | To end one's life | Death Verb |
-| Почивати | To repose | Death Verb |
-| Рођен/рођена | Born | Life Event Verb |
-| Крстити се | To be baptized | Life Event Verb |
-| Рукоположити | To ordain | Life Event Verb |
-| Постричи се | To be tonsured | Monastic Verb |
-| Одрасти | To grow up | Life Event Verb |
-| Учити | To teach | Spiritual Verb |
-| Проповедати | To preach | Spiritual Verb |
-| Молити се | To pray | Spiritual Verb |
-| Подвизавати се | To struggle ascetically, to labor | Monastic Verb |
-| Испунити (закон) | To fulfill (the Law) | Spiritual Verb |
-| Чинити добро | To do good | Spiritual Verb |
-| Уклањати се од зла | To turn away from evil | Spiritual Verb |
-| Чезнути | To yearn, to long for | Spiritual Verb |
-| Лечити | To heal | Spiritual Verb |
-| Лечити бесплатно | To heal without charge | Spiritual Verb |
-| Обраћати (вери) | To convert (to the faith) | Spiritual Verb |
-| Исцелити | To heal, to cure | Spiritual Verb |
-| Врети | To venerate | Spiritual Verb |
-| Оборити (учења) | To refute (teachings) | Spiritual Verb |
-| Разобличити | To refute, to expose | Spiritual Verb |
-| Укорити | To rebuke | Spiritual Verb |
-| Причестити | To commune (someone) | Spiritual Verb |
-| Примити причешће | To receive communion | Spiritual Verb |
-| Пострадати | To suffer (for Christ) | Martyrdom Verb |
-| Прославити | To glorify | Spiritual Verb |
-| Угодити | To please | Spiritual Verb |
-| Васпитати | To raise, to educate | Verb |
-| Помагати | To help, to assist | Verb |
-| Заклети (Пресветом Тројицом) | To adjure (by the Most Holy Trinity) | Spiritual Verb |
-| Издахнути | To expire, to breathe one's last | Death Verb |
-| Одсећи главу | To cut off the head, to behead | Martyrdom Verb |
-| Оклеветати | To slander | Verb |
-| Раздати имање | To distribute possessions | Spiritual Verb |
-| Ословљавати | To address | Verb |
-| Отрпети | To endure | Verb |
-| Узвикнути | To cry out | Verb |
-| Зашити | To sew (into sacks) | Verb |
-| Вргнути | To cast, to throw | Verb |
-| Осудити на смрт | To condemn to death | Martyrdom Verb |
-| Повући се | To withdraw | Verb |
-| Опростити | To forgive | Spiritual Verb |
-| Одрешити се (језик) | To be loosed (tongue) | Verb |
-| Изабрати | To choose, to elect | Verb |
-| Посинити | To adopt as sons | Theological Verb |
-| Прекршити | To violate, to break | Verb |
-| Гостити | To entertain (guests) | Verb |
-| Изобличити | To reproach | Verb |
-| Јавити се | To appear, to manifest | Verb |
-| Ваплотити се | To become incarnate | Theological Verb |
-| Измирити | To reconcile | Spiritual Verb |
-| Сазидати | To build (church) | Verb |
-| Укопати | To bury (in ground) | Verb |
-| Израсти (над) | To grow (over) | Verb |
-| Избавити | To deliver, to rescue | Spiritual Verb |
-| Пренети | To transfer, to carry | Verb |
-| Сједини | To unite | Verb |
-| Разгоревати се | To be enkindled | Verb |
-| Усиљавати се | To be strengthened | Verb |
-| Осветљавати се | To be illumined | Spiritual Verb |
-| Обистинити се | To come true | Verb |
-| Целивати | To kiss | Verb |
-| Пасти (овце) | To pasture (sheep) | Verb |
-| Оградити | To surround, to encircle | Verb |
-| Удаљавати се | To wander away | Verb |
-| Разилазити се | To scatter | Verb |
-| Укроћавати | To tame | Verb |
-| Прорицати | To prophesy | Spiritual Verb |
-| Преластити се | To be deceived | Verb |
-| Тргнути | To recover (from deception) | Verb |
-| Придобити | To win (converts) | Spiritual Verb |
-| Гладовати | To starve | Verb |
-| Расхладити | To cool | Verb |
-| Затрпати | To cover (with earth) | Verb |
-| Бешчестити | To dishonor | Verb |
-| Надживљавати | To outlive | Verb |
-| Раскинути савез | To break a covenant | Verb |
-| Дражити | To provoke | Verb |
-| Ујести | To bite | Verb |
-| Црћи | To die (of animals) | Verb |
-| Распламтети | To inflame | Verb |
-| Смирити се | To be calmed | Verb |
-| Оживе | Came to life | Miracle Verb |
-| Удављен | Strangled | Martyrdom Verb |
-| Протераше | Drove into exile | Persecution Verb |
-| Сијати (врлинама) | To shine forth (in virtues) | Hagiographic Verb |
-| Подржаше | Upheld | Verb |
-| Букне | Blazed up | Verb |
-| Уплаши се | Was frightened | Verb |
-| Прибеже | Turned to, fled to | Verb |
-| Ваплаше се | Cried out in supplication | Verb |
-| Помрачи се | Darkened | Verb |
-| Зажарени | Set ablaze | Verb |
-| Помрачаваху | Darkened (repeatedly) | Verb |
-| Освану | Dawned | Verb |
-| Нагомилане | Accumulated | Verb |
-| Ублажена | Mitigated | Verb |
-| Припијати се | To cleave to | Theological Verb |
-| Уздићиће се | Will be raised up | Theological Verb |
-| Удостојили | Be made worthy | Theological Verb |
-| Мртвити себе | To mortify oneself | Spiritual Verb |
-| Заборавити себе | To forget oneself | Spiritual Verb |
-| У време цара... | In the time of Emperor... | Temporal Phrase |
-| У осми дан по рођењу | On the eighth day after (His) Nativity | Temporal Phrase |
-| У зрелим годинама | In his mature years | Temporal Phrase |
-| До краја живота | Until the end of his life | Temporal Phrase |
-| Из године у годину | From year to year | Temporal Phrase |
-| Из дана у дан | From day to day | Temporal Phrase |
-| Велики поборник Православља | Great champion of Orthodoxy | Hagiographic Phrase |
-| Велика луча | Great torch | Hagiographic Phrase |
-| Стуб цркве | Pillar of the Church | Hagiographic Phrase |
-| Пчела цркве Христове | Bee of Christ's Church | Hagiographic Phrase |
-| Пуно заслужно | Most deservedly | Hagiographic Phrase |
-| Непоколебљив | Unwavering | Hagiographic Adjective |
-| Неустрашив | Fearless | Hagiographic Adjective |
-| Ради славе Твоје | For the sake of Thy glory | Devotional Phrase |
-| Ради спасења нашег | For the sake of our salvation | Devotional Phrase |
-| Теби слава и хвала вавек | To Thee be glory and praise forever | Devotional Phrase |
-| Са страхом и трепетом | With fear and trembling | Devotional Phrase |
-| Господе добри и сведобри | O Lord most good | Devotional Phrase |
-| Ради Бога | For the sake of God | Devotional Phrase |
-| Бадава примисте, бадава дајите | Freely ye have received, freely give | Devotional Phrase |
-| Оче наш | Our Father | Devotional Phrase |
-| Част и слава | Honor and glory | Devotional Phrase |
-| Држава светих | Commonwealth of saints | Ecclesiological Phrase |
-| Градина питомих воћака | Orchard of cultivated fruit trees | Ecclesiological Phrase |
-| Ризница свих добара | Treasury of all good things | Ecclesiological Phrase |
-| Царство Христово | Kingdom of Christ | Theological |
-| Небесно царство | Heavenly Kingdom | Theological |
-| Царство свето | Holy kingdom | Theological |
-| Род људски | Human race | Phrase |
-| Хлеб живота | Bread of life | Theological Phrase |
-| Небеска храна | Heavenly food | Theological Phrase |
-| Сила Божја | Power of God | Theological Phrase |
-| Светилници света | Lights of the world | Hagiographic Phrase |
-| Две слатке воћке | Two sweet fruit trees | Hagiographic Phrase |
-| Христов престол небески | Christ's heavenly throne | Eschatological |
-| Деца Божја | Children of God | Theological |
-| Синови Божји | Sons of God | Theological |
-| Врач безмездни | Unmercenary Physician | Saint Title |
-| Свјати Боже | Holy God | Liturgical Phrase |
-| Знамење Сина Човечјег | Sign of the Son of Man | Eschatological |
-| Лице светло као сунце | Face bright as the sun | Hagiographic Phrase |
-| Црква Божја | Church of God | Ecclesiological |
-| Црква на земљи | Church on earth | Ecclesiological |
-| Црква на небу | Church in heaven | Ecclesiological |
-| Христос васкрсли | The risen Christ | Theological |
-| План света | Plan of the world | Theological |
-| Постање свијета | Foundation of the world | Theological |
-| Благо овој глави | Blessed is this head | Phrase |
-| Пророчанство | Prophecy | Theological |
-| Христови војници | Soldiers of Christ | Hagiographic Phrase |
-| Великомученик | Great Martyr | Saint Title |
-| Победоносац | Victorious one | Saint Title |
-| Ум Христов | Mind of Christ | Theological |
-| Радост Господа | Joy of the Lord | Theological Phrase |
-| Иконоборство | Iconoclasm | Historical |
-| Поштовање икона | Veneration of icons | Liturgical |
-| Поборник (икона) | Champion (of icons) | Saint Title |
-| Зли дуси | Evil spirits | Demonic |
-| Телесно искушење | Carnal temptation | Spiritual |
-| Блудна похот | Lustful passion | Spiritual |
-| Погибељ | Perdition | Theological |
-| Жива учешћа | Living part | Theological |
-| Судба цркве | Destiny of the Church | Ecclesiological |
-| Наслеђе | Inheritance | Theological |
-| Наследници | Heirs | Theological |
-| Царство Божје | Kingdom of God | Theological |
-| Царство земно | Earthly kingdom | Theological |
-| Санаследници Христови | Co-heirs with Christ | Theological |
-| Стари човек | Old man (spiritual) | Theological |
-| Нови човек | New man (spiritual) | Theological |
-| Ноћна утвара | Night vision | Phrase |
-| Бесмртно царство | Immortal kingdom | Theological |
-| Столпник | Stylite | Monastic |
-| Столп | Pillar (for stylites) | Monastic |
-| Жрец идолски | Pagan priest | Phrase |
-| Губилиште | Place of execution | Martyrdom |
-| Књига Живота | Book of Life | Theological |
-| На самртној постељи | On his deathbed | Hagiographic Phrase |
-| Личит човек | Handsome man | Phrase |
-| Споља украшен | Outwardly adorned | Phrase |
-| С педао висине | To the height of a span | Phrase |
-| Гарав пепео | Sooty ash | Phrase |
-| Благовремено покајање | Timely repentance | Theological Phrase |
-| Устрашени народ | Terrified people | Phrase |
-| Окорели грешници | Hardened sinners | Phrase |
-| Блудни син | Prodigal son | Biblical Phrase |
-| Умртвљена телесина | Dead corpse | Phrase |
-| Ревносан хришћанин | Zealous Christian | Hagiographic Phrase |
-| Жао беше | Was loath | Phrase |
-| Подвиг свршити | To complete one's struggle | Hagiographic Phrase |
-| Честь и слава | Honor and glory | Devotional Phrase |
-| Са дружином | With (his) companions | Hagiographic Phrase |
-| По имену | By name | Phrase |
-| Одлучни тренутак | Decisive moment | Phrase |
-| Улудо пропустити | To waste, to let pass in vain | Phrase |
-| Природна смрт | Natural death | Phrase |
-| За добит | For profit | Phrase |
-| Стремљење греховно | Sinful striving | Theological Phrase |
-| Рој мува на лешину | Swarm of flies upon a corpse | Phrase |
-| Издалека | From afar | Phrase |
-| При помену имена | At the mention of the name | Phrase |
-| При знамењу крста | At the sign of the Cross | Liturgical Phrase |
-| Војводо наш | Our commander | Devotional Phrase |
-| Ослободитељу наш | Our liberator | Devotional Phrase |
-| Кесарија Кападокијска | Caesarea in Cappadocia | Geographical |
-| Јордан (река) | Jordan (River) | Geographical |
-| Атина | Athens | Geographical |
-| Храм | Temple / Church (building) | Geographical |
-| Олтар | Altar | Liturgical |
-| Фригин / Фригија | Phrygia | Geographical |
-| Илирик | Illyricum | Geographical |
-| Аргир | Argyrus | Geographical |
-| Цариград | Constantinople | Geographical |
-| Принципо | Prinkipo | Geographical |
-| Азија | Asia (Asia Minor) | Geographical |
-| Фереман | Ferreman | Geographical |
-| Костурска епархија | Diocese of Kastoria | Geographical |
-| Івер / Иверски | Iveron | Geographical |
-| Једрене | Adrianople | Geographical |
-| Галачист | Galachiston | Geographical |
-| Солун | Thessalonica | Geographical |
-| Филиби | Philippi | Geographical |
-| Ефес | Ephesus | Geographical |
-| Готски | Gothic (adj.) | Geographical |
-| Персија | Persia | Geographical |
-| Кир | Cyrrhus | Geographical |
-| Сирија | Syria | Geographical |
-| Халкидска пустиња | Desert of Chalcis | Geographical |
-| Антиохија | Antioch | Geographical |
-| Патав | Pettau | Geographical |
-| Келија | Cell (monastic) | Monastic |
-| Наесон | Naeson | Geographical |
-| Никомидија | Nicomedia | Geographical |
-| Лида Палестинска | Lydda in Palestine | Geographical |
-| Антипо | Antinopolis | Geographical |
-| Тиваида | Thebaid | Geographical |
-| Митилена | Mytilene | Geographical |
-| Крит | Crete | Geographical |
-| Марикат (село) | Marikata (village) | Geographical |
-| Витинијска (област) | Bithynia (region) | Geographical |
-| Олимп Азијски | Mount Olympus in Asia | Geographical |
-| Мир | Myra | Geographical |
-| Коринт | Corinth | Geographical |
-| Кукуз | Cucusus | Geographical |
-| Јерменија | Armenia | Geographical |
-| Венеција | Venice | Geographical |
-| Новгород (велики) | (Great) Novgorod | Geographical |
-| Река Волхова | River Volkhov | Geographical |
-| Содом и Гомор | Sodom and Gomorrah | Geographical |
-| Адамова поља | Adam's fields | Geographical |
-| Тијана | Tyana | Geographical |
-| Кападокија / кападокијској | Cappadocia / in Cappadocia | Geographical |
-| Мелитина | Melitene | Geographical |
-| Амфипољ | Amphipolis | Geographical |
-| Кавала | Kavala | Geographical |
-| Магнезија | Magnesia | Geographical |
-| Гора Галасијска | Mount Galesium | Geographical |
-| Манaстир св. Саве Освештаног | Monastery of Saint Sabbas the Sanctified | Geographical |
-| Гал. | Gal. | Biblical Book |
-| Пс. | Ps. | Biblical Book |
-| Рим. | Rom. | Biblical Book |
-| Јн. | John | Biblical Book |
-| Јов. | John | Biblical Book |
-| Еф. | Eph. | Biblical Book |
-| Дела Ап. | Acts | Biblical Book |
-| Мат. | Matt. | Biblical Book |
-| Животи Светих | Lives of the Saints | Structural |
-| Химна Похвале | Hymn of Praise | Structural |
-| Размишљање | Reflection | Structural |
-| Созерцање | Contemplation | Structural |
-| Беседа | Homily | Structural |
-| Расуђивање | Reflection | Structural |
-| Ревност | Zeal | Virtue |
-| Чистота морална | Moral purity | Virtue |
-| Премудрост | Wisdom (all-wisdom for премудри as epithet) | Virtue |
-| Кротост | Meekness, gentleness | Virtue |
-| Милосрђе | Mercy | Virtue |
-| Себичност | Selfishness | Vice |
-| Похоте | Lusts | Vice |
-| Славољубље | Vainglory | Vice |
-| Стомакоугађање | Belly-pleasing | Vice |
-| Помије | Swill | Vice |
-| Блато | Mire | Vice |
-| Трулежно | Corruptible | Vice |
-| Пролазно | Transitory | Vice |
-| Ниско | Base | Vice |
-| Бости (жаоком) | To pierce, to sting | Verb |
-| Рушити | To destroy | Verb |
-| Зидати | To build | Verb |
-| Мрзети на... | To abhor, to hate | Verb |
-| Презирати | To despise | Verb |
-| Пчелари | Beekeepers | Profession |
-| Трговци | Merchants | Profession |
-| Ковачи | Blacksmiths | Profession |
-| Бродари | Sailors | Profession |
-| Фармари | Pharmacists | Profession |
-| Лекар | Physician | Profession |
-| Браћо | Brethren | Phrase |
-| Браћо моја | O my brethren | Phrase |
-| Болесник | Sick man, invalid / Sick person | Phrase |
-| Злочинац | Malefactor, evildoer | Phrase |
-| Сенка | Shadow | Phrase |
-| Понор заборава | Abyss of oblivion | Phrase |
-| Тама бившега | Darkness of the past | Phrase |
-| Удовица | Widow | Phrase |
-| Лекарска вештина | Art of medicine | Phrase |
-| Подвале | Stratagems | Phrase |
-| Тежак | Peasant | Phrase |
-| Бег | Bey (Turkish title) | Phrase |
-| Овце | Sheep | Phrase |
-| Имање | Possessions, property | Phrase |
-| Јаја | Eggs | Phrase |
-| Јајета | Eggs (alternative form) | Phrase |
-| Змија | Snake, serpent | Phrase |
-| Ласке | Flattery | Phrase |
-| Претње | Threats | Phrase |
-| Заклетва | Oath | Phrase |
-| Призив | Invocation | Phrase |
-| Откровење Божје | Divine revelation | Theological |
-| Лекарије | Medicines | Phrase |
-| Џелат | Executioner | Phrase |
-| Џелати | Executioners | Phrase |
-| Чесна глава | Honorable head | Martyrdom |
-| Умоболна | Mentally ill | Phrase |
-| Благо | Treasure | Phrase |
-| Препирка | Dispute | Phrase |
-| Жењени | Married (people) | Phrase |
-| Преданост | Devotion | Virtue |
-| Верност | Faithfulness | Virtue |
-| Поквареном (град) | Corrupt (city) | Phrase |
-| Наду | Hope | Virtue |
-| Безмездни врач | Unmercenary physician | Saint Title |
-| Велмож | Nobleman | Phrase |
-| Кожани мехови | Leather sacks | Phrase |
-| Олово кипеће | Boiling lead | Martyrdom |
-| Пећ огњена | Fiery furnace | Martyrdom |
-| Божанска светлост | Divine light | Theological |
-| Обожаватељи | Admirers | Phrase |
-| Отшелнички | As a hermit | Monastic |
-| Жртвени јањци | Sacrificial lambs | Phrase |
-| Белоснежни | Snow-white | Adjective |
-| Дворске сласти | Courtly pleasures | Phrase |
-| Престо | Throne | Phrase |
-| Вретишче | Sackcloth | Phrase |
-| Трска | Reed | Phrase |
-| Гриж савести | Gnawing of conscience | Phrase |
-| Крвници | Murderers | Phrase |
-| Јарост | Fury, rage | Phrase |
-| Робиња | Slave girl | Phrase |
-| Врачарски дух | Spirit of divination | Demonic |
-| Нечисти дух | Unclean spirit | Demonic |
-| Благородство | Nobility | Virtue |
-| Красота тела | Beauty of body | Phrase |
-| Покајани краљ | Penitent king | Phrase |
-| Милостиња | Alms | Phrase |
-| Очајање | Despair | Vice |
-| Сраму | Shame | Phrase |
-| Сјај | Glory (brightness) | Phrase |
-| Кнез жречевски | Prince of the priests | Phrase |
-| Истјазање | Interrogation | Phrase |
-| Дом вишњи | House on high | Phrase |
-| Камење | Stones | Phrase |
-| Марсина | Myrtle (tree) | Phrase |
-| Бездушници | Merciless ones | Phrase |
-| Урма | Dates (fruit) | Phrase |
-| Недуг | Infirmity, affliction | Phrase |
-| Сарацени | Saracens | Historical |
-| Пирати | Pirates | Historical |
-| Трпезар | Cup-bearer | Phrase |
-| Икона | Icon | Liturgical |
-| Ропство | Captivity | Phrase |
-| Витез | Knight | Historical |
-| Војвода | Commander | Historical |
-| Окови | Chains | Martyrdom |
-| Кладе | Stocks | Martyrdom |
-| Обезглављена маса | Beheaded mass | Martyrdom |
-| Трупина | Torso | Martyrdom |
-| Грчеви | Convulsions | Phrase |
-| Кокош | Chicken | Phrase |
-| Стакленце | Small glass | Phrase |
-| Годишњи празник | Annual feast | Liturgical |
-| Заспало тело | Sleeping body | Phrase |
-| Свеумна глава | All-wise Head | Hagiographic Phrase |
-| Стене пустињске | Desert rocks | Phrase |
-| Рђаве мисли | Evil thoughts | Spiritual |
-| Устремљење | Striving | Spiritual |
-| Бесповратно | Irrevocably | Adverb |
-| Чобанин | Shepherd | Phrase |
-| Стадо | Flock | Phrase |
-| По ваздан | The whole day | Phrase |
-| Војничка служба | Military service | Phrase |
-| Div | Giant | Phrase |
-| Крупан | Large | Adjective |
-| Силан | Powerful | Adjective |
-| Зверови | Wild beasts | Phrase |
-| Змијурина | Great serpent | Phrase |
-| По суху | On dry land / As on dry land | Phrase |
-| Трудољубље | Diligence | Virtue |
-| Монахиње | Nuns | Monastic |
-| Женски манастир | Women's monastery | Monastic |
-| Девица | Maiden | Phrase |
-| Старешинство | Birthright | Phrase |
-| Пламен похоте | Flame of lust | Spiritual |
-| Обилат дар | Abundant gift | Phrase |
-| Светило духовно | Spiritual luminary | Hagiographic Phrase |
-| Небески цар | Heavenly King | Theological |
-| Половина столећа | Half a century | Temporal Phrase |
-| Демонске сплетке | Demonic plots | Demonic |
-| Пола столећа | Half a century | Temporal Phrase |
-| Чалме | Handkerchiefs | Phrase |
-| Убрусе | Aprons | Phrase |
-| Штап | Staff | Phrase |
-| Дуварове | Walls | Phrase |
-| Поплаве | Floods | Phrase |
-| Потресе | Earthquakes | Phrase |
-| Суше | Droughts | Phrase |
-| Бичева | Scourges | Phrase |
-| Трње | Thorns | Phrase |
-| Сламу | Straw | Phrase |
-| Пепео | Ash, ashes | Phrase |
-| Облаци | Clouds | Phrase |
-| Пламен | Flame | Phrase |
-| Усеви | Crops | Phrase |
-| Педао | Span (measurement) | Phrase |
-| Кнез | Prince | Title |
-| Тамница | Prison | Martyrdom |
-| Надзорник тамнички | Prison warden | Martyrdom |
-| Списак оптужених | List of the accused | Martyrdom |
-| Псалам | Psalm | Biblical |
-| Маче | Sword | Martyrdom |
-| Шибан | Flogged | Martyrdom Verb |
-| Одело бело | White garments | Phrase |
-| Стуб од светлости | Pillar of light | Phrase |
-| Змија | Serpent | Phrase |
-| Искона | From of old | Phrase |
-| Да обаја | To charm | Verb |
-| Блажен | Blessed | Adjective |
-| Лешина | Corpse | Phrase |
-| Мува | Fly | Phrase |
-| Михаил | Michael | Archangel Name |
-| Гаврил | Gabriel | Archangel Name |
-| Рафаил | Raphael | Archangel Name |
-| Урил | Uriel | Archangel Name |
-| Салатил | Salathiel | Archangel Name |
-| Јегудил | Jehudiel | Archangel Name |
-| Варахил | Barachiel | Archangel Name |
-| Јеремил | Jeremiel | Archangel Name |
-| Шестокрили Серафими | Six-winged Seraphim | Angelic Order |
-| Многоочити Херувими | Many-eyed Cherubim | Angelic Order |
-| Богоносни Престоли | God-bearing Thrones | Angelic Order |
-| Господства | Dominions | Angelic Order |
-| Силе | Powers | Angelic Order |
-| Власти | Authorities | Angelic Order |
-| Начала | Principalities | Angelic Order |
-| Архангели | Archangels | Angelic Order |
-| Ангели | Angels | Angelic Order |
-| Архистратиг | Archangel / Chief Commander | Angelic Title |
-| Безтелесни духови | Bodiless spirits | Angelic |
-| Силе небесне безтелесне | Bodiless heavenly powers | Angelic |
-| Чинови ангелски | Angelic orders | Angelic |
-| Архангел Михаило | Archangel Michael | Archangel Name |
-| Војвода небеског воинства | Commander of the heavenly host | Angelic Title |
-| Сатана / Луцифер | Satan / Lucifer | Demonic |
-| Пали анђели | Fallen angels | Demonic |
-| Вонмемъ! Станемъ добрэ, станемъ со страхомъ! | Let us attend! Let us stand aright, let us stand with fear! | Liturgical Phrase |
-| Свјат, свјат, свјат Господ Саваотъ | Holy, holy, holy, Lord of Sabaoth | Liturgical Phrase |
-| Небо и земља пуни су славе Твоје | Heaven and earth are full of Thy glory | Liturgical Phrase |
-| Копље | Spear | Angelic Symbol |
-| Палма зелена | Green palm branch | Angelic Symbol |
-| Трака ленена | Linen ribbon | Angelic Symbol |
-| Крст црвени | Red cross | Angelic Symbol |
-| Фењер | Lantern | Angelic Symbol |
-| Свећа упаљена | Lit candle | Angelic Symbol |
-| Огледало од зеленог јасписа | Mirror of green jasper | Angelic Symbol |
-| Риба | Fish | Angelic Symbol |
-| Лабуд са лековима | Alabaster jar (physician's) | Angelic Symbol |
-| Маче против Персијанаца | Sword against Persians | Angelic Symbol |
-| Пламен огњени | Fiery flame | Angelic Symbol |
-| Круна злата | Golden crown | Angelic Symbol |
-| Бич троструки | Triple scourge | Angelic Symbol |
-| Руже беле | White roses | Angelic Symbol |
-| Тобија | Tobias | Personal Name |
-| Река Тигар | River Tigris | Geographical |
-| Савршено једномислије | Perfect unanimity | Theological |
-| Савршена сагласност | Perfect concord | Theological |
-| Неотпали | Who had not fallen | Angelic |
-| Створење света | Creation of world | Theological |
-| Ангел чувар | Guardian angel | Angelic |
-| Страшни суд | Dread Judgment | Eschatological |
-| О небесној Јерархији | On the Celestial Hierarchy | Book Title |
-| Св. Дионисије Ареопагит | Saint Dionysius the Areopagite | Saint Name |
-| Апостол Павле | Apostle Paul | Saint Name |
-| Треће небо | Third heaven | Theological |
-| Папа Силвестар Римски | Pope Sylvester of Rome | Saint Name |
-| Патријарх Александар Александријски | Patriarch Alexander of Alexandria | Saint Name |
-| Сабор Лаодикијски | Council of Laodicea | Historical |
-| Канон 35 | Canon 35 | Historical |
-| Поклоњење анђелима | Worship of angels | Theological |
-| Евтих | Eutychus | Personal Name |
-| Троада | Troas | Geographical |
-| Прозор | Window | Phrase |
-| Трећи спрат | Third floor | Phrase |
-| Оживети | To restore to life | Miracle Verb |
-| Загрлити | To embrace | Verb |
-| Васкрснути | To resurrect | Theological Verb |
-| Глава | Head | Theological |
-| Тело | Body | Theological |
-| Удови | Organs / Members | Theological |
-| Небеске висине | Heavenly heights | Theological |
-| Царска посета | Royal visit | Phrase |
-| Милост трајна | Lasting grace | Theological |
-| Слава место срама | Glory instead of shame | Theological |
-| Близина Бога | Nearness to God | Theological |
-| Удаљеност од Бога | Distance from God | Theological |
-| Благослов место проклетства | Blessing instead of curse | Theological |
-| Боговаплоћење | Incarnation of God | Theological |
-| Заповеди Божје | Commandments of God | Theological |
-| Обрезање духовно | Spiritual circumcision | Theological |
-| Нова твар | New creation | Theological |
-| Царско достојанство | Royal dignity | Theological |
-| Суседи са Христом | Co-seated with Christ | Theological |
-| Св. муч. Онисифор | Holy Martyr Onesiphorus | Saint Name |
-| Порфирије | Porphyrius | Saint Name |
-| Преп. Јован Колов | Venerable John Kolov (the Short) | Saint Name |
-| Данило | Daniel | Personal Name |
-| Св. Памво | Saint Pambo | Saint Name |
-| Св. Арсеније Велики | Saint Arsenius the Great | Saint Name |
-| Св. Пајсије Велики | Saint Paisius the Great | Saint Name |
-| Преп. Матрона Цариградска | Venerable Matrona of Constantinople | Saint Name |
-| Дометијан | Dometian | Personal Name |
-| Вавила | Babylas | Personal Name |
-| Св. Васијан | Saint Bassian | Saint Name |
-| Преп. Јевтимије Дохијарски | Venerable Euthymius of Dochiariou | Saint Name |
-| Неофит | Neophyte | Personal Name |
-| Св. Симеон Метафраст | Saint Symeon the Metaphrast | Saint Name |
-| Цар Лав Мудри | Emperor Leo the Wise | Personal Name |
-| Преп. Теоктиса Пароска | Venerable Theoctiste of Paros | Saint Name |
-| Пентапољ | Pentapolis | Geographical |
-| Мисир | Egypt | Geographical |
-| Скит | Scetis | Geographical |
-| Пергија Памфилијска | Perge in Pamphylia | Geographical |
-| Емеса | Emesa | Geographical |
-| Сипај | Sidon | Geographical |
-| Бејрут | Beirut | Geographical |
-| Дохијар | Dochiariou | Geographical |
-| Лесбос | Lesbos | Geographical |
-| Парос | Paros | Geographical |
-| Колов | Kolov / the Short | Descriptive |
-| Малена раста | Small stature | Phrase |
-| Превелика ревност | Exceeding great zeal | Hagiographic Phrase |
-| Умеравати | To moderate | Verb |
-| Саученик | Fellow disciple | Monastic |
-| Отшелник | Hermit | Monastic |
-| Послушност | Obedience | Monastic |
-| Сува мотка | Dry stick | Phrase |
-| Забодена у земљу | Thrust into the ground | Phrase |
-| Озеленети | To turn green | Miracle Verb |
-| Плод донети | To bear fruit | Miracle Verb |
-| Набрати плодове | To gather fruit | Verb |
-| Плод послушности | Fruit of obedience | Monastic Phrase |
-| Мудре изреке | Wise sayings | Phrase |
-| Дотужати | To become unbearable | Verb |
-| Одбегнути | To flee | Verb |
-| Преручити се | To disguise oneself | Verb |
-| Мушко одело | Men's clothing | Phrase |
-| Игуманија | Abbess | Church Title |
-| Синовац | Nephew | Phrase |
-| Стриц | Uncle | Phrase |
-| Умножити братство | To multiply the brotherhood | Monastic Verb |
-| Даровити | Gifted | Adjective |
-| Царски логотет | Imperial logothete | Church Title |
-| Први великаш | First nobleman | Phrase |
-| Непорочно | Blamelessly | Adverb |
-| Храброст војничка | Military courage | Virtue |
-| Мудрост државничка | Wisdom in statecraft | Virtue |
-| Преговарати о миру | To negotiate peace | Verb |
-| Арапи | Arabs | Phrase |
-| Житија светитеља | Lives of the saints | Phrase |
-| Саставити животопис | To compose a biography | Verb |
-| Исправити животопис | To correct a biography | Verb |
-| Благоухано миро | Fragrant myrrh | Phrase |
-| Целебно миро | Healing myrrh | Phrase |
-| Дивљи Сарацени | Wild Saracens | Historical |
-| Робље | Captives | Phrase |
-| Пазар | Market | Phrase |
-| Запуштени храм | Abandoned church | Phrase |
-| Талант богодани | God-given talent | Hagiographic Phrase |
-| Подвиг у духу | Struggle in spirit | Monastic Phrase |
-| Подвиг у телу | Struggle in body | Monastic Phrase |
-| Подвиг мисаони | Struggle in thought | Monastic Phrase |
-| Подвиг на делу | Struggle in deed | Monastic Phrase |
-| Ћилим везен | Embroidered carpet | Phrase |
-| Витештво | Chivalry, valor | Virtue |
-| Витештво светачко | Saintly valor | Hagiographic Phrase |
-| Стопе учења отачког | Footsteps of patristic teaching | Ecclesiological Phrase |
-| Растанак | Separation | Phrase |
-| Блудница | Harlot | Phrase |
-| Кнез | Prince | Title |
-| Чесно | Chastely | Adverb |
-| Венчати се | To marry | Verb |
-| Пређашњи љубавници | Former lovers | Phrase |
-| Звиждати | To whistle | Verb |
-| Запушити уши | To stop up one's ears | Verb |
-| Унутрашња одаја | Inner chamber | Phrase |
-| Закључати врата | To lock the door | Verb |
-| Небеска обитељ | Heavenly dwelling | Theological |
-| Мамити | To entice | Demonic Verb |
-| Окретати се | To turn away | Spiritual Verb |
-| Прибегавати | To take refuge | Spiritual Verb |
-| Устрашити се | To be frightened | Verb |
-| Појава ангела | Appearance of the angel | Phrase |
-| Буря | Storm | Phrase |
-| Лађа | Ship | Phrase |
-| Охрабрити | To encourage | Verb |
-| Спасавајућа благодат | Saving grace | Theological |
-| Појмити | To comprehend | Verb |
-| Признати | To acknowledge | Verb |
-| Заслуге | Merits | Theological |
-| Бездна смрти | Abyss of death | Theological Phrase |
-| Трулеж | Corruption | Theological |
-| Низвргнути | To cast down | Theological Verb |
-| Висина части | Height of honor | Theological Phrase |
-| Уздигнути | To raise up | Theological Verb |
-| Дом Бога живога | House of the living God | Theological Phrase |
-| Спотицати се | To stumble | Verb |
-| Предубока јама | Very deep pit | Phrase |
-| Предати се у руке судбини | To give oneself up to fate | Idiom |
-| Конопац | Rope | Phrase |
-| Ухватити се | To grab hold | Verb |
-| Опрати | To wash | Verb |
-| Одену | To clothe | Verb |
-| Милост | Mercy | Theological |
-| Чељусти смрти | Jaws of death | Theological Phrase |
-| Лепотица жена | Beautiful woman | Phrase |
-| Љубавници | Lovers | Phrase |
-| Двор | Palace | Phrase |
-| Лава | Lavra | Monastic |
-| Економ | Steward | Church Title |
-| Оснивач манастира | Founder of monastery | Monastic Phrase |
-| Аристократа Византијски | Byzantine aristocrat | Historical |
-| Светско образовање | Secular education | Phrase |
-| Духовно образовање | Spiritual education | Phrase |
-| Леса железна | Iron grate | Martyrdom |
-| Камење и трње | Stones and thorns | Martyrdom |
-| Растргнути на комаде | To be torn to pieces | Martyrdom Verb |
-| Бијени веома | Severely beaten | Martyrdom Phrase |
-| Жежени | Seared | Martyrdom Verb |
-| Везани коњима за репове | Tied by their tails to horses | Martyrdom Phrase |
-| Вучени | Dragged | Martyrdom Verb |
-| Подвижници Мисирске | Ascetics of Egypt | Monastic Phrase |
-| Учитељ | Teacher | Church Title |
-| Св. вел. муч. Мина | Holy Great Martyr Menas | Saint Name |
-| Пирос | Pyrrhus | Personal Name |
-| Св. муч. Стефан Дечански | Holy Martyr Stephen Dechanski | Saint Name |
-| Краљ Милутин | King Milutin | Personal Name |
-| Цар Душан | Emperor Dušan | Personal Name |
-| Св. Никола | Saint Nicholas | Saint Name |
-| Св. Сава | Saint Sava | Saint Name |
-| Св. кнез Лазар | Holy Prince Lazar | Saint Name |
-| Стефанида | Stephanida | Personal Name |
-| Цар Антонин | Emperor Antoninus | Personal Name |
-| Св. муч. Викентије ђакон | Holy Martyr Vincent the Deacon | Saint Name |
-| Преп. Теодор Студит | Venerable Theodore the Studite | Saint Name |
-| Св. Урошица кнез Српски | Holy Urošica, Serbian Prince | Saint Name |
-| Краљ Драгутин | King Dragutin | Personal Name |
-| Цар Кантакузен | Emperor Kantakuzen | Personal Name |
-| Симонида | Simonida | Personal Name |
-| Шишман | Shishman | Personal Name |
-| Варлам | Barlaam | Personal Name |
-| Св. Григорије Палама | Saint Gregory Palamas | Saint Name |
-| Публије | Publius | Personal Name |
-| Катуанија | Cotyaeum | Geographical |
-| Овче поље | Ovche Field | Geographical |
-| Манастир Сведржитеља | Monastery of the All-Sustainer | Geographical |
-| Пантократор | Pantokrator | Geographical |
-| Храм Дечански | Church at Dečani | Geographical |
-| Студијски манастир | Studion Monastery | Geographical |
-| Сарагоска | Zaragoza | Geographical |
-| Шпанија | Spain | Geographical |
-| Вел. муч. | Holy Great Martyr (abbr.) | Saint Title |
-| Жртвоприношење идолима | Sacrifice to idols | Theological |
-| Идолопоклонство | Idolatry | Theological |
-| Незнабоштво | Paganism | Theological |
-| Одвратан | Abhorrent | Adjective |
-| Пуста планина | Barren mountain | Geographical |
-| Дивљи зверови | Wild beasts | Phrase |
-| Незнабожачко празновање | Pagan festival | Phrase |
-| Спустити се у град | To descend into the city | Verb |
-| Изобличити | To denounce | Verb |
-| Лаж и мрак | Falsehood and darkness | Theological Phrase |
-| Официр | Officer | Title |
-| Одрећи се почасти | To renounce honors | Verb |
-| Гвоздене четке | Iron combs | Martyrdom |
-| Опаљивати свећама | To burn with candles | Martyrdom Verb |
-| Посећи мачем | To behead with a sword | Martyrdom Verb |
-| Бацити у огањ | To throw into fire | Martyrdom Verb |
-| Чесно сахранити | To reverently bury | Ecclesiological Verb |
-| Ратник на коњу | Warrior on horseback | Phrase |
-| Казнити неверне | To punish the unfaithful | Phrase |
-| Обадва живота | Both lives | Phrase |
-| Ослепити | To blind | Martyrdom Verb |
-| Удавити | To strangle | Martyrdom Verb |
-| Необавештен отац | Uninformed father | Phrase |
-| Лакомислен син | Thoughtless son | Phrase |
-| Ослепљење | Blinding | Martyrdom |
-| Длан | Palm (of hand) | Phrase |
-| У своје време | In due time | Temporal Phrase |
-| Заточеник | Prisoner | Phrase |
-| Сведржитељ | All-Sustainer | Theological |
-| Кротост | Meekness | Virtue |
-| Благочешће | Piety | Virtue |
-| Трпељивост | Patience | Virtue |
-| Благодушност | Gentleness | Virtue |
-| Превасходити | To surpass | Verb |
-| Осенити крсним знамењем | To make the sign of the Cross over | Liturgical Verb |
-| Прогледати | To receive one's sight | Miracle Verb |
-| Из благодарности | Out of gratitude | Phrase |
-| Византијска уметност | Byzantine art | Phrase |
-| Знаменити споменик | Significant monument | Phrase |
-| Негдашње благочешће | Piety of old | Phrase |
-| Триада | Triad | Theological |
-| Самопожртвовање | Self-sacrifice | Virtue |
-| Проживети земни век | To live out earthly days | Hagiographic Phrase |
-| Венац бесмртне славе | Crown of immortal glory | Hagiographic Phrase |
-| Верно послужити | To faithfully serve | Spiritual Verb |
-| Растргнути | To tear apart | Martyrdom Verb |
-| Врх палме | Top of palm tree | Phrase |
-| Решетка гвоздена | Iron grate | Martyrdom |
-| Испечен | Roasted | Martyrdom Verb |
-| Предати дух | To give up one's spirit | Death Verb |
-| Знаменити игуман | Renowned abbot | Saint Title |
-| Страдалник за иконе | Sufferer for the icons | Saint Title |
-| Мудри устројитељ | Wise organizer | Saint Title |
-| Устројитељ манастирског живота | Organizer of monastic life | Monastic Phrase |
-| Богодухновени | Divinely inspired | Hagiographic Adjective |
-| Целомудреност | Chastity | Virtue |
-| Потећи (миро) | To flow (myrrh) | Miracle Verb |
-| Дуга трпљивост | Long-suffering | Virtue |
-| Дубока мудрост | Profound wisdom | Virtue |
-| Ћутање | Silence | Virtue |
-| Богопоуздање | Trust in God | Virtue |
-| Силан | Mighty | Adjective |
-| Неповређен | Unharmed | Adjective |
-| Земаљска сила | Earthly power | Theological Phrase |
-| Небеска сила | Heavenly power | Theological Phrase |
-| Кротак и умилан | Meek and gentle | Hagiographic Phrase |
-| Душмани | Enemies | Phrase |
-| Престо земаљског царства | Throne of an earthly kingdom | Phrase |
-| Цар светитељ | Saintly emperor | Saint Title |
-| Словени | Slavs | Phrase |
-| Варвари | Barbarians | Phrase |
-| Красота душе | Beauty of soul | Hagiographic Phrase |
-| Најређе чудо | Rarest wonder | Phrase |
-| Државни посао | Matter of state | Phrase |
-| Убогост | Poverty | Phrase |
-| Краљевска величина | Royal majesty | Phrase |
-| Сурово поступати | To deal harshly | Verb |
-| Оделење дворца | Chamber of the palace | Phrase |
-| Забранити приступ | To forbid access | Verb |
-| Предати у манастир | To hand over to monastery | Monastic Verb |
-| Ослабити и пропати | To weaken and perish | Verb |
-| Блажени | Blessed | Hagiographic Adjective |
-| Подносити подвиге | To endure struggles | Monastic Verb |
-| Уважавати | To respect | Verb |
-| Савет тражити | To seek counsel | Verb |
-| Допринети | To contribute | Verb |
-| Срушити јерес | To overthrow heresy | Theological Verb |
-| Јерес Варламова | Heresy of Barlaam | Theological |
-| Синаксар | Synaxarion | Liturgical |
-| Вешта сплетка | Skillful intrigue | Phrase |
-| Задобити за мишљење | To win over to one's opinion | Verb |
-| Великаши | Noblemen | Phrase |
-| Недоумица | Perplexity | Phrase |
-| Призвати | To summon | Verb |
-| Псалмиста | Psalmist | Biblical |
-| Омрзох | I have hated | Biblical Phrase |
-| Опасни људи | Dangerous men | Phrase |
-| Изгонити из друштва | To drive out from society | Verb |
-| Протерати с бешчешћем | To expel with dishonor | Verb |
-| Престоница | Capital | Geographical |
-| Срдобоља | Dysentery | Phrase |
-| Метнути руке | To lay hands | Liturgical Verb |
-| Творац новог човека | Creator of the new man | Theological |
-| Сазидати | To build (construct) | Theological Verb |
-| Творити мир | To make peace | Theological Phrase |
-| Човекољубив | Man-loving | Theological Adjective |
-| Месија | Messiah | Theological |
-| Искупитељ | Redeemer | Theological |
-| Подједнака љубав | Equal love | Phrase |
-| Јевреји | Jews | Theological |
-| Незнабошци | Gentiles | Theological |
-| Трећа група | Third group | Phrase |
-| Јелини | Hellenes | Theological |
-| Безакоња | Lawlessness | Theological |
-| Изједначити се | To become equal | Verb |
-| Греховно проклетство | Sinful curse | Theological Phrase |
-| Бременити црну земљу | To burden the dark earth | Theological Phrase |
-| Стари Адам | Old Adam | Theological |
-| Нови Адам | New Adam | Theological |
-| Произаћи | To descend (from) | Verb |
-| Приволети се | To be won over | Verb |
-| Царство Јеврејско | Jewish kingdom | Theological |
-| Празан законски формализам | Empty legal formalism | Theological Phrase |
-| Царство Јелинско | Hellenic kingdom | Theological |
-| Натуралистичке басне | Naturalistic fables | Theological Phrase |
-| Демонска бајања | Demonic enchantments | Demonic Phrase |
-| Врачања | Sorceries | Demonic |
-| Болесници | Sick ones (patients) | Phrase |
-| Јеврејство | Judaism | Theological |
-| Јелинство | Hellenism | Theological |
-| Упразнити | To abolish | Theological Verb |
-| Одбацити | To cast aside | Theological Verb |
-| Саздати | To build | Theological Verb |
-| Свеблаги | All-good | Theological Adjective |
-| Свемудри | All-wise | Theological Adjective |
-| Изнад речи | Beyond words | Phrase |
-| Јетак | Wicked | Adjective |
-| Св. апостоли | Holy Apostles | Saint Title |
-| Олимп | Olympas | Saint Name |
-| Ераст | Erastus | Saint Name |
-| Кварт | Quartus | Saint Name |
-| Родион | Rodion | Saint Name |
-| Сосипатер | Sosipater | Saint Name |
-| Терције | Tertius | Saint Name |
-| Седамдесет апостола | Seventy Apostles | Ecclesiological |
-| Следбеници апостола Петра | Followers of the Apostle Peter | Hagiographic Phrase |
-| Апостол Петар | Apostle Peter | Saint Name |
-| Заповест Неронова | Command of Nero | Historical Phrase |
-| Нерон | Nero | Personal Name |
-| Економ цркве Јерусалимске | Steward of the Jerusalem Church | Church Title |
-| Панеада Палестинска | Paneas in Palestine | Geographical |
-| Иконија | Iconium | Geographical |
-| Други епископ | Second bishop | Church Title |
-| Духовно војевати | To fight spiritually | Spiritual Verb |
-| Венцима славе увенчати се | To be crowned with crowns of glory | Hagiographic Phrase |
-| Св. муч. Орест | Holy Martyr Orestes | Saint Name |
-| Тијана | Tyana | Geographical |
-| Хришћанин од рођења | Christian from birth | Hagiographic Phrase |
-| Истјазаван | Interrogated | Martyrdom Verb |
-| Опак кнез | Wicked governor | Phrase |
-| Максимин | Maximus | Personal Name |
-| Царовање Диоклецијаново | Reign of Diocletian | Historical Phrase |
-| Поклонити се идолима | To worship the idols | Theological Phrase |
-| Сила Распетога | Power of the Crucified One | Theological Phrase |
-| Лаж идолска | Falsehood of idols | Theological Phrase |
-| Стругати | To scrape | Martyrdom Verb |
-| Трзати | To tear | Martyrdom Verb |
-| Врело гвожђе | Red-hot iron | Martyrdom |
-| Умрети од глади | To die of starvation | Martyrdom Verb |
-| Без хлеба и воде | Without bread or water | Martyrdom Phrase |
-| Претити мукама | To threaten with tortures | Martyrdom Phrase |
-| Знамење Христово | Sign of Christ | Theological |
-| Изображено на срцу | Depicted upon the heart | Spiritual Phrase |
-| Клинци гвоздени | Iron nails | Martyrdom |
-| Ударити у ноге | To drive into the feet | Martyrdom Verb |
-| Најурити по трњу | To drive over thorns | Martyrdom Verb |
-| Човек светао као сунце | Man radiant as the sun | Phrase |
-| Сабрати кости | To gather bones | Phrase |
-| Св. Димитрије Ростовски | Saint Demetrius of Rostov | Saint Name |
-| Показати ране | To show wounds | Phrase |
-| Св. Нон еп. Илиопољски | Saint Nonnus, Bishop of Heliopolis | Saint Name |
-| Прочути се | To become famous | Verb |
-| Тавенски манастир | Tabennisi Monastery | Geographical |
-| Едеска епархија | Diocese of Edessa | Geographical |
-| Едеса | Edessa | Geographical |
-| Илиопољска епархија | Diocese of Heliopolis | Geographical |
-| Обратити Арапе | To convert Arabs | Spiritual Verb |
-| Епископ Ива | Bishop Iba | Personal Name |
-| Знаменита грешница | Famous sinner | Phrase |
-| Пелагија | Pelagia | Personal Name |
-| Светост живота | Holiness of life | Hagiographic Phrase |
-| Младост не пожалити | To spare not one's youth | Hagiographic Phrase |
-| Похвалити се Христом | To boast of Christ | Spiritual Verb |
-| Живи Бог | Living God | Theological |
-| Једини и свети | Only and holy One | Theological |
-| На Крсту Распети | On the Cross Crucified | Theological |
-| Шибан по плећима | Flogged upon the shoulders | Martyrdom Phrase |
-| Наругати се | To mock | Verb |
-| Мртви идоли | Dead idols | Theological Phrase |
-| Спаљиван на огњу | Burned in the fire | Martyrdom Phrase |
-| Роса Духа Божјег | Dew of God's Spirit | Theological Phrase |
-| Прохлађиван | Cooled | Miracle Verb |
-| Чавли | Nails | Martyrdom |
-| Покрити ранама | To cover with wounds | Martyrdom Phrase |
-| Одавати благодарност | To give thanks | Spiritual Verb |
-| Удостојити муке | To make worthy of torments | Theological Phrase |
-| Посвојити за сина | To adopt as son | Theological Verb |
-| Храбри мученик | Brave martyr | Saint Title |
-| До последњих дана | Until the last days | Phrase |
-| Чесно кончати живот | To end life honorably | Hagiographic Phrase |
-| Удостојити се раја | To be made worthy of Paradise | Theological Phrase |
-| Пречудни путеви | Wondrous ways | Phrase |
-| Изузетан догађај | Extraordinary event | Phrase |
-| Чудесан догађај | Miraculous event | Phrase |
-| Блажени Неофит | Blessed Neophyte | Saint Name |
-| Св. Николај чудотворац | Saint Nicholas the Wonderworker | Saint Name |
-| Нестати средстава | To run out of means | Phrase |
-| Полуострво | Peninsula | Geographical |
-| Лонгос | Longos | Geographical |
-| Сика | Sika | Geographical |
-| Омањи метох | Small metochion | Monastic |
-| Метох | Metochion | Monastic |
-| Кип човечји | Human statue | Phrase |
-| Кип од камена | Statue of stone | Phrase |
-| Натпис | Inscription | Phrase |
-| Ударити у главу | To strike on the head | Verb |
-| Златни новци | Gold coins | Phrase |
-| Манастирски послушник | Monastic obedientiary | Monastic |
-| Послушник | Obedientiary | Monastic |
-| Тајанственост | Mysteriousness | Phrase |
-| Бацити сенку | To cast a shadow | Phrase |
-| Копати | To dig | Verb |
-| Котао | Cauldron | Phrase |
-| Отрчати | To run (quickly) | Verb |
-| Одредити монахе | To appoint monks | Monastic Verb |
-| Манастирска лађица | Monastery boat | Monastic |
-| Натоварити | To load | Verb |
-| Утиснути мисао | To press a thought into | Demonic Verb |
-| Дочепати се | To seize | Verb |
-| Прелестити | To deceive | Demonic Verb |
-| Обесити камен о врат | To hang a stone around the neck | Martyrdom Phrase |
-| Бацити у море | To throw into the sea | Verb |
-| Дно мора | Bottom of the sea | Phrase |
-| На једанпут | Suddenly | Adverb |
-| Светли младићи | Radiant youths | Angelic Phrase |
-| Пренети у цркву | To carry to the church | Verb |
-| Метнути пред царске двери | To place before the Royal Doors | Liturgical Phrase |
-| Царске двери | Royal Doors | Liturgical |
-| Закључана црква | Locked church | Phrase |
-| Сутрадан | The next day | Temporal Phrase |
-| Испитати | To question | Verb |
-| Сазнати догађај | To learn the event | Verb |
-| Стићи | To arrive | Verb |
-| Као громом поражени | As though struck by lightning | Idiom |
-| Достојно казнити | To justly punish | Verb |
-| Довршити цркву | To finish the church | Verb |
-| Посветити цркву | To dedicate the church | Liturgical Verb |
-| Стара црква | Old church | Phrase |
-| Нова црква | New church | Phrase |
-| Чудесно спасење | Miraculous salvation | Phrase |
-| Змија | Viper | Phrase |
-| Зграбити грања | To gather sticks | Verb |
-| Отровна змија | Venomous viper | Phrase |
-| Искочити из огња | To leap out from the fire | Verb |
-| Ухватити се за руку | To fasten onto the hand | Verb |
-| Отрести | To shake off | Verb |
-| Не би му ништа | Suffered no harm | Phrase |
-| Једини мир | One peace | Theological |
-| Измиритељ | Reconciler | Theological |
-| Састави уједно | Made one | Theological Verb |
-| Зјапити | To gape | Verb |
-| Бездан | Abyss | Theological |
-| Смртни | Mortals | Phrase |
-| Испунити бездан | To fill the abyss | Theological Verb |
-| Поравнати | To level | Theological Verb |
-| Удаљено | Far off | Adjective |
-| Приближити | To bring near | Theological Verb |
-| Спојити | To join together | Theological Verb |
-| Заменити жртве | To replace sacrifices | Theological Verb |
-| Искупити природу | To redeem nature | Theological Verb |
-| Приносити на жртву | To offer as a sacrifice | Theological Phrase |
-| Жртва довољна | Sufficient sacrifice | Theological Phrase |
-| Жртва Христова | Sacrifice of Christ | Theological |
-| Крв животињска | Animal blood | Theological |
-| Врста животиње | Kind of animal | Phrase |
-| Начин приношења | Manner of offering | Phrase |
-| Крв Христова пречиста | Most pure Blood of Christ | Theological |
-| Уједињавати | To unite | Theological Verb |
-| Збратимљавати | To make brothers | Theological Verb |
-| Крвна браћа | Blood brothers | Theological Phrase |
-| Искупити се од клетве | To be redeemed from the curse | Theological Phrase |
-| Хранити се крвљу | To be nourished by blood | Theological Phrase |
-| Међустење ограде | Middle wall of the fence | Theological Phrase |
-| Разорити | To destroy | Theological Verb |
-| Саставити руке и срца | To join together hands and hearts | Theological Phrase |
-| Жива истина | Living truth | Theological |
-| Ваплоћена истина | Truth incarnate | Theological |
-| Сен законска | Shadow of the Law | Theological |
-| Заменити истину | To replace the truth | Theological Verb |
-| Показати живу истину | To show the living truth | Theological Verb |
-| Свет виде и обрадова се | The world saw and rejoiced | Theological Phrase |
-| Преблаги Искупитељ | Most good Redeemer | Theological |
-| Ујединити срца | To unite hearts | Spiritual Verb |
-| Св. Јован Златоуст | Saint John Chrysostom | Saint Name |
-| Секунд | Secundus | Personal Name |
-| Војвода | Commander | Title |
-| Антуса | Anthusa | Personal Name |
-| Грчка филозофија | Greek philosophy | Phrase |
-| Згнушати се | To be disgusted | Verb |
-| Грчко незнабоштво | Greek paganism | Theological |
-| Усвојити веру | To embrace the faith | Spiritual Verb |
-| Свецела истина | Complete truth | Theological |
-| Мелетије патријарх | Meletius, Patriarch | Personal Name |
-| Примити крштење | To receive baptism | Spiritual Verb |
-| О свештенству | On the Priesthood | Book Title |
-| Проричити | To prophesy | Spiritual Verb |
-| Велика служба | Great service | Hagiographic Phrase |
-| Посвећен за свештеника | Ordained as a priest | Church Title |
-| Истовремено | Simultaneously | Adverb |
-| Патријарх Флавијан | Patriarch Flavian | Personal Name |
-| Бео светли голуб | White radiant dove | Phrase |
-| Сила речи | Power of speech | Phrase |
-| По жељи цара | At the wish of the emperor | Phrase |
-| Цар Аркадије | Emperor Arcadius | Personal Name |
-| Несравњива ревност | Incomparable zeal | Hagiographic Phrase |
-| Послати мисионаре | To send missionaries | Ecclesiological Verb |
-| Келти | Celts | Historical |
-| Скити | Scythians | Historical |
-| Сузбити симонију | To suppress simony | Ecclesiological Verb |
-| Симонија | Simony | Ecclesiological |
-| Збацити епископе | To depose bishops | Ecclesiological Verb |
-| Симонисти | Simonists | Ecclesiological |
-| Раширити делатност | To expand activity | Verb |
-| Милосрдна делатност | Merciful activity | Ecclesiological Phrase |
-| Нарочити чин | Particular order | Liturgical |
-| Чин свете Литургије | Order of the Holy Liturgy | Liturgical |
-| Постидити јеретике | To shame the heretics | Ecclesiological Verb |
-| Царица Евдоксија | Empress Eudoxia | Personal Name |
-| Растумачити | To expound | Verb |
-| Златни ум | Golden mind | Hagiographic Phrase |
-| Златни језик | Golden tongue | Hagiographic Phrase |
-| Драгоцене књиге | Precious books | Phrase |
-| Беседе | Homilies | Ecclesiological |
-| Завидљивци | The envious | Phrase |
-| Два пут | Twice | Phrase |
-| Крстов дан | Day of the Cross | Feast |
-| Команa | Comana | Geographical |
-| Св. муч. Василиск | Saint Martyr Basiliscus | Saint Name |
-| Последње причешће | Last communion | Liturgical |
-| Слава Богу за све | Glory to God for all things | Devotional Phrase |
-| Последње речи | Last words | Phrase |
-| Златоусти патријарх | Golden-mouthed patriarch | Saint Title |
-| Успенски храм | Dormition Cathedral | Geographical |
-| Москва | Moscow | Geographical |
-| Ватикан | Vatican | Geographical |
-| Св. муч. Антонин | Holy Martyr Antoninus | Saint Name |
-| Никифор | Nicephorus | Saint Name |
-| Герман | Germanus | Saint Name |
-| Манета | Manita | Saint Name |
-| Клањати се идолима | To worship idols | Theological Phrase |
-| Са виком и игром | With shouting and dancing | Phrase |
-| Неустрашиво | Fearlessly | Adverb |
-| Проповедати Бога у Тројици | To preach God in Trinity | Theological Verb |
-| Началник | Governor | Title |
-| Кесарија Палестинска | Palestinian Caesarea | Geographical |
-| Фирмилијан | Firmilian | Personal Name |
-| Раздражити се | To be enraged | Verb |
-| Поступак | Action | Phrase |
-| Девица хришћанка | Christian virgin | Hagiographic Phrase |
-| Следовати за мученицима | To follow the martyrs | Hagiographic Verb |
-| Вођаху | Were being led | Verb |
-| Љуте истјазања | Cruel interrogations | Martyrdom Phrase |
-| Спалити на огњу | To burn in the fire | Martyrdom Verb |
-| Радост вечна | Eternal joy | Theological |
-| Бог вечни | Eternal God | Theological |
-| Преп. муч. Дамаскин | Venerable Martyr Damascene | Saint Name |
-| Галата | Galata | Geographical |
-| Дијаманди | Diamandi | Personal Name |
-| Неморално живети | To live immorally | Phrase |
-| Потурчити се | To convert to Islam | Verb |
-| Горко кајање | Bitter repentance | Spiritual Phrase |
-| Лавра св. Атанасија | Lavra of Saint Athanasius | Geographical |
-| Жељан мучеништва | Desiring martyrdom | Hagiographic Phrase |
-| Очишћење греха | Cleansing of sin | Spiritual Phrase |
-| Ићи по џамијама | To go about the mosques | Phrase |
-| Џамија | Mosque | Geographical |
-| Крстити се | To cross oneself | Liturgical Verb |
-| Викати Турцима | To shout to the Turks | Phrase |
-| Турци | Turks | Historical |
-| Лажна вера | False faith | Theological |
-| Пред капијом Фанара | Before the gate of Phanar | Geographical |
-| Фанар | Phanar | Geographical |
-| Халки | Halki | Geographical |
-| Ман. св. Тројице | Monastery of the Holy Trinity | Geographical |
-| Златоуст Богом дарован | Chrysostom bestowed by God | Hagiographic Phrase |
-| Понос и дика | Pride and glory | Hagiographic Phrase |
-| Дубок срца и ума | Deep of heart and mind | Hagiographic Phrase |
-| Харфа златоструна | Golden-stringed harp | Hagiographic Phrase |
-| Поронити у дубине | To plunge into depths | Verb |
-| Уловити бисер | To catch a pearl | Verb |
-| Бисер звездосјајни | Star-bright pearl | Phrase |
-| Дићи се у висине | To rise to the heights | Verb |
-| Објаснити истине | To make clear truths | Verb |
-| Божанске истине | Divine truths | Theological |
-| Сагледати дужину историје | To survey the length of history | Phrase |
-| Дати Божијему Сину | To give to God's Son | Theological Phrase |
-| Открити греховне ужасе | To reveal sinful horrors | Spiritual Phrase |
-| Греховни ужаси | Sinful horrors | Spiritual Phrase |
-| Врлине што красе човека | Virtues that adorn man | Hagiographic Phrase |
-| Најмилије тајне | Dearest mysteries | Phrase |
-| Сласти Раја | Delights of Paradise | Theological Phrase |
-| Милобајни | Most gentle | Adjective |
-| Јеванђелист | Evangelist | Saint Title |
-| Тумач Јеванђеља | Interpreter of the Gospel | Saint Title |
-| Носилац весеља | Bearer of joy | Saint Title |
-| Духовно весеље | Spiritual joy | Spiritual Phrase |
-| Ревновати за Христа | To be zealous for Christ | Spiritual Verb |
-| Ни уз какву неправду не пристати | To consent to no injustice | Phrase |
-| Примити мучење | To receive torment | Martyrdom Verb |
-| Залог за спасење | Pledge for salvation | Theological Phrase |
-| Христов слуга прави | Christ's true servant | Hagiographic Phrase |
-| Казна и награда | Punishment and reward | Theological |
-| У Божјим рукама | In God's hands | Theological Phrase |
-| Сенка правога живота | Shadow of the true life | Theological Phrase |
-| Права казна | True punishment | Theological |
-| Права награда | True reward | Theological |
-| Главни гонитељи | Chief persecutors | Phrase |
-| Теофил патријарх | Theophilus, Patriarch | Personal Name |
-| Мученичка смрт | Martyric death | Martyrdom |
-| Постићи казна | To be struck by punishment | Phrase |
-| Љута казна | Severe punishment | Phrase |
-| Полудети | To go mad | Verb |
-| Истерати из двора | To drive from the palace | Verb |
-| Неизлечива болест | Incurable disease | Phrase |
-| Ране се отворише | Wounds opened | Phrase |
-| Црви закипеше | Worms swarmed | Phrase |
-| Смрад | Stench | Phrase |
-| Распростирати се | To spread | Verb |
-| Проћи улицом | To pass along the street | Phrase |
-| Мириси | Fragrances | Phrase |
-| Аромати | Aromatics | Phrase |
-| Кадила | Incense | Liturgical |
-| Колико толико | Somehow | Phrase |
-| Скверна царица | Vile empress | Phrase |
-| Смрад и муке | Stench and torments | Phrase |
-| Божја рука тежаше | God's hand weighed upon | Phrase |
-| Ковчег | Coffin | Phrase |
-| Тресати се | To shake | Verb |
-| Читавих 34 године | A full thirty-four years | Temporal Phrase |
-| Цар Теодосије | Emperor Theodosius | Personal Name |
-| Аделтије | Adelphius | Personal Name |
-| Епископ Арабски | Bishop of Arabia | Church Title |
-| Златоуст изгнаник | Chrysostom the exile | Phrase |
-| Кукус | Cucusus | Geographical |
-| Јавити где се налази | To reveal where is located | Verb |
-| Душа Јованова | John's soul | Phrase |
-| Бити ван себе | To be beside oneself | Idiom |
-| Јуноша светли | Radiant youth | Phrase |
-| Водити по небесима | To lead through the heavens | Phrase |
-| Показивати редом | To show in order | Phrase |
-| Јерархе | Hierarchs | Church Title |
-| Називајући по имену | Calling by name | Phrase |
-| Излазак из Раја | Exit from Paradise | Theological |
-| Љубимог учитеља | Beloved teacher | Phrase |
-| Док је у телу | While in the body | Phrase |
-| Код Божјег престола | At God's throne | Theological Phrase |
-| Заједно са Херувимима | Together with the Cherubim | Angelic Phrase |
-| Чудесно створење света | Wondrous creation of the world | Theological |
-| Постање | Genesis | Biblical Book |
-| У почетку | In the beginning | Biblical Phrase |
-| Створити небо и земљу | To create heaven and earth | Theological Verb |
-| Без вида и устројства | Without form and void | Biblical Phrase |
-| Носити се над водом | To move upon the waters | Biblical Phrase |
-| Темељ | Foundation | Theological |
-| Камен крајеугаони | Cornerstone | Theological |
-| Камен од угла | Corner stone | Theological |
-| Темељ апостола и пророка | Foundation of apostles and prophets | Theological |
-| Живот и рад | Life and work | Phrase |
-| Стари и Нови Завет | Old and New Testament | Biblical |
-| Спајати | To join together | Theological Verb |
-| Испуњење пророка | Fulfillment of the prophets | Theological |
-| Сведочанство апостола | Testimony of the apostles | Theological |
-| Угаони камен | Cornerstone | Theological |
-| Везивати | To bind together | Theological Verb |
-| Држати уједно | To hold together | Theological Verb |
-| Угаони каменови | Cornerstones | Theological |
-| Дуварови | Walls | Phrase |
-| Уједињавати се | To be united | Theological Verb |
-| Налазити смисао | To find meaning | Theological Verb |
-| Окретати се око | To turn around | Theological Verb |
-| Надахњавати се | To be inspired by | Theological Verb |
-| Држати се | To be held together by | Theological Verb |
-| Састати се | To meet | Verb |
-| Разумети се | To understand each other | Verb |
-| Сједињавати се | To be united | Theological Verb |
-| Свету и саборну цркву | Holy and catholic Church | Ecclesiological |
-| Више пријатељство | Higher friendship | Theological |
-| Свето пријатељство | Holy friendship | Theological |
-| Веза душе и тела | Bond of soul and body | Theological |
-| Непријатељска веза | Hostile bond | Theological |
-| Долазак у телу | Coming in the flesh | Theological |
-| Непријатељство | Hostility | Theological |
-| Пагуба душе | Destruction of the soul | Theological |
-| Измирити | To reconcile | Theological Verb |
-| Осветити | To sanctify | Theological Verb |
-| Богоугодно зидање | God-pleasing building | Theological |
-| Тицати се | To concern | Verb |
-| Појединог човека | Individual man | Phrase |
-| Породица | Family | Phrase |
-| Свуколики род човечји | Entire human race | Phrase |
-| Садашњост | Present | Phrase |
-| Прошлост | Past | Phrase |
-| Будућност | Future | Phrase |
-| Старозаветни | Old Testament (adj.) | Theological |
-| Новозаветни | New Testament (adj.) | Theological |
-| Главна стена | Chief stone | Theological |
-| Зидање | Building | Theological |
-| Тело цркве | Body of the Church | Ecclesiological |
-| Стена спасења | Rock of salvation | Theological |
-| Помиловати | To have mercy | Spiritual Verb |
-| Св. апостол Филип | Holy Apostle Philip | Saint Name |
-| Витсаида | Bethsaida | Geographical |
-| Језеро Галилејско | Sea of Galilee | Geographical |
-| Од малена | From childhood | Temporal Phrase |
-| Научен Св. Писму | Taught Holy Scripture | Phrase |
-| Одазвати се позиву | To respond to the call | Spiritual Verb |
-| Силазак Св. Духа | Descent of the Holy Spirit | Feast |
-| Стране Азије | Regions of Asia | Geographical |
-| Архијереј јеврејски | Jewish high priest | Title |
-| Устремити се | To rush at | Verb |
-| Наједанпут | Suddenly | Adverb |
-| Поцрнети | To turn black | Verb |
-| Земљотрес | Earthquake | Phrase |
-| Раступити се | To open (earth) | Verb |
-| Прогутати | To swallow up | Verb |
-| Злобни гонитељи | Malicious persecutors | Phrase |
-| Исцелења болних | Healings of the sick | Phrase |
-| Фригијски град | Phrygian city | Geographical |
-| Јераполj | Hierapolis | Geographical |
-| Заједнички посао јеванђелски | Common evangelical mission | Ecclesiological Phrase |
-| Јован Богослов | John the Theologian | Saint Name |
-| Маријамна | Mariamne | Saint Name |
-| Вартоломеј апостол | Apostle Bartholomew | Saint Name |
-| Опасна змијурина | Dangerous serpent | Phrase |
-| Храњаху брижљиво | Carefully nourished | Verb |
-| Молитвом као копљем | By prayer as with a spear | Spiritual Phrase |
-| Умртвити | To kill | Verb |
-| Навући гнев | To draw upon oneself wrath | Phrase |
-| Помрачени људи | Darkened people | Phrase |
-| Озлобљени | Enraged | Adjective |
-| Распети наопако | To crucify upside down | Martyrdom Verb |
-| Скинути распетог | To take down the crucified one | Verb |
-| Издахнути | To expire | Death Verb |
-| Постави за епископа | To appoint as bishop | Ecclesiological Verb |
-| Стахије | Stachys | Personal Name |
-| Исцелити од слепила | To heal of blindness | Miracle Verb |
-| 40 година слеп | Blind for forty years | Phrase |
-| Цар Дометијан | Emperor Domitian | Personal Name |
-| Св. Григорије Палама | Saint Gregory Palamas | Saint Name |
-| Архиепископ Солунски | Archbishop of Thessalonica | Church Title |
-| Знатан чиновник | Prominent official | Title |
-| Двор цара | Court of the emperor | Phrase |
-| Цар Андроник II Палеолог | Emperor Andronicus II Palaeologus | Personal Name |
-| Даровити | Gifted | Adjective |
-| Свршити светске науке | To complete secular studies | Phrase |
-| Светске науке | Secular studies | Phrase |
-| Дворска служба | Court service | Phrase |
-| Ватопед | Vatopedi | Geographical |
-| Водити борбу | To wage battle | Verb |
-| Јеретик Варлам | Heretic Barlaam | Personal Name |
-| Митрополит Солунски | Metropolitan of Thessalonica | Church Title |
-| Солун | Thessalonica | Geographical |
-| Прослављен као подвижник | Celebrated as an ascetic | Hagiographic Phrase |
-| Прослављен као богослов | Celebrated as a theologian | Hagiographic Phrase |
-| Прослављен као јерарх | Celebrated as a hierarch | Hagiographic Phrase |
-| Јављати се наизменично | To appear in turn | Verb |
-| Св. Антоније Велики | Saint Anthony the Great | Saint Name |
-| Управљати црквом | To govern the Church | Ecclesiological Verb |
-| Ропство код Сарацена | Captivity among the Saracens | Historical Phrase |
-| Сарацени | Saracens | Historical |
-| Красна црква | Beautiful church | Phrase |
-| Св. Јустинијан цар | Saint Justinian, Emperor | Saint Name |
-| Византијски цар | Byzantine Emperor | Title |
-| Пореклом Словенин | A Slav by origin | Phrase |
-| Вероватно Србин | Probably a Serb | Phrase |
-| Околина Скопља | Region of Skopje | Geographical |
-| Скопље | Skopje | Geographical |
-| Словенско име | Slavic name | Phrase |
-| Управда | Upravda | Personal Name |
-| Наследити на престолу | To succeed to the throne | Verb |
-| Стриц Јустин | Uncle Justin | Personal Name |
-| Свуколика величина | Entire greatness | Phrase |
-| Везан неразделно | Inseparably bound | Phrase |
-| Дубоко веровање | Deep faith | Spiritual Phrase |
-| Православно веровање | Orthodox faith | Theological |
-| Живети по вери | To live according to the faith | Spiritual Phrase |
-| Уз Часни Пост | During Great Lent | Liturgical Phrase |
-| Хранити се зељем | To nourish oneself with vegetables | Phrase |
-| Преко дана | During the day | Temporal Phrase |
-| Заратити против | To wage war against | Verb |
-| Варвари Дунавски | Danube barbarians | Historical |
-| Шкопити заробљенике | To mutilate captives | Verb |
-| Узвишен осећај | Exalted sense | Phrase |
-| Срећан и успешан | Fortunate and successful | Phrase |
-| Велики број храмова | Great number of churches | Phrase |
-| Најлепши од најлепших | Most beautiful of the most beautiful | Phrase |
-| Св. Софија | Hagia Sophia | Geographical |
-| Сабрати законе | To collect laws | Verb |
-| Издати законе | To publish laws | Verb |
-| Римски закони | Roman laws | Historical |
-| Строги закони | Strict laws | Phrase |
-| Неморал | Immorality | Phrase |
-| Распутство | Licentiousness | Phrase |
-| Саставити црквену песму | To compose church hymn | Liturgical Verb |
-| Јединородни Сине и Слове Божји | Only-begotten Son and Word of God | Liturgical Hymn |
-| Појати на литургији | To be sung at the Liturgy | Liturgical Verb |
-| Сазвати Сабор | To convene a Council | Ecclesiological Verb |
-| Пети васељ. Сабор | Fifth Ecumenical Council | Ecclesiological |
-| Васељенски Сабор | Ecumenical Council | Ecclesiological |
-| Цар небески | Heavenly King | Theological |
-| Велики и славни | Great and glorious | Hagiographic Phrase |
-| Витез крста | Knight of the Cross | Hagiographic Title |
-| Православни цар | Orthodox emperor | Title |
-| Подићи храм | To raise a temple | Verb |
-| Божија Мудрост | Divine Wisdom | Theological |
-| Потрајати | To endure | Verb |
-| Праг вечности | Threshold of eternity | Theological Phrase |
-| Друго сунце | Second sun | Phrase |
-| Сјајати на земљи | To shine on earth | Verb |
-| Грејати се | To be warmed | Verb |
-| Нараштаји | Generations | Phrase |
-| Клањати се Ваплоћеном Слову | To worship the Incarnate Word | Theological Phrase |
-| Познати красоту Христову | To know Christ's beauty | Spiritual Phrase |
-| Безмерна висина | Boundless height | Theological |
-| Безмерна дубина | Boundless depth | Theological |
-| Безмерна ширина | Boundless breadth | Theological |
-| Безмерна дужина | Boundless length | Theological |
-| Усред летњег дана | Amid a summer's day | Phrase |
-| Засјати | To shine forth | Verb |
-| Круна | Crown | Phrase |
-| По мудрости понајмудрији | In wisdom the most wise | Phrase |
-| По сили понајсилнији | In power the most powerful | Phrase |
-| По вери понајвернији | In faith the most faithful | Phrase |
-| Никада не старе | Never age | Phrase |
-| Блистати се светом | To shine throughout the world | Verb |
-| Блесак | Radiance | Phrase |
-| Православни Христос | Orthodox Christ | Theological |
-| Одолети времену | To withstand time | Verb |
-| Небеска откровења | Heavenly revelations | Spiritual Phrase |
-| Провести на безмолвију | To spend in silence | Monastic Phrase |
-| Безмолвије | Silence | Monastic |
-| Изаћи међу људе | To go out among people | Phrase |
-| Користити људима | To benefit people | Spiritual Verb |
-| Сабрано знање | Gathered knowledge | Phrase |
-| Ставити до знања | To make known | Verb |
-| Ванредно виђење | Extraordinary vision | Spiritual Phrase |
-| У полусну | Half-asleep | Phrase |
-| Суд препун млека | Vessel full of milk | Phrase |
-| Преливати се | To overflow | Verb |
-| Претворити се у вино | To transform into wine | Verb |
-| Ивице суда | Edges of the vessel | Phrase |
-| Квасити | To moisten | Verb |
-| Дивно пиће | Wondrous drink | Phrase |
-| Траћити без пажње | To waste without care | Phrase |
-| Дар Божје благодати | Gift of God's grace | Theological |
-| Осећати потребу | To feel the need | Phrase |
-| Било не било | Whether or not | Phrase |
-| Жедни | Those who thirst | Phrase |
-| Обвезан | Obliged | Adjective |
-| Испунити дуг | To fulfill duty | Phrase |
-| Пренебрегавати дар | To neglect the gift | Verb |
-| Обична поука | Ordinary instruction | Phrase |
-| Маса народна | Mass of people | Phrase |
-| Морални живот | Moral life | Spiritual Phrase |
-| Владање | Conduct | Phrase |
-| Наука догматског карактера | Teaching of a dogmatic character | Theological Phrase |
-| Затворити се | To shut oneself | Verb |
-| Начела Православља | Principles of Orthodoxy | Book Title |
-| У очи дана | On the eve | Temporal Phrase |
-| Позвати на бденије | To summon to vigil | Liturgical Verb |
-| Бденије | Vigil | Liturgical |
-| Остати при занимању | To remain at occupation | Phrase |
-| Братија | Brethren | Monastic |
-| Савршено безмолвије | Perfect silence | Monastic |
-| Понегда | Sometimes | Adverb |
-| Неопходно | Necessary | Adjective |
-| Општење с братијом | Fellowship with the brethren | Monastic Phrase |
-| Убеђен од откровења | Convinced by revelation | Spiritual Phrase |
-| На радост | To the joy | Phrase |
-| Чудесно стварање | Wondrous creation | Theological |
-| Стварање светлости | Creation of light | Theological |
-| Безоблична земља | Formless earth | Biblical Phrase |
-| Свуда тама | Darkness everywhere | Biblical Phrase |
-| Да буде светлост | Let there be light | Biblical Phrase |
-| Разлучити светлост од таме | To divide light from darkness | Biblical Verb |
-| Би дан и би ноћ | There was day and there was night | Biblical Phrase |
-| Павле сужањ | Paul the prisoner | Saint Name |
-| Сужањ Исуса Христа | Prisoner of Jesus Christ | Hagiographic Phrase |
-| Називати себе | To call oneself | Verb |
-| Сужањ Христов | Prisoner of Christ | Hagiographic Phrase |
-| Сужањ | Prisoner | Phrase |
-| Везан љубављу | Bound by love | Spiritual Phrase |
-| Силно | Powerfully | Adverb |
-| Везан умом | Bound by mind | Spiritual Phrase |
-| Везан вољом | Bound by will | Spiritual Phrase |
-| Чврсто | Firmly | Adverb |
-| Немати своје воље | To have no will of one's own | Spiritual Phrase |
-| Потчинити вољу | To subject one's will | Spiritual Verb |
-| Волети што Христос воли | To love what Christ loves | Spiritual Phrase |
-| Мислити што Христос мисли | To think what Christ thinks | Spiritual Phrase |
-| Деловати што Христос хоће | To do what Christ wills | Spiritual Phrase |
-| Сужанство | Bondage | Spiritual |
-| Блажено сужанство | Blessed bondage | Spiritual Phrase |
-| Не на срам но на славу | Not unto shame but unto glory | Phrase |
-| Не на пропаст но на спасење | Not unto destruction but unto salvation | Theological Phrase |
-| Потпуни господар | Complete master | Phrase |
-| Споља и унутра | Externally and internally | Phrase |
-| Попуштати искушења | To permit temptations | Spiritual Verb |
-| Откривати чудеса промисла | To reveal wonders of providence | Spiritual Phrase |
-| Руководити ка добру | To guide toward good | Spiritual Verb |
-| Савршено добро | Perfect good | Theological |
-| Предати се Господу | To surrender to the Lord | Spiritual Verb |
-| Попут апостола | Like the apostles | Phrase |
-| Најсигурније руке | Most secure hands | Theological Phrase |
-| Најсигурнији пут | Most secure path | Theological Phrase |
-| Везати уза Се | To bind to Thyself | Spiritual Verb |
-| Заробити Себи | To take captive to Thyself | Spiritual Verb |
-| За увек | Forever | Phrase |
-| У оба света | In both worlds | Theological Phrase |
-| Св. муч. Гурије | Holy Martyr Gurias | Saint Name |
-| Самон | Samonas | Saint Name |
-| Авив | Abibus | Saint Name |
-| Угледни грађани | Distinguished citizens | Phrase |
-| Едеса | Edessa | Geographical |
-| Гоњење на хришћане | Persecution of Christians | Historical Phrase |
-| Склонити се ван града | To hide outside the city | Verb |
-| Храбрити правоверне | To encourage the faithful | Spiritual Verb |
-| Притицати за савет | To come for counsel | Verb |
-| Припретити смрћу | To threaten with death | Martyrdom Verb |
-| Покорити се наредби | To submit to the decree | Verb |
-| Наредба царска | Imperial decree | Historical Phrase |
-| Поклоњење идолима | Worshiping idols | Theological Phrase |
-| Пропасти | To perish | Verb |
-| Тескоба | Distress | Phrase |
-| Непоколебљиви | Unshaken | Adjective |
-| Осудити на смрт | To condemn to death | Martyrdom Verb |
-| Цар Ликиније | Emperor Licinius | Personal Name |
-| Авив ђакон | Abibus, Deacon | Saint Name |
-| У пламену | In the flames | Martyrdom Phrase |
-| Извадити из огња | To extract from the fire | Verb |
-| Целосно тело | Body whole | Phrase |
-| Престати гоњење | Persecution ceased | Historical Phrase |
-| Подићи храм | To erect a church | Ecclesiological Verb |
-| У част | In honor | Phrase |
-| Положити у ковчег | To place in coffin | Verb |
-| Нарочито знаменито | Particularly notable | Phrase |
-| Ћерка девојка | Virgin daughter | Phrase |
-| Гот војник | Gothic soldier | Historical |
-| Грчка војска | Greek army | Historical |
-| Бојати се да да | To fear to give | Verb |
-| Далека земља | Distant land | Phrase |
-| Заклети се на гробу | To swear at the tomb | Verb |
-| Законита жена | Lawful wife | Phrase |
-| Нежењен | Unmarried | Adjective |
-| У ствари | In fact | Phrase |
-| Постојбина | Homeland | Geographical |
-| Држати као робињу | To keep as a slave | Verb |
-| Робиња | Slave woman | Phrase |
-| Законита жена | Lawful wife | Phrase |
-| У договору | In agreement | Phrase |
-| Сродници | Relatives | Phrase |
-| Закопати | To bury | Verb |
-| Жива робиња | Living slave woman | Phrase |
-| С плачем | With tears | Phrase |
-| Молити се да спасе | To pray to save | Spiritual Verb |
-| Јавити се у гробу | To appear in the tomb | Phrase |
-| Тренутно | Instantly | Adverb |
-| Пренети | To transport | Verb |
-| Готска земља | Gothic land | Geographical |
-| Чудесно избављење | Miraculous deliverance | Phrase |
-| Св. муч. Елпидије | Holy Martyr Elpidius | Saint Name |
-| Маркел | Marcellus | Saint Name |
-| Евстохије | Eustochius | Saint Name |
-| Јулијан Одступник | Julian the Apostate | Personal Name |
-| Сенатор | Senator | Title |
-| Чудеса Елпидијева | Miracles of Elpidius | Phrase |
-| 6000 незнабожаца | Six thousand pagans | Phrase |
-| Икона св. Богородице | Icon of the Holy Theotokos | Liturgical |
-| Купјатицка икона | Icon of Kupyatichi | Liturgical |
-| Девојчица Ана | Girl named Anna | Personal Name |
-| Село Купјатичу | Village of Kupyatichi | Geographical |
-| Минска губернија | Minsk province | Geographical |
-| Чувајући стадо | Guarding the flock | Phrase |
-| Светлост у шуми | Light in the forest | Phrase |
-| Приближити се | To approach | Verb |
-| Осредњи крст | Medium-sized cross | Phrase |
-| Лик Пресвете Богородице | Image of the Most Holy Theotokos | Liturgical |
-| Однети дома | To carry home | Verb |
-| Вратити се стаду | To return to the flock | Verb |
-| На велико чудо | To great wonder | Phrase |
-| Метнути у недра | To place in bosom | Verb |
-| Завући руку | To reach (into) | Verb |
-| Исприча све | To tell everything | Verb |
-| Узбунити село | To alarm the village | Verb |
-| Сељаци | Villagers | Phrase |
-| Поклонити се крсту | To bow down to cross | Liturgical Verb |
-| Убрзо | Soon | Adverb |
-| Сазидати цркву | To build a church | Ecclesiological Verb |
-| Пројавити се | To be manifested | Miracle Verb |
-| Чудесни крст | Miraculous cross | Liturgical |
-| Изображење Богоматере | Image of the Mother of God | Liturgical |
-| Црква св. Софије | Church of Saint Sophia | Geographical |
-| Кијев | Kiev | Geographical |
-| Богоневеста | Bride of God | Theological |
-| Телесни престо | Bodily throne | Theological |
-| Носити Цара славе | To bear the King of glory | Theological Phrase |
-| Родити Живодавца | To give birth to the Life-giver | Theological Phrase |
-| Свет мртав | Dead world | Theological |
-| Крвљу светом | By holy Blood | Theological |
-| Избавити свет | To redeem the world | Theological Verb |
-| Славно прославити | To gloriously glorify | Theological Verb |
-| Права слава | True glory | Theological |
-| Седети с десне стране | To sit at the right hand | Theological Phrase |
-| До Самог Христа | Next to Christ Himself | Theological Phrase |
-| Зраци славе | Rays of glory | Theological |
-| Спуштати се к земљи | To descend to earth | Verb |
-| Путници | Travelers | Phrase |
-| Сијати у ноћ | To shine in the night | Verb |
-| У све векове | Throughout all ages | Phrase |
-| Први храм | First temple | Theological |
-| Дивни храм | Wondrous temple | Theological |
-| Миротворци | Peacemakers | Virtue |
-| Победа у рату | Victory in war | Phrase |
-| Скинути повез са очију | To remove bandage from eyes | Phrase |
-| Проглашен за краља | Proclaimed king | Historical Phrase |
-| Властела | Nobility | Historical |
-| Константин | Constantine | Personal Name |
-| Симонидин син | Simonida's son | Phrase |
-| Млађи брат по оцу | Younger brother by father | Phrase |
-| Дићи војску | To raise an army | Verb |
-| Прогледати | To receive sight | Miracle Verb |
-| Промисао Божји | God's Providence | Theological |
-| Стројити све на добро | To order all things for good | Theological Phrase |
-| Помилован Богом | Pardoned by God | Theological Phrase |
-| Наследити престо | To inherit the throne | Verb |
-| Престо родитељски | Ancestral throne | Historical Phrase |
-| Владати над људима | To rule over people | Verb |
-| Страх Божји | Fear of God | Theological |
-| По примеру предака | According to the example of forefathers | Phrase |
-| Одустати од предузећа | To desist from undertaking | Verb |
-| Друго место у држави | Second place in the state | Phrase |
-| Други син | Second son | Phrase |
-| Устати с туђинима | To rise with foreigners | Verb |
-| Отечество | Fatherland | Geographical |
-| Пространа земља | Spacious land | Geographical |
-| Каин братоубица | Cain the fratricide | Biblical |
-| Братољубиви Јосиф | Brother-loving Joseph | Biblical |
-| Ја сам Божји | I am God's | Biblical Phrase |
-| Умишљали зло | Thought evil | Biblical Phrase |
-| Устројити добро | To arrange for good | Biblical Phrase |
-| Претендент на престо | Pretender to the throne | Historical |
-| Михаил Шишман | Michael Shishman | Personal Name |
-| Бугарски цар | Bulgarian emperor | Title |
-| Појмити значење | To understand the meaning | Verb |
-| Љубав хришћанска | Christian love | Theological |
-| Умирити гнев | To calm wrath | Verb |
-| Престати пролевати крв | To cease spilling blood | Verb |
-| Хришћанска крв | Christian blood | Phrase |
-| Окренути оружје | To turn weapons | Verb |
-| Непријатељи имена Христова | Enemies of Christ's name | Theological Phrase |
-| Опоменути се | To remind oneself | Verb |
-| Одговарати за крв | To answer for blood | Phrase |
-| Невина крв | Innocent blood | Phrase |
-| Отимати туђе | To seize what belongs to another | Verb |
-| Губити своје | To lose one's own | Verb |
-| Наругати се | To mock | Verb |
-| До ноге потучен | Utterly defeated | Phrase |
-| Велбужд | Velbužd | Geographical |
-| Бог је са праведним | God is with the righteous | Theological Phrase |
-| Са силним | With the mighty | Phrase |
-| Свод између вода | Firmament between the waters | Biblical |
-| Раставити воду | To divide the water | Biblical Verb |
-| Вода под сводом | Water under the firmament | Biblical |
-| Вода над сводом | Water above the firmament | Biblical |
-| Назвати свод | To call the firmament | Biblical Verb |
-| Објава премудрости | Revelation of wisdom | Theological |
-| Силе небеске | Heavenly powers | Angelic |
-| Обзнанити | To make known | Verb |
-| Начала | Principalities | Angelic |
-| Власти на небесима | Powers in heavenly places | Angelic |
-| Многоразлична премудрост | Manifold wisdom | Theological |
-| Свезнајући | All-knowing | Adjective |
-| Прекрасне слуге Божје | Most beautiful servants of God | Angelic Phrase |
-| Тајна Ваплоћења | Mystery of the Incarnation | Theological |
-| Пре него се збила | Before it took place | Temporal Phrase |
-| Непознате ангелима | Unknown to the angels | Phrase |
-| Објављене у Цркви | Revealed in the Church | Ecclesiological Phrase |
-| Ново откровење | New revelation | Theological |
-| Нова пројава | New manifestation | Theological |
-| Богољубље | Love for God | Spiritual |
-| Снизити се | To humble Himself | Theological Verb |
-| Уздићи се | To be exalted | Theological Verb |
-| Врхови ангелски | Angelic heights | Angelic |
-| Унапред | Beforehand | Adverb |
-| Раније непројављена | Not previously manifested | Theological Phrase |
-| Безбројни облици | Countless forms | Phrase |
-| Прилике | Circumstances | Phrase |
-| Случајеви | Occasions | Phrase |
-| Два највећа дела | Two greatest works | Phrase |
-| До сад пројављена | Thus far revealed | Phrase |
-| Стварање света | Creation of the world | Theological |
-| Стварање цркве | Creation of the Church | Ecclesiological |
-| Главни предмет | Chief object | Phrase |
-| Сваким дахом | With every breath | Phrase |
-| Преблагодарни | Most grateful | Adjective |
-| Боже благи | Good God | Theological |
-| Боже милосрдни | Merciful God | Theological |
-| Св. апостол Матеј | Holy Apostle Matthew | Saint Name |
-| Матеј Јеванђелист | Matthew the Evangelist | Saint Name |
-| Син Алфејев | Son of Alphaeus | Biblical |
-| Цариник | Tax collector | Title |
-| Закупац пореза | Tax farmer | Title |
-| Скупљач пореза | Tax collector | Title |
-| Митар | Publican | Title |
-| Капернаум | Capernaum | Geographical |
-| Хајде за мном | Follow me | Biblical Phrase |
-| Уставши отиде | He arose and followed | Biblical Phrase |
-| Приредити дочек | To prepare a reception | Verb |
-| Дати повод | To give occasion | Phrase |
-| Искажати истине | To declare truths | Verb |
-| Партија | Parthia | Geographical |
-| Мидија | Media | Geographical |
-| Етиопија | Ethiopia | Geographical |
-| Земља црначка | Land of black people | Geographical |
-| Постави за епископа | To appoint as bishop | Ecclesiological Verb |
-| Платон | Plato | Personal Name |
-| Следбеник | Follower | Phrase |
-| Повући се у самоћу | To withdraw into solitude | Monastic Verb |
-| Молитвена самоћа | Prayerful solitude | Monastic |
-| Расрдити се | To become angry | Verb |
-| Послати стражу | To send a guard | Verb |
-| Довести на суд | To bring for judgment | Verb |
-| Чути глас | To hear voice | Phrase |
-| Никако не моћи | Could in no way | Phrase |
-| Приближити се | To approach | Verb |
-| Облистати | To envelop | Verb |
-| Светлост небеска | Heavenly light | Phrase |
-| Силна светлост | Powerful light | Phrase |
-| Испуњени страхом | Filled with fear | Phrase |
-| Бацити оружје | To throw down weapons | Verb |
-| Засијати | To shine | Verb |
-| Блесак | Radiance | Phrase |
-| Милостива срца | Merciful of heart | Hagiographic Phrase |
-| Телесне очи | Bodily eyes | Phrase |
-| Духовне очи | Spiritual eyes | Spiritual Phrase |
-| Ухватити | To seize | Verb |
-| Ставити на муке | To subject to tortures | Martyrdom Verb |
-| У два маха | Twice | Phrase |
-| Ложити огањ | To kindle fire | Verb |
-| На прсима | On chest | Martyrdom Phrase |
-| Сила Господња | Lord's power | Theological |
-| Неповређен | Unharmed | Adjective |
-| Оловни сандук | Lead coffin | Phrase |
-| Изнети сандук | To bring up coffin | Verb |
-| Ново чудо | New miracle | Phrase |
-| Сујета светска | Worldly vanity | Spiritual Phrase |
-| Чин презвитерски | Priestly rank | Church Title |
-| Богоугодно послужити | To serve in God-pleasing manner | Spiritual Verb |
-| Усаветовати | To counsel | Verb |
-| Примити епископства | To accept episcopacy | Ecclesiological Verb |
-| Пастир добри | Good shepherd | Ecclesiological Title |
-| Царство бесмртно | Immortal Kingdom | Theological |
-| Написати Јеванђеље | To write Gospel | Phrase |
-| Јеврејски језик | Hebrew language | Phrase |
-| Грчки језик | Greek language | Phrase |
-| Изгубити се | To be lost | Verb |
-| Никада није јео месо | Never ate meat | Hagiographic Phrase |
-| Хранити се поврћем | To nourish with vegetables | Phrase |
-| Хранити се воћем | To nourish with fruit | Phrase |
-| Преп. Сергије Малопинежски | Venerable Sergius of Malopinega | Saint Name |
-| Руски парохијски свештеник | Russian parish priest | Church Title |
-| Парохијски свештеник | Parish priest | Church Title |
-| Вологодска губернија | Vologda province | Geographical |
-| 92 године | Ninety-two years | Phrase |
-| Земља црначка | Land of black people | Geographical |
-| Утеха борцу | Comfort to warrior | Hagiographic Phrase |
-| Борац мученом | Tortured warrior | Hagiographic Phrase |
-| Душа јуначка | Heroic soul | Hagiographic Phrase |
-| Штап из руке | Staff from hand | Phrase |
-| Малена црква | Small church | Phrase |
-| Посадити | To plant | Verb |
-| Озеленети | To turn green | Verb |
-| Цвет разне боје | Flowers of various colors | Phrase |
-| Плод сладак | Sweet fruit | Phrase |
-| Свако да се слади | That everyone might delight | Phrase |
-| Из корена | From the root | Phrase |
-| Извор воде хладне | Spring of cold water | Phrase |
-| Жедном прија | Pleasing to the thirsty | Phrase |
-| Умити се | To wash | Verb |
-| Хвалу изрећи | To utter praise | Verb |
-| Сјајем чудним | With wondrous radiance | Phrase |
-| Поникнути | To sprout | Verb |
-| Украсити се цветом | To adorn with flowers | Verb |
-| Жива вода | Living water | Biblical |
-| Жиле | Veins | Phrase |
-| Многобројан свет | Numerous people | Phrase |
-| Болестан | Sick | Adjective |
-| Исцељење примити | To receive healing | Miracle Verb |
-| Здрав | Healthy | Adjective |
-| Постати здравији | To become healthier | Verb |
-| Црнац | Black man | Phrase |
-| Црно лице | Black face | Phrase |
-| Прекрасним учинити | To make most beautiful | Verb |
-| Дивљи народ | Wild people | Phrase |
-| Виноград Божији | God's vineyard | Biblical |
-| Чудесно дрво | Wondrous tree | Phrase |
-| Да ли га је нама | Have we it | Phrase |
-| Дрво Живота | Tree of Life | Biblical |
-| Њим се спасавамо | By Him we are saved | Theological Phrase |
-| Непрестана молитва | Unceasing prayer | Spiritual |
-| Важити за монахе | To apply to monks | Phrase |
-| Важити за све хришћане | To apply to all Christians | Phrase |
-| Без престанка | Without ceasing | Spiritual Phrase |
-| Од речи до речи | Word for word | Phrase |
-| Издати заповест | To issue commandment | Verb |
-| Без разлике | Without distinction | Phrase |
-| Мирјанин | Layman | Ecclesiological |
-| Верија | Veroia | Geographical |
-| Знатан подвижник | Notable ascetic | Saint Title |
-| Старац Јов | Elder Job | Personal Name |
-| У присуству | In the presence of | Phrase |
-| Наводити речи | To cite words | Verb |
-| Тврдити | To assert | Verb |
-| Дужност | Duty | Phrase |
-| Одговарајући | Answering | Verb |
-| Као млађи | As the younger | Phrase |
-| Уступити | To yield | Verb |
-| Не хтети спорити | Not wish to argue | Phrase |
-| Ћутке се удаљити | To withdraw silently | Verb |
-| Стати на молитву | To stand in prayer | Spiritual Verb |
-| Небеска слава | Heavenly glory | Angelic Phrase |
-| Не сумњати | To doubt not | Verb |
-| Истинитост речи | Truth of words | Phrase |
-| Право рекао | Spoke rightly | Phrase |
-| Тако умуј | Thus think thou | Phrase |
-| Другима предај | Teach others | Verb |
-| Потврдити заповест | To confirm commandment | Verb |
-| Морати молити се | Must pray | Spiritual Verb |
-| На сваком месту | In every place | Phrase |
-| У свако време | At all times | Temporal Phrase |
-| Унутра у срцу | Within the heart | Spiritual Phrase |
-| Ни за тренутак | Not for a moment | Temporal Phrase |
-| Не уморити се | Not to weary | Verb |
-| Благодарити | To thank | Spiritual Verb |
-| Трећег дана | On the third day | Temporal Phrase |
-| Одели суву земљу | To separate dry land | Biblical Verb |
-| Нареди земљи | To command the earth | Biblical Verb |
-| Пустити из себе | To bring forth from itself | Biblical Verb |
-| Родно дрвеће | Fruit-bearing trees | Biblical |
-| По речи Божјој | According to God's word | Biblical Phrase |
-| Би добро | It was good | Biblical Phrase |
-| Усељење Христа | Indwelling of Christ | Theological |
-| Усели се вјером | To dwell by faith | Theological Verb |
-| Укоријењени | Rooted | Theological |
-| Утемељени | Grounded | Theological |
-| Са вером долази Христос | With faith comes Christ | Spiritual Phrase |
-| Са Христом љубав | With Christ, love | Spiritual Phrase |
-| Укорењивати се | To be rooted | Theological Verb |
-| Утемељивати се | To be grounded | Theological Verb |
-| Присуство Христово | Presence of Christ | Theological |
-| Присуство љубави | Presence of love | Theological |
-| Блага неисказана | Blessings ineffable | Theological Phrase |
-| Указивати степеницу | To show the ladder | Phrase |
-| Степеница ка савршенству | Ladder toward perfection | Spiritual Phrase |
-| Почетак | Beginning | Phrase |
-| Завршетак | End | Phrase |
-| Живо јединство | Living unity | Theological |
-| Нераздељиво јединство | Indivisible unity | Theological |
-| Јачање вере | Strengthening of faith | Spiritual Phrase |
-| Убијати раздаљину | To diminish distance | Spiritual Verb |
-| Што јача вера | The stronger the faith | Spiritual Phrase |
-| То ближи Христос | The nearer Christ | Spiritual Phrase |
-| Испуњава се Христом | Is filled with Christ | Spiritual Phrase |
-| Не може се одвојити | Cannot be separated | Spiritual Phrase |
-| Плућа од ваздуха | Lungs from air | Phrase |
-| Сузе радости | Tears of joy | Phrase |
-| Општити са Христом | To commune with Christ | Spiritual Verb |
-| Помилуј ме грешнога | Have mercy on me a sinner | Prayer |
-| Неосетно | Imperceptibly | Adverb |
-| Топла љубав | Warm love | Spiritual Phrase |
-| Сједињавати се | To be united | Theological Verb |
-| Губити се граница | Boundary disappears | Phrase |
-| Мишљу одредити | To determine in thought | Phrase |
-| Докле иде вера | Where faith ends | Spiritual Phrase |
-| Одакле почиње | Where begins | Phrase |
-| Живи Христос | Living Christ | Theological |
-| Не именовати | Not to name | Verb |
-| Само Христа видети | To see Christ only | Spiritual Phrase |
-| Воћар | Fruit grower | Phrase |
-| У јесен | In autumn | Temporal Phrase |
-| Зрео род | Ripe fruit | Phrase |
-| Цвет и лист | Flower and leaf | Phrase |
-| Врховна висина | Supreme height | Theological |
-| Напори | Endeavors | Phrase |
-| Последња станица | Final station | Theological |
-| Путовања | Journeys | Phrase |
-| Приближи нам се | Draw near to us | Prayer |
-| Св. Григорије Чудотворац | Saint Gregory the Wonderworker | Saint Name |
-| Еп. Неокесаријски | Bishop of Neocaesarea | Church Title |
-| Неокесарија | Neocaesarea | Geographical |
-| Силни чудотворац | Mighty wonderworker | Hagiographic Title |
-| Други Мојсеј | Second Moses | Hagiographic Title |
-| Незнабожни родитељи | Pagan parents | Phrase |
-| Знатни и богати | Notable and wealthy | Phrase |
-| Филозофија јелинска | Greek philosophy | Phrase |
-| Филозофија мисирска | Egyptian philosophy | Phrase |
-| Штурост | Barrenness | Phrase |
-| Недовољност | Insufficiency | Phrase |
-| Обратити се учитељима | To turn to teachers | Spiritual Verb |
-| Хришћански учитељи | Christian teachers | Phrase |
-| Ориген | Origen | Personal Name |
-| Чист душом и телом | Pure in soul and body | Hagiographic Phrase |
-| Посветити себе Богу | To dedicate oneself to God | Spiritual Verb |
-| Удаљити се у пустињу | To withdraw into desert | Monastic Verb |
-| Мучни подвизи | Arduous struggles | Monastic Phrase |
-| Провести дуго времена | To spend a long time | Phrase |
-| Слава се пронети | Fame spread | Phrase |
-| Федим еп. Амасијски | Phaedimus, Bishop of Amasea | Personal Name |
-| Амасија | Amasea | Geographical |
-| Посветити за епископа | To consecrate as bishop | Ecclesiological Verb |
-| Епископ Кесаријски | Bishop of Caesarea | Church Title |
-| Прозорљив | Far-seeing | Hagiographic Adjective |
-| Опазити намеру | To perceive intention | Verb |
-| Кријати се | To hide oneself | Verb |
-| Изасланици | Emissaries | Phrase |
-| Чудним начином | In a wondrous manner | Phrase |
-| Морати се примити | To be obliged to accept | Verb |
-| Служба архипастирска | Office of chief pastor | Ecclesiological |
-| Архипастир | Chief pastor | Church Title |
-| Символ Вере | Symbol of Faith | Theological |
-| Познат под именом | Known by the name | Phrase |
-| Избројати чудеса | To count miracles | Phrase |
-| Заповедати злим дусима | To command evil spirits | Spiritual Verb |
-| Заповедати горама | To command mountains | Miracle Verb |
-| Заповедати водама | To command waters | Miracle Verb |
-| Лечити муке | To heal pains | Miracle Verb |
-| Бивати невидљив | To become invisible | Miracle Verb |
-| Прозирати у даљини | To see into distance | Miracle Verb |
-| Мисли људске | Human thoughts | Phrase |
-| Дубока старост | Deep old age | Phrase |
-| Затећи | To find | Verb |
-| Град незнабожачки | Pagan city | Phrase |
-| Град хришћански | Christian city | Phrase |
-| 17 хришћана | Seventeen Christians | Phrase |
-| 17 незнабожаца | Seventeen pagans | Phrase |
-| Венац славе | Crown of glory | Theological |
-| Преп. Никон Радонежски | Venerable Nikon of Radonezh | Saint Name |
-| Наследник у игуманству | Successor in abbacy | Monastic |
-| Св. Сергије Радонежски | Saint Sergius of Radonezh | Saint Name |
-| Варвари | Barbarians | Historical |
-| Нападати на Русију | To attack Russia | Historical Phrase |
-| Отклонити беду | To remove affliction | Verb |
-| Руски народ | Russian people | Phrase |
-| Петар митрополит | Peter, Metropolitan | Personal Name |
-| Алексије митрополит | Alexis, Metropolitan | Personal Name |
-| Упокојени митрополити | Reposed Metropolitans | Phrase |
-| Митрополити Московски | Metropolitans of Moscow | Church Title |
-| Не туговати | Not to grieve | Spiritual Verb |
-| Навала | Invasion | Historical |
-| По попуштењу Божјем | By God's permission | Theological Phrase |
-| За неко добро | For some good purpose | Phrase |
-| Мир се зацарити | Peace would reign | Phrase |
-| Обновити манастир | To restore monastery | Ecclesiological Verb |
-| Манастир св. Тројице | Monastery of the Holy Trinity | Geographical |
-| Послужити примером | To serve by example | Hagiographic Verb |
-| Преп. Генадије Ватопедски | Venerable Gennadius of Vatopedi | Saint Name |
-| Дохијарска дужност | Steward's duties | Monastic |
-| Економска дужност | Economic duties | Monastic |
-| При њему | In his time | Temporal Phrase |
-| Напунило се буре | Barrel was filled | Miracle Phrase |
-| Зејтин | Oil | Phrase |
-| Испражњено буре | Emptied barrel | Phrase |
-| Чудесним начином | In a miraculous manner | Phrase |
-| Приписано је | Was ascribed to | Verb |
-| Понаособ | Particularly | Adverb |
-| Сјајна звезда | Bright star | Hagiographic Phrase |
-| Јунак православни | Orthodox champion | Hagiographic Phrase |
-| Стаза врло уска | Very narrow path | Spiritual Phrase |
-| Уздићи се Богу | To ascend to God | Spiritual Verb |
-| Кроз патње и сузе | Through sufferings and tears | Hagiographic Phrase |
-| Стићи блаженству | To reach blessedness | Spiritual Verb |
-| Спасти самог себе | To save oneself | Spiritual Verb |
-| Помоћи многима | To help many | Hagiographic Verb |
-| Примерни живот | Exemplary life | Hagiographic Phrase |
-| Речју и чудима | By word and by miracles | Hagiographic Phrase |
-| Неверни | Unbelievers | Phrase |
-| Постати верни | To become believers | Spiritual Verb |
-| Чисти правоверни | Pure and Orthodox | Phrase |
-| Отворено небо | Open heaven | Spiritual Phrase |
-| Тајне људи | People's secrets | Phrase |
-| Јасно проницати | To see clearly | Spiritual Verb |
-| Наука тајна | Secret teaching | Spiritual Phrase |
-| Примити са небеса | To receive from heaven | Spiritual Verb |
-| Срцем учинити | To portray by heart | Phrase |
-| Јединствена бићем | One in essence | Theological |
-| Животворан | Life-giving | Theological |
-| Јело и пиће | Food and drink | Phrase |
-| Роса чиста | Pure dew | Phrase |
-| Примити сунце у се | To receive sun into itself | Phrase |
-| Стан небесима | Dwelling for heaven | Spiritual Phrase |
-| С Божијом помоћи | With God's help | Spiritual Phrase |
-| Одолети | To withstand | Verb |
-| Идолска ноћ | Idolatrous night | Phrase |
-| Безмесечна ноћ | Moonless night | Phrase |
-| Крстити на хиљаде | To baptize by thousands | Ecclesiological Verb |
-| У покој отићи | To go to rest | Death Verb |
-| Крај Цара стати | To stand beside King | Theological Phrase |
-| Измолити у Бога | To pray to God | Spiritual Verb |
-| Враг | Devil | Theological |
-| Чувати праведника | To guard righteous | Theological Verb |
-| Спасавати од напасти | To save from misfortune | Theological Verb |
-| Философска школа | Philosophical school | Phrase |
-| Чувати чистоту | To preserve purity | Spiritual Verb |
-| Очувати | To guard | Spiritual Verb |
-| До краја живота | To the end of life | Temporal Phrase |
-| Изузетак | Exception | Phrase |
-| Распусна омладина | Dissolute youth | Phrase |
-| Изазвати завист | To arouse envy | Verb |
-| Мржња | Hatred | Phrase |
-| Понизити | To humiliate | Verb |
-| Наћи и послати | To find and send | Verb |
-| Блудна жена | Harlot | Phrase |
-| Извести замисао | To carry out scheme | Verb |
-| Злобна замисао | Malicious scheme | Phrase |
-| Стајати на тргу | To stand in square | Phrase |
-| Најпознатији учитељи | Most renowned teachers | Phrase |
-| Скверна жена | Vile woman | Phrase |
-| С виком | With shouting | Phrase |
-| Тобож | Supposedly | Adverb |
-| Остати дужан | To still owe | Phrase |
-| Нечиста веза | Impure relations | Phrase |
-| Присутни људи | People present | Phrase |
-| Саблазнити се | To be scandalized | Verb |
-| Расрдити се | To become angry | Verb |
-| Бестидна жена | Shameless woman | Phrase |
-| Одгонити | To drive away | Verb |
-| Јачим гласом | Louder voice | Phrase |
-| Невини | Innocent | Adjective |
-| Поцрвенети | To blush | Verb |
-| Невино створење | Innocent creature | Phrase |
-| Груба клевета | Crude slander | Phrase |
-| Срџба | Anger | Phrase |
-| Уклонити се | To depart | Verb |
-| Предати новац | To hand over money | Verb |
-| Попусти Бог злог духа | God allowed evil spirit | Phrase |
-| Грчити се | To writhe | Verb |
-| Трзати се | To jerk | Verb |
-| Скрежетати зубима | To gnash with teeth | Phrase |
-| Пену бацати | To throw foam | Phrase |
-| Устрашити се | To be terrified | Verb |
-| Незлобив као јагње | Guileless as a lamb | Phrase |
-| Оздравити | To be healed | Miracle Verb |
-| Место понижења | Instead of humiliation | Phrase |
-| Задобити славу | To gain glory | Verb |
-| Љуто гоњење | Fierce persecution | Historical Phrase |
-| Посаветовати | To counsel | Verb |
-| Да се скрију | To hide | Verb |
-| Склонити се на брдо | To take refuge on hill | Verb |
-| Војници царски | Imperial soldiers | Historical |
-| Угледати | To see | Verb |
-| Поћи за њима | To set out after them | Verb |
-| Сасвим близу | Very close | Phrase |
-| Учини невидљивим | To make invisible | Miracle Verb |
-| Узалуд | In vain | Adverb |
-| Окретати се | To turn about | Verb |
-| У близини | In the vicinity | Phrase |
-| Четвртог дана | On the fourth day | Temporal Phrase |
-| Видела велика и мала | Greater and lesser lights | Biblical |
-| Светлити дању | To shine by day | Biblical Verb |
-| Светлити ноћу | To shine by night | Biblical Verb |
-| Ширина и дужина | Breadth and length | Theological |
-| Дубина и висина | Depth and height | Theological |
-| Плод вере и љубави | Fruit of faith and love | Spiritual Phrase |
-| Дарови царски | Royal gifts | Theological |
-| Разумевање тајни | Understanding of mysteries | Spiritual Phrase |
-| Тајне спасоносне | Saving mysteries | Theological |
-| Лично разумевање | Personal understanding | Phrase |
-| Изузетно | Exceptional | Adjective |
-| Самолично | Individual | Adjective |
-| Оригинално | Original | Adjective |
-| Поклапати се | To coincide | Verb |
-| Богаташи у вери | Rich in faith | Spiritual Phrase |
-| Даровати разумевање | To give understanding | Spiritual Verb |
-| Пробати разумевање | To test understanding | Phrase |
-| Бити у неправу | To be in the wrong | Phrase |
-| Достићи меру | To attain measure | Spiritual Verb |
-| Ширина љубави Божје | Breadth of God's love | Theological |
-| Обухватити у план | To encompass in plan | Theological Verb |
-| План спасења | Plan of salvation | Theological |
-| Дужина Промисла | Length of Providence | Theological |
-| Од правремена | From the beginning | Temporal Phrase |
-| Спремати план | To prepare plan | Theological Verb |
-| Редом | In order | Phrase |
-| Дубина смирења | Depth of humility | Theological |
-| Спустити се у Ад | To descend into Hades | Theological Verb |
-| Лично | Personally | Adverb |
-| Спасти душе праведника | To save souls of righteous | Theological Phrase |
-| Висина славе | Height of glory | Theological |
-| Свршетак дела | Completion of work | Phrase |
-| Спасоносно дело | Saving work | Theological |
-| Обухватати све | To embrace all | Theological Verb |
-| Објашњавати све | To explain all | Theological Verb |
-| Призивати све | To call all | Theological Verb |
-| Миловати све | To caress all | Theological Verb |
-| Узвисивати све | To exalt all | Theological Verb |
-| Благи Господе | Good Lord | Theological |
-| Св. муч. Платон | Holy Martyr Plato | Saint Name |
-| Анкира Галатијска | Ancyra in Galatia | Geographical |
-| Анкира | Ancyra | Geographical |
-| Галатија | Galatia | Geographical |
-| По рођењу и васпитању | By birth and upbringing | Phrase |
-| У младим годинама | In youth | Temporal Phrase |
-| Велико савршенство | Great perfection | Hagiographic Phrase |
-| Не скривати веру | Not to hide faith | Spiritual Verb |
-| Јавно проповедати | To preach openly | Spiritual Verb |
-| Изобличавати | To denounce | Spiritual Verb |
-| Идолопоклоници | Idolaters | Phrase |
-| Клањање мртвим тварима | Worshiping dead creatures | Theological Phrase |
-| Мртве твари | Dead creatures | Theological |
-| Живи Творац | Living Creator | Theological |
-| Изведен на суд | Brought to trial | Martyrdom Phrase |
-| Началник Агрипин | Governor Agrippinus | Personal Name |
-| Истјазаван | Interrogated | Martyrdom Verb |
-| Саветовати | To counsel | Verb |
-| Избећи смрт | To avoid death | Phrase |
-| Сачувати живот | To preserve life | Phrase |
-| Две смрти | Two deaths | Theological |
-| Једна времена | One temporal | Theological |
-| Друга вечна | The other eternal | Theological |
-| Два живота | Two lives | Theological |
-| Маловремени живот | Short-lived life | Theological |
-| Бесконачни живот | Endless life | Theological |
-| Страшне муке | Terrible tortures | Martyrdom |
-| Између осталога | Among other things | Phrase |
-| Врела гвоздена ђулад | Red-hot iron balls | Martyrdom Phrase |
-| Обнажено тело | Naked body | Martyrdom Phrase |
-| Скрајати кајише од коже | To strip leather thongs from skin | Martyrdom Verb |
-| Мучи још љуће | Torture even more cruelly | Martyrdom Phrase |
-| Довикивати | To cry out | Verb |
-| Безчовечност | Inhumanity | Phrase |
-| Трпљење | Endurance | Hagiographic Phrase |
-| Напоменути | To mention | Verb |
-| Платон филозоф | Plato the philosopher | Personal Name |
-| Незнабожачки филозоф | Pagan philosopher | Phrase |
-| Сличан | Like | Adjective |
-| Осим по имену | Except in name | Phrase |
-| Учити се мудрости | To learn wisdom | Verb |
-| Мудрост Христова | Wisdom which is Christ's | Theological |
-| Лудост пред Богом | Foolishness before God | Theological Phrase |
-| 18 дана | Eighteen days | Temporal Phrase |
-| Без хране и воде | Without food or water | Martyrdom Phrase |
-| Стражари | Guards | Phrase |
-| Задивити се | To marvel | Verb |
-| Гладовати | To starve | Verb |
-| Ситити се месом | To be satisfied with meat | Phrase |
-| Свете молитве | Holy prayers | Spiritual |
-| Веселити | To gladden | Verb |
-| Лоза истинита | True Vine | Biblical |
-| Венац вечне славе | Crown of eternal glory | Theological |
-| Св. муч. Роман | Holy Martyr Romanus | Saint Name |
-| Варул | Barulas | Saint Name |
-| Ђакон цркве Кесаријске | Deacon of Church of Caesarea | Church Title |
-| Идолски празник | Idolatrous feast | Phrase |
-| Начелник Антиохијски | Governor of Antioch | Title |
-| Асклипијад | Asclepiades | Personal Name |
-| Храм незнабожачки | Pagan temple | Phrase |
-| Принети жртву | To offer sacrifice | Liturgical Verb |
-| Стати преда њ | To stand before him | Verb |
-| Једини истинити Бог | Only true God | Theological |
-| Разјарени | Enraged | Adjective |
-| Бијен и струган | Beaten and scraped | Martyrdom Phrase |
-| Без милости | Without mercy | Martyrdom Phrase |
-| Мало дете | Little child | Phrase |
-| Разумније | Wiser | Adjective |
-| Маторог | Old man | Phrase |
-| Прави Бог | True God | Theological |
-| Испитивати о вери | To question about faith | Martyrdom Phrase |
-| Изрећи веру | To declare faith | Spiritual Verb |
-| На супрот | In opposition to | Phrase |
-| Лажни идоли | False idols | Theological |
-| Удавити | To strangle | Martyrdom Verb |
-| Наследити царство | To inherit kingdom | Theological Verb |
-| Муке Романа | Torments of Romanus | Martyrdom Phrase |
-| Тужно уплакан | Tearfully weeping | Phrase |
-| Детињски невина душа | Childishly innocent soul | Hagiographic Phrase |
-| Чистије од крина | Purer than lily | Hagiographic Phrase |
-| Крин | Lily | Phrase |
-| Злобни началник | Malicious governor | Phrase |
-| Истина без мита | Truth without deceit | Phrase |
-| Бољи | Better | Adjective |
-| Створитељ света | Creator of the world | Theological |
-| Свет створен | World created | Theological Phrase |
-| Маште | Phantoms | Phrase |
-| Царство демонско | Demonic kingdom | Theological |
-| Збесити се | To rage | Verb |
-| Отрок | Boy | Phrase |
-| Бити отроку мило | Sweet to the boy | Phrase |
-| Зборити гласније | To speak more loudly | Verb |
-| Оставити се демона | To forsake demons | Spiritual Verb |
-| Проклети демони | Accursed demons | Theological |
-| Просветити људе | To enlighten people | Spiritual Verb |
-| Храбрити сина | To encourage son | Verb |
-| Удостојити се | To be found worthy | Spiritual Verb |
-| Мученички чин | Martyr's rank | Hagiographic |
-| Сави главу под мач | To bow head beneath sword | Martyrdom Phrase |
-| Ударити по образу | To strike on cheek | Biblical Phrase |
-| Обрнути други образ | To turn the other cheek | Biblical Phrase |
-| Израз науке | Expression of teaching | Phrase |
-| Наука о смирености | Teaching about meekness | Spiritual |
-| Зли демони се страше | Evil demons fear | Spiritual Phrase |
-| Смирено испуњавање | Meek fulfillment | Spiritual Phrase |
-| Богаташ и велмож | Rich man and nobleman | Phrase |
-| Ући зли дух | Evil spirit entered | Phrase |
-| Сићи с ума | To lose mind | Phrase |
-| Очајном оцу | Despairing father | Phrase |
-| Монаси отшелници | Hermit monks | Monastic |
-| С времена на време | From time to time | Temporal Phrase |
-| Продаја котарица | To sell baskets | Phrase |
-| Котарице | Baskets | Phrase |
-| Рукодеље | Handiwork | Phrase |
-| Чељад у кући | Household | Phrase |
-| Полудела девојка | Demented girl | Phrase |
-| Одређени дан | Appointed day | Phrase |
-| Ученик св. Макарија | Disciple of Saint Macarius | Personal Name |
-| Св. Макарије | Saint Macarius | Saint Name |
-| Луда ћерка | Mad daughter | Phrase |
-| Изненадно искочити | To jump suddenly | Verb |
-| Снажно ударити | To strike forcefully | Verb |
-| Ћутке | Silently | Adverb |
-| Окренути други образ | To turn the other cheek | Biblical Verb |
-| Завапити горко | To cry out bitterly | Verb |
-| Побећи из девојке | To flee from girl | Verb |
-| Постати потпуно мирна | To become completely calm | Phrase |
-| Разумна | Rational | Adjective |
-| Исприча старцима | To tell elders | Verb |
-| Случити се | To happen | Verb |
-| Даровати силу | To give power | Spiritual Verb |
-| Онај ко испуњава | Him who fulfills | Phrase |
-| Петог дана | On the fifth day | Temporal Phrase |
-| Животиње | Creatures | Biblical |
-| Живе у води | Live in water | Biblical Phrase |
-| Птице небеске | Birds of heaven | Biblical |
-| У ваздуху | In the air | Phrase |
-| Благословити | To bless | Spiritual Verb |
-| Рађати се | To be born | Verb |
-| Множити се | To multiply | Verb |
-| Љубав претежнија од разума | Love that surpasses knowledge | Theological |
-| Претежнија | That surpasses | Theological Adjective |
-| Љубав Христова | Love of Christ | Theological |
-| Претежи разум | To surpass knowledge | Theological Verb |
-| Превазилази појимање | Transcends comprehension | Theological Verb |
-| Наслутити | To surmise | Verb |
-| Каквоћа | Quality | Phrase |
-| Величина љубави | Magnitude of love | Theological Phrase |
-| Укус меда | Taste of honey | Phrase |
-| Окусити устима | To taste with mouth | Verb |
-| Неисказани укус | Ineffable taste | Theological Phrase |
-| Сладосни мирис | Sweet fragrance | Phrase |
-| Опојни мирис | Intoxicating fragrance | Phrase |
-| Недосежна свеобухватљивост | Unattainable all-embracingness | Theological |
-| Додиривати | To touch | Spiritual Verb |
-| Познање мудрости божанске | Knowledge of divine wisdom | Theological |
-| Бескрајна пучина | Boundless abyss | Theological |
-| Божанска љубав | Divine love | Theological |
-| Речи бледе | Pale words | Phrase |
-| Блеђе и немоћније | More pale and powerless | Phrase |
-| Изненађујући докази | Surprising proofs | Phrase |
-| Из љубави | Out of love | Theological Phrase |
-| Ваплотити се | To be incarnate | Theological Verb |
-| Примити поругу | To accept mockery | Martyrdom Verb |
-| Нас ради | For our sake | Phrase |
-| Отворити небо | To open heaven | Theological Verb |
-| Објавити славу | To reveal glory | Theological Verb |
-| Приготовљена слава | Glory prepared | Theological Phrase |
-| Бесмртна слава | Immortal glory | Theological |
-| Набројати | To enumerate | Verb |
-| Неисцрпно богатство | Inexhaustible wealth | Theological |
-| Животворна храна | Life-giving nourishment | Theological |
-| Удостојити се вером | To be made worthy by faith | Spiritual Phrase |
-| Неописана љубав | Love indescribable | Theological |
-| Животе наш | Our life | Theological |
-| Мудрости наша | Our wisdom | Theological |
-| Љубави наша | Our love | Theological |
-| Очисти нас | Cleanse us | Prayer |
-| Усели се у нас | Dwell in us | Prayer |
-| Св. пророк Авдија | Holy Prophet Obadiah | Saint Name |
-| Авдија | Obadiah | Saint Name |
-| Село Витахарамска | Village of Bethacharba | Geographical |
-| Витахарамска | Bethacharba | Geographical |
-| Предели Сихемски | Region of Shechem | Geographical |
-| Сихем | Shechem | Geographical |
-| Двор цара | Court of the king | Phrase |
-| Цар Ахав | King Ahab | Biblical Name |
-| Одступити од богопоштовања | To depart from worship of God | Spiritual Phrase |
-| Право богопоштовање | True worship of God | Theological |
-| Поклонити се идолима | To bow down to idols | Phrase |
-| Не последовати примеру | Not to follow example | Verb |
-| Продужити служити | To continue to serve | Verb |
-| Опака царица | Wicked Queen | Biblical Phrase |
-| Царица Језавеља | Queen Jezebel | Biblical Name |
-| Дићи хајку | To raise persecution | Verb |
-| Сабрати стотину | To gather one hundred | Verb |
-| Сакрити у пештере | To hide in caves | Verb |
-| Две пештере | Two caves | Biblical |
-| Храњати до краја | To feed to the end | Verb |
-| Савременик | Contemporary | Phrase |
-| Поштовати веома | To honor greatly | Verb |
-| Слушати у свему | To obey in all things | Verb |
-| 900 година пре Христа | Nine hundred years before Christ | Temporal Phrase |
-| Св. муч. Варлам | Holy Martyr Barlaam | Saint Name |
-| Варлам | Barlaam | Saint Name |
-| Нечестиви судија | Impious judge | Phrase |
-| Наругати се | To mock | Verb |
-| Примора силом околности | To compel by force of circumstances | Phrase |
-| Храм идолски | Idolatrous temple | Phrase |
-| Ставити огањ на длан | To place fire on palm | Martyrdom Phrase |
-| Тамјан | Incense | Liturgical |
-| Због бола | By pain | Martyrdom Phrase |
-| Бацити огањ | To cast fire | Verb |
-| Нехотично | Inadvertently | Adverb |
-| Окадити | To cense | Liturgical Verb |
-| Херојски војник | Heroic soldier | Hagiographic Phrase |
-| Длан | Palm | Phrase |
-| Без помисли | Without thought | Phrase |
-| Прсти | Fingers | Phrase |
-| Изгорети | To burn off | Martyrdom Verb |
-| Отпасти | To fall away | Verb |
-| Длан прегорети | Palm burned through | Martyrdom Phrase |
-| Прсти мученикови | Martyr's fingers | Martyrdom Phrase |
-| Десница | Right hand | Phrase |
-| Јача од огња | Stronger than fire | Hagiographic Phrase |
-| Пламен опали руку | Flame consumed hand | Martyrdom Phrase |
-| Држати као пепео | To hold like ash | Phrase |
-| С висине | From on high | Angelic Phrase |
-| Посматрати | To observe | Verb |
-| Архангели | Archangels | Angelic |
-| Сцена величанствена | Magnificent scene | Phrase |
-| Превазилазити природу | To surpass nature | Phrase |
-| Природа човечја | Human nature | Phrase |
-| Подвизавати се | To struggle | Hagiographic Verb |
-| Својствено људима | Proper to men | Phrase |
-| Жртвеник | Altar | Liturgical |
-| Жртва | Sacrifice | Liturgical |
-| Жрец | Priest | Liturgical |
-| Сагорети рука | Hand burned off | Martyrdom Phrase |
-| Тело цело | Entire body | Phrase |
-| Срушити се на земљу | To collapse to ground | Verb |
-| Вечни покој | Eternal rest | Theological |
-| Господ Спаситељ | Lord Savior | Theological |
-| Преславни старац | Most glorious old man | Hagiographic Phrase |
-| Старац јунак | Old warrior | Hagiographic Phrase |
-| Преп. Варлам и Јоасаф | Venerable Barlaam and Joasaph | Saint Name |
-| Јоасаф царевић | Prince Joasaph | Saint Name |
-| Јоасаф | Joasaph | Saint Name |
-| Подвижници Индијски | Indian ascetics | Hagiographic |
-| Индијски | Indian | Geographical |
-| Цар Авенир | King Abenner | Personal Name |
-| Божјим Промислом | By God's Providence | Theological Phrase |
-| Посетити | To visit | Verb |
-| Научити вери | To teach the faith | Spiritual Verb |
-| Удаљити се у планину | To withdraw to mountains | Monastic Verb |
-| На подвиг | For ascetic struggle | Monastic Phrase |
-| Борити се са искушењима | To battle with temptations | Spiritual Verb |
-| Благодаћу Божјом | By God's grace | Theological |
-| Побеђивати | To overcome | Spiritual Verb |
-| Успети | To succeed | Verb |
-| Привести ка Христу | To bring to Christ | Spiritual Verb |
-| Поживети у покајању | To live in repentance | Spiritual Verb |
-| Велико покајање | Great repentance | Spiritual |
-| Грехе велике | Great sins | Spiritual Phrase |
-| Починити | To commit | Verb |
-| Гонећи хришћане | Persecuting Christians | Historical Phrase |
-| Оконча живот | To end life | Death Verb |
-| Прећи у бољи живот | To pass into better life | Death Phrase |
-| Предати царство | To hand over kingdom | Verb |
-| Варахија | Barachias | Personal Name |
-| Подвизавати се Христа ради | To struggle for Christ's sake | Spiritual Phrase |
-| Једина жеља | Only desire | Phrase |
-| Још једном | Once more | Temporal Phrase |
-| Видети се | To see | Verb |
-| Духовни отац | Spiritual father | Monastic |
-| Милостиви Бог | Merciful God | Theological |
-| Испунити жељу | To fulfill desire | Verb |
-| Пећина | Cave | Geographical |
-| Узвикнути | To cry out | Verb |
-| Благослови оче | Bless me, father | Prayer |
-| Свега поживе | Lived in all | Temporal Phrase |
-| 100 година | One hundred years | Temporal Phrase |
-| 70 година | Seventy years | Temporal Phrase |
-| 35 година | Thirty-five years | Temporal Phrase |
-| У 25. години | In twenty-fifth year | Temporal Phrase |
-| Обојица | Both | Phrase |
-| Вера истинита | True faith | Theological |
-| Вечна радост | Eternal joy | Theological |
-| Св. муч. Илиодор | Holy Martyr Heliodorus | Saint Name |
-| Илиодор | Heliodorus | Saint Name |
-| Град Магида | City of Magida | Geographical |
-| Магида | Magida | Geographical |
-| Памфилија | Pamphylia | Geographical |
-| Цар Аврелијан | Emperor Aurelian | Personal Name |
-| Тешке муке | Severe tortures | Martyrdom Phrase |
-| Глас с неба | Voice from heaven | Phrase |
-| Не бој се | Fear not | Biblical Phrase |
-| Ја сам с тобом | I am with thee | Biblical Phrase |
-| Усијани бакарни во | Red-hot copper bull | Martyrdom Phrase |
-| Бакарни во | Copper bull | Martyrdom Phrase |
-| Приљежно молити се | To pray diligently | Spiritual Verb |
-| Охладити се | To cool | Miracle Verb |
-| Изаћи жив | To emerge alive | Miracle Phrase |
-| Чинити мађије | To perform sorcery | Phrase |
-| Мађије | Sorcery | Phrase |
-| Мађије су моје Христос | My sorcery is Christ | Martyrdom Phrase |
-| Одећи ка Господу | To go to the Lord | Death Phrase |
-| Болест, старост и смрт | Sickness, old age, and death | Phrase |
-| Застидети се живота | To become ashamed of life | Phrase |
-| Искрено | Sincerely | Adverb |
-| Болан | Ill | Adjective |
-| Погрбити | To bend | Verb |
-| Не надати се | Not to expect | Verb |
-| Страдање туђе | Another's suffering | Phrase |
-| Љуто страдати | To suffer bitterly | Verb |
-| Тајну знати | To know mystery | Phrase |
-| Бољи живот | Better life | Spiritual Phrase |
-| Планина густа | Dense mountain | Geographical |
-| Спустити се | To descend | Verb |
-| Истину изусти | To speak truth | Verb |
-| О Богу једином | About the one God | Theological Phrase |
-| Оцу што царује | Father who reigns | Theological Phrase |
-| Створење света | Creation of the world | Theological |
-| Прекрасни Рај | Beautiful Paradise | Theological |
-| Адам први | First Adam | Biblical |
-| Рајски сјај | Paradise's radiance | Theological |
-| Проклети грех | Accursed sin | Theological |
-| Смрт донети | To bring death | Theological Verb |
-| Тежак крст понети | To bear heavy Cross | Theological Phrase |
-| Вечни живот | Eternal life | Theological |
-| Бескрајна слава | Boundless glory | Theological |
-| Царство Христово | Christ's Kingdom | Theological |
-| Премудри Варлам | Wise Barlaam | Hagiographic Phrase |
-| Дан бели | White day | Phrase |
-| Дан грану | Day dawned | Phrase |
-| Ноћна тама | Night's darkness | Phrase |
-| Прође тама | Darkness passed | Phrase |
-| Прича старца | Elder's tale | Phrase |
-| Бегати испред | To flee from | Verb |
-| Страшни једнорог | Terrible unicorn | Phrase |
-| Једнорог | Unicorn | Phrase |
-| Пасти у ров | To fall into pit | Verb |
-| Ров | Pit | Phrase |
-| Ухватити се за дрво | To catch hold of tree | Verb |
-| Ван опасности | Out of danger | Phrase |
-| Погледати доле | To look down | Verb |
-| Два миша | Two mice | Phrase |
-| Бели миш | White mouse | Phrase |
-| Црни миш | Black mouse | Phrase |
-| Наизменично | Alternately | Adverb |
-| Непрекидно | Unceasingly | Adverb |
-| Глодати корен | To gnaw root | Verb |
-| Прегризти | To bite through | Verb |
-| Оборити | To topple | Verb |
-| Велика змија | Great dragon | Phrase |
-| Страшна змија | Terrible dragon | Phrase |
-| Разјапљена уста | Gaping mouth | Phrase |
-| Прогутати човека | To swallow man | Verb |
-| Четири отровнице | Four venomous serpents | Phrase |
-| Отровнице змије | Venomous serpents | Phrase |
-| До својих ногу | Near feet | Phrase |
-| Погледати навише | To look up | Verb |
-| Мало меда | Little honey | Phrase |
-| На гранама | On branches | Phrase |
-| Заборавити опасности | To forget dangers | Verb |
-| Окруживати | To surround | Verb |
-| Пружити руке | To reach out hands | Verb |
-| Дохватити | To grasp | Verb |
-| Мало сласти | Little sweetness | Phrase |
-| Тумачење | Interpretation | Phrase |
-| Једнорог представља смрт | Unicorn represents death | Phrase |
-| Од Адама до данас | From Adam until now | Temporal Phrase |
-| Гонити да умртви | To pursue to slay | Verb |
-| Ров испуњен опасностима | Pit filled with dangers | Phrase |
-| Пут живота | Path of life | Spiritual Phrase |
-| Дани и ноћи | Days and nights | Temporal Phrase |
-| Ређати се | To alternate in succession | Verb |
-| Скраћивати живот | To shorten life | Verb |
-| Ад | Hades | Theological |
-| Четири стихије | Four elements | Phrase |
-| Тело састављено | Body composed | Phrase |
-| Живот пружа | Life offers | Phrase |
-| Занети се слашћу | To be captivated by sweetness | Verb |
-| Ништавна слашћа | Worthless sweetness | Phrase |
-| Вући у пропаст | To drag into perdition | Theological Verb |
-| Вечна пропаст | Eternal perdition | Theological |
-| У шести дан | On the sixth day | Temporal Phrase |
-| Стока | Cattle | Biblical |
-| Ситне животиње | Small creatures | Biblical |
-| Зверови | Beasts | Biblical |
-| По врстама | According to kinds | Biblical Phrase |
-| Виде Бог да је добро | God saw that it was good | Biblical Phrase |
-| Прослављење Бога | Glorification of God | Theological |
-| Слава у цркви | Glory in the Church | Ecclesiological |
-| Због Христа Исуса | Because of Christ Jesus | Theological Phrase |
-| У све нараштаје | Throughout all generations | Temporal Phrase |
-| Ва вијек вијека | Forever and ever | Phrase |
-| Никоме не прилича | Befits no one | Phrase |
-| Откровитељ Бога | Revealer of God | Theological |
-| Мора ићи кроз Христа | Must go through Christ | Theological Phrase |
-| Трајати кроз родове | To endure through generations | Ecclesiological Verb |
-| До краја времена | Until end of time | Temporal Phrase |
-| Најчистије тело | Purest Body | Ecclesiological |
-| Испуњено силом | Filled with power | Ecclesiological Phrase |
-| Испуњено чудотворством | Filled with miracle-working | Ecclesiological Phrase |
-| Дићи се из цркве | To rise from Church | Ecclesiological Verb |
-| Из светиње Светоме | From holy place to Holy One | Theological Phrase |
-| Из чистоте Чистоме | From purity to Pure One | Theological Phrase |
-| Славословије | Doxology | Liturgical |
-| Много душа | Many souls | Phrase |
-| Много гласова | Many voices | Phrase |
-| Једнодушност | Unanimity | Phrase |
-| Једногласност | Harmony | Phrase |
-| Издвајати се | To separate oneself | Verb |
-| Опште слављење | Common glorification | Ecclesiological |
-| У одвојености | In separateness | Phrase |
-| У засебности | In isolation | Phrase |
-| У јединству | In unity | Ecclesiological |
-| У целини | In wholeness | Ecclesiological |
-| Члан се губи | Member is lost | Phrase |
-| Глас не чује се | Voice is not heard | Phrase |
-| Нераздвојно везан | Inseparably bound | Phrase |
-| Члан тела | Member of body | Ecclesiological |
-| Молити се са црквом | To pray with Church | Ecclesiological Phrase |
-| Не особити себе | Not to separate oneself | Ecclesiological Verb |
-| Чути се пред Богом | To be heard before God | Phrase |
-| Видети се пред Богом | To be seen before God | Phrase |
-| Наћи одјек | To find echo | Phrase |
-| Многократни одјек | Manifold echo | Phrase |
-| Истицати се | To stand out | Verb |
-| Распознавати се | To be recognizable | Verb |
-| У вези са телом цркве | In connection with Body of Church | Ecclesiological |
-| Ван везе | Apart from connection | Phrase |
-| Од Тебе, у Теби, кроз Тебе | From Thee, in Thee, through Thee | Theological Phrase |
-| Преп. Григорије Декаполит | Venerable Gregory the Decapolite | Saint Name |
-| Григорије Декаполит | Gregory the Decapolite | Saint Name |
-| Декапољ Исавријски | Decapolis in Isauria | Geographical |
-| Декапољ | Decapolis | Geographical |
-| Исаврија | Isauria | Geographical |
-| Родитељи знаменити | Distinguished parents | Phrase |
-| Родитељи благочестиви | Pious parents | Phrase |
-| Сергије | Sergius | Personal Name |
-| Марија | Mary | Personal Name |
-| Свршити школе | To finish school | Phrase |
-| Оженити | To marry off | Verb |
-| Одбећи у пустињу | To flee to desert | Monastic Verb |
-| На разним местима | In various places | Phrase |
-| Византија | Byzantium | Geographical |
-| Гора Олимписка | Mount Olympus | Geographical |
-| Где год | Wherever | Phrase |
-| Свуда | Everywhere | Adverb |
-| Удивљавати људе | To amaze people | Verb |
-| Озаравати светлост | Light illumined | Miracle Phrase |
-| Светлост небеска | Heavenly light | Miracle Phrase |
-| Красота ангелска | Angelic beauty | Angelic Phrase |
-| Умилно појање | Tender singing | Angelic Phrase |
-| IX столеће | Ninth century | Temporal Phrase |
-| Преселити се душом | Soul passing | Death Phrase |
-| Св. Прокл патријарх | Saint Proclus, Patriarch | Saint Name |
-| Прокл | Proclus | Saint Name |
-| Епископ Кизички | Bishop of Cyzicus | Church Title |
-| Кизик | Cyzicus | Geographical |
-| 435. год. | Year 435 | Temporal Phrase |
-| Изабран за патријарха | Chosen as Patriarch | Ecclesiological Verb |
-| Мудри архијереј | Wise hierarch | Ecclesiological Phrase |
-| Два знаменита догађаја | Two notable events | Phrase |
-| Пренете мошти | Relics were transferred | Ecclesiological Phrase |
-| Коман | Comana | Geographical |
-| По жељи цара | At wish of emperor | Phrase |
-| Цар Теодосије Млађи | Emperor Theodosius the Younger | Personal Name |
-| Теодосије Млађи | Theodosius the Younger | Personal Name |
-| Сестра Пулхерија | Sister Pulcheria | Personal Name |
-| Пулхерија | Pulcheria | Personal Name |
-| Велики земљотрес | Great earthquake | Phrase |
-| По околини | Surrounding area | Geographical |
-| Најлепша здања | Most beautiful buildings | Phrase |
-| Највећа здања | Largest buildings | Phrase |
-| Попадати | To collapse | Verb |
-| Страшни трус | Terrible tremor | Phrase |
-| Мноштво свештенства | Multitude of clergy | Ecclesiological |
-| Великаши | Nobles | Phrase |
-| Изаћи на литију | To go out in procession | Liturgical Verb |
-| Литија | Procession | Liturgical |
-| Молити се Богу на литији | To pray to God in procession | Liturgical Phrase |
-| Дете чудесно узето | Child miraculously taken | Miracle Phrase |
-| Високо у ваздух | High into air | Phrase |
-| Не моћи се догледати | Could no longer be seen | Verb |
-| Очима | With eyes | Phrase |
-| Вратити се | To return | Verb |
-| Спустити лагано | To descend gently | Verb |
-| Упитан | Asked | Verb |
-| Однет на небо | Taken to heaven | Miracle Phrase |
-| Међу ангеле | Among angels | Angelic Phrase |
-| Како ангели поје | How angels sing | Angelic Phrase |
-| Свјатый Боже | Holy God | Liturgical (Church Slavonic) |
-| Сватыий крјепкiй | Holy Mighty | Liturgical (Church Slavonic) |
-| Свјатый безсмертный | Holy Immortal | Liturgical (Church Slavonic) |
-| Помилуй нас | Have mercy on us | Liturgical (Church Slavonic) |
-| Чути песму | To hear hymn | Phrase |
-| Почети певати | To begin to sing | Liturgical Verb |
-| Земљотрес престаде | Earthquake ceased | Miracle Phrase |
-| Одомаћити се | To become established | Verb |
-| Дивна песма | Wondrous hymn | Liturgical |
-| Ускоро се упокојити | Soon reposed | Death Phrase |
-| Црква св. Ирине | Church of Saint Irene | Geographical |
-| Св. Ирина | Saint Irene | Saint Name |
-| 20 година | Twenty years | Temporal Phrase |
-| 446. године | Year 446 | Temporal Phrase |
-| Св. муч. Јевстатије | Holy Martyr Eustathius | Saint Name |
-| Јевстатије | Eustathius | Saint Name |
-| Теспесије | Thespesios | Saint Name |
-| Анатолије | Anatolios | Saint Name |
-| Браћа рођена | Brothers by birth | Phrase |
-| Никомидија | Nicomedia | Geographical |
-| Незнабожачки родитељи | Pagan parents | Phrase |
-| Филотеј | Philotheus | Personal Name |
-| Јевсевија | Eusebeia | Personal Name |
-| Доцније | Later | Temporal Adverb |
-| Св. Антим еп. Никомидијски | Saint Anthimus, Bishop of Nicomedia | Saint Name |
-| Антим | Anthimus | Saint Name |
-| Заједно са синовима | Together with sons | Phrase |
-| Рукоположен за презвитера | Ordained as presbyter | Ecclesiological Verb |
-| Упокојити се са женом | To repose with wife | Death Phrase |
-| Страшно гоњење | Terrible persecution | Historical Phrase |
-| Злочестиви цар | Wicked Emperor | Phrase |
-| Цар Максимијан | Emperor Maximian | Personal Name |
-| Три сина | Three sons | Phrase |
-| Суђени | Judged | Martyrdom Verb |
-| Истјазавани на разне начине | Interrogated in various ways | Martyrdom Phrase |
-| Више пута | Many times | Phrase |
-| Јављати се у тамници | To appear in prison | Angelic Phrase |
-| Давати ману | To give manna | Miracle Verb |
-| Испуњавати срца | To fill hearts | Spiritual Verb |
-| Млада срца | Young hearts | Phrase |
-| Снага и храброст | Strength and courage | Hagiographic Phrase |
-| Извести на губилиште | To lead to place of execution | Martyrdom Phrase |
-| Губилиште | Place of execution | Martyrdom |
-| Приђоше два друга | Two friends approached | Phrase |
-| Паладије | Paladios | Personal Name |
-| Акакије | Akakios | Personal Name |
-| Разговарати | To converse | Verb |
-| У разговору | In conversation | Phrase |
-| Предати душе Богу | To give up souls to God | Death Phrase |
-| Одсећи мртве главе | To cut off dead heads | Martyrdom Phrase |
-| Показати судији | To show judge | Phrase |
-| Бесмртно царство | Immortal Kingdom | Theological |
-| Св. Исак архиеп. Јерменски | Saint Isaac, Archbishop of Armenia | Saint Name |
-| Исак | Isaac | Saint Name |
-| Архиеп. Јерменски | Archbishop of Armenia | Church Title |
-| Јерменски | Armenian | Geographical Adjective |
-| Посланик цара | Ambassador of king | Title |
-| Цар Јерменски | Armenian King | Title |
-| Двор Византијски | Byzantine court | Historical |
-| Десети архиепископ | Tenth Archbishop | Church Title |
-| У том звању | In that capacity | Phrase |
-| Педесет година | Fifty years | Temporal Phrase |
-| Пастирствовање | Pastoral ministry | Ecclesiological |
-| Ознаменовати | To mark | Verb |
-| Између других ствари | Among other things | Phrase |
-| Превод Св. Писма | Translation of Holy Scripture | Phrase |
-| Јерменски језик | Armenian language | Phrase |
-| У визији | In a vision | Spiritual Phrase |
-| Казати | To tell | Verb |
-| Јермени | Armenians | Phrase |
-| Временом | In time | Temporal Phrase |
-| Одступити од вере | To depart from faith | Spiritual Phrase |
-| Чиста вера православна | Pure Orthodox Faith | Theological |
-| 440. год. | Year 440 | Temporal Phrase |
-| Предстати ка Господу | To appear before Lord | Death Phrase |
-| Св. три девице | Three holy virgins | Saint Name |
-| Персијанке | Persian women | Geographical |
-| Цар Сапор | King Shapur | Personal Name |
-| Сапор | Shapur | Personal Name |
-| Гоњене као хришћанке | Persecuted as Christians | Martyrdom Phrase |
-| Ножевима исечене | Cut to pieces with knives | Martyrdom Phrase |
-| Израсту три смокве | Three fig trees grew | Miracle Phrase |
-| Смокве | Fig trees | Phrase |
-| Лечити од болести | To heal disease | Miracle Verb |
-| Учениче славни | Glorious disciple | Hagiographic Phrase |
-| Славни учитељ | Glorious teacher | Hagiographic Phrase |
-| Премудри | Most wise | Hagiographic Adjective |
-| Слуга Спаситеља | Servant of Savior | Hagiographic Phrase |
-| Укрепити веру | To strengthen faith | Spiritual Verb |
-| Јереси истребити | To exterminate heresies | Ecclesiological Verb |
-| Јереси | Heresies | Theological |
-| Славопојати | To sing glory | Liturgical Verb |
-| Величати | To magnify | Liturgical Verb |
-| Великан | Great one | Hagiographic Phrase |
-| Прославити себе | To glorify oneself | Verb |
-| Прославити Бога | To glorify God | Spiritual Verb |
-| Вешт крманош | Skilled helmsman | Hagiographic Phrase |
-| Крманош | Helmsman | Hagiographic |
-| Управљати црквом | To steer Church | Ecclesiological Verb |
-| Видовит дух | Prophetic spirit | Hagiographic Phrase |
-| Благодатан ум | Grace-filled mind | Hagiographic Phrase |
-| Послужити Духу | To serve Spirit | Spiritual Verb |
-| Гласна струна | Resonant string | Phrase |
-| Научен од Духа | Taught by Spirit | Spiritual Phrase |
-| Научити цара | To teach emperor | Verb |
-| Пренети мошти | To transfer relics | Ecclesiological Verb |
-| Златни Патријарх | Golden Patriarch | Hagiographic Title |
-| Сагледати јавно | To behold openly | Verb |
-| Чудеса од мошти | Miracles from relics | Miracle Phrase |
-| Јављена преславно | Manifested gloriously | Miracle Phrase |
-| Бесмртни Рај | Immortal Paradise | Theological |
-| Истрајати у вери | To persevere in faith | Spiritual Verb |
-| До краја | To the end | Temporal Phrase |
-| Нико од смртних | No mortal | Phrase |
-| Протумачити посланице | To interpret epistles | Phrase |
-| Посланице апостола Павла | Epistles of Apostle Paul | Biblical |
-| Са већом љубављу | With greater love | Phrase |
-| Са већом дубином | With greater depth | Phrase |
-| Сам себе тумачити | To interpret himself | Verb |
-| Не би боље | Could not better | Phrase |
-| Историја каже | History tells | Phrase |
-| Кроз ум и перо | Through mind and pen | Phrase |
-| Послушник | Novice | Monastic |
-| Златоусти патријарх | Golden-mouthed patriarch | Hagiographic Title |
-| Пријављивати посетиоце | To announce visitors | Phrase |
-| Велмож | Nobleman | Phrase |
-| Оклеветан | Slandered | Verb |
-| Цар Аркадије | Emperor Arcadius | Personal Name |
-| Истерати из двора | To drive from court | Phrase |
-| Молити за посредовање | To ask for intercession | Verb |
-| У корист своју | On behalf | Phrase |
-| Отшкринута врата | Half-open door | Phrase |
-| Стајати наднет | To stand bent over | Verb |
-| Шапће у уши | Whispering in ears | Phrase |
-| Док патријарх пише | While patriarch wrote | Phrase |
-| Продужавати се | To continue | Verb |
-| До саме зоре | Until dawn | Temporal Phrase |
-| Друго вече | Another evening | Temporal Phrase |
-| Остати у чуду | To remain in wonder | Phrase |
-| Очај човек | Strange man | Phrase |
-| Непријављен | Unannounced | Adjective |
-| Ући у одају | To enter chamber | Verb |
-| Одаја патријархова | Patriarch's chamber | Phrase |
-| Друга ноћ | Second night | Temporal Phrase |
-| Већи чудо | Greater wonder | Phrase |
-| Трећа ноћ | Third night | Temporal Phrase |
-| Највећи чудо | Greatest wonder | Phrase |
-| Тај и тај велмож | Such and such nobleman | Phrase |
-| Три ноћи | Three nights | Temporal Phrase |
-| Чекати да уђе | Waiting to enter | Phrase |
-| Није смети | Had not dared | Verb |
-| Страни човек | Strange man | Phrase |
-| Постарији | Elderly | Adjective |
-| Ћелав | Bald | Adjective |
-| Изненађени | Astonished | Adjective |
-| Не сећа се | Did not remember | Verb |
-| Последње три ноћи | Last three nights | Temporal Phrase |
-| Какав изгледаше | What looked like | Phrase |
-| Показати на икону | To point to icon | Verb |
-| Икона св. апостола Павла | Icon of holy Apostle Paul | Liturgical |
-| Исти такав | Just like that | Phrase |
-| Управљати умом | To guide mind | Spiritual Verb |
-| Управљати пером | To guide pen | Phrase |
-| Највећи тумач | Greatest interpreter | Phrase |
-| Бог Света Тројица | God the Holy Trinity | Theological |
-| Саветовати се | To take counsel | Verb |
-| Са самим Собом | With Himself | Theological Phrase |
-| О стварању човека | About creation of man | Theological Phrase |
-| По образу Своме | In His own image | Biblical Phrase |
-| Владање | Conduct | Phrase |
-| Сходно звању | Worthy of calling | Spiritual Phrase |
-| Владати се достојно | To walk worthily | Spiritual Verb |
-| Звање | Calling | Theological |
-| Позвани | Called | Theological Adjective |
-| Кротост | Meekness | Virtue |
-| Гордити се | To be proud | Vice |
-| Гневити се | To be wrathful | Vice |
-| Малодушествовати | To be faint-hearted | Vice |
-| Недостојно | Unworthy | Adjective |
-| Хришћанско звање | Christian calling | Theological |
-| Високо звање | High calling | Theological |
-| Дивно звање | Wondrous calling | Theological |
-| Чувати од гордости | To guard from pride | Spiritual Verb |
-| Уздржати се изнад | To restrain above | Verb |
-| Малодушност | Faint-heartedness | Vice |
-| При опасностима | In dangers | Phrase |
-| При губитцима | In losses | Phrase |
-| Три нездрава стања | Three unhealthy states | Phrase |
-| Три здрава стања | Three healthy states | Phrase |
-| Против гордости | Against pride | Phrase |
-| Против гневљивости | Against wrath | Phrase |
-| Против малодушности | Against faint-heartedness | Phrase |
-| Три врлине | Three virtues | Spiritual Phrase |
-| Не изражавати | Not to express | Verb |
-| У пуној мери | Fully | Phrase |
-| Висота звања | Height of calling | Theological |
-| Потпуно | Fully | Adverb |
-| Драгоценост | Preciousness | Phrase |
-| Богатство звања | Wealth of calling | Theological |
-| Затворен сандук | Closed chest | Phrase |
-| Носити затворен | To carry closed | Verb |
-| Отварати | To open | Verb |
-| Износити блага | To bring forth treasures | Verb |
-| У ономе свету | In the other world | Theological Phrase |
-| Моћи оценити | Could assess | Verb |
-| Уздићи се до небеса | To ascend to heavens | Spiritual Verb |
-| Највиша небеса | Highest heavens | Theological |
-| Видети Христа у слави | To see Christ in glory | Theological Phrase |
-| Са ангелима и светитељима | With angels and saints | Theological Phrase |
-| Победнички скуп | Victorious assembly | Theological |
-| Богоугодници | God-pleasers | Hagiographic |
-| Удостојити се почасти | To be made worthy of honor | Spiritual Verb |
-| Висока почаст | High honor | Theological |
-| Најдраже име | Dearest name | Theological |
-| Ваведење Пресвете Богородице | Entrance of Most Holy Theotokos | Feast Name |
-| Ваведење | Entrance | Feast |
-| Пресвета Дева Марија | Most Holy Virgin Mary | Theotokos Title |
-| Навршити се три године | To reach age of three years | Temporal Phrase |
-| Свети Јоаким | Holy Joachim | Saint Name |
-| Света Ана | Holy Anna | Saint Name |
-| Назарет | Nazareth | Geographical |
-| Јерусалим | Jerusalem | Geographical |
-| Предати Богу на службу | To present to God for service | Liturgical Phrase |
-| Раније обећање | Earlier promise | Phrase |
-| Три дана пута | Three days' journey | Temporal Phrase |
-| Богоугодно дело | God-pleasing deed | Spiritual Phrase |
-| Сродници | Relatives | Phrase |
-| Узети учешћа | To take part | Verb |
-| Светковина | Celebration | Liturgical |
-| Невидљиво | Invisibly | Adverb |
-| Напред иђаху | Went ahead | Verb |
-| Девице | Virgins | Phrase |
-| Запаљене свеће | Lighted candles | Liturgical |
-| Вођена оцем и мајком | Led by father and mother | Phrase |
-| С једне стране... с друге | On one side... on the other | Phrase |
-| Украшена царским одећама | Adorned with royal garments | Phrase |
-| Благољепне одеће | Beautiful garments | Phrase |
-| Украси | Ornaments | Phrase |
-| Приличи | Befits | Verb |
-| Кћери царева | King's daughter | Theotokos Title |
-| Невеста Божја | Bride of God | Theotokos Title |
-| Последњоваше | Followed | Verb |
-| Множина сродника | Multitude of relatives | Phrase |
-| Пријатељи | Friends | Phrase |
-| 15 степена | Fifteen steps | Phrase |
-| Дићи на први степен | To raise to first step | Phrase |
-| Сама брзо узиђе | Herself quickly ascended | Phrase |
-| До врха | To the top | Phrase |
-| Срете првосвештеник | High priest met | Phrase |
-| Првосвештеник Захарија | High priest Zechariah | Biblical Name |
-| Св. Јован Претеча | Saint John the Forerunner | Saint Name |
-| Узети за руку | To take by hand | Phrase |
-| Увести | To lead | Verb |
-| Святая святыхъ | Holy of Holies | Liturgical (Church Slavonic) |
-| Светиња над Светињама | Holiest of Holy Places | Liturgical |
-| Нико никада не улажаше | No one ever entered | Phrase |
-| Осим архијереја | Except high priest | Ecclesiological Phrase |
-| Једанпут годишње | Once a year | Temporal Phrase |
-| Св. Теофилакт Охридски | Saint Theophylact of Ohrid | Saint Name |
-| Теофилакт Охридски | Theophylact of Ohrid | Saint Name |
-| Вели | Says | Verb |
-| Ван себе био | Beside himself | Phrase |
-| Богом обузет | Seized by God | Spiritual Phrase |
-| Најсветије место храма | Holiest place of Temple | Liturgical |
-| Иза друге завесе | Behind second veil | Biblical |
-| Иначе | Otherwise | Adverb |
-| Поступак | Action | Phrase |
-| Објаснити | To explain | Verb |
-| Принети жртву | To offer sacrifice | Liturgical Verb |
-| Према закону | According to law | Biblical Phrase |
-| Примити благослов | To receive blessing | Liturgical Verb |
-| Вратити се дома | To return home | Verb |
-| Остати при храму | To remain at Temple | Phrase |
-| Пребивати | To abide | Verb |
-| Пуних 9 година | Full nine years | Temporal Phrase |
-| Док беху живи | While were alive | Temporal Phrase |
-| Посећивати често | To visit often | Verb |
-| Блажена Ана | Blessed Anna | Saint Name |
-| Богом одазвани | Called by God | Death Phrase |
-| Остати као сироче | To remain as orphan | Phrase |
-| Не жељати никако | To wish in no way | Phrase |
-| До смрти | Until death | Temporal Phrase |
-| Удаљавати се из храма | To depart from Temple | Verb |
-| Ступати у брак | To enter into marriage | Verb |
-| Противно закону | Contrary to law | Phrase |
-| Противно обичају | Contrary to custom | Phrase |
-| По навршетку 12 година | After turned twelve years old | Temporal Phrase |
-| Дата св. Јосифу | Given to Saint Joseph | Phrase |
-| Сродник | Kinsman | Phrase |
-| Под видом обручнице | Under appearance of betrothal | Phrase |
-| Обручница | Betrothal | Phrase |
-| Живети у девствености | To live in virginity | Spiritual Phrase |
-| Испунити жељу | To fulfill desire | Verb |
-| Привидно задовољити | To satisfy outwardly | Verb |
-| Не знаде се | Were not known | Verb |
-| Завештане на девство | Vowed to virginity | Spiritual Phrase |
-| До краја живота | For life | Temporal Phrase |
-| Доживотно завештана | Vowed to lifelong | Spiritual Phrase |
-| После следоваху | After followed | Verb |
-| Хиљаде и хиљаде | Thousands upon thousands | Phrase |
-| Девственице | Virgins (female) | Spiritual |
-| Девственици | Virgins (male) | Spiritual |
-| Увођати у храм | To bring into Temple | Liturgical Verb |
-| По обећању | According to promise | Phrase |
-| Предавати Господу | To present to Lord | Liturgical Verb |
-| Храм у храм | Temple into Temple | Liturgical Phrase |
-| Запојати | To sing | Liturgical Verb |
-| У милини | In tenderness | Phrase |
-| Мала Дева | Small Virgin | Theotokos Title |
-| У белини | In whiteness | Phrase |
-| Деве прате | Virgins accompany | Phrase |
-| Са химнама | With hymns | Liturgical |
-| Приводити | To lead | Verb |
-| Страшна тајна | Terrible mystery | Theological |
-| Крије се | Is hidden | Verb |
-| Ћивот од завета | Ark of covenant | Biblical |
-| Ћивот | Ark | Biblical |
-| Златна кадилница | Golden censer | Biblical |
-| Жезал | Rod | Biblical |
-| Мана | Manna | Biblical |
-| Сакривница тајни | Treasury of mysteries | Theological |
-| Дева чиста | Pure Virgin | Theotokos Title |
-| Тајни ћивот | Secret ark | Theological |
-| Живи Христос | Living Christ | Theological |
-| Покорити се вољи Божјој | To submit to will of God | Spiritual Phrase |
-| Не испитуј сувише | Do not examine too much | Spiritual Phrase |
-| Судови Божји | Judgments of God | Theological |
-| Можеш с ума сићи | Canst lose mind | Phrase |
-| Безбројни | Countless | Adjective |
-| Недокучни | Unfathomable | Adjective |
-| Мислећи за себе | Thinking to himself | Phrase |
-| Достићи савршенство | To attain perfection | Spiritual Phrase |
-| Открити судове | To reveal judgments | Theological Verb |
-| Различни судови | Various judgments | Theological Phrase |
-| У животу људском | In human life | Phrase |
-| Ставити помисао у ум | To put thought in mind | Phrase |
-| На далеко | Far away | Phrase |
-| Старац духовник | Elder confessor | Monastic |
-| Придружити се | To join | Verb |
-| У виду обична човека | In form of ordinary man | Phrase |
-| К ономе старцу | To that elder | Phrase |
-| Путујући | Traveling | Verb |
-| Пасти на конак | To stop for night | Verb |
-| Конак | Night lodging | Phrase |
-| Богољубив човек | God-loving man | Phrase |
-| Добро угостити | To receive well | Verb |
-| Сребрни тањир | Silver plate | Phrase |
-| Бацити у море | To throw into sea | Verb |
-| Чудно и криво | Strange and wrong | Phrase |
-| Ћуташе | Kept silent | Verb |
-| Други дан | Second day | Temporal Phrase |
-| Човек гостољубац | Hospitable man | Phrase |
-| Усрдно примити | To receive warmly | Verb |
-| Својски почастити | To honor in own way | Verb |
-| При поласку | At departure | Temporal Phrase |
-| Извести сина | To bring out son | Verb |
-| Син јединац | Only son | Phrase |
-| Да благослове | To bless | Liturgical Verb |
-| Узети за гушу | To take by throat | Verb |
-| Удавити | To strangle | Verb |
-| Ражљутити се | To become enraged | Verb |
-| Упитати | To ask | Verb |
-| Таква недела | Such evil deeds | Phrase |
-| Одговорити кротко | To answer meekly | Verb |
-| Кротко | Meekly | Adverb |
-| У свему Богу угодан | Pleasing to God in all things | Spiritual Phrase |
-| Неправдом стечено | Acquired through injustice | Phrase |
-| По Божјем суду | By God's judgment | Theological Phrase |
-| Украђени тањир | Stolen plate | Phrase |
-| Прав пред Богом | Righteous before God | Spiritual Phrase |
-| Навлачити гнев Божји | To draw wrath of God | Theological Phrase |
-| Гнев Божји | Wrath of God | Theological |
-| Ако би одрастао | If grew up | Conditional Phrase |
-| Велики злотвор | Great evildoer | Phrase |
-| Сасуд демонски | Vessel of demons | Theological |
-| Душу спасем за времена | To save soul in time | Spiritual Phrase |
-| Због доброте очеве | Because of father's goodness | Phrase |
-| Сачувати од беде | To save from misery | Verb |
-| Беда многа | Much misery | Phrase |
-| Ето то су | Behold such are | Phrase |
-| Тајанствени | Mysterious | Adjective |
-| Трудити се улудо | To labor in vain | Phrase |
-| У власти јединога Бога | In power of God alone | Theological Phrase |
-| Прах земни | Dust of earth | Biblical |
-| Дунути у нос | To breathe into nostrils | Biblical Verb |
-| Дух животни | Breath of life | Biblical |
-| Поста душа жива | Became living soul | Biblical Phrase |
-| Једно тијело, један дух | One body, one spirit | Theological |
-| Старати се | To take care | Verb |
-| Препоручити | To recommend | Verb |
-| Једна вера | One faith | Theological |
-| Без цепања | Without division | Ecclesiological |
-| Без самовоље | Without self-will | Ecclesiological |
-| Цела црква | Whole Church | Ecclesiological |
-| Глава Христос | Head is Christ | Ecclesiological |
-| Љубав пламена | Flaming love | Spiritual Phrase |
-| Узајамна љубав | Mutual love | Spiritual |
-| Произлазити | To proceed | Verb |
-| Множина као једнина | Multitude as unity | Ecclesiological Phrase |
-| Много људи као један човек | Many people as one man | Ecclesiological Phrase |
-| Чудо хришћанске вере | Miracle of Christian faith | Theological |
-| Чудо хришћанске љубави | Miracle of Christian love | Theological |
-| Јача спона | Stronger bond | Phrase |
-| Иста крв | Same blood | Phrase |
-| Исти језик | Same language | Phrase |
-| Исто огњиште | Same hearth | Phrase |
-| Исти родитељи | Same parents | Phrase |
-| Материјални интереси | Material interests | Phrase |
-| Није ни издалека | Is not even remotely | Phrase |
-| Силна спона | Powerful bond | Phrase |
-| Неодољива спона | Irresistible bond | Phrase |
-| Повезани међу собом | Bound to one another | Ecclesiological Phrase |
-| Стајати као један човек | To stand as one man | Ecclesiological Phrase |
-| У времену и у вечности | In time and in eternity | Theological Phrase |
-| Чудесно јединство | Wondrous unity | Ecclesiological |
-| Противречити | To contradict | Verb |
-| Гордост појединих људи | Pride of individual people | Spiritual Phrase |
-| Кривити веру | To distort faith | Spiritual Verb |
-| Хладити љубав | To cool love | Spiritual Verb |
-| Стварати јереси | To create heresies | Ecclesiological Verb |
-| Цепати цркву | To divide Church | Ecclesiological Verb |
-| Жртвовати добро целине | To sacrifice good of whole | Phrase |
-| Угодност лична | Personal convenience | Phrase |
-| У суштини | In essence | Phrase |
-| Одсуство вере | Absence of faith | Spiritual Phrase |
-| Одсуство љубави | Absence of love | Spiritual Phrase |
-| Праисконог недуга | Primordial ailment | Spiritual Phrase |
-| Род људски | Human race | Phrase |
-| Вазда | Always | Adverb |
-| Глава Цркве | Head of Church | Ecclesiological Title |
-# New Glossary Entries - November 22
-
-## Rows to Add to Master Glossary Table
-
-| Serbian | English | Type |
-|---------|---------|------|
-| Св. муч. Кикилија | Holy Martyr Cecilia | Saint Name |
-| Кикилија | Cecilia | Saint Name |
-| Цицилија | Cecilia | Saint Name |
-| Богати и знатни | Wealthy and notable | Phrase |
-| Велика ревност | Great zeal | Spiritual Phrase |
-| Заветовати доживотно девство | To vow lifelong virginity | Spiritual Verb |
-| Оштра власјаница | Sharp hairshirt | Monastic |
-| Драгоцене хаљине | Precious garments | Phrase |
-| Дариваху | Gave | Verb |
-| Присилити на брак | To compel to marriage | Verb |
-| Незнабошац | Pagan | Phrase |
-| Валеријан | Valerian | Personal Name |
-| Прва ноћ | First night | Temporal Phrase |
-| Усаветовати младожењу | To counsel bridegroom | Verb |
-| Епископ Урбан | Bishop Urban | Personal Name |
-| Урбан | Urban | Personal Name |
-| Девствени живот | Virginal life | Spiritual |
-| Обратити у веру | To convert to faith | Spiritual Verb |
-| Тивуртије | Tiburtius | Personal Name |
-| Оба брата | Both brothers | Phrase |
-| Верност | Faithfulness | Spiritual |
-| Не ослабити | Not to weaken | Verb |
-| Дивна браћа | Wondrous brothers | Hagiographic Phrase |
-| Вођа страже | Commander of guard | Phrase |
-| Максим | Maximus | Personal Name |
-| Сахранити заједно | To bury together | Verb |
-| Неуморно | Untiringly | Adverb |
-| Придобијати | To win over | Spiritual Verb |
-| 400 душа | Four hundred souls | Phrase |
-| Једно вече | One evening | Temporal Phrase |
-| Откуда њој смелост | Whence came boldness | Phrase |
-| Чиста савест | Pure conscience | Spiritual |
-| Вера несумњива | Faith without doubt | Spiritual |
-| Љуте муке | Cruel tortures | Martyrdom Phrase |
-| Посечење мачем | Beheading by sword | Martyrdom Phrase |
-| Џелат | Executioner | Martyrdom |
-| Три пута | Three times | Phrase |
-| Ударити по врату | To strike on neck | Martyrdom Verb |
-| Ранити | To wound | Verb |
-| Крв истицаше | Blood flowed | Martyrdom Phrase |
-| Сабирати у мараме | To collect in handkerchiefs | Verb |
-| Мараме | Handkerchiefs | Phrase |
-| Сунђери | Sponges | Phrase |
-| Судови | Vessels | Phrase |
-| Ради лечења | For healing | Phrase |
-| Девица Христова | Virgin of Christ | Hagiographic Title |
-| Предати дух | To give up spirit | Death Verb |
-| Вечно се веселити | To rejoice eternally | Theological Phrase |
-| Пострадати око 230. год. | To suffer around year 230 | Temporal Phrase |
-| Црква њенога имена | Church of her name | Ecclesiological |
-| Западна црква | Western Church | Ecclesiological |
-| Заштитница појања | Patroness of singing | Hagiographic |
-| Заштитница музике | Patroness of music | Hagiographic |
-| Св. Калист | Saint Callistus | Saint Name |
-| Калист | Callistus | Saint Name |
-| Назват Ксантопулос | Called Xanthopulos | Phrase |
-| Ксантопулос | Xanthopulos | Personal Name |
-| Келија Ксантопул | Cell of Xanthopoul | Geographical |
-| Атонска Гора | Mount Athos | Geographical |
-| Дуго подвизавати се | To struggle ascetically long | Monastic Phrase |
-| Игњатије | Ignatius | Personal Name |
-| Сопствени опит | Own account | Phrase |
-| Безмолвни живот | Silent life | Monastic |
-| У 100 глава | In one hundred chapters | Phrase |
-| Врло видно место | Very prominent place | Phrase |
-| Подвижничка књижевност | Ascetical literature | Monastic |
-| Под утицајем | Under influence | Phrase |
-| Св. Григорије Синаит | Saint Gregory of Sinai | Saint Name |
-| Григорије Синаит | Gregory of Sinai | Saint Name |
-| Чије житије | Whose Life | Phrase |
-| Отићи у Србију | To go to Serbia | Geographical Verb |
-| На том путовању | On that journey | Phrase |
-| Разболети се | To fall ill | Verb |
-| Пред пут | Before journey | Temporal Phrase |
-| Прорећи | To predict | Verb |
-| Св. Максим Капсокаливит | Saint Maximus Kapsokalivis | Saint Name |
-| Максим Капсокаливит | Maximus Kapsokalivis | Saint Name |
-| Света Гора | Holy Mountain | Geographical |
-| Св. муч. Менигнос | Holy Martyr Menignus | Saint Name |
-| Менигнос | Menignus | Saint Name |
-| Хелеспонт | Hellespont | Geographical |
-| Бавити се белењем | To work as a bleacher | Verb |
-| Белење платна | Bleaching cloth | Phrase |
-| Прозват Бељом | Called Bleacher | Phrase |
-| Беља | Bleacher | Title |
-| Цар Декије | Emperor Decius | Personal Name |
-| Поцепати наредбу | To tear up decree | Verb |
-| Царска наредба | Imperial decree | Historical |
-| Охрабрити | To encourage | Verb |
-| Окови | Chains | Martyrdom |
-| Растопити се као восак | To melt like wax | Miracle Phrase |
-| Восак | Wax | Phrase |
-| Отворити сама од себе | To open by itself | Miracle Phrase |
-| Изаћи | To go out | Verb |
-| Поново ухваћен | Recaptured | Martyrdom Verb |
-| Нечовечно мучен | Tortured inhumanly | Martyrdom Phrase |
-| Одсећи прсте | To cut off fingers | Martyrdom Verb |
-| Од руку и од ногу | From hands and from feet | Martyrdom Phrase |
-| Глава се светлила | Head glowed | Miracle Phrase |
-| Ноћу | At night | Temporal Phrase |
-| Св. праведни Михаило | Saint Michael the Righteous | Saint Name |
-| Праведни Михаило | Michael the Righteous | Saint Name |
-| Михаило војник | Michael the Soldier | Saint Name |
-| Бугарин по рођењу | Bulgarian by birth | Geographical Phrase |
-| Дружина | Company | Military |
-| Борити се у војсци | To fight in army | Military Verb |
-| Грчка војска | Greek army | Historical |
-| Агарјани | Hagarenes | Historical |
-| Етиопљани | Ethiopians | Geographical |
-| Чуда од неустрашивости | Miracles of fearlessness | Hagiographic Phrase |
-| Неустрашивост | Fearlessness | Hagiographic |
-| Убити страшну змију | To kill terrible dragon | Miracle Verb |
-| Ослободити девојку | To free maiden | Miracle Verb |
-| Преселити се у вечни живот | To pass into eternal life | Death Phrase |
-| Праведни муж | Righteous man | Hagiographic |
-| Тракија | Thrace | Geographical |
-| 1206. год. | Year 1206 | Temporal Phrase |
-| Цар Кало-Јован | Tsar Kalo-John | Personal Name |
-| Кало-Јован | Kalo-John | Personal Name |
-| Трново | Tarnovo | Geographical |
-| Св. ап. Филимон | Holy Apostle Philemon | Saint Name |
-| Филимон | Philemon | Saint Name |
-| Архип | Archippus | Saint Name |
-| Апфија | Apphia | Saint Name |
-| Види 19. фебруар | See February 19 | Cross-reference |
-| Вером силна | Mighty in faith | Hagiographic Phrase |
-| Вером богата | Rich in faith | Hagiographic Phrase |
-| Лепша од звезда | More beautiful than stars | Hagiographic Phrase |
-| Скупља од злата | More precious than gold | Hagiographic Phrase |
-| Приковати за крст | To nail to cross | Spiritual Phrase |
-| Младост | Youth | Phrase |
-| Брак и почаст | Marriage and honor | Phrase |
-| Жртвовати Христу | To sacrifice to Christ | Spiritual Verb |
-| Демон љути | Fierce demon | Theological |
-| Украсти | To steal | Verb |
-| Пламен вере | Flame of faith | Spiritual Phrase |
-| Пламен љубави | Flame of love | Spiritual Phrase |
-| Залуд сав труд | In vain all labor | Phrase |
-| Труд око учења | Labor about learning | Phrase |
-| Чистота вере | Purity of faith | Spiritual |
-| Чистота живота | Purity of life | Spiritual |
-| Небески свет | Heavenly world | Theological |
-| Ученоме | To learned | Phrase |
-| Чистоме | To pure | Spiritual |
-| Брачна одаја | Bridal chamber | Phrase |
-| Казати тајну | To tell secret | Phrase |
-| Чувар девствености | Guardian of virginity | Angelic Phrase |
-| Спреман да заштити | Ready to protect | Phrase |
-| Слушкиња | Handmaiden | Phrase |
-| Од насиља | From violence | Phrase |
-| Дохватити се | To touch | Verb |
-| Покажи ангела | To show angel | Phrase |
-| Познавати истинога Бога | To know true God | Spiritual Phrase |
-| Очистити се од скверне | To cleanse from defilement | Spiritual Verb |
-| Сквернa | Defilement | Spiritual |
-| Неверовање | Unbelief | Spiritual |
-| Красота неизречена | Beauty ineffable | Angelic Phrase |
-| Променити живот | To change life | Spiritual Verb |
-| Од нечистоте на чистоту | From impurity to purity | Spiritual Phrase |
-| Разговарати са ангелима | To converse with angels | Angelic Phrase |
-| Састрадалник | Fellow sufferer | Martyrdom |
-| Заклети се клетвом великом | To swear with great oath | Phrase |
-| Унаоколо | All around | Adverb |
-| Светли као сунце | Bright as sun | Angelic Phrase |
-| Узимати душе из тела | To take souls from bodies | Angelic Phrase |
-| Красне девице | Beautiful maidens | Phrase |
-| Из брачног чертога | From bridal chamber | Phrase |
-| Узводити на небеса | To carry to heaven | Angelic Verb |
-| Са великом славом | With great glory | Angelic Phrase |
-| Неверни и нечисти | Unfaithful and impure | Spiritual Phrase |
-| Насадити рајски врт | To plant garden | Biblical Verb |
-| Едем | Eden | Biblical Geographical |
-| На истоку | In the east | Geographical |
-| Онде сместити | There to place | Biblical Verb |
-| Никнути | To grow | Biblical Verb |
-| Дрвета лепа за гледање | Trees beautiful to behold | Biblical |
-| Добра за јело | Good for food | Biblical |
-| Извести пред човека | To bring before man | Biblical Verb |
-| Надети имена | To give names | Biblical Verb |
-| Шта чини јединство | What constitutes unity | Theological Phrase |
-| Један Господ | One Lord | Theological |
-| Једна вјера | One faith | Theological |
-| Једно крштење | One baptism | Theological |
-| Један Бог и Отац свију | One God and Father of all | Theological |
-| Разлог крупан | Reason great | Phrase |
-| Прекрупан | Most great | Adjective |
-| Прејасан | Most clear | Adjective |
-| Држати јединство | To hold unity | Ecclesiological Verb |
-| Јединство Духа | Unity of Spirit | Theological |
-| У свези мира | In bond of peace | Theological Phrase |
-| Створитељ | Creator | Theological |
-| Искупитељ | Redeemer | Theological |
-| Васкрситељ | Resurrector | Theological |
-| Два права Христа | Two true Christs | Theological Phrase |
-| Двојство | Duality | Phrase |
-| Једна иста крв | One and same blood | Theological |
-| Проливена са Крста | Poured out from Cross | Theological Phrase |
-| Једна иста уста | One and same lips | Phrase |
-| Гетсиманија | Gethsemane | Biblical Geographical |
-| Тројица Божанска | Divine Trinity | Theological |
-| Неразделна | Undivided | Theological |
-| Једно суштаство | One essence | Theological |
-| Три ипостаси | Three hypostases | Theological |
-| Отац нерођен | Father unbegotten | Theological |
-| Син рођен | Son begotten | Theological |
-| Дух од Оца исходан | Spirit proceeding from Father | Theological |
-| У име Оца и Сина и Духа | In name of Father and Son and Spirit | Liturgical |
-| Трикратно погружавање | Triple immersion | Liturgical |
-| За смрт греху | For death to sin | Liturgical Phrase |
-| За васкрсење Христу | For resurrection to Christ | Liturgical Phrase |
-| Отац свију | Father of all | Theological |
-| Син Божји јединородни | Only-begotten Son of God | Theological |
-| Усиновљавати | To adopt | Theological Verb |
-| Давати право | To give right | Theological Verb |
-| Оче наш | Our Father | Prayer |
-| Какве везе везују | What bonds bind | Phrase |
-| Јачим везама | By stronger bonds | Phrase |
-| Звезде везане | Stars bound | Phrase |
-| Вода за земљу | Water to earth | Phrase |
-| Огањ за ваздух | Fire to air | Phrase |
-| Позивати на јединство | To call to unity | Ecclesiological Verb |
-| Од леве стране | From left side | Phrase |
-| Наговарати на подвојеност | To urge toward division | Ecclesiological Verb |
-| Ситно | Petty | Adjective |
-| Зрно песка | Grain of sand | Phrase |
-| Високе планине | High mountains | Geographical |
-| Разорити јединство | To destroy unity | Ecclesiological Verb |
-| Ако му не помогнемо | If we do not help him | Phrase |
-| Покорити | To conquer | Verb |
-| Ако се не предамо | If we do not surrender | Phrase |
-| Слатки и благи | Sweet and good | Theological |
-| Чврсто везао | Firmly bound | Verb |
-| Вечно добро | Eternal good | Theological |
-| Одржати у вези | To keep in bond | Verb |
-| Св. Амфилохије еп. Иконијски | Saint Amphilochius, Bishop of Iconium | Saint Name |
-| Амфилохије | Amphilochius | Saint Name |
-| Еп. Иконијски | Bishop of Iconium | Church Title |
-| Иконија | Iconium | Geographical |
-| Земљак | Compatriot | Phrase |
-| Друг и пријатељ | Companion and friend | Phrase |
-| IV столеће | Fourth century | Temporal Phrase |
-| Рано остави | Early abandoned | Verb |
-| Метеж светски | Worldly turmoil | Phrase |
-| Повући се у пештеру | To withdraw into cave | Monastic Verb |
-| 40 година | Forty years | Temporal Phrase |
-| Упразнити се | To become vacant | Ecclesiological Verb |
-| Епископска столица | Episcopal see | Ecclesiological |
-| Чудесним начином | By wondrous manner | Miracle Phrase |
-| Диван пастир | Wonderful pastor | Hagiographic Phrase |
-| Бранитељ вере | Defender of faith | Hagiographic |
-| II Васељенски Сабор | Second Ecumenical Council | Ecclesiological |
-| 381. год. | Year 381 | Temporal Phrase |
-| Македоније злочестиви | Wicked Macedonius | Personal Name |
-| Македоније | Macedonius | Personal Name |
-| Аријанци | Arians | Theological |
-| Евномије | Eunomius | Personal Name |
-| Лично молити | To ask personally | Verb |
-| Цар Теодосије Велики | Emperor Theodosius the Great | Personal Name |
-| Теодосије Велики | Theodosius the Great | Personal Name |
-| Изагнати | To banish | Verb |
-| Из сваког града | From every city | Phrase |
-| У држави | In the state | Political |
-| Не испунити жељу | Not to fulfill desire | Verb |
-| После неколико дана | After several days | Temporal Phrase |
-| Јавити се цару | To appear before emperor | Verb |
-| Одаја за примање | Reception chamber | Phrase |
-| Седети на престолу | To sit on throne | Phrase |
-| С десне стране | On right side | Phrase |
-| Аркадије | Arcadius | Personal Name |
-| Узети за сацара | To take as co-emperor | Historical Verb |
-| Сацар | Co-emperor | Historical Title |
-| Ушавши | Upon entering | Verb |
-| Не обазрети се | To pay no attention | Verb |
-| Као да га ту не бејаше | As if he were not there | Phrase |
-| Разгневити се веома | To become very angry | Verb |
-| Истерати из двора | To drive from court | Verb |
-| Бешчешће | Dishonor | Phrase |
-| Не подносити | Not to endure | Verb |
-| Не трпети | Not to endure | Verb |
-| Одвраћати се с ненавишћу | To turn away with hatred | Verb |
-| Хулити | To blaspheme | Theological Verb |
-| Присталице | Adherents | Phrase |
-| Проклета јереси | Accursed heresy | Theological |
-| Разумети | To understand | Verb |
-| Одати почаст | To show honor | Verb |
-| Удивити се мудрости | To marvel at wisdom | Verb |
-| Између многих трудова | Among many labors | Phrase |
-| Неколико књига о вери | Several books on faith | Phrase |
-| 395. год. | Year 395 | Temporal Phrase |
-| Дубока старост | Deep old age | Phrase |
-| Живот бесмртни | Immortal life | Theological |
-| Св. Григорије еп. Акрагантски | Saint Gregory, Bishop of Agrigentum | Saint Name |
-| Григорије Акрагантски | Gregory of Agrigentum | Saint Name |
-| Акрагант | Agrigentum | Geographical |
-| Сицилија | Sicily | Geographical |
-| Близу града | Near the city | Geographical Phrase |
-| Доцније | Later | Temporal Adverb |
-| Благоверни родитељи | Pious parents | Hagiographic Phrase |
-| Харитон | Chariton | Personal Name |
-| Теодотија | Theodotia | Personal Name |
-| Проткан чудесима | Woven with miracles | Hagiographic Phrase |
-| Спасао се од клевете | Saved from slander | Hagiographic Phrase |
-| Велики чудотворац | Great wonderworker | Hagiographic |
-| Велики духовник | Great confessor | Hagiographic |
-| V Васељ. Сабор | Fifth Ecumenical Council | Ecclesiological |
-| Тешка искушења | Severe trials | Spiritual Phrase |
-| Почетак VII века | Beginning of seventh century | Temporal Phrase |
-| Крај VI века | End of sixth century | Temporal Phrase |
-| Св. Александар Невски | Saint Alexander Nevsky | Saint Name |
-| Александар Невски | Alexander Nevsky | Saint Name |
-| Кнез Јарослав | Prince Yaroslav | Personal Name |
-| Од малена | From youth | Temporal Phrase |
-| Срцем окренут к Богу | Heart turned toward God | Spiritual Phrase |
-| Победити Шведе | To defeat Swedes | Military Verb |
-| Шведи | Swedes | Historical |
-| Река Нева | Neva River | Geographical |
-| 15. јула 1240. год. | July 15, 1240 | Temporal Phrase |
-| Прозват Невским | Called Nevsky | Title |
-| Том приликом | On that occasion | Phrase |
-| Јавити се | To appear | Miracle Verb |
-| Св. Борис | Saint Boris | Saint Name |
-| Св. Гљеб | Saint Gleb | Saint Name |
-| Борис и Гљеб | Boris and Gleb | Saint Names |
-| Војвода | Commander | Military Title |
-| Обећати помоћ | To promise help | Verb |
-| Велики кнез | Great prince | Title |
-| Сродник | Kinsman | Phrase |
-| Златна Орда | Golden Horde | Historical |
-| Татарска | Tatar | Historical Adjective |
-| Поклонити се идолима | To bow down to idols | Phrase |
-| Проћи кроз огањ | To pass through fire | Phrase |
-| Телесна снага | Bodily strength | Phrase |
-| Уважавати | To respect | Verb |
-| Кан татарски | Tatar khan | Historical Title |
-| Зидати цркве | To build churches | Ecclesiological Verb |
-| Безбројна дела | Countless works | Phrase |
-| У својој 43. години | In his forty-third year | Temporal Phrase |
-| 14. новембра 1263. год. | November 14, 1263 | Temporal Phrase |
-| 23. нов. | November 23 | Temporal Abbreviation |
-| Пренос моштију | Transfer of relics | Ecclesiological |
-| Град Владимир | City of Vladimir | Geographical |
-| Св. Митрофан еп. Воронежски | Saint Mitrophan, Bishop of Voronezh | Saint Name |
-| Митрофан | Mitrophan | Saint Name |
-| Еп. Воронежски | Bishop of Voronezh | Church Title |
-| Воронеж | Voronezh | Geographical |
-| Славни руски јерарх | Glorious Russian hierarch | Hagiographic Phrase |
-| Родољуб | Patriot | Phrase |
-| Изобличитељ | Reprover | Phrase |
-| Петар Велики | Peter the Great | Personal Name |
-| 1703. год. | Year 1703 | Temporal Phrase |
-| Откривене 1832. год. | Discovered in 1832 | Temporal Phrase |
-| Витез Христов | Knight of Christ | Hagiographic Title |
-| Кнез народу | Prince to people | Title |
-| Слуга Господу | Servant to Lord | Spiritual Title |
-| Владар земље | Ruler of land | Title |
-| Роб Свемоћнога | Slave of Almighty | Spiritual Title |
-| Цело житије | Whole life | Hagiographic Phrase |
-| Споља раскош | Outwardly splendor | Phrase |
-| Унутра плакање | Inwardly weeping | Spiritual Phrase |
-| Споља борба | Outwardly battle | Phrase |
-| Унутра тишина | Inwardly stillness | Spiritual Phrase |
-| Споља варка | Outwardly deception | Phrase |
-| Унутра истина | Inwardly truth | Spiritual Phrase |
-| Мета | Goal | Phrase |
-| Богатир | Hero | Hagiographic |
-| Привидни мир | Apparent peace | Phrase |
-| У муци | In torment | Spiritual Phrase |
-| Радовање | Joy | Spiritual |
-| Поуздање | Hope | Spiritual |
-| Победитељ | Victor | Hagiographic |
-| Васкрситељ | Resurrector | Theological |
-| У обадва света | In both worlds | Theological Phrase |
-| Конак | Lodging | Phrase |
-| Животна мета | Life's goal | Spiritual Phrase |
-| Кнез побожни | Pious prince | Hagiographic Title |
-| Дати пример роду | To give example to people | Verb |
-| Светлом силом | With radiant power | Spiritual Phrase |
-| Попустити беду | To allow misfortune | Theological Verb |
-| Што јаче прославити | To glorify all the more | Verb |
-| Савладана беда | Conquered misfortune | Phrase |
-| Најјаче објављује | Most powerfully manifests | Verb |
-| Слава праведничка | Glory of righteous | Hagiographic |
-| Сличну беди | Similar to misfortune | Phrase |
-| Постићи | To befall | Verb |
-| Св. Атанасије | Saint Athanasius | Saint Name |
-| Св. Макарије | Saint Macarius | Saint Name |
-| Наиме | Namely | Adverb |
-| Савин | Sabinus | Personal Name |
-| Крискент | Crescentius | Personal Name |
-| Много добра учинити | To do much good | Verb |
-| Не моћи подносити | Could not endure | Verb |
-| Добродетељи | Virtues | Spiritual |
-| Особина порочности | Character of vice | Spiritual Phrase |
-| Не може подносити добродетељ | Cannot endure virtue | Spiritual Phrase |
-| Јавна жена | Public woman | Phrase |
-| Блудница | Harlot | Phrase |
-| Потплатити | To bribe | Verb |
-| Оклеветати | To slander | Verb |
-| Имао везе са њом | Had relations with her | Phrase |
-| Увући се | To creep into | Verb |
-| Спаваћа соба | Bedchamber | Phrase |
-| Појавити се | To appear | Verb |
-| Двојица свештеника | Two priests | Phrase |
-| Викати на | To cry out against | Verb |
-| Блудник | Adulterer | Phrase |
-| Присебан | Composed | Adjective |
-| Готов на страдање | Ready for suffering | Spiritual Phrase |
-| Спровести у Рим | To bring to Rome | Verb |
-| Поверовати | To believe | Verb |
-| Две и по године | Two and half years | Temporal Phrase |
-| Без суда и осуде | Without trial or sentence | Legal Phrase |
-| Сазвати сабор | To convene council | Ecclesiological Verb |
-| Пресудити ствар | To decide case | Legal Verb |
-| Пре него људи пресудише | Before men judged | Phrase |
-| Бог пресуди | God judged | Theological Verb |
-| Полудети | To go mad | Verb |
-| Сумашедша | Insane | Adjective |
-| Довести пред сабор | To bring before council | Verb |
-| Безумна | Senseless | Adjective |
-| Не умеде одговарати | Could answer nothing | Verb |
-| Оздравити | To be healed | Miracle Verb |
-| Посведочити кроз плач | To testify through tears | Verb |
-| Потплаћена | Bribed | Adjective |
-| Божји човек | Man of God | Hagiographic Title |
-| Поседнути | To possess | Spiritual Verb |
-| Држати у власти | To hold in power | Verb |
-| Преко 100 на број | Over one hundred in number | Phrase |
-| Наједанпут | Suddenly | Adverb |
-| Лица поцрнеше | Faces blackened | Miracle Phrase |
-| Као угарак | Like charcoal | Phrase |
-| Угарак | Charcoal | Phrase |
-| Кажњени прогонством | Punished with exile | Legal Phrase |
-| Враћен на епархију | Returned to diocese | Ecclesiological Phrase |
-| Са великим торжеством | With great triumph | Phrase |
-| Примљен од народа | Received by people | Phrase |
-| Све биље | All plants | Biblical |
-| Родно воће | Fruitful produce | Biblical |
-| Забранити јести | To forbid eating | Biblical Verb |
-| Дрвето познања добра и зла | Tree of knowledge of good and evil | Biblical |
-| Под претњом смрти | Under threat of death | Biblical Phrase |
-| Начело различности | Principle of difference | Theological |
-| Набројати | To enumerate | Verb |
-| Што нас чини једнаким | What makes us equal | Theological Phrase |
-| Ван наше воље | Beyond our will | Phrase |
-| Чини неједнаким | Makes unequal | Verb |
-| Мера дара Христова | Measure of Christ's gift | Theological |
-| Благодат Духа Светога | Grace of Holy Spirit | Theological |
-| Глава тела | Head of body | Ecclesiological |
-| Стројити тело | To build body | Ecclesiological Verb |
-| Посебице | Separately | Adverb |
-| Стројитељ | Builder | Ecclesiological |
-| Познавалац плана | One who knows plan | Phrase |
-| План грађевине | Plan of building | Ecclesiological Phrase |
-| Не дозвољава | Does not allow | Verb |
-| Несразмерно велики | Disproportionately large | Adjective |
-| Несразмерно мали | Disproportionately small | Adjective |
-| Давати меру | To give measure | Verb |
-| Одмеравати | To apportion | Verb |
-| Пет таланата | Five talents | Biblical |
-| Два таланта | Two talents | Biblical |
-| Један таланат | One talent | Biblical |
-| Да се не срди | Let none be angry | Phrase |
-| Да не завиди | Let none be envious | Phrase |
-| Мање ће одговарати | Will answer for less | Theological Phrase |
-| Није његово него Божје | Not his but God's | Theological Phrase |
-| Много ће се тражити | Much will be required | Biblical Phrase |
-| Божанска прича | Divine parable | Biblical |
-| Прича о талантима | Parable of talents | Biblical |
-| Свесан мере | Conscious of measure | Phrase |
-| Одговорност | Responsibility | Phrase |
-| Поштовати дар | To honor gift | Spiritual Verb |
-| Дар суседа | Gift of neighbor | Spiritual Phrase |
-| Дарови од Бога | Gifts from God | Theological |
-| Дародатељ | Giver | Theological |
-| Дарови различити | Various gifts | Theological |
-| Св. вел. муч. Екатерина | Holy Great-Martyr Catherine | Saint Name |
-| Екатерина | Catherine | Saint Name |
-| Цар Консте | Emperor Constus | Personal Name |
-| Консте | Constus | Personal Name |
-| По смрти оца | After father's death | Temporal Phrase |
-| Потајна хришћанка | Secret Christian | Phrase |
-| Духовни отац | Spiritual father | Monastic |
-| Примити прстен | To receive ring | Phrase |
-| У знак обручења | As sign of betrothal | Phrase |
-| До данас | To this day | Temporal Phrase |
-| Стоји на руци | Stands on hand | Phrase |
-| Врло даровита | Very gifted | Hagiographic Phrase |
-| Врло добро школована | Very well educated | Phrase |
-| Грчка философија | Greek philosophy | Academic |
-| Медицина | Medicine | Academic |
-| Риторика | Rhetoric | Academic |
-| Логика | Logic | Academic |
-| При том | Besides this | Phrase |
-| Необична лепота | Unusual beauty | Hagiographic Phrase |
-| Телесна лепота | Bodily beauty | Phrase |
-| Цар Максенције | Emperor Maxentius | Personal Name |
-| Максенције | Maxentius | Personal Name |
-| Приносити жртве | To offer sacrifices | Verb |
-| Наређивати | To command | Verb |
-| Изаћи смело | To come out boldly | Verb |
-| Изобличити заблуду | To denounce delusion | Verb |
-| Идолопоклоничка заблуда | Idolatrous delusion | Theological |
-| Јачи у мудрости | Stronger in wisdom | Phrase |
-| 50 најмудријих људи | Fifty wisest men | Phrase |
-| Препирати се о вери | To dispute about faith | Verb |
-| Посрамити | To shame | Verb |
-| Надмудрити | To outwit | Verb |
-| 50 мудраца | Fifty sages | Phrase |
-| Сагорети у огњу | To burn in fire | Martyrdom Phrase |
-| Пред смрт | Before death | Temporal Phrase |
-| Исповедити име | To confess name | Spiritual Verb |
-| Објавити себе хришћанима | To declare themselves Christians | Spiritual Phrase |
-| Привести у веру | To bring to faith | Spiritual Verb |
-| Права вера | True faith | Theological |
-| Војвода царски | Imperial commander | Military Title |
-| Порфирије | Porphyrius | Personal Name |
-| 200 војника | Two hundred soldiers | Military |
-| Царица | Empress | Title |
-| Августа-Василиса | Augusta-Basilissa | Title |
-| Заустави и изломи | Stopped and broke | Miracle Verb |
-| Точак | Wheel | Martyrdom |
-| Утешити | To comfort | Verb |
-| У својој 18. години | In her eighteenth year | Temporal Phrase |
-| 24. новембра 310. године | November 24, 310 | Temporal Phrase |
-| Истећи млеко | To flow milk | Miracle Phrase |
-| Место крви | Instead of blood | Miracle Phrase |
-| Синај | Sinai | Geographical |
-| Св. вел. муч. Меркурије | Holy Great-Martyr Mercurius | Saint Name |
-| Меркурије | Mercurius | Saint Name |
-| Ратовати против варвара | To wage war against barbarians | Military Verb |
-| Варвари | Barbarians | Historical |
-| Пук јерменски | Armenian regiment | Military |
-| Мартензес | Martenses | Military Name |
-| Дати мач у руке | To give sword in hands | Phrase |
-| Победити непријатеље | To defeat enemies | Military Verb |
-| Секући као траву | Cutting like grass | Phrase |
-| Славна победа | Glorious victory | Military Phrase |
-| Први војвода | First commander | Military Title |
-| Завидљивци | Envious people | Phrase |
-| Оптужити цару | To accuse to emperor | Verb |
-| Не сакрити | Not to hide | Verb |
-| Отворено признати | To confess openly | Verb |
-| Дуго и тешко | Long and severely | Martyrdom Phrase |
-| Сечен на кајише | Cut into strips | Martyrdom Phrase |
-| Ватром опаљиван | Scorched with fire | Martyrdom Phrase |
-| Изрећи осуду | To pronounce sentence | Legal Verb |
-| Посећи мачем | To behead by sword | Martyrdom Verb |
-| Кападокија | Cappadocia | Geographical |
-| Поста бело као снег | Became white as snow | Miracle Phrase |
-| Предиван мирис | Wondrous fragrance | Miracle Phrase |
-| Мирис од тамјана | Fragrance of incense | Phrase |
-| Болесници | Sick people | Phrase |
-| Прекрасни војник | Most beautiful soldier | Hagiographic Phrase |
-| Између 251–259. год. | Between 251–259 | Temporal Phrase |
-| Св. девица Мастридија | Holy Virgin Mastridia | Saint Name |
-| Мастридија | Mastridia | Saint Name |
-| Усамљенички живот | Solitary life | Monastic |
-| Ручни рад | Manual labor | Monastic |
-| Разгорети се похоти | To be inflamed with lust | Phrase |
-| Телесна похот | Bodily lust | Phrase |
-| Непрестано досађивати | To constantly trouble | Verb |
-| Не хотећи згрешити | Not wishing to sin | Spiritual Phrase |
-| Отрести се | To rid oneself | Verb |
-| Разуздани младић | Dissolute young man | Phrase |
-| Шта привлачи | What attracts | Phrase |
-| Очи твоје | Thy eyes | Phrase |
-| Игла | Needle | Phrase |
-| Шити | To sew | Verb |
-| Избости очи | To pierce out eyes | Martyrdom Verb |
-| Спасти мир | To save peace | Verb |
-| Љуто покајати се | To bitterly repent | Spiritual Verb |
-| Отићи у монахе | To go off to become monk | Monastic Verb |
-| Катерина Мудра | Catherine the Wise | Hagiographic Title |
-| Земаљска царица | Earthly empress | Title |
-| Поста мученица | Became martyr | Hagiographic Phrase |
-| Максенције глупи | Foolish Maxentius | Phrase |
-| Живот понудити | To offer life | Verb |
-| Жена мени буди | Be my wife | Phrase |
-| Чиста као злато | Pure as gold | Hagiographic Phrase |
-| Женик | Bridegroom | Spiritual |
-| Христос васкрсли | Christ resurrected | Theological |
-| Муж трулежан | Husband corrupted | Phrase |
-| Трулеж | Corruption | Spiritual |
-| Дух бесмртни | Immortal spirit | Theological |
-| Бесмртност | Immortality | Theological |
-| Блажити се | To be blessed | Spiritual Verb |
-| Телесна кора | Bodily husk | Phrase |
-| Морати да исуши | Must wither away | Verb |
-| Човек прави | True man | Phrase |
-| Бринути о души | To care for soul | Spiritual Verb |
-| Бесмртна душа | Immortal soul | Theological |
-| Чини што драго | Do what wilt | Phrase |
-| Мећи на муке | To put to torments | Martyrdom Verb |
-| Пећи на огњу | To burn in fire | Martyrdom Verb |
-| Окретати на точку | To spin on wheel | Martyrdom Verb |
-| Одрећи се душе | To renounce soul | Phrase |
-| Ван Христа | Outside of Christ | Theological Phrase |
-| Поклонити Богу | To worship God | Verb |
-| Запамти | Remember | Verb |
-| Скоро ћеш умрети | Soon shalt die | Phrase |
-| Леш | Corpse | Phrase |
-| Црви узаврети | Worms swarm forth | Phrase |
-| Црви те славити | Worms glorify thee | Phrase |
-| Црви те јести | Worms eat thee | Phrase |
-| Клетва те пратити | Curse follow thee | Phrase |
-| Клетва те срести | Curse meet thee | Phrase |
-| Ратовати са Христом | To make war with Christ | Phrase |
-| Јачи од смрти | Stronger than death | Theological |
-| Под камен стати | To set beneath stone | Phrase |
-| Сатрти | To crush | Verb |
-| Христова невеста | Bride of Christ | Spiritual Title |
-| Рад истине | For truth | Phrase |
-| Презрети престо | To despise throne | Verb |
-| Царство без краја | Kingdom without end | Theological |
-| Сладосни Рај | Sweet Paradise | Theological |
-| Прича старца | Elder's tale | Phrase |
-| У некоме граду | In certain city | Phrase |
-| Обичај | Custom | Phrase |
-| Узимати за цара | To take as emperor | Verb |
-| Човек странац | Foreign man | Phrase |
-| Не знати законе | Not to know laws | Phrase |
-| Зацарити | To enthrone | Verb |
-| Обући у красоту | To clothe in beauty | Verb |
-| Хранити обиљем | To feed with abundance | Verb |
-| Окруживати блеском | To surround with splendor | Verb |
-| Истећи година | To pass year | Temporal Verb |
-| Расцарити | To dethrone | Verb |
-| Одузети благо | To take away wealth | Verb |
-| Свући | To strip | Verb |
-| Сасвим наг | Completely naked | Phrase |
-| Протерати на острво | To drive to island | Verb |
-| Удаљено острво | Distant island | Geographical |
-| Немати ни хлеба ни крова | To have neither bread nor shelter | Phrase |
-| У беди и понижењу | In misery and humiliation | Phrase |
-| Скончавати живот | To end life | Death Phrase |
-| Бирати другога | To choose another | Verb |
-| Опет странца | Again foreigner | Phrase |
-| На годину дана | For one year | Temporal Phrase |
-| Тако редом | So in succession | Phrase |
-| Врло мудар | Very wise | Adjective |
-| Опрезан човек | Prudent man | Phrase |
-| Сазнати од слугу | To learn from servants | Verb |
-| Шта бива с царевима | What happened to emperors | Phrase |
-| На крају године | At end of year | Temporal Phrase |
-| Целa година | Whole year | Temporal Phrase |
-| Ревносно сабирати | To diligently gather | Verb |
-| Посведневно слати | To send daily | Verb |
-| Бити обнажен | To be stripped naked | Verb |
-| Бити бачен | To be thrown | Verb |
-| Наћи се усред | To find oneself in midst | Verb |
-| Огромна количина | Enormous quantity | Phrase |
-| Драго камење | Precious stones | Phrase |
-| Продужити живети | To continue to live | Verb |
-| Још боље | Even better | Phrase |
-| Толковање | Interpretation | Phrase |
-| Град представља свет | City represents world | Allegorical |
-| Грађани представљају | Citizens represent | Allegorical Verb |
-| Зли духови | Evil spirits | Theological |
-| Луди и мудри цареви | Foolish and wise emperors | Allegorical |
-| Луди људи | Foolish people | Phrase |
-| Мислити само на уживања | To think only of pleasures | Phrase |
-| Сматрати вечним | To consider eternal | Verb |
-| На крају | In the end | Temporal Phrase |
-| Смрт прекида све | Death cuts off everything | Phrase |
-| Наги од дела | Naked of deeds | Spiritual Phrase |
-| Отићи у ад | To go to Hades | Theological Verb |
-| Мудри пак | Wise however | Phrase |
-| Многа добра дела | Many good deeds | Spiritual |
-| Као благо | Like treasure | Phrase |
-| Слати пред собом | To send before oneself | Verb |
-| Добри људи | Good people | Phrase |
-| Мудри цареви | Wise emperors | Allegorical |
-| Нагомилано богатство | Accumulated wealth | Phrase |
-| Царовати у сјају | To reign in radiance | Phrase |
-| Извести пред Адама | To bring before Adam | Biblical Verb |
-| Птице и зверове | Birds and beasts | Biblical |
-| Да види како ће назвати | To see what would call | Biblical Phrase |
-| Надети име | To give name | Biblical Verb |
-| Живинче | Living creature | Biblical |
-| Онај који сиђе | Him who descended | Theological |
-| Онај који узиђе | Him who ascended | Theological |
-| Превише свих небеса | Far above all heavens | Theological |
-| Испунити све | To fill all things | Theological Verb |
-| По човекољубљу | In love for mankind | Theological Phrase |
-| Спустио се ниско | Descended low | Theological Verb |
-| Ниже није могло | Lower was not possible | Theological Phrase |
-| Дигао се високо | Ascended high | Theological Verb |
-| Више није могло | Higher was not possible | Theological Phrase |
-| Најдоња места земље | Lowest parts of earth | Theological |
-| У сами ад | Into Hades itself | Theological |
-| Праоци, пророци и праведници | Forefathers, prophets, and righteous | Theological |
-| Увео у царство | Led into kingdom | Theological Verb |
-| Свршити посао | To finish work | Phrase |
-| Узнети се | To ascend | Theological Verb |
-| Исти онај | Same One | Theological |
-| Без икакве измене | Without any change | Theological Phrase |
-| Изузев само | Except only | Phrase |
-| Без тела | Without body | Theological |
-| Са телом | With body | Theological |
-| Један исти | One and same | Theological Phrase |
-| Богочовек | God-Man | Theological |
-| Јуче, данас и сутра | Yesterday, today, and tomorrow | Temporal Phrase |
-| У низини и на висини | In depths and in heights | Theological Phrase |
-| Понизио се | Humbled Himself | Theological Verb |
-| Ниже свих људи | Lower than all men | Theological Phrase |
-| Узвисио се | Exalted Himself | Theological Verb |
-| Изнад ангелских сила | Above angelic powers | Theological Phrase |
-| Показати примером | To show by example | Verb |
-| Истинитост речи | Truth of words | Phrase |
-| Ко се узноси | Whosoever exalts himself | Biblical |
-| Понизиће се | Shall be abased | Biblical Verb |
-| Ко се понижава | He that humbles himself | Biblical |
-| Узнеће се | Shall be exalted | Biblical Verb |
-| Понижавати се | To humble oneself | Spiritual Verb |
-| По добродетељи | Through virtue | Spiritual Phrase |
-| Понизиће нас грех | Sin will humble us | Spiritual Phrase |
-| Понижење добровољно | Voluntary humiliation | Spiritual |
-| Понижење привремено | Temporary humiliation | Spiritual |
-| Понижење бесповратно | Humiliation irrevocable | Spiritual |
-| Понижење вечно | Eternal humiliation | Theological |
-| Испуњаваш силом | Fillest with power | Theological Phrase |
-| Дух смерности истинске | Spirit of true humility | Spiritual |
-| Свешт. муч. Климент | Hieromartyr Clement | Saint Name |
-| Климент еп. Римски | Clement, Bishop of Rome | Saint Name |
-| Од царскога рода | Of imperial lineage | Historical Phrase |
-| Савременик апостола | Contemporary of apostles | Historical Phrase |
-| Пловећи по мору | Sailing by sea | Phrase |
-| Занесени буром | Swept away by storm | Phrase |
-| У разне стране | In different directions | Phrase |
-| Отац оде да тражи | Father went to search | Phrase |
-| Изгубити се | To be lost | Verb |
-| Будући 24 године стар | Being twenty-four years old | Temporal Phrase |
-| Поћи на исток | To set out to east | Verb |
-| Апостол Варнава | Apostle Barnabas | Saint Name |
-| Апостол Петар | Apostle Peter | Saint Name |
-| Фаустин | Faustinus | Personal Name |
-| Фаустинијан | Faustinian | Personal Name |
-| Промисао Божји | God's providence | Theological |
-| Наићи на | To come upon | Verb |
-| Старица просјакиња | Old beggar woman | Phrase |
-| Састави се породица | Family was reunited | Phrase |
-| Врати се у Рим | To return to Rome | Verb |
-| Не одвајати се | Not to separate | Verb |
-| Постави за епископа | To appoint as bishop | Ecclesiological Verb |
-| Пре своје смрти | Before own death | Temporal Phrase |
-| Мученичка смрт | Martyrdom | Martyrdom |
-| Лин | Linus | Personal Name |
-| Клит | Cletus | Personal Name |
-| Обојица за кратко време | Both for short time | Temporal Phrase |
-| Са пламеном ревношћу | With flaming zeal | Hagiographic Phrase |
-| Из дана у дан | Day by day | Temporal Phrase |
-| Велики број | Great number | Phrase |
-| Одредити брзописце | To appoint scribes | Verb |
-| Седам брзописаца | Seven scribes | Phrase |
-| Брзописци | Scribes | Phrase |
-| Писати житија мученика | To write lives of martyrs | Hagiographic Verb |
-| Цар Трајан | Emperor Trajan | Personal Name |
-| Трајан | Trajan | Personal Name |
-| Протерати у Херсон | To exile to Cherson | Verb |
-| Херсон | Cherson | Geographical |
-| Око 2000 | About two thousand | Phrase |
-| Изгнани хришћани | Banished Christians | Historical Phrase |
-| Запослени на послу | Engaged in labor | Phrase |
-| Тесање камена | Quarrying stone | Phrase |
-| Безводно место | Waterless place | Geographical |
-| Живи извор утехе | Living fountain of comfort | Hagiographic Phrase |
-| Извести воду из земље | To bring forth water from earth | Miracle Verb |
-| Толики број | Such a number | Phrase |
-| Мештани | Inhabitants | Phrase |
-| За једну годину | In one year | Temporal Phrase |
-| Подићи се 75 цркава | Seventy-five churches were built | Ecclesiological Phrase |
-| Да не би даље ширио | Lest he spread further | Phrase |
-| Утопљен у море | Drowned in sea | Martyrdom Phrase |
-| Камен о врату | Stone around neck | Martyrdom Phrase |
-| 101. год. | Year 101 | Temporal Phrase |
-| Извађене из мора | Retrieved from sea | Miracle Phrase |
-| Тек у време | Only in time | Temporal Phrase |
-| Св. Кирил | Saint Cyril | Saint Name |
-| Св. Методије | Saint Methodius | Saint Name |
-| Кирил и Методије | Cyril and Methodius | Saint Names |
-| Свешт. муч. Петар | Hieromartyr Peter | Saint Name |
-| Архиеп. Александријски | Archbishop of Alexandria | Church Title |
-| Св. Теона | Saint Theonas | Saint Name |
-| Теона | Theonas | Saint Name |
-| Неко време | For a time | Temporal Phrase |
-| Знаменита школа | Renowned school | Academic Phrase |
-| Философска школа | Philosophical school | Academic |
-| Оригенова школа | School of Origen | Academic |
-| Престо архиепископски | Archepiscopal throne | Ecclesiological |
-| Ступити на престо | To ascend to throne | Ecclesiological Verb |
-| 299. год. | Year 299 | Temporal Phrase |
-| Мученички скончати | To end as martyr | Martyrdom Verb |
-| При гробу | At tomb | Phrase |
-| Св. ап. Марко | Holy Apostle Mark | Saint Name |
-| 311. год. | Year 311 | Temporal Phrase |
-| Претешко време | Most difficult time | Historical Phrase |
-| Чинити насиље | To do violence | Verb |
-| Споља неверници | From without by unbelievers | Phrase |
-| Изнутра јеретици | From within by heretics | Ecclesiological Phrase |
-| 670 хришћана | 670 Christians | Historical Phrase |
-| Целе породице | Entire families | Phrase |
-| Извођене на губилиште | Led to execution | Martyrdom Phrase |
-| Губљене | Killed | Martyrdom Verb |
-| Арије нечестиви | Impious Arius | Personal Name |
-| Смућивати верне | To trouble faithful | Ecclesiological Verb |
-| Криво учење | False teaching | Theological |
-| Одлучити од цркве | To excommunicate from Church | Ecclesiological Verb |
-| Прокунути | To curse | Verb |
-| У овоме свету и у ономе | In this world and in next | Theological Phrase |
-| Господ се јавио | Lord appeared | Miracle Phrase |
-| Преп. Пафнутије | Venerable Paphnutius | Saint Name |
-| Пафнутије | Paphnutius | Saint Name |
-| Никада није пио вина | Never drank wine | Ascetic Phrase |
-| Ухваћен од разбојника | Captured by robbers | Phrase |
-| Разбојници | Robbers | Phrase |
-| Харамбаша | Chieftain | Phrase |
-| Присилити | To force | Verb |
-| Испити чашу | To drink cup | Phrase |
-| Добродушност | Good nature | Hagiographic |
-| Напустити занимање | To abandon occupation | Verb |
-| Разбојничко занимање | Brigand occupation | Phrase |
-| Племенити Климент | Noble Clement | Hagiographic Title |
-| Племићки род | Noble lineage | Phrase |
-| Постати ревним слугом | To become zealous servant | Hagiographic Verb |
-| Живи Господ | Living Lord | Theological |
-| Сва сујета | All vanity | Phrase |
-| Раскошни Рим | Splendid Rome | Geographical |
-| Уздићи се духом | To rise in spirit | Spiritual Verb |
-| Над варкама | Above deceptions | Spiritual Phrase |
-| Духовно сродство | Spiritual kinship | Spiritual |
-| Привезати | To bind | Verb |
-| Телесно сродство | Bodily kinship | Phrase |
-| Одвезати се | To unbind oneself | Verb |
-| Звезда јасна | Bright star | Hagiographic Phrase |
-| Сијати у Риму | To shine in Rome | Hagiographic Verb |
-| Часни Крст | Honorable Cross | Theological |
-| Тама густа | Thick darkness | Phrase |
-| Разгонити | To disperse | Verb |
-| Апостолску цркву | Apostolic Church | Ecclesiological |
-| Украсити | To adorn | Verb |
-| Утврдити | To strengthen | Verb |
-| Немоћне силе | Powerless forces | Phrase |
-| Демонске силе | Demonic forces | Theological |
-| Расрдити | To scatter | Verb |
-| Подићи се бура | Storm arose | Phrase |
-| Уморити смрћу | To destroy by death | Martyrdom Verb |
-| Душа оде у Рај | Soul went to Paradise | Death Phrase |
-| На дну морске воде | On seafloor | Geographical Phrase |
-| Струнути | To rust | Verb |
-| Гвожђе | Iron | Phrase |
-| За осам векова | In eight centuries | Temporal Phrase |
-| Не струну | Did not decay | Miracle Phrase |
-| Витез Христов | Christ's knight | Hagiographic Title |
-| Чудеса преславна | Glorious miracles | Miracle Phrase |
-| Пројавити | To manifest | Miracle Verb |
-| Уз Христа Бога | Together with Christ God | Theological Phrase |
-| Пред престолом Божјим | Before God's throne | Theological Phrase |
-| Никад није успео | Never climbed up | Phrase |
-| Сео у престо | Sat in throne | Phrase |
-| Престо патријаршијски | Patriarchal throne | Ecclesiological |
-| Стајати пред степеницама | To stand before steps | Phrase |
-| Верни почели негодовати | Faithful began to be troubled | Phrase |
-| Архијереј не седи | Hierarch does not sit | Ecclesiological Phrase |
-| Кад год се приближим | Whenever I approach | Temporal Phrase |
-| Небесна светлост | Heavenly light | Miracle Phrase |
-| Не усуђивати се | Not to dare | Verb |
-| Успети и сести | To climb up and sit down | Verb |
-| Осим овог виђења | Besides this vision | Phrase |
-| Још чудесније | Even more wondrous | Phrase |
-| Седео у тамници | Sitting in prison | Phrase |
-| Лицемерно претворити се | To pretend hypocritically | Verb |
-| Као да се каје | As if to repent | Phrase |
-| Послати реч | To send word | Verb |
-| Сужањ | Prisoner | Phrase |
-| Одрећи се јереси | To renounce heresy | Ecclesiological Verb |
-| Молба | Petition | Phrase |
-| Примити поново | To receive again | Ecclesiological Verb |
-| Само зато што | Only because | Phrase |
-| Помишљати | To think | Verb |
-| Погубити | To execute | Martyrdom Verb |
-| Дочепати се престола | To seize throne | Verb |
-| Са кога би ширио | From which would spread | Phrase |
-| Утврђивати јерес | To strengthen heresy | Ecclesiological Verb |
-| Ма какав одговор | Any answer | Phrase |
-| За време молитве | During prayer | Spiritual Phrase |
-| Необична светлост | Unusual light | Miracle Phrase |
-| Обасјати | To illumine | Miracle Verb |
-| Дванаестогодишњи дечак | Twelve-year-old boy | Phrase |
-| Јасније од сунца | More brightly than sun | Miracle Phrase |
-| Не могаше гледати | Could not look | Phrase |
-| Бела одећа | White raiment | Phrase |
-| Хитон | Chiton | Biblical |
-| Спреда раздрана | Torn in front | Phrase |
-| Од врха до дна | From top to bottom | Phrase |
-| Стезати одећу | To hold garment | Verb |
-| Скрити наготу | To hide nakedness | Phrase |
-| У великом страху | In great fear | Phrase |
-| У великом ужасу | In great terror | Phrase |
-| Узвикнути | To cry out | Verb |
-| Ко ризу раздра | Who has torn robe | Phrase |
-| Арије безумни | Senseless Arius | Theological |
-| Оделити људе | To separate people | Verb |
-| Задобити крвљу | To acquire with blood | Theological Verb |
-| Пази се | Beware | Verb |
-| Општење са црквом | Communion with Church | Ecclesiological |
-| Лукаве мисли | Cunning thoughts | Phrase |
-| Враждебне мисли | Hostile thoughts | Phrase |
-| Свештеници | Priests | Ecclesiological |
-| Ахил | Achillas | Personal Name |
-| Александар | Alexander | Personal Name |
-| Лажна молба | False petition | Phrase |
-| Лукава молба | Cunning petition | Phrase |
-| Изрећи проклетство | To pronounce curse | Verb |
-| У оба света | In both worlds | Theological Phrase |
-| Прорећи | To prophesy | Verb |
-| После њега | After him | Temporal Phrase |
-| Најпре | First | Temporal Adverb |
-| Пустити тврди сан | To cause deep sleep to fall | Biblical Verb |
-| Тврди сан | Deep sleep | Biblical |
-| Узети ребро | To take rib | Biblical Verb |
-| Створити од ребра | To create from rib | Biblical Verb |
-| Жена Ева | Woman Eve | Biblical |
-| Привести жену | To bring woman | Biblical Verb |
-| Основ и разлог | Foundation and reason | Phrase |
-| Тајанствена привлачност | Mysterious attraction | Phrase |
-| Јединство мужа и жене | Unity of husband and wife | Phrase |
-| Разделење служби | Division of ministries | Ecclesiological |
-| Разделење звања | Division of callings | Ecclesiological |
-| Он је дао | He gave | Biblical Phrase |
-| Једне апостоле | Some apostles | Ecclesiological |
-| Једне пророке | Some prophets | Ecclesiological |
-| Једне благовеснике | Some evangelists | Ecclesiological |
-| Једне пастире и учитеље | Some pastors and teachers | Ecclesiological |
-| У телу човечјем | In human body | Phrase |
-| Разни органи | Various organs | Phrase |
-| Разне службе | Various functions | Ecclesiological |
-| Дејствовати у хармонији | To act in harmony | Phrase |
-| На добро целога тела | For good of whole body | Ecclesiological Phrase |
-| Господ установио | Lord established | Ecclesiological Verb |
-| На првом месту | In first place | Phrase |
-| Није дата само једна част | Was given not just one honor | Phrase |
-| Све части | All honors | Phrase |
-| Сви дарови благодатни | All gifts of grace | Theological |
-| Једновремено | Simultaneously | Adverb |
-| Звање апостолско | Apostolic calling | Ecclesiological |
-| Више се не повторава | No longer repeated | Ecclesiological Phrase |
-| Великих апостола | Great apostles | Ecclesiological |
-| Тринаести апостол | Thirteenth apostle | Ecclesiological |
-| Мањих апостола | Lesser apostles | Ecclesiological |
-| 70 апостола | Seventy apostles | Ecclesiological |
-| Дар прорицања | Gift of prophecy | Spiritual |
-| Пророци старозаветни | Old Testament prophets | Biblical |
-| Пророци новозаветни | New Testament prophets | Biblical |
-| Без обзира на сталеж | Regardless of rank | Phrase |
-| Без обзира на положај | Regardless of position | Phrase |
-| Јеванђелисти | Gospel writers | Biblical |
-| Који написаше јеванђеља | Who wrote Gospels | Biblical Phrase |
-| Мисионари | Missionaries | Ecclesiological |
-| Ширити учење | To spread teaching | Ecclesiological Verb |
-| Међу невернима | Among unbelievers | Phrase |
-| Тумачи Светога Писма | Interpreters of Holy Scripture | Ecclesiological |
-| Писмено излагати | To expound in writing | Verb |
-| За све и свакога | For all and everyone | Phrase |
-| Једно и исто звање | One and same calling | Ecclesiological |
-| Тешко замислити | Difficult to imagine | Phrase |
-| А да није учитељ | Who is not teacher | Phrase |
-| Ограничени на место | Limited to place | Ecclesiological Phrase |
-| Извесно место | Certain place | Phrase |
-| Извесан број | Certain number | Phrase |
-| Руководити ка спасењу | To guide toward salvation | Spiritual Verb |
-| Управљати црквом | To govern Church | Ecclesiological Verb |
-| Уредити | To arrange | Verb |
-| Преко апостола | Through apostles | Ecclesiological Phrase |
-| Благо оном | Blessed is he | Phrase |
-| Дар од Духа примљен | Gift received from Spirit | Spiritual Phrase |
-| До краја послужити | To serve to end | Spiritual Verb |
-| Према назначењу | According to appointment | Phrase |
-| Дух Свети раздаје дарове | Holy Spirit distributes gifts | Theological Phrase |
-| У своје време | In His time | Temporal Phrase |
-| Раздавати награде | To distribute rewards | Theological Verb |
-| Господе Душе Свети | Lord Holy Spirit | Theological |
-| Боже истинити | True God | Theological |
-| У смирености | In humility | Spiritual Phrase |
-| Употребити дарове | To use gifts | Spiritual Verb |
-| На добро цркве | For good of Church | Ecclesiological Phrase |
-| Вечно спасење | Eternal salvation | Theological |
-| Преп. Алимпије Столпник | Venerable Alypius the Stylite | Saint Name |
-| Алимпије Столпник | Alypius the Stylite | Saint Name |
-| Адријанопољ | Adrianople | Geographical |
-| Град Пафлагонијски | City in Paphlagonia | Geographical |
-| Пафлагонија | Paphlagonia | Geographical |
-| Од малена предан | From youth dedicated | Phrase |
-| Предан Богу на службу | Dedicated to God for service | Spiritual Phrase |
-| Као ђакон | As deacon | Ecclesiological |
-| Епископ Теодор | Bishop Theodore | Personal Name |
-| Жељан усамљеничког живота | Desiring solitary life | Monastic Phrase |
-| Богомислије | Contemplation of God | Spiritual |
-| Удаљити се | To withdraw | Monastic Verb |
-| Јелинско гробље | Pagan cemetery | Phrase |
-| Ван града | Outside city | Geographical Phrase |
-| Бегати као од страшилишта | To flee as from place of terror | Phrase |
-| Честа демонска привиђења | Frequent demonic apparitions | Spiritual Phrase |
-| Пободети крст | To erect cross | Verb |
-| Сазидати храм | To build church | Ecclesiological Verb |
-| Св. Ефимија | Saint Euphemia | Saint Name |
-| Јавити се на сну | To appear in dream | Miracle Phrase |
-| Покрај храма | Beside church | Geographical Phrase |
-| Подићи столп | To raise pillar | Monastic Verb |
-| Столп висок | High pillar | Monastic |
-| Попети се | To climb upon | Verb |
-| Провести на столпу | To spend on pillar | Monastic Phrase |
-| Пуних 53 године | Full fifty-three years | Temporal Phrase |
-| Подсмех људи | Mockery of men | Phrase |
-| Злоба демона | Malice of demons | Spiritual Phrase |
-| Одатле удаљити | To remove from there | Verb |
-| Поколебати у намери | To shake in purpose | Verb |
-| Нарочито од демона | Especially from demons | Spiritual Phrase |
-| Претрпети безбројне беде | To endure countless afflictions | Spiritual Phrase |
-| Разна привиђења | Various apparitions | Spiritual Phrase |
-| Устрашавати | To frighten | Verb |
-| Ударати камењем | To strike with stones | Martyrdom Verb |
-| Не давати мира | To give no peace | Phrase |
-| Ни дању ни ноћу | Neither day nor night | Temporal Phrase |
-| Кроз дуго време | For long time | Temporal Phrase |
-| Алимпије мужествени | Valiant Alypius | Hagiographic |
-| Ограђивати себе | To protect oneself | Spiritual Verb |
-| Крсно знамење | Sign of Cross | Liturgical |
-| Име Исусово | Name of Jesus | Theological |
-| Најзад | Finally | Temporal Adverb |
-| Побеђени демони | Defeated demons | Spiritual Phrase |
-| Оставити и побећи | To leave and flee | Verb |
-| Поштовати | To honor | Verb |
-| Долазити ради молитве | To come for prayer | Spiritual Phrase |
-| Утеха | Comfort | Spiritual |
-| Поука | Instruction | Spiritual |
-| Исцељење | Healing | Miracle |
-| Около столпа | Around pillar | Geographical Phrase |
-| Подићи се два манастира | Two monasteries were built | Ecclesiological Phrase |
-| С једне стране мушки | On one side for men | Monastic Phrase |
-| С друге женски | On other for women | Monastic Phrase |
-| Женски манастир | Women's monastery | Monastic |
-| Живљати | To live | Verb |
-| Матер | Mother | Phrase |
-| Руковођати | To guide | Verb |
-| Монахе и монахиње | Monks and nuns | Monastic |
-| Примером и речима | By example and words | Phrase |
-| Сијати као сунце | To shine like sun | Hagiographic Phrase |
-| Са небеса | From heaven | Phrase |
-| Указивати пут | To point way | Spiritual Verb |
-| Толика благодат | Such grace | Spiritual Phrase |
-| Често обасјавати | To often illumine | Miracle Verb |
-| Уздизати се стуб | Pillar rose | Miracle Phrase |
-| Стуб од светлости | Pillar of light | Miracle Phrase |
-| Моћан чудотворац | Mighty wonderworker | Hagiographic |
-| Како за живота тако по смрти | Both during life and after death | Hagiographic Phrase |
-| Преживети 100 година | To live one hundred years | Temporal Phrase |
-| 640. год. | Year 640 | Temporal Phrase |
-| Цар Ираклије | Emperor Heraclius | Personal Name |
-| Ираклије | Heraclius | Personal Name |
-| Сачувана глава | Head is preserved | Phrase |
-| Котломушки манастир | Koutloumousiou Monastery | Geographical |
-| Преп. Јаков Отшелник | Venerable James the Hermit | Saint Name |
-| Јаков Отшелник | James the Hermit | Saint Name |
-| Св. Марон | Saint Maron | Saint Name |
-| 14. фебр. | February 14 | Temporal Abbreviation |
-| Савременик | Contemporary | Phrase |
-| Св. Симеон Столпник | Saint Symeon the Stylite | Saint Name |
-| Подвизавати се | To struggle | Monastic Verb |
-| Под отвореним небом | Under open sky | Monastic Phrase |
-| Хранити се сочивом | To feed on lentils | Ascetic Phrase |
-| Наквашено сочиво | Soaked lentils | Ascetic Phrase |
-| Чак и мртве васкрсавати | Even to raise dead | Miracle Verb |
-| Именом Христовим | By name of Christ | Miracle Phrase |
-| Цар Лав | Emperor Leo | Personal Name |
-| Питати за мишљење | To ask for opinion | Phrase |
-| Халкидонски Сабор | Council of Chalcedon | Ecclesiological |
-| 457. год. | Year 457 | Temporal Phrase |
-| Преп. Стилијан | Venerable Stylianos | Saint Name |
-| Стилијан | Stylianos | Saint Name |
-| Пафлагонац | Paphlagonian | Geographical |
-| Превелика љубав | Surpassing love | Spiritual |
-| Због те љубави | Because of that love | Phrase |
-| Предавати се подвизима | To devote to ascetic struggles | Monastic Verb |
-| Одрећи се свега | To renounce everything | Monastic Verb |
-| Неподељена љубав | Undivided love | Spiritual |
-| Пред смрт | Before death | Temporal Phrase |
-| Узети душу | To take soul | Death Phrase |
-| Лице засија | Face shone | Miracle Phrase |
-| Помагати болесној деци | To help sick children | Hagiographic Phrase |
-| Бездетни родитељи | Childless parents | Phrase |
-| Преп. Никон „Покајаније" | Venerable Nikon "Repent" | Saint Name |
-| Никон „Покајаније" | Nikon "Repent" | Saint Name |
-| Родом из Јерменије | From Armenia | Geographical Phrase |
-| Побуђен речима | Moved by words | Phrase |
-| Свак ко остави | Everyone who has left | Biblical Phrase |
-| Примити стоструко | To receive hundredfold | Biblical Phrase |
-| Наследити живот вјечни | To inherit eternal life | Biblical Phrase |
-| Остави заиста све | Truly left all | Phrase |
-| Ради Христа | For Christ's sake | Spiritual Phrase |
-| Замонашити се | To become monk | Monastic Verb |
-| Усаврши се у добродетељима | To be perfected in virtues | Spiritual Phrase |
-| Напустити манастир | To leave monastery | Monastic Verb |
-| Поћи да проповеда | To go to preach | Verb |
-| Непрестано викао | Constantly cried out | Phrase |
-| Покајте се | Repent | Biblical |
-| Прозван | Called | Verb |
-| Као проповедник | As preacher | Ecclesiological |
-| Обићи | To travel throughout | Verb |
-| Анатолија | Anatolia | Geographical |
-| Пелопонез | Peloponnese | Geographical |
-| Сотворити чудеса | To work miracles | Miracle Verb |
-| Мирно прећи | To pass peacefully | Death Verb |
-| Љубљени Господ | Beloved Lord | Spiritual Title |
-| Спарта | Sparta | Geographical |
-| 998. год. | Year 998 | Temporal Phrase |
-| Св. Инокентије Иркутски | Saint Innocent of Irkutsk | Saint Name |
-| Инокентије Иркутски | Innocent of Irkutsk | Saint Name |
-| 1731. год. | Year 1731 | Temporal Phrase |
-| 1804. год. | Year 1804 | Temporal Phrase |
-| Одвезан од ствари | Unbound from things | Spiritual Phrase |
-| Одвезан од света | Unbound from world | Spiritual Phrase |
-| Житејске бриге | Life's cares | Phrase |
-| Страсни гњет | Passion's yoke | Spiritual |
-| Сав предан молитви | Wholly devoted to prayer | Spiritual Phrase |
-| Донети славу | To bring glory | Hagiographic Verb |
-| Уздићи себе | To raise oneself | Verb |
-| Тек даље од земље | Ever farther from earth | Phrase |
-| Богу ближе | To God nearer | Spiritual Phrase |
-| Нек громови грме | Let thunder roar | Phrase |
-| Погодити неће | Shall not strike | Phrase |
-| Громовима управљати | To direct thunder | Verb |
-| Просијати | To shine | Verb |
-| Име остати гласно | Name remained renowned | Hagiographic Phrase |
-| Кроз векове | Through centuries | Temporal Phrase |
-| Мисао о Богу | Thought of God | Spiritual |
-| Створи бесмртника | Created immortal one | Hagiographic Phrase |
-| Столп велики | Great pillar | Phrase |
-| Светла душа | Bright soul | Spiritual |
-| И јуче и данас | Both yesterday and today | Temporal Phrase |
-| Зли духови се крију | Evil spirits hide | Spiritual Phrase |
-| Радујемо се | We rejoice | Verb |
-| Учени незнабошци | Learned pagans | Phrase |
-| Приступити цркви | To come to Church | Ecclesiological Verb |
-| Само за то што | Solely because | Phrase |
-| Проповедати живот бесмртни | To preach immortal life | Theological Verb |
-| Доказани факт | Proven fact | Phrase |
-| Слутња разума | Intimation of reason | Philosophical |
-| Изучити философију | To study philosophy | Academic Verb |
-| Душа незасићена | Soul unsatisfied | Spiritual |
-| Празна | Empty | Spiritual Adjective |
-| Младић од 24 године | Young man of twenty-four | Phrase |
-| Свом душом пожелети | To desire with all soul | Phrase |
-| Дознати | To learn | Verb |
-| Има ли још неког живота | Whether there was any other life | Phrase |
-| Осим овога | Besides this one | Phrase |
-| Бољег од овога | Better than this one | Phrase |
-| Давати само мишљења | To give only opinions | Phrase |
-| Разни људи | Various people | Phrase |
-| Никакав стваран доказ | No actual proof | Phrase |
-| Туговати за | To grieve for | Verb |
-| Изгубљени родитељи | Lost parents | Phrase |
-| Непрестано се мучити питањем | To constantly torment with question | Phrase |
-| Видети у другом животу | To see in other life | Phrase |
-| Свевидећи Бог | All-seeing God | Theological |
-| Упутити кораке | To direct steps | Verb |
-| Срести се с човеком | To meet man | Phrase |
-| Рећи о хришћанима | To tell about Christians | Verb |
-| Вера у загробни живот | Faith in life after death | Theological |
-| Побудити | To move | Verb |
-| Кренути се | To set out | Verb |
-| У саму колевку | Into very cradle | Phrase |
-| Колевка вере | Cradle of Faith | Phrase |
-| Доћи до сазнања | To come to knowledge | Verb |
-| Поуздано сазнање | Reliable knowledge | Phrase |
-| Односно | Concerning | Adverb |
-| Чути проповед | To hear preaching | Phrase |
-| Сву засновану | All founded | Phrase |
-| Христос васкрсли из мртвих | Christ risen from dead | Theological |
-| Презрети нагађања | To despise conjectures | Verb |
-| Нагађања философска | Philosophical conjectures | Philosophical |
-| Срдачно усвојити | To heartily embrace | Verb |
-| Предати се на службу | To devote to service | Spiritual Verb |
-| Тако онда, тако и данас | So then, so also today | Phrase |
-| Јака вера | Strong faith | Spiritual |
-| Јасно сазнање | Clear knowledge | Phrase |
-| Лако се решавати | To easily resolve | Verb |
-| Плаћање цене | To pay price | Phrase |
-| Улазак | Entrance | Phrase |
-| Испуњење заповести | To fulfill commandments | Spiritual Phrase |
-| Створити човека | To create man | Biblical Verb |
-| Жену од човека | Woman from man | Biblical Phrase |
-| Беху наги | Were naked | Biblical Phrase |
-| Не беше их срамота | Were not ashamed | Biblical Phrase |
-| Не знађаху за грех | Did not know sin | Biblical Phrase |
-| Циљ разделења | Purpose of division | Theological |
-| Свети усавршили | Saints be perfected | Theological Phrase |
-| На дјело службе | For work of ministry | Ecclesiological |
-| Сазидање тијела | Edifying of body | Ecclesiological |
-| Тијело Христово | Body of Christ | Ecclesiological |
-| Разделио дарове | Divided gifts | Theological Phrase |
-| Учинио једне апостолима | Made some apostles | Ecclesiological Verb |
-| Друге пророцима | Others prophets | Ecclesiological Phrase |
-| Верни хришћани | Faithful Christians | Ecclesiological |
-| У једноме дому | In single household | Phrase |
-| Части и службе подељене | Honors and duties divided | Phrase |
-| Одрасли синови и кћери | Grown sons and daughters | Phrase |
-| Неодрасла деца | Young children | Phrase |
-| Све укупно | All together | Phrase |
-| На корист једно другоме | For benefit of one another | Phrase |
-| Дом Божји | House of God | Ecclesiological |
-| Са сваком чашћу | With every honor | Phrase |
-| Одговарајућа служба | Corresponding duty | Ecclesiological |
-| Корисне су свима | Beneficial to all | Phrase |
-| Поступно | Gradually | Adverb |
-| Мудро зидати | To build wisely | Ecclesiological Verb |
-| Помогнут од других | Helped by others | Phrase |
-| Расти и развијати се | To grow and develop | Spiritual Verb |
-| У одговарајућој мери | In appropriate measure | Phrase |
-| У одговарајућој сразмери | In appropriate proportion | Phrase |
-| Према целом телу | To whole body | Ecclesiological Phrase |
-| Цело тело | Whole body | Ecclesiological |
-| От почетка до краја времена | From beginning to end of time | Temporal Phrase |
-| Нарочито пак | Especially | Adverb |
-| Ваплоћење Бога Слова | Incarnation of God Word | Theological |
-| Суд Страшни | Last Judgment | Theological |
-| Достојно бесмртности | Worthy of immortality | Theological Phrase |
-| Грађевина достојна Бога | Building worthy of God | Ecclesiological Phrase |
-| Око људско | Human eye | Phrase |
-| Прегледати | To survey | Verb |
-| Ум људски | Human mind | Phrase |
-| Изабран материјал | Chosen materials | Ecclesiological Phrase |
-| Цигаље живе | Living bricks | Ecclesiological Phrase |
-| Од очију и срдаца | Of eyes and hearts | Ecclesiological Phrase |
-| Грубост и грдоба | Coarseness and ugliness | Phrase |
-| Трулеж и нестројност | Corruption and disorder | Phrase |
-| У целини и у деловима | In whole and in parts | Phrase |
-| Мета путовања | Goal of journey | Spiritual Phrase |
-| Смисао горења | Meaning of burning | Spiritual Phrase |
-| Пећ страдања | Furnace of suffering | Spiritual Phrase |
-| Бољи од планова | Better than plans | Phrase |
-| Лепши од жеља | More beautiful than desires | Phrase |
-| Човекољубиви Господ | Loving Lord | Theological |
-| Не одбацити | Do not cast away | Verb |
-| Лоша грађа | Poor material | Phrase |
-| Углачати | To polish | Verb |
-| Узидати | To build into | Ecclesiological Verb |
-| Бесмртно тело | Immortal body | Theological |
-| Св. муч. Јаков Персијанац | Holy Martyr James the Persian | Saint Name |
-| Јаков Персијанац | James the Persian | Saint Name |
-| Град Клапи | City of Klapi | Geographical |
-| Клапи | Klapi | Geographical |
-| Вилат | Vilatus | Geographical |
-| Хришћански родитељи | Christian parents | Phrase |
-| Васпитан у вери | Raised in Faith | Spiritual Phrase |
-| Хришћанска жена | Christian woman | Phrase |
-| Ожењен | Married | Verb |
-| Цар Издигерд | Emperor Yezdigerd | Personal Name |
-| Издигерд | Yezdigerd | Personal Name |
-| Заволети | To love | Verb |
-| Даровитост | Talent | Phrase |
-| Окретност | Cleverness | Phrase |
-| Учинити племићем | To make nobleman | Verb |
-| Прави племић | True nobleman | Title |
-| На двору | At court | Historical Phrase |
-| Поласкан царем | Flattered by emperor | Phrase |
-| Прелестити се | To be deceived | Verb |
-| Клањати се идолима | To bow to idols | Phrase |
-| Матер и жена | Mother and wife | Phrase |
-| Написати писмо | To write letter | Verb |
-| Прекорно писмо | Reproachful letter | Phrase |
-| Оплакати | To lament | Verb |
-| Богоотпадник | Apostate | Theological |
-| Душевни мртвац | Spiritual corpse | Spiritual Phrase |
-| При крају писма | At end of letter | Phrase |
-| Повратити се Христу | To return to Christ | Spiritual Verb |
-| Ганут писмом | Moved by letter | Phrase |
-| Горко покајати се | To bitterly repent | Spiritual Verb |
-| Одважно исповедити | To boldly confess | Spiritual Verb |
-| Расрђен цар | Angry emperor | Phrase |
-| С тим да | With this provision | Phrase |
-| Одсецати део по део | To cut off piece by piece | Martyrdom Phrase |
-| Док не издахне | Until expired | Death Phrase |
-| Дословце испунити | To literally fulfill | Verb |
-| Нечестиви цар | Impious emperor | Phrase |
-| Најпре прсте | First fingers | Phrase |
-| Прсти на рукама | Fingers on hands | Phrase |
-| Прсти на ногама | Fingers on feet | Phrase |
-| Рамена | Shoulders | Phrase |
-| Најзад и главу | Finally head | Phrase |
-| При сваком сечењу | At each cutting | Martyrdom Phrase |
-| Мученик покајани | Penitent martyr | Hagiographic Title |
-| Одавати благодарност | To give thanks | Spiritual Verb |
-| Благоухани мирис | Fragrant smell | Miracle Phrase |
-| Као од кипариса | Like cypress | Phrase |
-| Откајати грех | To atone for sin | Spiritual Verb |
-| Представити се душом | To present soul | Death Verb |
-| Око 400. године | Around year 400 | Temporal Phrase |
-| Глава се налази | Head is found | Phrase |
-| Део моштију | Part of relics | Phrase |
-| Португалија | Portugal | Geographical |
-| Празнује се 22. маја | Celebrated on May 22 | Temporal Phrase |
-| Седамнаест Индијских мученика | Seventeen Indian Martyrs | Saint Name |
-| Индијски преп. мученици | Indian Venerable Martyrs | Saint Name |
-| Монаси хришћански | Christian monks | Monastic |
-| Индијски цар | Indian King | Historical Title |
-| Цар Авенир | King Abenner | Personal Name |
-| Авенир | Abenner | Personal Name |
-| Ражљућен на | Enraged at | Phrase |
-| Старац Варлаам | Elder Barlaam | Personal Name |
-| Варлаам | Barlaam | Personal Name |
-| Крстити сина | To baptize son | Verb |
-| Јоасаф | Joasaph | Personal Name |
-| Послати потере | To send pursuers | Verb |
-| Потере | Pursuers | Phrase |
-| Не ухватити | Did not capture | Verb |
-| Других 17 монаха | Seventeen other monks | Phrase |
-| Довести пред цара | To bring before king | Verb |
-| Избости очи | To pierce out eyes | Martyrdom Verb |
-| Одсећи језике | To cut out tongues | Martyrdom Verb |
-| Изломити ноге и руке | To break legs and hands | Martyrdom Verb |
-| Посећи мачем | To behead with sword | Martyrdom Verb |
-| Крвљу витеза | By blood of knights | Martyrdom Phrase |
-| Још се више утврди | Was strengthened all more | Phrase |
-| Царство Индијско | Indian kingdom | Geographical |
-| Преп. Роман чудотворац | Venerable Roman the Wonderworker | Saint Name |
-| Роман чудотворац | Roman the Wonderworker | Saint Name |
-| Околина Антиохије | Vicinity of Antioch | Geographical |
-| Никад није ложио огањ | Never lit fire | Ascetic Phrase |
-| Ни палио свећу | Nor burned candle | Ascetic Phrase |
-| Помагати неплодним женама | To help barren women | Hagiographic Phrase |
-| Кад му се моле | When they pray to him | Phrase |
-| Преп. Пинуфрије | Venerable Phnuphrius | Saint Name |
-| Пинуфрије | Phnuphrius | Saint Name |
-| Св. Касијан | Saint Cassian | Saint Name |
-| 29. фебр. | February 29 | Temporal Abbreviation |
-| Велики мисирски подвижник | Great Egyptian ascetic | Hagiographic Phrase |
-| На разним местима | In various places | Phrase |
-| Све бежећи | Always fleeing | Phrase |
-| Похвале људске | Human praise | Phrase |
-| Много ученика | Many disciples | Phrase |
-| Трудити се | To strive | Verb |
-| Подражавати примеру | To imitate example | Verb |
-| Узвишени пример | Elevated example | Hagiographic Phrase |
-| Преп. Натанаил | Venerable Nathanael | Saint Name |
-| Натанаил | Nathanael | Saint Name |
-| Монах Нитријски | Nitrian monk | Monastic Title |
-| Нитријски | Nitrian | Geographical Adjective |
-| Даноноћно | Day and night | Temporal Phrase |
-| Просвећивати размишљањем | To be enlightened by contemplating | Spiritual Verb |
-| Божанске ствари | Divine things | Theological |
-| Излазити из келије | To leave cell | Monastic Phrase |
-| Ни преко прага | Not even threshold | Monastic Phrase |
-| Пуних 38 година | Full thirty-eight years | Temporal Phrase |
-| Друга половина VI столећа | Second half sixth century | Temporal Phrase |
-| Покајане душе | Penitent souls | Spiritual |
-| Створитељ не губи | Creator loses not | Theological Phrase |
-| Покајници прави | True penitents | Spiritual |
-| Највећма љубити | To love most of all | Verb |
-| Одрећи се Христа | To renounce Christ | Spiritual Phrase |
-| Рад безбожног цара | For sake of godless emperor | Phrase |
-| Ласкатељ | Flatterer | Phrase |
-| Укорити | To rebuke | Verb |
-| Земна блага | Earthly goods | Phrase |
-| Пролазна као пена | Passing like foam | Phrase |
-| Раскајати се љуто | To repent bitterly | Spiritual Verb |
-| Изрећи јавно | To declare publicly | Verb |
-| Што је дотле ћутао | What had kept silent | Phrase |
-| Хришћанин био | Was Christian | Phrase |
-| Хришћанин паки | Christian again | Phrase |
-| Идоли глупи | Foolish idols | Phrase |
-| Идоли нејаки | Powerless idols | Phrase |
-| Кад пред цара стаде | When stood before emperor | Phrase |
-| При том остати | In that to remain | Phrase |
-| Дарови царски | Emperor's gifts | Phrase |
-| Скинути се | To be stripped | Verb |
-| Обући у муке | To dress in torments | Martyrdom Verb |
-| Црвенити се | To turn crimson | Phrase |
-| Од рана и крви | From wounds and blood | Martyrdom Phrase |
-| Навалити | To rush | Verb |
-| Као орли на стрви | Like eagles upon carrion | Phrase |
-| Раздробити тело | To crush body | Martyrdom Verb |
-| Исећи ситно | To cut into pieces | Martyrdom Verb |
-| Јунак Христов | Christ's warrior | Hagiographic Title |
-| У Рају пред Богом | In Paradise before God | Theological Phrase |
-| Напасти одолети | To overcome temptations | Spiritual Verb |
-| Одсећи палац | To cut off thumb | Martyrdom Verb |
-| Десна рука | Right hand | Phrase |
-| Лоза се обрезује | Vine is pruned | Biblical Phrase |
-| Да младица порасте | That shoot may grow | Biblical Phrase |
-| Прими Господе | Receive O Lord | Prayer Phrase |
-| Друга грана | Second branch | Biblical Phrase |
-| Рукосад | Vineyard | Biblical |
-| Благосиљам Оца и Сина | I bless Father and Son | Prayer Phrase |
-| Четири животиње | Four living creatures | Biblical |
-| Примати похвале | To receive praise | Biblical Phrase |
-| Страдање прста | Suffering of finger | Martyrdom Phrase |
-| Испунити весеље | May joy be fulfilled | Biblical Phrase |
-| Брак пет девојака | Wedding of five virgins | Biblical |
-| Пет мудрих девојака | Five wise virgins | Biblical |
-| У шести час | At sixth hour | Biblical Temporal |
-| Распростро руке | Didst spread out hands | Biblical Phrase |
-| Пречисте руке | Most pure hands | Theological |
-| Удостојити | To count worthy | Spiritual Verb |
-| Принети прст | To offer finger | Martyrdom Phrase |
-| Седам пута на дан | Seven times a day | Biblical Phrase |
-| Кроз седам прстију | Through seven fingers | Martyrdom Phrase |
-| Одрезани Тебе ради | Cut off for Thy sake | Martyrdom Phrase |
-| Обрезао се у осми дан | Was circumcised on eighth day | Biblical Phrase |
-| У девети час | At ninth hour | Biblical Temporal |
-| Предати дух | To give up spirit | Biblical Death Phrase |
-| У руке Оца | Into hands of Father | Biblical Phrase |
-| При страдању | At suffering | Martyrdom Phrase |
-| Десетострука харфа | Ten-stringed harp | Biblical |
-| Певати на харфи | To sing on harp | Biblical Verb |
-| Благодарити | To give thanks | Spiritual Verb |
-| Претрпети одрезање | To endure cutting off | Martyrdom Verb |
-| Десет прстију | Ten fingers | Phrase |
-| На двема рукама | On two hands | Phrase |
-| Десет заповести | Ten Commandments | Biblical |
-| Написане на двема таблицама | Written on two tablets | Biblical Phrase |
-| Пречудна вера | Wondrous faith | Spiritual |
-| Пречудна љубав | Wondrous love | Spiritual |
-| Витешке душе | Valiant souls | Hagiographic Phrase |
-| Витези Христови | Knights of Christ | Hagiographic Title |
-| Чудесни Рај | Wondrous Paradise | Biblical |
-| Прекрасан споља и изнутра | Beautiful outwardly and inwardly | Biblical Phrase |
-| Све живо | All living things | Biblical |
-| Безусловно покоравати се | To unconditionally obey | Biblical Verb |
-| Свесни присуства | Conscious of presence | Spiritual Phrase |
-| Присуство Божје | God's presence | Theological |
-| Власт Божја | God's dominion | Theological |
-| Човек савршен | Perfect man | Theological |
-| Докле достигнемо | Till we come | Biblical Phrase |
-| Јединство вере | Unity of faith | Theological |
-| Познање Сина Божјег | Knowledge of Son of God | Theological |
-| Мера узраста | Measure of stature | Biblical Phrase |
-| Пуноћа Христова | Fullness of Christ | Theological |
-| Сједињује људе | Unites people | Theological Verb |
-| Хиљаду људи | Thousand people | Phrase |
-| Многе милионе | Many millions | Phrase |
-| У једног човека | Into one person | Theological Phrase |
-| Право православно познање | Right Orthodox knowledge | Theological |
-| Јаче него крв | More strongly than blood | Phrase |
-| Јаче него језик | More strongly than language | Phrase |
-| Спољашње околности | External circumstances | Phrase |
-| Материјалне везе | Material bonds | Phrase |
-| Једно исто мислити | To think one same thing | Phrase |
-| Једно исто хтети | To will one same thing | Phrase |
-| Једно исто желети | To desire one same thing | Phrase |
-| Као једна душа | As one soul | Theological Phrase |
-| Велика и моћна душа | Great and mighty soul | Phrase |
-| Телесне разлике | Bodily differences | Phrase |
-| Мало значе | Mean little | Phrase |
-| Узимати у обзир | To take into account | Phrase |
-| Једнолике душе | Uniform souls | Spiritual Phrase |
-| Зидати у човека савршена | To build into perfect man | Theological Verb |
-| У савршеној целини | In perfect whole | Phrase |
-| Савршени делови | Perfect parts | Phrase |
-| Део човека савршена | Part of perfect man | Theological Phrase |
-| Тело тајанствено | Mystical body | Ecclesiological |
-| Испуњава Собом | Fills with Himself | Theological Verb |
-| Верујући у Њега | Believer in Him | Spiritual Phrase |
-| Према мери узраста | According to measure of stature | Theological Phrase |
-| Пуноћа над пуноћама | Fullness above fullnesses | Theological |
-| Извор живи | Living fountain | Theological |
-| Пунити празнину | To fill emptiness | Spiritual Verb |
-| Достојна празнина | Worthy emptiness | Spiritual Phrase |
-| У колико се испразни | Insofar as empties himself | Spiritual Phrase |
-| Од свега што није Христос | Of everything that is not Christ | Spiritual Phrase |
-| У толико улази | To that extent enters | Theological Phrase |
-| Дубина смирења | Depth of humility | Spiritual |
-| Јака вера | Strong faith | Spiritual |
-| Жива Вода | Living Water | Biblical |
-| Улити се | To pour into | Spiritual Verb |
-| Ниско земљиште | Low ground | Phrase |
-| Вода натапа | Water saturates | Phrase |
-| Смерно понижење | Humble humiliation | Spiritual |
-| Драговољније спустити се | More willingly to descend | Theological Verb |
-| Натапати животворношћу | To saturate with life-giving power | Spiritual Verb |
-| Животворност | Life-giving power | Theological |
-| Као сасуд Свој | As His vessel | Spiritual Phrase |
-| Пуноћа бесмртна | Immortal fullness | Theological |
-| Пуноћа живота | Fullness of life | Theological |
-| Пуноћа мудрости | Fullness of wisdom | Theological |
-| Пуноћа красоте | Fullness of beauty | Theological |
-| Пуноћа сласти | Fullness of sweetness | Theological |
-| Понизити се | To humble oneself | Spiritual Verb |
-| Пред величанством | Before majesty | Theological Phrase |
-| Божанско величанство | Divine majesty | Theological |
-| Удостојити се посете | To be counted worthy of visitation | Spiritual Phrase |
-| Скончао/Упокојио се | Reposed | Death Verb |
-| Преп. муч. Стефан Нови | Venerable Martyr Stephen the Newer | Saint Name |
-| Стефан Нови | Stephen the Newer | Saint Name |
-| Као негда | Just as once | Temporal Phrase |
-| Ана мајка Самуилова | Anna mother of Samuel | Biblical |
-| Мољати се за сина | To pray for son | Phrase |
-| Да јој Бог да | That God would give her | Phrase |
-| Црква Влахерни | Church of Blachernae | Geographical |
-| Влахерне | Blachernae | Geographical |
-| Лак сан | Light sleep | Phrase |
-| Ухватити је сан | Sleep overtook her | Phrase |
-| Као сунце сјајно | Shining like sun | Miracle Phrase |
-| Чути глас | To hear voice | Miracle Phrase |
-| Иди с миром | Go in peace | Biblical Phrase |
-| Према молитви | According to prayer | Phrase |
-| У утроби | In womb | Phrase |
-| Зачети и родити | To conceive and bear | Verb |
-| У 16. години | In sixteenth year | Temporal Phrase |
-| Чин иночки | Monastic tonsure | Monastic |
-| Гора Аксентијева | Mount Auxentius | Geographical |
-| Старац Јован | Elder John | Personal Name |
-| Научити се мудрости | To learn wisdom | Spiritual Verb |
-| Божанска мудрост | Divine wisdom | Spiritual |
-| Подвижништво | Asceticism | Monastic |
-| Строго подвизавајући се | Struggling strictly | Monastic Phrase |
-| Прилагати труд ка труду | To add labor to labor | Monastic Phrase |
-| Светост привуче ученике | Holiness attracted disciples | Hagiographic Phrase |
-| Цар Константин Копроним | Emperor Constantine Copronymus | Personal Name |
-| Копроним | Copronymus | Personal Name |
-| Прогонити иконе | To persecute icons | Ecclesiological Verb |
-| Још жешће | Even more fiercely | Phrase |
-| Сквернi отац | Vile father | Phrase |
-| Лав Исаврјанин | Leo the Isaurian | Personal Name |
-| Ревносни заштитник | Zealous defender | Hagiographic |
-| Поштовање светих икона | Veneration of holy icons | Ecclesiological |
-| Безумни цар | Senseless emperor | Phrase |
-| Примати клевете | To receive slanders | Verb |
-| Гнусне клевете | Vile slanders | Phrase |
-| Удешавати сплетке | To devise intrigues | Verb |
-| Сломити | To break | Verb |
-| С пута уклонити | To remove from path | Verb |
-| Прогнан на острво | Exiled to island | Phrase |
-| Острво Проконис | Island of Proconnesus | Geographical |
-| Проконис | Proconnesus | Geographical |
-| Доведен у Цариград | Brought to Constantinople | Geographical Verb |
-| Окован | Chained | Martyrdom Adjective |
-| 342 монаха сужња | 342 imprisoned monks | Phrase |
-| Из разних страна | From various regions | Phrase |
-| Вргнути у тамницу | To cast into prison | Verb |
-| Због иконопоштовања | Because of icon veneration | Ecclesiological Phrase |
-| Свршавати црквено правило | To fulfill church rule | Ecclesiological Verb |
-| Као у манастиру | As in monastery | Monastic Phrase |
-| Опаки цар | Wicked emperor | Phrase |
-| Предвидети смрт | To foresee death | Miracle Verb |
-| На 40 дана | Forty days beforehand | Temporal Phrase |
-| Опростити се с братијом | To say farewell to brethren | Phrase |
-| Слуге цареве | Emperor's servants | Phrase |
-| Извући из тамнице | To drag from prison | Verb |
-| Бијући и трзајући | Beating and jerking | Martyrdom Phrase |
-| Вући по улицама | To drag through streets | Martyrdom Verb |
-| Улице Цариградске | Streets of Constantinople | Geographical |
-| Призивати | To call upon | Verb |
-| Који су уз цара | Who were with emperor | Phrase |
-| Ударати камењем | To strike with stones | Martyrdom Verb |
-| Противник царев | Emperor's enemy | Phrase |
-| Неко од јеретика | Someone among heretics | Phrase |
-| Ударити дрветом | To strike with wood | Martyrdom Verb |
-| Издахнути | To expire | Death Verb |
-| Св. Стефан првомученик | Saint Stephen Protomartyr | Saint Name |
-| Иконоборни јеретици | Iconoclast heretics | Ecclesiological |
-| 767. године | Year 767 | Temporal Phrase |
-| У 53. год. живота | In fifty-third year of life | Temporal Phrase |
-| Земни живот | Earthly life | Phrase |
-| Увенчан славом неувелом | Crowned with unfading glory | Hagiographic Phrase |
-| Св. новомуч. Христо | Holy New-Martyr Christo | Saint Name |
-| Христо | Christo | Saint Name |
-| Албански хришћанин | Albanian Christian | Geographical Phrase |
-| Настањен | Settled | Adjective |
-| Баштован | Gardener | Occupation |
-| По занимању | By occupation | Phrase |
-| При продаји поврћа | While selling vegetables | Phrase |
-| Поврће | Vegetables | Phrase |
-| Замерити се | To offend | Verb |
-| Оклеветати пред судом | To slander before court | Legal Verb |
-| Обећао потурчити се | Promised to become Muslim | Historical Phrase |
-| Па порекао | But then denied | Phrase |
-| После истјазања | After interrogation | Legal Phrase |
-| Истјазање | Interrogation | Legal |
-| Понудити да једе | To offer food | Verb |
-| Одбити | To refuse | Verb |
-| Гладан јавити се | To appear hungry | Phrase |
-| Пред Христом мојим | Before my Christ | Spiritual Phrase |
-| Извадити завежљај | To draw out bundle | Verb |
-| Завежљај новаца | Bundle of money | Phrase |
-| Под појасом | Under belt | Phrase |
-| Дати једноме сужњу | To give to prisoner | Phrase |
-| С молбом | With request | Phrase |
-| Одслужити литургију | To serve liturgy | Liturgical Verb |
-| Посмртна литургија | Memorial liturgy | Liturgical |
-| Неколико литургија | Several liturgies | Liturgical Phrase |
-| Посечен од Турака | Beheaded by Turks | Martyrdom Phrase |
-| 1748. год. | Year 1748 | Temporal Phrase |
-| Прослављен за увек | Glorified forever | Hagiographic Phrase |
-| Преп. Ана | Venerable Anna | Saint Name |
-| Благородна жена | Noblewoman | Phrase |
-| По смрти мужа | After husband's death | Temporal Phrase |
-| Пострижена у монаштво | Tonsured into monasticism | Monastic Verb |
-| Наговарати | To urge | Verb |
-| Недозвољене телесне везе | Forbidden bodily relations | Phrase |
-| Унизити пред народом | To humiliate before people | Verb |
-| Никако није хтела | In no way wished | Phrase |
-| Ући у сплетку | To enter into intrigue | Verb |
-| Царева сплетка | Imperial intrigue | Historical Phrase |
-| Поштовати као духовног оца | To honor as spiritual father | Spiritual Phrase |
-| Шибана | Flogged | Martyrdom Adjective |
-| Предати свету душу | To give up holy soul | Death Verb |
-| Св. благоверни цар Маврикије | Holy Blessed Emperor Maurice | Saint Name |
-| Цар Маврикије | Emperor Maurice | Personal Name |
-| Маврикије | Maurice | Personal Name |
-| Погубљен са пет синова | Executed with five sons | Martyrdom Phrase |
-| Цар Фока | Emperor Phocas | Personal Name |
-| Фока | Phocas | Personal Name |
-| 602. год. | Year 602 | Temporal Phrase |
-| Тезоименити | Namesake | Phrase |
-| Дати живот на мегдану | To give life in combat | Martyrdom Phrase |
-| Мегдан | Combat | Phrase |
-| Горди цар јеретик | Proud heretic emperor | Phrase |
-| Сама сила груба | Sheer crude force | Phrase |
-| Спољашње оружје | Outward weapons | Phrase |
-| Оружан до зуба | Armed to teeth | Phrase |
-| Сила нетелесна | Non-bodily power | Spiritual |
-| Оружје духовно | Spiritual weapon | Spiritual |
-| Истина небесна | Heavenly truth | Theological |
-| Бранитељи лажи | Defenders of lies | Phrase |
-| Благи се невидљивим Богом | Blessed with invisible God | Spiritual Phrase |
-| Миран као небо | Peaceful as heaven | Hagiographic Phrase |
-| Чекати муке | To await torments | Martyrdom Phrase |
-| Живот вечни после века | Eternal life after age | Theological Phrase |
-| Бесни тутњи | Rages and thunders | Verb |
-| У гневу своме | In his wrath | Phrase |
-| Писати смрт | To prescribe death | Verb |
-| Мужу праведноме | For righteous man | Phrase |
-| Не смути се | Is not troubled | Spiritual Verb |
-| Бијен и стезан | Beaten and bound | Martyrdom Phrase |
-| За небеса везан | Bound to heaven | Spiritual Phrase |
-| Духом и молитвом везан | By spirit and prayer bound | Spiritual Phrase |
-| Јачи од тела | Stronger than body | Phrase |
-| Тело скрши | Crushes body | Martyrdom Verb |
-| Духом јачи | Stronger in spirit | Spiritual Phrase |
-| Заврши победом | Finishes with victory | Hagiographic Phrase |
-| Духовни витеж | Spiritual knight | Hagiographic Title |
-| Вражје мреже | Enemy's snares | Spiritual Phrase |
-| Избегнути мреже | To avoid snares | Spiritual Verb |
-| Свето поштовати | To honor holily | Spiritual Verb |
-| Вазда следовати | To follow always | Verb |
-| Примери постојанства | Examples of steadfastness | Phrase |
-| Постојанство у вери | Steadfastness in faith | Spiritual |
-| Великодушност | Magnanimity | Hagiographic |
-| Постајемо постојани | We become steadfast | Spiritual Verb |
-| Копронимови људи | Copronymus's men | Historical Phrase |
-| Нудити | To urge | Verb |
-| Откази се иконопоштовања | To renounce icon veneration | Ecclesiological Verb |
-| Угоди цару | To please emperor | Verb |
-| Цар иконоборац | Iconoclast emperor | Historical Title |
-| Пружи руку | Stretched out hand | Verb |
-| Сави шаку | Clenched fist | Phrase |
-| Једна једина шака крви | One single fist of blood | Phrase |
-| Пролити за икону | To shed for icon | Martyrdom Verb |
-| Шест синова | Six sons | Phrase |
-| Шести и најмлађи | Sixth and youngest | Phrase |
-| Још одојче | Still nursing infant | Phrase |
-| Нарочита дојкиња | Special wet nurse | Phrase |
-| Дојкиња | Wet nurse | Phrase |
-| Тешка судба | Heavy fate | Phrase |
-| Постигнути судба | Fate befell | Verb |
-| Збацити с престола | To overthrow from throne | Historical Verb |
-| Заједно са свих шест синова | Together with all six sons | Phrase |
-| На очи | Before eyes | Phrase |
-| Један за другим | One after another | Temporal Phrase |
-| Требати да | Was to | Phrase |
-| Шести син царев | Emperor's sixth son | Phrase |
-| Да буде погубљен | To be executed | Martyrdom Phrase |
-| Великодушно сажалити се | To magnanimously take pity | Verb |
-| Над судбом | On fate | Phrase |
-| Несрећни цар | Unfortunate emperor | Phrase |
-| У тренутку | In moment | Temporal Phrase |
-| Реши се | Resolved | Verb |
-| Сачувати у животу | To preserve in life | Verb |
-| Потражити с груди | To demand from breast | Phrase |
-| Потурити свога синчића | To substitute own little son | Verb |
-| Најзад | Finally | Temporal Adverb |
-| Порасти | To grow up | Verb |
-| Сматрати за мајку | To consider to be mother | Phrase |
-| Открити сву тајну | To reveal whole secret | Verb |
-| Уозбиљи се веома | Became very serious | Verb |
-| Одлучно остави свет | Resolutely left world | Monastic Verb |
-| Повући се на гору | To withdraw to mountain | Monastic Verb |
-| Гора Синајска | Mount Sinai | Geographical |
-| Посвети Богу | To dedicate to God | Spiritual Verb |
-| Тим делом својим | By this deed of his | Phrase |
-| Осветити младенца | To sanctify youth | Spiritual Verb |
-| Невини младенац | Innocent youth | Phrase |
-| Место њега | In his place | Phrase |
-| Бачен у смрт | Cast into death | Death Phrase |
-| Царство невиности | Kingdom of innocence | Biblical |
-| Царство чистоте | Kingdom of purity | Biblical |
-| Царство правде | Kingdom of righteousness | Biblical |
-| Ни трага | Not even trace | Phrase |
-| Од болести и смрти | Of illness and death | Phrase |
-| Пошто не беше | Since there was not | Phrase |
-| Ни помисли о греху | Not even thought of sin | Biblical Phrase |
-| Како верни треба да расту | How faithful should grow | Theological Phrase |
-| Држати се истине | To hold to truth | Spiritual Verb |
-| У љубави | In love | Spiritual Phrase |
-| У свему узрасти | To grow up in all things | Biblical Phrase |
-| У ономе који је глава | Into Him who is head | Theological Phrase |
-| Ето свега | Behold all | Phrase |
-| На земном путовању | On earthly journey | Spiritual Phrase |
-| Живити у љубави | To live in love | Spiritual Verb |
-| Истина откривена | Truth revealed | Theological Phrase |
-| Пример љубави дат | Example of love given | Theological Phrase |
-| Доћи до истине | To come to truth | Spiritual Verb |
-| Мимо Христа | Apart from Christ | Theological Phrase |
-| Наћи пример | To find example | Phrase |
-| Права љубав | True love | Spiritual |
-| Једини прави пут | One true path | Spiritual |
-| К светлости и спасењу | To light and salvation | Spiritual Phrase |
-| У сплету лажних путова | In tangle of false paths | Phrase |
-| Претходно опомиње | Warns beforehand | Verb |
-| Мала деца | Children | Biblical Phrase |
-| Коју љуља и заноси | Tossed to and fro and carried about | Biblical Phrase |
-| Сваки ветар учења | Every wind of doctrine | Biblical Phrase |
-| Мисли долазе као ветар | Thoughts come like wind | Phrase |
-| Призраци | Phantoms | Phrase |
-| Чини му се истином | Seem to be truth | Phrase |
-| Обманут својим мислима | Deceived by own thoughts | Phrase |
-| Обмањује другог | Deceives another | Verb |
-| Заваран призрацима | Deluded by phantoms | Phrase |
-| Заварава другог | Deludes another | Verb |
-| Истина у Бога и од Бога | Truth in God and from God | Theological Phrase |
-| Сва наша истина | All our truth | Theological |
-| Сва наша љубав | All our love | Theological |
-| Кад мислимо Христа | When we think Christ | Spiritual Phrase |
-| Мислимо истину | We think truth | Spiritual Phrase |
-| Кад делујемо по Христу | When we act according to Christ | Spiritual Phrase |
-| Делујемо добро | We act well | Spiritual Phrase |
-| Кад љубимо Христа | When we love Christ | Spiritual Phrase |
-| Љубимо љубав | We love love | Spiritual Phrase |
-| Христом живимо | By Christ we live | Theological Phrase |
-| Христом растемо | By Christ we grow | Theological Phrase |
-| Обесмрћавамо се | We are immortalized | Theological Verb |
-| Прослављамо се | We are glorified | Theological Verb |
-| Не само главар друштва | Not merely chief of society | Phrase |
-| Стварна глава | Actual head | Ecclesiological |
-| Живо тело | Living body | Ecclesiological |
-| Удостојавамо се пребивати | We are counted worthy to dwell | Spiritual Phrase |
-| Вечно пребивати | To dwell eternally | Theological Verb |
-| У телу Христовоме | In body of Christ | Ecclesiological Phrase |
-| Пречудна истина | Wondrous truth | Theological |
-| Премила љубав | Most dear love | Theological |
-| Дођи у нас | Come into us | Prayer Phrase |
-| Прими нас у Себе | Receive us into Thyself | Prayer Phrase |
----
-
-**Last Updated:** Translation of November 28 entry
-**Instructions:** Simply append new entries at the bottom of the table. No need to find the right section!
+,---------,---------,------,,
+,100 година,One hundred years,Temporal Phrase,,
+,101. год.,Year 101,Temporal Phrase,,
+,1176. године,Year 1176,Temporal Phrase,,
+,12 великих апостола,Twelve great apostles,Biblical Phrase,,
+,1206. год.,Year 1206,Temporal Phrase,,
+,14. новембра 1263. год.,"November 14, 1263",Temporal Phrase,,
+,14. фебр.,February 14,Temporal Abbreviation,,
+,1406. године,Year 1406,Temporal Phrase,,
+,15 степена,Fifteen steps,Phrase,,
+,15. јула 1240. год.,"July 15, 1240",Temporal Phrase,,
+,1505. године,Year 1505,Temporal Phrase,,
+,17 незнабожаца,Seventeen pagans,Phrase,,
+,17 хришћана,Seventeen Christians,Phrase,,
+,1703. год.,Year 1703,Temporal Phrase,,
+,1731. год.,Year 1731,Temporal Phrase,,
+,1748. год.,Year 1748,Temporal Phrase,,
+,18 дана,Eighteen days,Temporal Phrase,,
+,1804. год.,Year 1804,Temporal Phrase,,
+,182. год.,Year 182,Temporal Phrase,,
+,186. год.,Year 186,Temporal Phrase,,
+,1926.г.,Year 1926,Temporal Phrase,,
+,1942. године,Year 1942,Temporal Phrase,,
+,2. Децембар,December 2,Temporal,,
+,2. децембра 1367. године,"December 2, 1367",Temporal Phrase,,
+,"2.Кор 12,2",2 Cor. 12:2,Biblical Reference,,
+,20 година,Twenty years,Temporal Phrase,,
+,200 војника,Two hundred soldiers,Military,,
+,23. нов.,November 23,Temporal Abbreviation,,
+,24. новембра 310. године,"November 24, 0310",Temporal Phrase,,
+,250. год.,Year 250,Temporal Phrase,,
+,251. године,Year 251,Temporal Phrase,,
+,29. фебр.,February 29,Temporal Abbreviation,,
+,299. год.,Year 299,Temporal Phrase,,
+,3. Децембар,December 3,Temporal,,
+,306. године,Year 306,Temporal Phrase,,
+,311. год.,Year 311,Temporal Phrase,,
+,342 монаха сужња,342 imprisoned monks,Phrase,,
+,35 година,Thirty-five years,Temporal Phrase,,
+,37 светих монахиња,Thirty-seven holy nuns,Phrase,,
+,370 хришћана,370 Christians,Phrase,,
+,370. год.,Year 370,Temporal Phrase,,
+,381. год.,Year 381,Temporal Phrase,,
+,395. год.,Year 395,Temporal Phrase,,
+,4. Децембар,December 4,Temporal,,
+,40 година,Forty years,Temporal Phrase,,
+,40 година слеп,Blind for forty years,Phrase,,
+,400 душа,Four hundred souls,Phrase,,
+,435. год.,Year 435,Temporal Phrase,,
+,440. год.,Year 440,Temporal Phrase,,
+,446. године,Year 446,Temporal Phrase,,
+,457. год.,Year 457,Temporal Phrase,,
+,50 мудраца,Fifty sages,Phrase,,
+,50 најмудријих људи,Fifty wisest men,Phrase,,
+,558. године,Year 558,Temporal Phrase,,
+,6000 незнабожаца,Six thousand pagans,Phrase,,
+,602. год.,Year 602,Temporal Phrase,,
+,606. године,Year 606,Temporal Phrase,,
+,62. год.,Year 62,Temporal Phrase,,
+,640. год.,Year 640,Temporal Phrase,,
+,670 хришћана,670 Christians,Historical Phrase,,
+,70 апостола,Seventy apostles,Ecclesiological,,
+,70 година,Seventy years,Temporal Phrase,,
+,767. године,Year 767,Temporal Phrase,,
+,797. године,Year 797,Temporal Phrase,,
+,900 година пре Христа,Nine hundred years before Christ,Temporal Phrase,,
+,92 године,Ninety-two years,Phrase,,
+,998. год.,Year 998,Temporal Phrase,,
+,Div,Giant,Phrase,,
+,II Васељенски Сабор,Second Ecumenical Council,Ecclesiological,,
+,IV столеће,Fourth century,Temporal Phrase,,
+,IX столеће,Ninth century,Temporal Phrase,,
+,Serbian,English,Type,,
+,V Васељ. Сабор,Fifth Ecumenical Council,Ecclesiological,,
+,А да није учитељ,Who is not teacher,Phrase,,
+,А понекад доцније,And sometimes later,Temporal Phrase,,
+,А час исцељујући,And sometimes healing,Miracle Phrase,,
+,Абдалмелех,Abd al-Malik,Personal Name,,
+,Абисинија,Abyssinia,Geographical,,
+,Авакум,Habakkuk,Saint Name,,
+,Августа-Василиса,Augusta-Basilissa,Title,,
+,Авдија,Obadiah,Saint Name,,
+,Авенир,Abenner,Personal Name,,
+,Авив,Abibus,Saint Name,,
+,Авив ђакон,"Abibus, Deacon",Saint Name,,
+,Авкт,Auctus,Saint Name,,
+,Агарјани,Hagarenes,Historical,,
+,Ад,Hades,Theological,,
+,Адам и Ева,Adam and Eve,Biblical Names,,
+,Адам први,First Adam,Biblical,,
+,Адамова поља,Adam's fields,Geographical,,
+,Аделтије,Adelphius,Personal Name,,
+,Адријанопољ,Adrianople,Geographical,,
+,Азија,Asia (Asia Minor),Geographical,,
+,Азот,Ashdod,Geographical,,
+,Аитал (ђакон),Aithalas (deacon),Personal Name,,
+,Акакије,Akakios,Personal Name,,
+,Акакије не умре,Acacius has not died,Phrase,,
+,Акакије Синајски,Acacius of Sinai,Saint Name,,
+,Акарон,Ekron,Geographical,,
+,Аквилин,Aquilinus,Personal Name,,
+,Ако би одрастао,If grew up,Conditional Phrase,,
+,Ако вам и кажем,If I tell you,Quote,,
+,Ако му не помогнемо,If we do not help him,Phrase,,
+,Ако не прода,If did not sell,Phrase,,
+,Ако се не предамо,If we do not surrender,Phrase,,
+,Ако се разлучих,Though have parted,Quote,,
+,Ако хоћете да дознате,If wish to know,Phrase,,
+,Акрагант,Agrigentum,Geographical,,
+,Албански хришћанин,Albanian Christian,Geographical Phrase,,
+,Александар,Alexander,Personal Name,,
+,Александар Невски,Alexander Nevsky,Saint Name,,
+,Алексије митрополит,"Alexis, Metropolitan",Personal Name,,
+,Алимпије мужествени,Valiant Alypius,Hagiographic,,
+,Алимпије Столпник,Alypius the Stylite,Saint Name,,
+,Амасија,Amasea,Geographical,,
+,Амнија,Amnia,Geographical,,
+,Амонит,Amonitus,Saint Name,,
+,Амфилохије,Amphilochius,Saint Name,,
+,Амфипољ,Amphipolis,Geographical,,
+,Ана мајка Самуилова,Anna mother of Samuel,Biblical,,
+,Анастасија (мајка),Anastasia (mother),Personal Name,,
+,Анатолија,Anatolia,Geographical,,
+,Анатолије,Anatolios,Saint Name,,
+,Ангел Божји,Angel of God,Biblical,,
+,Ангел Господњи,Angel of Lord,Biblical,,
+,Ангел ко човек,Angel like man,Miracle Phrase,,
+,Ангел чувар,Guardian angel,Angelic,,
+,Ангели,Angels,Angelic Order,,
+,Ангели узеше душу,Angels took soul,Miracle Phrase,,
+,Ангелски хорови,Angelic choirs,Theological,,
+,Андреја Првозвани,Andrew the First-Called,Saint Name,,
+,Анемподист,Anempodistus,Saint Name,,
+,Аникит,Anicetus,Saint Name,,
+,Анкира,Ancyra,Geographical,,
+,Анкира Галатијска,Ancyra in Galatia,Geographical,,
+,Антим,Anthimus,Saint Name,,
+,Антиохија,Antioch,Geographical,,
+,Антипо,Antinopolis,Geographical,,
+,Антоније,Anthony,Saint Name,,
+,Антуса,Anthusa,Personal Name,,
+,Апологетски,Apologetic,Ecclesiastical,,
+,Аполоније,Apollonius,Saint Name,,
+,Апостол Варнава,Apostle Barnabas,Saint Name,,
+,Апостол и благовесник,Apostle and evangelist,Ecclesiological,,
+,Апостол Павле,Apostle Paul,Saint Name,,
+,Апостол Петар,Apostle Peter,Saint Name,,
+,Апостол Петар,Apostle Peter,Saint Name,,
+,Апостол Тит,Apostle Titus,Saint Name,,
+,Апостолима дато све,To apostles was given all,Theological Quote,,
+,Апостолску цркву,Apostolic Church,Ecclesiological,,
+,Апфија,Apphia,Saint Name,,
+,Арапи,Arabs,Phrase,,
+,Аргир,Argyrus,Geographical,,
+,Аријанци,Arians,Theological,,
+,Арије безумни,Senseless Arius,Theological,,
+,Арије нечестиви,Impious Arius,Personal Name,,
+,Аријева јерес,Arian heresy,Theological,,
+,Аристократа Византијски,Byzantine aristocrat,Historical,,
+,Аркадије,Arcadius,Personal Name,,
+,Аромати,Aromatics,Phrase,,
+,Архангел Михаило,Archangel Michael,Archangel Name,,
+,Архангели,Archangels,Angelic Order,,
+,Архиеп. Александријски,Archbishop of Alexandria,Church Title,,
+,Архиеп. Јевтимије,Archbishop Euthymius,Saint Name,,
+,Архиеп. Јерменски,Archbishop of Armenia,Church Title,,
+,Архиепископ (Архиеп.),Archbishop,Church Title,,
+,Архиепископ александријски,Archbishop of Alexandria,Ecclesiastical Title,,
+,Архиепископ новгородски,Archbishop of Novgorod,Ecclesiastical Title,,
+,Архиепископ Солунски,Archbishop of Thessalonica,Church Title,,
+,Архијереј,Hierarch,Church Title,,
+,Архијереј јеврејски,Jewish high priest,Title,,
+,Архијереј не седи,Hierarch does not sit,Ecclesiological Phrase,,
+,Архип,Archippus,Saint Name,,
+,Архипастир,Chief pastor,Church Title,,
+,Архистратиг,Archangel / Chief Commander,Angelic Title,,
+,Асафат,Asaphat,Biblical Name,,
+,Аскалон,Ashkelon,Geographical,,
+,Асклипијад,Asclepiades,Personal Name,,
+,Атанасије,Athanasius,Saint Name,,
+,Атина,Athens,Geographical,,
+,Атонска Гора,Mount Athos,Geographical,,
+,Афтоније,Aphthonius,Saint Name,,
+,Ахил,Achillas,Personal Name,,
+,Бавити се белењем,To work as a bleacher,Verb,,
+,"Бадава примисте, бадава дајите","Freely ye have received, freely give",Devotional Phrase,,
+,Бадава учини,Make in vain,Phrase,,
+,Бакарни во,Copper bull,Martyrdom Phrase,,
+,Бацити огањ,To cast fire,Verb,,
+,Бацити оружје,To throw down weapons,Verb,,
+,Бацити сенку,To cast a shadow,Phrase,,
+,Бацити у јаму,To throw into pit,Martyrdom Verb,,
+,Бацити у море,To throw into the sea,Verb,,
+,Бацити у море,To throw into sea,Verb,,
+,Бацити у огањ,To throw into fire,Martyrdom Verb,,
+,Бачен у смрт,Cast into death,Death Phrase,,
+,Бачена у тамницу,Cast into dungeon,Martyrdom Phrase,,
+,Баштован,Gardener,Occupation,,
+,Бденије,Vigil,Liturgical,,
+,Бег,Bey (Turkish title),Phrase,,
+,Бегати испред,To flee from,Verb,,
+,Бегати као од страшилишта,To flee as from place of terror,Phrase,,
+,Беда многа,Much misery,Phrase,,
+,Беда хоћаше снаћи,Trouble was about to befall,Phrase,,
+,Бедна раса,Poor garb,Monastic Phrase,,
+,Бедни монах,Poor monk,Monastic Title,,
+,Без брзања,Without haste,Phrase,,
+,Без вида и устројства,Without form and void,Biblical Phrase,,
+,Без икакве измене,Without any change,Theological Phrase,,
+,Без икакве примедбе,Without any objection,Phrase,,
+,Без мало обична појава,Almost ordinary occurrence,Phrase,,
+,Без милости,Without mercy,Martyrdom Phrase,,
+,Без обзира на положај,Regardless of position,Phrase,,
+,Без обзира на сталеж,Regardless of rank,Phrase,,
+,Без одлагања,Without delay,Phrase,,
+,Без помисли,Without thought,Phrase,,
+,Без престанка,Without ceasing,Spiritual Phrase,,
+,Без разлике,Without distinction,Phrase,,
+,Без самовоље,Without self-will,Ecclesiological,,
+,Без смисла и намене,Without sense and purpose,Phrase,,
+,Без суда и осуде,Without trial or sentence,Legal Phrase,,
+,Без тела,Without body,Theological,,
+,Без хлеба и воде,Without bread or water,Martyrdom Phrase,,
+,Без хране,Without food,Phrase,,
+,Без хране и воде,Without food or water,Martyrdom Phrase,,
+,Без цепања,Without division,Ecclesiological,,
+,Безакоња,Lawlessness,Theological,,
+,Безбожници,Atheists,Theological,,
+,Безбожно тврђење,Godless assertion,Phrase,,
+,Безбројна дела,Countless works,Phrase,,
+,Безбројни,Countless,Adjective,,
+,Безбројни облици,Countless forms,Phrase,,
+,Безводно место,Waterless place,Geographical,,
+,Бездан,Abyss,Theological,,
+,Бездетни родитељи,Childless parents,Phrase,,
+,Бездна смрти,Abyss of death,Theological Phrase,,
+,Бездушници,Merciless ones,Phrase,,
+,Безмездни врач,Unmercenary physician,Saint Title,,
+,Безмеран,Immeasurable,Theological Adjective,,
+,Безмерна висина,Boundless height,Theological,,
+,Безмерна дубина,Boundless depth,Theological,,
+,Безмерна дужина,Boundless length,Theological,,
+,Безмерна мудрост Божја,Immeasurable wisdom of God,Theological,,
+,Безмерна ширина,Boundless breadth,Theological,,
+,Безмесечна ноћ,Moonless night,Phrase,,
+,Безмолвије,Silence,Monastic,,
+,Безмолвни живот,Silent life,Monastic,,
+,Безоблична земља,Formless earth,Biblical Phrase,,
+,Безтелесни духови,Bodiless spirits,Angelic,,
+,Безтелесни и телесни,Incorporeal and corporeal,Theological,,
+,Безумна,Senseless,Adjective,,
+,Безумни,Madman,Phrase,,
+,Безумни цар,Senseless emperor,Phrase,,
+,Безусловно покоравати се,To unconditionally obey,Biblical Verb,,
+,Безчовечност,Inhumanity,Phrase,,
+,Бејрут,Beirut,Geographical,,
+,Бела одећа,White raiment,Phrase,,
+,Белење платна,Bleaching cloth,Phrase,,
+,Бели миш,White mouse,Phrase,,
+,Белоснежни,Snow-white,Adjective,,
+,Беља,Bleacher,Title,,
+,Бео светли голуб,White radiant dove,Phrase,,
+,Беседа,Homily,Structural,,
+,Беседе,Homilies,Ecclesiological,,
+,Бесконачни живот,Endless life,Theological,,
+,Бескрајна пучина,Boundless abyss,Theological,,
+,Бескрајна слава,Boundless glory,Theological,,
+,Бесловесна природа,Irrational nature,Philosophical,,
+,Бесмртан,Immortal,Hagiographic Adjective,,
+,Бесмртна душа,Immortal soul,Theological,,
+,Бесмртна слава,Immortal glory,Theological,,
+,Бесмртни Рај,Immortal Paradise,Theological,,
+,Бесмртно тело,Immortal body,Theological,,
+,Бесмртно царство,Immortal kingdom,Theological,,
+,Бесмртно царство,Immortal Kingdom,Theological,,
+,Бесмртно царство,Immortal kingdom,Theological,,
+,Бесмртност,Immortality,Theological,,
+,Бесни тутњи,Rages and thunders,Verb,,
+,Бесповратно,Irrevocably,Adverb,,
+,Беспомоћна,Helpless,Adjective,,
+,Бесребреници,Unmercenaries,Saint Title,,
+,Бестидна жена,Shameless woman,Phrase,,
+,Беху наги,Were naked,Biblical Phrase,,
+,Беху обучени у невиност,Were clothed in innocence,Biblical Phrase,,
+,Беху се покајали,Had repented,Spiritual Verb,,
+,Беше добро веома,Was very good,Biblical Quote,,
+,Бешчестити,To dishonor,Verb,,
+,Бешчешће,Dishonor,Phrase,,
+,Би дан и би ноћ,There was day and there was night,Biblical Phrase,,
+,Би добро,It was good,Biblical Phrase,,
+,Би одмах здрав,Was immediately well,Miracle Phrase,,
+,Бивају случајеви,Occur cases,Phrase,,
+,Бивати невидљив,To become invisible,Miracle Verb,,
+,Бијен и стезан,Beaten and bound,Martyrdom Phrase,,
+,Бијен и струган,Beaten and scraped,Martyrdom Phrase,,
+,Бијени веома,Severely beaten,Martyrdom Phrase,,
+,Бијући и трзајући,Beating and jerking,Martyrdom Phrase,,
+,Било не било,Whether or not,Phrase,,
+,Био мртав за овај свет,Was dead for this world,Phrase,,
+,Био на самрти,Was at death's door,Death Phrase,,
+,Бирати другога,To choose another,Verb,,
+,Бисер звездосјајни,Star-bright pearl,Phrase,,
+,Бити бачен,To be thrown,Verb,,
+,Бити ван себе,To be beside oneself,Idiom,,
+,Бити обнажен,To be stripped naked,Verb,,
+,Бити отроку мило,Sweet to the boy,Phrase,,
+,Бити у неправу,To be in the wrong,Phrase,,
+,Биће бачено,Will be cast,Biblical Phrase,,
+,Бич троструки,Triple scourge,Angelic Symbol,,
+,Бичева,Scourges,Phrase,,
+,Бише мачем посечени,Were beheaded by sword,Martyrdom Phrase,,
+,Бише чудеса,There were miracles,Miracle Phrase,,
+,Блага неисказана,Blessings ineffable,Theological Phrase,,
+,Благи Господе,Good Lord,Theological,,
+,Благи се невидљивим Богом,Blessed with invisible God,Spiritual Phrase,,
+,Благо,Treasure,Phrase,,
+,Благо овој глави,Blessed is this head,Phrase,,
+,Благо оном,Blessed is he,Phrase,,
+,Благоверни родитељи,Pious parents,Hagiographic Phrase,,
+,Благовремено покајање,Timely repentance,Theological Phrase,,
+,Благодаран Богу,Grateful to God,Spiritual Phrase,,
+,Благодарити,To thank,Spiritual Verb,,
+,Благодарити,To give thanks,Spiritual Verb,,
+,Благодат,Grace,Theological,,
+,Благодат Духа Светога,Grace of Holy Spirit,Theological,,
+,Благодат чудотворну,Wonder-working grace,Theological,,
+,Благодатан ум,Grace-filled mind,Hagiographic Phrase,,
+,Благодати приписати,To attribute to grace,Theological Verb,,
+,Благодаћу Божјом,By God's grace,Theological,,
+,Благодаћу Божјом,By God's grace,Theological Phrase,,
+,Благодушност,Gentleness,Virtue,,
+,Благољепне одеће,Beautiful garments,Phrase,,
+,Благородна жена,Noblewoman,Phrase,,
+,Благородство,Nobility,Virtue,,
+,Благосиљам Оца и Сина,I bless Father and Son,Prayer Phrase,,
+,Благослов место проклетства,Blessing instead of curse,Theological,,
+,Благослови их,Blessed them,Spiritual Verb,,
+,Благослови оче,"Bless me, father",Prayer,,
+,Благословити,To bless,Spiritual Verb,,
+,Благоухани мирис,Fragrant smell,Miracle Phrase,,
+,Благоухано миро,Fragrant myrrh,Phrase,,
+,Благочестив,Pious,Theological,,
+,Благочестиви цар,Pious king,Historical Title,,
+,Благочешће,Piety,Virtue,,
+,Благочешће,Piety,Spiritual,,
+,Благу вест јеванђелску,Good news of Gospel,Ecclesiological,,
+,Блажен,Blessed,Adjective,,
+,Блажена Ана,Blessed Anna,Saint Name,,
+,Блажена Миропија,Blessed Myropia,Hagiographic Title,,
+,Блажени,Blessed,Hagiographic Adjective,,
+,Блажени Јероним,Blessed Jerome,Saint Name,,
+,Блажени милостиви,Blessed are merciful,Biblical Quote,,
+,Блажени Неофит,Blessed Neophyte,Saint Name,,
+,Блажено сужанство,Blessed bondage,Spiritual Phrase,,
+,Блаженства,Blessedness,Theological,,
+,Блажити се,To be blessed,Spiritual Verb,,
+,Блато,Mire,Vice,,
+,Блеђе и немоћније,More pale and powerless,Phrase,,
+,Блесак,Radiance,Phrase,,
+,Блесак,Radiance,Phrase,,
+,Близина Бога,Nearness to God,Theological,,
+,Близу града,Near the city,Geographical Phrase,,
+,Близу гроба,Near grave,Phrase,,
+,Близу су,Near they are,Phrase,,
+,Блистати се светом,To shine throughout the world,Verb,,
+,Блудна жена,Harlot,Phrase,,
+,Блудна похот,Lustful passion,Spiritual,,
+,Блудни син,Prodigal son,Biblical Phrase,,
+,Блудник,Adulterer,Phrase,,
+,Блудница,Harlot,Phrase,,
+,Блудница,Harlot,Phrase,,
+,Бог вечни,Eternal God,Theological,,
+,Бог добро и само добро,God is good and only good,Theological Phrase,,
+,Бог је са праведним,God is with the righteous,Theological Phrase,,
+,Бог као да је знао,God as if knew,Theological Phrase,,
+,Бог ништа не заборавља,God forgets nothing,Theological Phrase,,
+,Бог поштеди,God spared,Biblical Phrase,,
+,Бог пресуди,God judged,Theological Verb,,
+,Бог сам тврди,God Himself affirms,Theological Phrase,,
+,Бог Света Тројица,God the Holy Trinity,Theological,,
+,Бог те осветио,God has sanctified thee,Prayer Phrase,,
+,Бог хоће да будеш у телу,God wills thou be in body,Quote,,
+,Бог храну дели,God gives food,Biblical Quote,,
+,Бога Свемудрога,God All-wise,Theological Title,,
+,Богаташ и велмож,Rich man and nobleman,Phrase,,
+,Богаташи у вери,Rich in faith,Spiritual Phrase,,
+,Богати и знатни,Wealthy and notable,Phrase,,
+,Богати правдом,Rich in righteousness,Spiritual Phrase,,
+,Богати прашином,Rich in dust,Phrase,,
+,Богатир,Hero,Hagiographic,,
+,Богатство звања,Wealth of calling,Theological,,
+,Богоборци,Those who fight against God,Demonic,,
+,Боговаплоћење,Incarnation of God,Theological,,
+,Боговидац,God-seer,Biblical Title,,
+,Боговидац Мојсеј,God-seer Moses,Biblical Title,,
+,Богодухновени,Divinely inspired,Hagiographic Adjective,,
+,Богојављење,Theophany,Feast,,
+,Богољубив човек,God-loving man,Phrase,,
+,Богољубље,Love for God,Spiritual,,
+,Богом обузет,Seized by God,Spiritual Phrase,,
+,Богом одазвани,Called by God,Death Phrase,,
+,Богом послати,Sent by God,Miracle Phrase,,
+,Богомислије,Contemplation of God,Spiritual,,
+,Богоневеста,Bride of God,Theological,,
+,Богоносни Престоли,God-bearing Thrones,Angelic Order,,
+,Богоотпадник,Apostate,Theological,,
+,Богопоуздање,Trust in God,Virtue,,
+,Богопротивници,Those who oppose God,Demonic,,
+,Богослов,Theologian,Ecclesiastical Title,,
+,Богословски,Theological,Ecclesiastical,,
+,Богоугодници,God-pleasers,Hagiographic,,
+,Богоугодно дело,God-pleasing deed,Spiritual Phrase,,
+,Богоугодно зидање,God-pleasing building,Theological,,
+,Богоугодно послужити,To serve in God-pleasing manner,Spiritual Verb,,
+,Богочовек,God-Man,Theological,,
+,Богу ближе,To God nearer,Spiritual Phrase,,
+,Богу уздигнут,Lifted up to God,Spiritual Phrase,,
+,Богумили,Bogomils,Theological,,
+,Божанска љубав,Divine love,Theological,,
+,Божанска мудрост,Divine wisdom,Spiritual,,
+,Божанска прича,Divine parable,Biblical,,
+,Божанска светлост,Divine light,Theological,,
+,Божанске истине,Divine truths,Theological,,
+,Божанске ствари,Divine things,Theological,,
+,Божанске ствари,Divine things,Theological,,
+,Божански закони,Divine laws,Theological,,
+,Божански путови,Divine ways,Theological,,
+,Божанско величанство,Divine majesty,Theological,,
+,Божанског порекла,Of divine origin,Theological,,
+,Божанског свршетка,Divine ending,Theological,,
+,Боже благи,Good God,Theological,,
+,Боже истинити,True God,Theological,,
+,Боже милосрдни,Merciful God,Theological,,
+,Божија Мудрост,Divine Wisdom,Theological,,
+,Божијег свеца,God's saint,Hagiographic Title,,
+,Божић,Nativity (of Christ),Feast,,
+,Божја рука тежаше,God's hand weighed upon,Phrase,,
+,Божјег угодника,God's favorite,Hagiographic Title,,
+,Божји Промисао,God's Providence,Theological,,
+,Божји работник,God's laborer,Hagiographic Title,,
+,Божји човек,Man of God,Hagiographic Title,,
+,Божјим Промислом,By God's Providence,Theological Phrase,,
+,Божјом истином,God's truth,Theological,,
+,Бојати се да да,To fear to give,Verb,,
+,Болан,Ill,Adjective,,
+,Болесник,"Sick man, invalid / Sick person",Phrase,,
+,Болесници,Sick ones (patients),Phrase,,
+,Болесници,Sick people,Phrase,,
+,"Болест, старост и смрт","Sickness, old age, and death",Phrase,,
+,Болестан,Sick,Adjective,,
+,Бољег од овога,Better than this one,Phrase,,
+,Бољи,Better,Adjective,,
+,Бољи живот,Better life,Spiritual Phrase,,
+,Бољи од нашега,Better than ours,Phrase,,
+,Бољи од планова,Better than plans,Phrase,,
+,Борац мученом,Tortured warrior,Hagiographic Phrase,,
+,Борис и Гљеб,Boris and Gleb,Saint Names,,
+,Борити се са искушењима,To battle with temptations,Spiritual Verb,,
+,Борити се у војсци,To fight in army,Military Verb,,
+,Бости (жаоком),"To pierce, to sting",Verb,,
+,Брак и почаст,Marriage and honor,Phrase,,
+,Брак пет девојака,Wedding of five virgins,Biblical,,
+,Бранитељ вере,Defender of the Faith,Theological,,
+,Бранитељ вере,Defender of faith,Hagiographic,,
+,Бранитељи лажи,Defenders of lies,Phrase,,
+,Брат и жена,Brother and wife,Phrase,,
+,Брат Пергамије,Brother Pergamius,Personal Name,,
+,Брат Петров,Brother of Peter,Biblical Phrase,,
+,Брате где си,Brother where art thou,Phrase,,
+,Братија,Brethren,Monastic,,
+,Братољубиви Јосиф,Brother-loving Joseph,Biblical,,
+,Браћа рођена,Brothers by birth,Phrase,,
+,Браћо,Brethren,Phrase,,
+,Браћо моја,O my brethren,Phrase,,
+,Брачна одаја,Bridal chamber,Phrase,,
+,Бременити црну земљу,To burden the dark earth,Theological Phrase,,
+,Брзописци,Scribes,Phrase,,
+,Бринути о души,To care for soul,Spiritual Verb,,
+,Бродари,Sailors,Profession,,
+,Бугарин по рођењу,Bulgarian by birth,Geographical Phrase,,
+,Бугарски цар,Bulgarian emperor,Title,,
+,Буде одредио,Has ordained,Theological Verb,,
+,Буди одмориштем,Be resting place,Prayer Phrase,,
+,Будимо вредни,Let us be diligent,Phrase,,
+,Будући 24 године стар,Being twenty-four years old,Temporal Phrase,,
+,Будући сав у ужасу,Being completely in awe,Phrase,,
+,Будућност,Future,Phrase,,
+,Букне,Blazed up,Verb,,
+,Буря,Storm,Phrase,,
+,В. 14. маја,See May 14,Reference,,
+,В. 30. септембар,See September 30,Cross-reference,,
+,В. 7. маја,See May 7,Reference,,
+,Ва вијек вијека,Forever and ever,Phrase,,
+,Ваведење,Entrance,Feast,,
+,Ваведење Пресвете Богородице,Entrance of Most Holy Theotokos,Feast Name,,
+,Вавила,Babylas,Personal Name,,
+,Вавилона не видех,Have not seen Babylon,Biblical Quote,,
+,Важити за монахе,To apply to monks,Phrase,,
+,Важити за све хришћане,To apply to all Christians,Phrase,,
+,Вазда,Always,Adverb,,
+,Вазда следовати,To follow always,Verb,,
+,Ваистину има рашта,Truly has reason,Phrase,,
+,Ваистину проузроковало,Truly cause,Verb,,
+,Валент,Valens,Personal Name,,
+,Валеријан,Valerian,Personal Name,,
+,Валерије,Valerius,Saint Name,,
+,Валтазар,Belshazzar,Biblical Name,,
+,Ван везе,Apart from connection,Phrase,,
+,Ван града,Outside city,Geographical Phrase,,
+,Ван наше воље,Beyond our will,Phrase,,
+,Ван опасности,Out of danger,Phrase,,
+,Ван себе био,Beside himself,Phrase,,
+,Ван Христа,Outside of Christ,Theological Phrase,,
+,Ванредно виђење,Extraordinary vision,Spiritual Phrase,,
+,Ваплаше се,Cried out in supplication,Verb,,
+,Ваплотити се,To become incarnate,Theological Verb,,
+,Ваплотити се,To be incarnate,Theological Verb,,
+,Ваплоћена истина,Truth incarnate,Theological,,
+,Ваплоћење Бога Слова,Incarnation of God Word,Theological,,
+,Варалице,Treacherous persons,Biblical,,
+,Варахија,Barachias,Personal Name,,
+,Варахије,Barachius,Saint Name,,
+,Варахил,Barachiel,Archangel Name,,
+,Варвара,Barbara,Saint Name,,
+,Варвари,Barbarians,Phrase,,
+,Варвари,Barbarians,Historical,,
+,Варвари,Barbarians,Historical,,
+,Варвари,Barbarians,Historical,,
+,Варвари Дунавски,Danube barbarians,Historical,,
+,Варвари стижу,Barbarians are coming,Historical Phrase,,
+,Варлаам,Barlaam,Personal Name,,
+,Варлам,Barlaam,Personal Name,,
+,Варлам,Barlaam,Saint Name,,
+,Вартоломеј апостол,Apostle Bartholomew,Saint Name,,
+,Варул,Barulas,Saint Name,,
+,Васељенски Сабор,Ecumenical Council,Ecclesiological,,
+,Васкрсао и оживео,Was resurrected and brought to life,Theological Verb,,
+,Васкрситељ,Resurrector,Theological,,
+,Васкрситељ,Resurrector,Theological,,
+,Васкрснути,To resurrect,Theological Verb,,
+,Васпитан у вери,Raised in Faith,Spiritual Phrase,,
+,Васпитати,"To raise, to educate",Verb,,
+,Ватикан,Vatican,Geographical,,
+,Ватопед,Vatopedi,Geographical,,
+,Ватрено заступање,Ardent defense,Phrase,,
+,Ватром опаљиван,Scorched with fire,Martyrdom Phrase,,
+,Вевчани,Vevčani,Geographical,,
+,Вежбати врлину,To practice virtue,Spiritual Verb,,
+,Веза душе и тела,Bond of soul and body,Theological,,
+,Везан вољом,Bound by will,Spiritual Phrase,,
+,Везан љубављу,Bound by love,Spiritual Phrase,,
+,Везан неразделно,Inseparably bound,Phrase,,
+,Везан умом,Bound by mind,Spiritual Phrase,,
+,Везани коњима за репове,Tied by their tails to horses,Martyrdom Phrase,,
+,Везати уза Се,To bind to Thyself,Spiritual Verb,,
+,Везивати,To bind together,Theological Verb,,
+,Век је куповина,Age is purchase,Spiritual Phrase,,
+,Векови многи прохујали,Many centuries had passed,Temporal Phrase,,
+,Вел. муч.,Holy Great Martyr (abbr.),Saint Title,,
+,Велбужд,Velbužd,Geographical,,
+,Вели,Says,Verb,,
+,Велика змија,Great dragon,Phrase,,
+,Велика и моћна душа,Great and mighty soul,Phrase,,
+,Велика луча,Great torch,Hagiographic Phrase,,
+,Велика ревност,Great zeal,Spiritual Phrase,,
+,Велика служба,Great service,Hagiographic Phrase,,
+,Велика Субота,Great and Holy Saturday,Feast,,
+,Велика част,Great honor,Phrase,,
+,Великан,Great one,Hagiographic Phrase,,
+,Великаш Гргур,Noble Grgur,Personal Name,,
+,Великаши,Noblemen,Phrase,,
+,Великаши,Nobles,Phrase,,
+,Велики број,Great number,Phrase,,
+,Велики број храмова,Great number of churches,Phrase,,
+,Велики духовник,Great confessor,Hagiographic,,
+,Велики земљотрес,Great earthquake,Phrase,,
+,Велики злотвор,Great evildoer,Phrase,,
+,Велики и славни,Great and glorious,Hagiographic Phrase,,
+,Велики као монах,Great as monk,Hagiographic Phrase,,
+,Велики као синови Божји,Great as sons of God,Hagiographic Phrase,,
+,Велики кнез,Great prince,Title,,
+,Велики мисирски подвижник,Great Egyptian ascetic,Hagiographic Phrase,,
+,Велики Оци Цркве,Great Fathers of Church,Ecclesiastical,,
+,Велики пастир стада,Great pastor of flock,Hagiographic Title,,
+,Велики поборник Православља,Great champion of Orthodoxy,Hagiographic Phrase,,
+,Велики у свему доброме,Great in all good,Hagiographic Phrase,,
+,Велики у смерности,Great in humility,Hagiographic Phrase,,
+,Велики Четвртак,Great and Holy Thursday,Feast,,
+,Велики чудотворац,Great wonderworker,Hagiographic,,
+,Велики чудотворац,Great wonderworker,Hagiographic Title,,
+,Великих апостола,Great apostles,Ecclesiological,,
+,Велико искушење,Great temptation,Ecclesiastical Phrase,,
+,Велико покајање,Great repentance,Spiritual,,
+,Велико савршенство,Great perfection,Hagiographic Phrase,,
+,Велико чудо,Great wonder,Phrase,,
+,Великодушно сажалити се,To magnanimously take pity,Verb,,
+,Великодушност,Magnanimity,Hagiographic,,
+,Великомученик,Great Martyr,Saint Title,,
+,Великомученица Варвара,Great-Martyr Barbara,Saint Name,,
+,Величати,To magnify,Liturgical Verb,,
+,Величина љубави,Magnitude of love,Theological Phrase,,
+,Величину Кијева,Greatness of Kiev,Geographical Phrase,,
+,Велмож,Nobleman,Phrase,,
+,Велмож,Nobleman,Phrase,,
+,Велможи српски,Serbian nobles,Historical,,
+,Венац бесмртне славе,Crown of immortal glory,Hagiographic Phrase,,
+,Венац вечне славе,Crown of eternal glory,Theological,,
+,Венац славе,Crown of glory,Theological,,
+,Венеција,Venice,Geographical,,
+,Венцима славе увенчати се,To be crowned with crowns of glory,Hagiographic Phrase,,
+,Венча се с њом,Married her,Verb,,
+,Венчати се,To marry,Verb,,
+,Веома добра,Very good,Biblical Adjective,,
+,Вера истинита,True faith,Theological,,
+,Вера несумњива,Faith without doubt,Spiritual,,
+,Вера у загробни живот,Faith in life after death,Theological,,
+,Веран у муци,Faithful in suffering,Spiritual Phrase,,
+,Вере поборниче,Champion of Faith,Hagiographic Title,,
+,Вере православне,Of Orthodox Faith,Theological Phrase,,
+,Верија,Veroia,Geographical,,
+,Верне међу собом,Believers with one another,Ecclesiological Phrase,,
+,Верне са Христом,Believers with Christ,Ecclesiological Phrase,,
+,Верни Јов,Faithful Job,Biblical Name,,
+,Верни почели негодовати,Faithful began to be troubled,Phrase,,
+,Верни хришћани,Faithful Christians,Ecclesiological,,
+,Верним и избраним угодницима,To faithful and chosen saints,Hagiographic Phrase,,
+,Верно послужити,To faithfully serve,Spiritual Verb,,
+,Верност,Faithfulness,Virtue,,
+,Верност,Faithfulness,Spiritual,,
+,Вероватно Србин,Probably a Serb,Phrase,,
+,Вером богата,Rich in faith,Hagiographic Phrase,,
+,Вером силна,Mighty in faith,Hagiographic Phrase,,
+,Веру изложити,Expound Faith,Theological Verb,,
+,Верујући у Њега,Believer in Him,Spiritual Phrase,,
+,Вес'о беседио,Joyfully addressed,Verb,,
+,Веселити,To gladden,Verb,,
+,Већ у епископском чину,Already in episcopal rank,Ecclesiastical Phrase,,
+,Већи чудо,Greater wonder,Phrase,,
+,Већма прославио,Didst glorify all more,Hagiographic Phrase,,
+,Вечита истина,Eternal truth,Theological,,
+,Вечна пропаст,Eternal perdition,Theological,,
+,Вечна радост,Eternal joy,Theological,,
+,Вечна смрт,Eternal death,Theological,,
+,Вечни живот,Eternal life,Theological,,
+,Вечни живот,Eternal life,Theological,,
+,Вечни покој,Eternal rest,Theological,,
+,Вечно добро,Eternal good,Theological,,
+,Вечно пребивати,To dwell eternally,Theological Verb,,
+,Вечно се веселити,To rejoice eternally,Theological Phrase,,
+,Вечно спасење,Eternal salvation,Theological,,
+,Вечног царства,Of eternal kingdom,Theological,,
+,Вешт крманош,Skilled helmsman,Hagiographic Phrase,,
+,Вешта сплетка,Skillful intrigue,Phrase,,
+,Вешто калемећи,Skillfully grafting,Verb,,
+,Ви тргујте,You trade,Biblical Quote,,
+,Виде Бог да је добро,God saw that it was good,Biblical Phrase,,
+,Виде мртво тело,Saw dead body,Phrase,,
+,Виде руку,Saw hand,Biblical Phrase,,
+,Виде своје сроднике,See their relatives,Phrase,,
+,Видевши се нагим,Having seen themselves naked,Biblical Phrase,,
+,Видела велика и мала,Greater and lesser lights,Biblical,,
+,Видела мноштво ангела,Saw multitude of angels,Miracle Phrase,,
+,Видео кроз сузе,Didst see through tears,Spiritual Phrase,,
+,Видети се,To see,Verb,,
+,Видети се пред Богом,To be seen before God,Phrase,,
+,Видети у другом животу,To see in other life,Phrase,,
+,Видети Христа у слави,To see Christ in glory,Theological Phrase,,
+,Видећи злобу и смутњу,Seeing malice and turmoil,Phrase,,
+,Видећи и осетивши,Seeing and sensing,Phrase,,
+,Видеше себе нагим,Saw themselves naked,Biblical Phrase,,
+,Види 19. фебруар,See February 19,Cross-reference,,
+,Види један део,Sees one part,Phrase,,
+,Видим њих као и вас,See them as see you,Quote,,
+,Видјех гле,I looked behold,Biblical Quote,,
+,Видовит дух,Prophetic spirit,Hagiographic Phrase,,
+,Виђења и искази,Visions and testimonies,Phrase,,
+,Византија,Byzantium,Geographical,,
+,Византија и Тракија,Byzantium and Thrace,Geographical,,
+,Византијска уметност,Byzantine art,Phrase,,
+,Византијски цар,Byzantine Emperor,Title,,
+,Викати на,To cry out against,Verb,,
+,Викати Турцима,To shout to the Turks,Phrase,,
+,Викну Авакум,Cried out Habakkuk,Verb,,
+,Викну послушника,Called out to novice,Verb,,
+,Викнути,To call out,Verb,,
+,Виктор,Victor,Personal Name,,
+,Вилат,Vilatus,Geographical,,
+,Виноград Божији,God's vineyard,Biblical,,
+,Висина славе,Height of glory,Theological,,
+,Висина части,Height of honor,Theological Phrase,,
+,Висока почаст,High honor,Theological,,
+,Високе планине,High mountains,Geographical,,
+,Високо звање,High calling,Theological,,
+,Високо у ваздух,High into air,Phrase,,
+,Високу цену,High price,Phrase,,
+,Висота звања,Height of calling,Theological,,
+,Витахарамска,Bethacharba,Geographical,,
+,Витез,Knight,Historical,,
+,Витез крста,Knight of the Cross,Hagiographic Title,,
+,Витез Христов,Knight of Christ,Hagiographic Title,,
+,Витез Христов,Christ's knight,Hagiographic Title,,
+,Витези Христови,Knights of Christ,Hagiographic Title,,
+,Витешке душе,Valiant souls,Hagiographic Phrase,,
+,Витештво,"Chivalry, valor",Virtue,,
+,Витештво светачко,Saintly valor,Hagiographic Phrase,,
+,Витинија,Bithynia,Geographical,,
+,Витинија Азијска,Asian Bithynia,Geographical,,
+,Витинијска (област),Bithynia (region),Geographical,,
+,Витлејем,Bethlehem,Geographical,,
+,Витсаида,Bethsaida,Geographical,,
+,Витсаида,Bethsaida,Geographical,,
+,Више није могло,Higher was not possible,Theological Phrase,,
+,Више пријатељство,Higher friendship,Theological,,
+,Више пута,Many times,Phrase,,
+,Више се не повторава,No longer repeated,Ecclesiological Phrase,,
+,Владање,Conduct,Phrase,,
+,Владање,Conduct,Phrase,,
+,Владар земље,Ruler of land,Title,,
+,Владати над људима,To rule over people,Verb,,
+,Владати се достојно,To walk worthily,Spiritual Verb,,
+,Власт Божја,God's dominion,Theological,,
+,Власт ваздушна,Power of the air,Demonic,,
+,Властела,Nobility,Historical,,
+,Власти,Authorities,Angelic Order,,
+,Власти на небесима,Powers in heavenly places,Angelic,,
+,Властима,Powers,Angelic Hierarchy,,
+,Влахерне,Blachernae,Geographical,,
+,Вода за земљу,Water to earth,Phrase,,
+,Вода над сводом,Water above the firmament,Biblical,,
+,Вода натапа,Water saturates,Phrase,,
+,Вода под сводом,Water under the firmament,Biblical,,
+,Водећи га смисленоме циљу,Leading to meaningful goal,Theological Phrase,,
+,Водити борбу,To wage battle,Verb,,
+,Водити по небесима,To lead through the heavens,Phrase,,
+,Водиш ка спасењу,Leadest to salvation,Theological Phrase,,
+,Вођа страже,Commander of guard,Phrase,,
+,Вођаху,Were being led,Verb,,
+,Вођена оцем и мајком,Led by father and mother,Phrase,,
+,Војвода,Commander,Historical,,
+,Војвода,Commander,Title,,
+,Војвода,Commander,Military Title,,
+,Војвода небеског воинства,Commander of the heavenly host,Angelic Title,,
+,Војвода царски,Imperial commander,Military Title,,
+,Војводо наш,Our commander,Devotional Phrase,,
+,Војник истине,Soldier of truth,Hagiographic Title,,
+,Војници Јулијанију,Soldiers Juliana,Martyrdom Phrase,,
+,Војници царски,Imperial soldiers,Historical,,
+,Војничка служба,Military service,Phrase,,
+,Волети што Христос воли,To love what Christ loves,Spiritual Phrase,,
+,Вологодска губернија,Vologda province,Geographical,,
+,"Вонмемъ! Станемъ добрэ, станемъ со страхомъ!","Let us attend! Let us stand aright, let us stand with",,,|
+,Воронеж,Voronezh,Geographical,,
+,Восак,Wax,Phrase,,
+,Воћар,Fruit grower,Phrase,,
+,Враг,Devil,Theological,,
+,Враждебне мисли,Hostile thoughts,Phrase,,
+,Вражје мреже,Enemy's snares,Spiritual Phrase,,
+,Врата отворена на небу,Door was opened in heaven,Biblical Quote,,
+,Врати се,Returned,Verb,,
+,Врати се ликујући,Returned rejoicing,Verb,,
+,Врати се у Рим,To return to Rome,Verb,,
+,Вратити се,To return,Verb,,
+,Вратити се дома,To return home,Verb,,
+,Вратити се дома,Return home,Phrase,,
+,Вратити се стаду,To return to the flock,Verb,,
+,Враћен на епархију,Returned to diocese,Ecclesiological Phrase,,
+,Врач безмездни,Unmercenary Physician,Saint Title,,
+,Врачања,Sorceries,Demonic,,
+,Врачарски дух,Spirit of divination,Demonic,,
+,Вргнути,"To cast, to throw",Verb,,
+,Вргнути у тамницу,To cast into prison,Verb,,
+,Врела гвоздена ђулад,Red-hot iron balls,Martyrdom Phrase,,
+,Врело гвожђе,Red-hot iron,Martyrdom,,
+,Време доласка Месије,Time of Messiah's coming,Biblical,,
+,Време Христово,Time of Christ,Biblical,,
+,Временом,In time,Temporal Phrase,,
+,Временом заборавише,In time forgot,Temporal Verb,,
+,Врети,To venerate,Spiritual Verb,,
+,Вретишче,Sackcloth,Phrase,,
+,Врлина,Virtue,Theological,,
+,Врлина као жеђ,Virtue like thirst,Spiritual Phrase,,
+,Врлине што красе човека,Virtues that adorn man,Hagiographic Phrase,,
+,Врло видно место,Very prominent place,Phrase,,
+,Врло даровита,Very gifted,Hagiographic Phrase,,
+,Врло добро школована,Very well educated,Phrase,,
+,Врло имућан,Very wealthy,Phrase,,
+,Врло мудар,Very wise,Adjective,,
+,Врста животиње,Kind of animal,Phrase,,
+,Вртлог пролазности,Whirlpool of transience,Phrase,,
+,Вртлог промене,Whirlpool of change,Phrase,,
+,Вртлог у разуму мудраца,Whirlpool in minds of wise,Phrase,,
+,Врх палме,Top of palm tree,Phrase,,
+,Врхови ангелски,Angelic heights,Angelic,,
+,Врховна висина,Supreme height,Theological,,
+,Вршећи савесно,Performing conscientiously,Monastic Phrase,,
+,Вукашин,Vukašin,Personal Name,,
+,Вући по улицама,To drag through streets,Martyrdom Verb,,
+,Вући у пропаст,To drag into perdition,Theological Verb,,
+,Вуци вечерњи,Evening wolves,Biblical Phrase,,
+,Вучени,Dragged,Martyrdom Verb,,
+,Гаврил,Gabriel,Archangel Name,,
+,Газа,Gaza,Geographical,,
+,Гај,Gaius,Saint Name,,
+,Гал.,Gal.,Biblical Book,,
+,Галата,Galata,Geographical,,
+,Галатија,Galatia,Geographical,,
+,Галачист,Galachiston,Geographical,,
+,Ганут писмом,Moved by letter,Phrase,,
+,Гарав пепео,Sooty ash,Phrase,,
+,Гвожђе,Iron,Phrase,,
+,Гвоздене четке,Iron combs,Martyrdom,,
+,Где год,Wherever,Phrase,,
+,Генадије,Gennadius,Saint Name,,
+,Герман,Germanus,Saint Name,,
+,Гетсиманија,Gethsemane,Biblical Geographical,,
+,Гигантије,Gigantius,Saint Name,,
+,Глава,Head,Theological,,
+,Глава пренета,Head transferred,Phrase,,
+,Глава се налази,Head is found,Phrase,,
+,Глава се светлила,Head glowed,Miracle Phrase,,
+,Глава тела,Head of body,Ecclesiological,,
+,Глава Христос,Head is Christ,Ecclesiological,,
+,Глава Цркве,Head of Church,Ecclesiological Title,,
+,Главна стена,Chief stone,Theological,,
+,Главни гонитељи,Chief persecutors,Phrase,,
+,Главни предмет,Chief object,Phrase,,
+,Гладан јавити се,To appear hungry,Phrase,,
+,Гладовати,To starve,Verb,,
+,Гладовати,To starve,Verb,,
+,Глас не чује се,Voice is not heard,Phrase,,
+,Глас с неба,Voice from heaven,Phrase,,
+,Гласна струна,Resonant string,Phrase,,
+,Гле јагње Божје,Behold Lamb of God,Biblical Quote,,
+,Гле путем,Behold on road,Phrase,,
+,Глодати корен,To gnaw root,Verb,,
+,Гнев Божји,Wrath of God,Theological,,
+,Гневити се,To be wrathful,Vice,,
+,Гневљиви старац,Wrathful elder,Phrase,,
+,Гнусне клевете,Vile slanders,Phrase,,
+,Говораше му,Spoke to him,Verb,,
+,Говораше поуке,Spoke instructions,Verb,,
+,Говори о ангелским хоровима,Speaks of angelic choirs,Biblical Phrase,,
+,Годишњи празник,Annual feast,Liturgical,,
+,Голотиња,Nakedness,Spiritual,,
+,Гомила везаних,Crowd of bound people,Phrase,,
+,Гонећи хришћане,Persecuting Christians,Historical Phrase,,
+,Гонитељ хришћана,Persecutor of Christians,Historical Phrase,,
+,Гонити да умртви,To pursue to slay,Verb,,
+,Гоњене као хришћанке,Persecuted as Christians,Martyrdom Phrase,,
+,Гоњење,Persecution,Historical,,
+,Гоњење на хришћане,Persecution of Christians,Historical Phrase,,
+,Гора Аксентијева,Mount Auxentius,Geographical,,
+,Гора Галасијска,Mount Galesium,Geographical,,
+,Гора Олимписка,Mount Olympus,Geographical,,
+,Гора Саварата,Mount Sabarath,Geographical,,
+,Гора Синајска,Mount Sinai,Geographical,,
+,Горди плаховити,Proud hot-tempered,Phrase,,
+,Горди цар јеретик,Proud heretic emperor,Phrase,,
+,Гордити се,To be proud,Vice,,
+,Гордост,Pride,Sin,,
+,Гордост појединих људи,Pride of individual people,Spiritual Phrase,,
+,Горко кајање,Bitter repentance,Spiritual Phrase,,
+,Горко покајати се,To bitterly repent,Spiritual Verb,,
+,Господ Исус Христос,Lord Jesus Christ,Christ/Theotokos,,
+,Господ наш,Our Lord,Christ/Theotokos,,
+,Господ се јавио,Lord appeared,Miracle Phrase,,
+,Господ Спаситељ,Lord Savior,Theological,,
+,Господ установио,Lord established,Ecclesiological Verb,,
+,Господа јављаше,Proclaimed Lord,Verb,,
+,Господе добри и сведобри,O Lord most good,Devotional Phrase,,
+,Господе Душе Свети,Lord Holy Spirit,Theological,,
+,Господе премудри,Lord most wise,Theological Title,,
+,Господе Свеблаги,Lord All-good,Theological Title,,
+,Господства,Dominions,Angelic Order,,
+,Господствима,Dominions,Angelic Hierarchy,,
+,Гостити,To entertain (guests),Verb,,
+,Гот војник,Gothic soldier,Historical,,
+,Готов на страдање,Ready for suffering,Spiritual Phrase,,
+,Готска земља,Gothic land,Geographical,,
+,Готски,Gothic (adj.),Geographical,,
+,Град Владимир,City of Vladimir,Geographical,,
+,Град Илиопољ Мисирски,City of Heliopolis in Egypt,Geographical,,
+,Град Клапи,City of Klapi,Geographical,,
+,Град Магида,City of Magida,Geographical,,
+,Град незнабожачки,Pagan city,Phrase,,
+,Град одметнички,Rebellious city,Biblical Quote,,
+,Град Патрас,City of Patras,Geographical,,
+,Град Пафлагонијски,City in Paphlagonia,Geographical,,
+,Град представља свет,City represents world,Allegorical,,
+,Град хришћански,Christian city,Phrase,,
+,Град Циклан,City of Tsqalani,Geographical,,
+,Градина питомих воћака,Orchard of cultivated fruit trees,Ecclesiological Phrase,,
+,Грађани представљају,Citizens represent,Allegorical Verb,,
+,Грађевина достојна Бога,Building worthy of God,Ecclesiological Phrase,,
+,Гргур,Grgur,Personal Name,,
+,Грејати се,To be warmed,Verb,,
+,Грех,Sin,Theological,,
+,Грех никакав,No sin at all,Spiritual Phrase,,
+,Грехе велике,Great sins,Spiritual Phrase,,
+,Грехе испаштати,To suffer for sins,Spiritual Verb,,
+,Греховни пад,Sinful fall,Biblical,,
+,Греховни ужаси,Sinful horrors,Spiritual Phrase,,
+,Греховно проклетство,Sinful curse,Theological Phrase,,
+,Грешник оде у пустињу,Sinner went to desert,Spiritual Phrase,,
+,Грешник чујући глас,Sinner hearing voice,Spiritual Phrase,,
+,Григорије Акрагантски,Gregory of Agrigentum,Saint Name,,
+,Григорије Богослов,Gregory the Theologian,Saint Name,,
+,Григорије Декаполит,Gregory the Decapolite,Saint Name,,
+,Григорије Синаит,Gregory of Sinai,Saint Name,,
+,Гриж савести,Gnawing of conscience,Phrase,,
+,Громовима управљати,To direct thunder,Verb,,
+,Груба клевета,Crude slander,Phrase,,
+,Грубост и грдоба,Coarseness and ugliness,Phrase,,
+,Груди женске,Female breasts,Martyrdom Phrase,,
+,Грчеви,Convulsions,Phrase,,
+,Грчити се,To writhe,Verb,,
+,Грчка,Greece,Geographical,,
+,Грчка војска,Greek army,Historical,,
+,Грчка војска,Greek army,Historical,,
+,Грчка филозофија,Greek philosophy,Phrase,,
+,Грчка философија,Greek philosophy,Academic,,
+,Грчки језик,Greek language,Phrase,,
+,Грчко незнабоштво,Greek paganism,Theological,,
+,Губилиште,Place of execution,Martyrdom,,
+,Губилиште,Place of execution,Martyrdom,,
+,Губилиште,Place of execution,Martyrdom,,
+,Губити своје,To lose one's own,Verb,,
+,Губити се граница,Boundary disappears,Phrase,,
+,Губљене,Killed,Martyrdom Verb,,
+,Да благослове,To bless,Liturgical Verb,,
+,Да буде погубљен,To be executed,Martyrdom Phrase,,
+,Да буде светлост,Let there be light,Biblical Phrase,,
+,Да види како ће назвати,To see what would call,Biblical Phrase,,
+,Да га молитвом исцели,That might heal by prayer,Miracle Phrase,,
+,Да га рукоположи за презвитера,To ordain him presbyter,Ecclesiastical Phrase,,
+,Да дође на пир,To come to banquet,Phrase,,
+,Да живимо с Тобом,To live with Thee,Prayer Phrase,,
+,Да и мене узме,That take me also,Prayer Quote,,
+,Да им каже,To tell them,Phrase,,
+,Да је произашло добро и зло,That has proceeded both good and evil,Theological Phrase,,
+,Да је свет вечит,If world were eternal,Phrase,,
+,Да јој Бог да,That God would give her,Phrase,,
+,Да ли га је нама,Have we it,Phrase,,
+,Да младица порасте,That shoot may grow,Biblical Phrase,,
+,Да можемо тобом прослављати,That may glorify through thee,Prayer Phrase,,
+,Да му открије,To reveal to him,Miracle Phrase,,
+,Да нам јави,To tell us,Phrase,,
+,Да нас Бог сачува,May God preserve us,Prayer Phrase,,
+,Да нас одвоји,To separate us,Spiritual Verb,,
+,Да не би даље ширио,Lest he spread further,Phrase,,
+,Да не завиди,Let none be envious,Phrase,,
+,Да нисмо постали,Whether we have not become,Phrase,,
+,Да обаја,To charm,Verb,,
+,Да разумеју надчулне предмете,To understand supersensory things,Philosophical Phrase,,
+,Да се јерес сузбије,That heresy be suppressed,Ecclesiastical Phrase,,
+,Да се не срди,Let none be angry,Phrase,,
+,Да се скрију,To hide,Verb,,
+,Да ће нам Бог дати,That God will give us,Theological Phrase,,
+,Да ће се бацати,That would be cast,Phrase,,
+,Да умолимо Цара,Let us entreat King,Prayer Phrase,,
+,Да умујемо Тобом,To think by Thee,Prayer Phrase,,
+,Да учини какво чудо,Work any miracle,Miracle Phrase,,
+,Да чека опште васкрсење,To await general resurrection,Eschatological Phrase,,
+,Давати ману,To give manna,Miracle Verb,,
+,Давати меру,To give measure,Verb,,
+,Давати право,To give right,Theological Verb,,
+,Давати само мишљења,To give only opinions,Phrase,,
+,Давно умрле,Long dead,Phrase,,
+,Даде у руке златник,Gave gold coin in hand,Phrase,,
+,Даје дажд,Gives rain,Biblical Phrase,,
+,Даје здравље болесноме,Gives health to sick,Biblical Phrase,,
+,Даје хлеб и одећу,Gives bread and clothing,Biblical Phrase,,
+,Далек пут,Long journey,Phrase,,
+,Далека земља,Distant land,Phrase,,
+,Дамаскин,John of Damascus,Saint Name,,
+,Дан бели,White day,Phrase,,
+,Дан гнева Божјега,Day of God's wrath,Biblical,,
+,Дан грану,Day dawned,Phrase,,
+,Дан за даном,Day by day,Temporal Phrase,,
+,Дани и ноћи,Days and nights,Temporal Phrase,,
+,Данил беше бачен,Daniel had been cast,Biblical Phrase,,
+,Данил прими и једе,Daniel received and ate,Biblical Phrase,,
+,Данило,Daniel,Personal Name,,
+,Даноноћно,Day and night,Temporal Phrase,,
+,Дао одбрану,Gave defense,Phrase,,
+,Дар Божје благодати,Gift of God's grace,Theological,,
+,Дар од Духа примљен,Gift received from Spirit,Spiritual Phrase,,
+,Дар прорицања,Gift of prophecy,Spiritual,,
+,Дар суседа,Gift of neighbor,Spiritual Phrase,,
+,Дариваху,Gave,Verb,,
+,Даровати разумевање,To give understanding,Spiritual Verb,,
+,Даровати силу,To give power,Spiritual Verb,,
+,Дарови од Бога,Gifts from God,Theological,,
+,Дарови различити,Various gifts,Theological,,
+,Дарови царски,Royal gifts,Theological,,
+,Дарови царски,Emperor's gifts,Phrase,,
+,Даровити,Gifted,Adjective,,
+,Даровити,Gifted,Adjective,,
+,Даровитост,Talent,Phrase,,
+,Дародатељ,Giver,Theological,,
+,Дата св. Јосифу,Given to Saint Joseph,Phrase,,
+,Датан и Авирон,Dathan and Abiron,Biblical Names,,
+,Дати Божијему Сину,To give to God's Son,Theological Phrase,,
+,Дати живот на мегдану,To give life in combat,Martyrdom Phrase,,
+,Дати једноме сужњу,To give to prisoner,Phrase,,
+,Дати мач у руке,To give sword in hands,Phrase,,
+,Дати повод,To give occasion,Phrase,,
+,Дати пример роду,To give example to people,Verb,,
+,Два дана лежаше мртав,Two days lay dead,Phrase,,
+,Два живота,Two lives,Theological,,
+,Два знаменита догађаја,Two notable events,Phrase,,
+,Два миша,Two mice,Phrase,,
+,Два млада хришћанина,Two young Christians,Phrase,,
+,Два највећа дела,Two greatest works,Phrase,,
+,Два права Христа,Two true Christs,Theological Phrase,,
+,Два пут,Twice,Phrase,,
+,Два таланта,Two talents,Biblical,,
+,Дванаест година проживе,Lived twelve years,Temporal Phrase,,
+,Дванаестогодишњи дечак,Twelve-year-old boy,Phrase,,
+,Две и по године,Two and half years,Temporal Phrase,,
+,Две пештере,Two caves,Biblical,,
+,Две слатке воћке,Two sweet fruit trees,Hagiographic Phrase,,
+,Две смрти,Two deaths,Theological,,
+,Двогодишње патријарховање,Two years of patriarchal service,Ecclesiastical Phrase,,
+,Двојица свештеника,Two priests,Phrase,,
+,Двојство,Duality,Phrase,,
+,Двојство,Duality,Philosophical,,
+,Двојство од добра и зла,Duality of good and evil,Philosophical Phrase,,
+,Двор,Palace,Phrase,,
+,Двор Византијски,Byzantine court,Historical,,
+,Двор Теодосија Великог,Court of Theodosius the Great,Historical,,
+,Двор цара,Court of the emperor,Phrase,,
+,Двор цара,Court of the king,Phrase,,
+,Дворска служба,Court service,Phrase,,
+,Дворска служба,Court service,Historical Phrase,,
+,Дворске сласти,Courtly pleasures,Phrase,,
+,Дева чиста,Pure Virgin,Theotokos Title,,
+,Деве прате,Virgins accompany,Phrase,,
+,Девица,Maiden,Phrase,,
+,Девица Христова,Virgin of Christ,Hagiographic Title,,
+,Девица хришћанка,Christian virgin,Hagiographic Phrase,,
+,Девице,Virgins,Phrase,,
+,Девојчица Ана,Girl named Anna,Personal Name,,
+,Девствени живот,Virginal life,Spiritual,,
+,Девственице,Virgins (female),Spiritual,,
+,Девственици,Virgins (male),Spiritual,,
+,Дејствовати у хармонији,To act in harmony,Phrase,,
+,Декапољ,Decapolis,Geographical,,
+,Декапољ Исавријски,Decapolis in Isauria,Geographical,,
+,Дела Ап.,Acts,Biblical Book,,
+,"Дела Ап. 7,56",Acts 7:56,Biblical Reference,,
+,Дела милосрђа,Works of mercy,Spiritual,,
+,Делећи милостињу,Distributing alms,Spiritual Verb,,
+,Дело благодати свештенства,Work of grace of priesthood,Theological Phrase,,
+,Деловати што Христос хоће,To do what Christ wills,Spiritual Phrase,,
+,Делујемо добро,We act well,Spiritual Phrase,,
+,Демон љути,Fierce demon,Theological,,
+,Демони,Demons,Demonic,,
+,Демонска бајања,Demonic enchantments,Demonic Phrase,,
+,Демонске силе,Demonic forces,Theological,,
+,Демонске сплетке,Demonic plots,Demonic,,
+,Део моштију,Part of relics,Phrase,,
+,Део одсечен од тела,Part cut off from body,Phrase,,
+,Део човека савршена,Part of perfect man,Theological Phrase,,
+,Десет заповести,Ten Commandments,Biblical,,
+,Десет прстију,Ten fingers,Phrase,,
+,Десети архиепископ,Tenth Archbishop,Church Title,,
+,Десетострука харфа,Ten-stringed harp,Biblical,,
+,Десна рука,Right hand,Phrase,,
+,Десна рука,Right hand,Phrase,,
+,Десница,Right hand,Phrase,,
+,Деспот Стефан Штиљановић,Despot Stefan Štiljanović,Personal Name,,
+,Дете чудесно узето,Child miraculously taken,Miracle Phrase,,
+,Детињски невина душа,Childishly innocent soul,Hagiographic Phrase,,
+,Деца Божја,Children of God,Theological,,
+,Диван пастир,Wonderful pastor,Hagiographic Phrase,,
+,Дивље дрвље,Wild trees,Phrase,,
+,Дивље зеље,Wild herbs,Monastic,,
+,Дивљи Абисинци,Wild Abyssinians,Geographical Phrase,,
+,Дивљи зверови,Wild beasts,Phrase,,
+,Дивљи народ,Wild people,Phrase,,
+,Дивљи Сарацени,Wild Saracens,Historical,,
+,Дивна браћа,Wondrous brothers,Hagiographic Phrase,,
+,Дивна песма,Wondrous hymn,Liturgical,,
+,Дивни храм,Wondrous temple,Theological,,
+,Дивно звање,Wondrous calling,Theological,,
+,Дивно пиће,Wondrous drink,Phrase,,
+,Дигао се високо,Ascended high,Theological Verb,,
+,Дигоше главу,Raised their heads (idiom for rising up against),Idiom,,
+,Дижемо поглед у висину,Lift gaze upward,Phrase,,
+,Дижи се,Arise,Verb,,
+,Дијаманди,Diamandi,Personal Name,,
+,Диоклецијан,Diocletian,Personal Name,,
+,Дионисије,Dionysius,Saint Name,,
+,Диоскор,Dioscorus,Personal Name,,
+,Дићи војску,To raise an army,Verb,,
+,Дићи на први степен,To raise to first step,Phrase,,
+,Дићи се из цркве,To rise from Church,Ecclesiological Verb,,
+,Дићи се у висине,To rise to the heights,Verb,,
+,Дићи хајку,To raise persecution,Verb,,
+,Длан,Palm (of hand),Phrase,,
+,Длан,Palm,Phrase,,
+,Длан прегорети,Palm burned through,Martyrdom Phrase,,
+,Дно мора,Bottom of the sea,Phrase,,
+,До врха,To the top,Phrase,,
+,До дана данашњега,To this very day,Temporal Phrase,,
+,До данас,To this day,Temporal Phrase,,
+,До краја,To the end,Temporal Phrase,,
+,До краја времена,Until end of time,Temporal Phrase,,
+,До краја живота,Until the end of his life,Temporal Phrase,,
+,До краја живота,To the end of life,Temporal Phrase,,
+,До краја живота,For life,Temporal Phrase,,
+,До краја послужити,To serve to end,Spiritual Verb,,
+,До ноге потучен,Utterly defeated,Phrase,,
+,До последњег издисаја,To last breath,Death Phrase,,
+,До последњих дана,Until the last days,Phrase,,
+,До сад пројављена,Thus far revealed,Phrase,,
+,До саме зоре,Until dawn,Temporal Phrase,,
+,До саме смрти,Until very death,Death Phrase,,
+,До Самог Христа,Next to Christ Himself,Theological Phrase,,
+,До својих ногу,Near feet,Phrase,,
+,До смрти,Until death,Temporal Phrase,,
+,До трећега неба,To third heaven,Biblical Quote,,
+,Добар плод донети,To bear good fruit,Biblical Phrase,,
+,Добија силу,Receives power,Spiritual Verb,,
+,Добио исцелење,Received healing,Miracle Phrase,,
+,Добра дела,Good works,Spiritual,,
+,Добра за јело,Good for food,Biblical,,
+,Добри изворе доброте,Good fountain of goodness,Theological,,
+,Добри људи,Good people,Phrase,,
+,Добрих и злих,Good and evil,Phrase,,
+,Добро за јело,Good for food,Biblical Phrase,,
+,Добро као пред Богом,Well as before God,Phrase,,
+,Добро угостити,To receive well,Verb,,
+,Добро целе цркве,Good of whole Church,Ecclesiastical Phrase,,
+,Добродетељи,Virtues,Spiritual,,
+,Добродушност,Good nature,Hagiographic,,
+,Доброме цару главе дође,Came to good emperor's head,Historical Phrase,,
+,Доведе на гозбу,Brought to feast,Verb,,
+,Доведен у Цариград,Brought to Constantinople,Geographical Verb,,
+,Довести на суд,To bring for judgment,Verb,,
+,Довести пред сабор,To bring before council,Verb,,
+,Довести пред цара,To bring before king,Verb,,
+,Довика човека,Called man back,Verb,,
+,Довикивати,To cry out,Verb,,
+,Довршити цркву,To finish the church,Verb,,
+,Догоди се ускоро после,Occurred soon after,Temporal Phrase,,
+,Додир даровања,That which joint supplieth,Ecclesiological Phrase,,
+,Додиривати,To touch,Spiritual Verb,,
+,Додиром,By touch,Phrase,,
+,Дође ван себе,Went out of himself,Miracle Phrase,,
+,Дође молитва твоја к Богу,Thy prayer hath come to God,Biblical Quote,,
+,Дођи у нас,Come into us,Prayer Phrase,,
+,Доживотно завештана,Vowed to lifelong,Spiritual Phrase,,
+,Дозвати војника,To summon soldier,Verb,,
+,Дознати,To learn,Verb,,
+,Дојкиња,Wet nurse,Phrase,,
+,Док беху живи,While were alive,Temporal Phrase,,
+,Док је орао,While was plowing,Phrase,,
+,Док је у телу,While in the body,Phrase,,
+,Док не издахне,Until expired,Death Phrase,,
+,Док неко викну,When someone cries,Phrase,,
+,Док патријарх пише,While patriarch wrote,Phrase,,
+,Док се вратим,Until I return,Biblical Quote,,
+,Док се не нахрани,Until is fed,Phrase,,
+,Док цело тело покривено,Until whole body covered,Martyrdom Phrase,,
+,Доказани факт,Proven fact,Phrase,,
+,Докле год беше жив,As long as was alive,Temporal Phrase,,
+,Докле достигнемо,Till we come,Biblical Phrase,,
+,Докле иде вера,Where faith ends,Spiritual Phrase,,
+,Докле стиже,Until reached,Temporal Phrase,,
+,Долазак у телу,Coming in the flesh,Theological,,
+,Долазити ради молитве,To come for prayer,Spiritual Phrase,,
+,Дом Бога живога,House of the living God,Theological Phrase,,
+,Дом Божји,House of God,Ecclesiological,,
+,Дом вишњи,House on high,Phrase,,
+,Дометијан,Dometian,Personal Name,,
+,Донесе радост старцу,Brought joy to elder,Phrase,,
+,Донесе хлеба вина и меда,Brought bread wine and honey,Miracle Phrase,,
+,Донесен св. Стефану,Brought to Saint Stephen,Phrase,,
+,Донети славу,To bring glory,Hagiographic Verb,,
+,Допринео много,Contributed much,Phrase,,
+,Допринети,To contribute,Verb,,
+,Доротеј,Dorotheus,Saint Name,,
+,Дословно,Literally,Adverb,,
+,Дословце испунити,To literally fulfill,Verb,,
+,Доста опрезно,Quite cautiously,Phrase,,
+,Достићи меру,To attain measure,Spiritual Verb,,
+,Достићи савршенство,To attain perfection,Spiritual Phrase,,
+,Достојна празнина,Worthy emptiness,Spiritual Phrase,,
+,Достојно бесмртности,Worthy of immortality,Theological Phrase,,
+,Достојно казнити,To justly punish,Verb,,
+,Дотужати,To become unbearable,Verb,,
+,Доћи до истине,To come to truth,Spiritual Verb,,
+,Доћи до сазнања,To come to knowledge,Verb,,
+,Дохватити,To grasp,Verb,,
+,Дохватити се,To touch,Verb,,
+,Дохијар,Dochiariou,Geographical,,
+,Дохијарска дужност,Steward's duties,Monastic,,
+,Доцније,Later,Temporal Adverb,,
+,Доцније,Later,Temporal Adverb,,
+,Дочепати се,To seize,Verb,,
+,Дочепати се престола,To seize throne,Verb,,
+,Дошавши к себи,Coming to himself,Phrase,,
+,Драго камење,Precious stones,Phrase,,
+,Драговољније спустити се,More willingly to descend,Theological Verb,,
+,Драговољно,Willingly,Adverb,,
+,Драгоцене књиге,Precious books,Phrase,,
+,Драгоцене хаљине,Precious garments,Phrase,,
+,Драгоцено благо,Precious treasure,Phrase,,
+,Драгоценост,Preciousness,Phrase,,
+,Драгутин,Dragutin,Personal Name,,
+,Дражити,To provoke,Verb,,
+,Дрвета лепа за гледање,Trees beautiful to behold,Biblical,,
+,Дрвето познања добра и зла,Tree of knowledge of good and evil,Biblical,,
+,Дрвеће свакојако,Trees of every kind,Biblical Phrase,,
+,Дрво (Крста),Wood (of the Cross),Theological,,
+,Дрво Живота,Tree of Life,Biblical,,
+,Дрво живота,Tree of life,Biblical,,
+,Дрво познавања добра и зла,Tree of knowledge of good and evil,Biblical,,
+,Дрво познања,Tree of knowledge,Biblical,,
+,Држава светих,Commonwealth of saints,Ecclesiological Phrase,,
+,Државни посао,Matter of state,Phrase,,
+,Држати јединство,To hold unity,Ecclesiological Verb,,
+,Држати као пепео,To hold like ash,Phrase,,
+,Држати као робињу,To keep as a slave,Verb,,
+,Држати се,To be held together by,Theological Verb,,
+,Држати се истине,To hold to truth,Spiritual Verb,,
+,Држати у власти,To hold in power,Verb,,
+,Држати уједно,To hold together,Theological Verb,,
+,Држе се Бога,To hold to God,Spiritual Phrase,,
+,Држе се закона Божјег,To hold to God's law,Spiritual Phrase,,
+,Друг и пријатељ,Companion and friend,Phrase,,
+,Друга вечна,The other eternal,Theological,,
+,Друга грана,Second branch,Biblical Phrase,,
+,Друга ноћ,Second night,Temporal Phrase,,
+,Друга половина VI столећа,Second half sixth century,Temporal Phrase,,
+,Друге пророцима,Others prophets,Ecclesiological Phrase,,
+,Други дан,Second day,Temporal Phrase,,
+,Други епископ,Second bishop,Church Title,,
+,Други Мојсеј,Second Moses,Hagiographic Title,,
+,Други син,Second son,Phrase,,
+,Другим речима,In other words,Phrase,,
+,Другима предај,Teach others,Verb,,
+,Других 17 монаха,Seventeen other monks,Phrase,,
+,Друго вече,Another evening,Temporal Phrase,,
+,Друго место у држави,Second place in the state,Phrase,,
+,Друго откровење,Second revelation,Theological,,
+,Друго сунце,Second sun,Phrase,,
+,Другом светом старцу,To another holy elder,Monastic Phrase,,
+,Другу радост,Second joy,Phrase,,
+,Дружина,Company,Military,,
+,Дубина и висина,Depth and height,Theological,,
+,Дубина смирења,Depth of humility,Theological,,
+,Дубина смирења,Depth of humility,Spiritual,,
+,Дубок срца и ума,Deep of heart and mind,Hagiographic Phrase,,
+,Дубок траг,Deep mark,Phrase,,
+,Дубока мудрост,Profound wisdom,Virtue,,
+,Дубока старост,Deep old age,Phrase,,
+,Дубока старост,Deep old age,Phrase,,
+,Дубоко веровање,Deep faith,Spiritual Phrase,,
+,Дуварове,Walls,Phrase,,
+,Дуварови,Walls,Phrase,,
+,Дуга трпљивост,Long-suffering,Virtue,,
+,Дуго и тешко,Long and severely,Martyrdom Phrase,,
+,Дуго подвизавати се,To struggle ascetically long,Monastic Phrase,,
+,Дужина Промисла,Length of Providence,Theological,,
+,Дужност,Duty,Phrase,,
+,Дулкитије,Ducitius,Saint Name,,
+,Дунавске земље,Danube lands,Geographical,,
+,Дунути у нос,To breathe into nostrils,Biblical Verb,,
+,Дух бесмртни,Immortal spirit,Theological,,
+,Дух Божји,Spirit of God,Theological,,
+,Дух животни,Breath of life,Biblical,,
+,Дух људи,Spirit of people,Phrase,,
+,Дух од Оца исходан,Spirit proceeding from Father,Theological,,
+,Дух Свети раздаје дарове,Holy Spirit distributes gifts,Theological Phrase,,
+,Дух смерности истинске,Spirit of true humility,Spiritual,,
+,Духови зли,Evil spirits,Demonic,,
+,Духовне очи,Spiritual eyes,Spiritual Phrase,,
+,Духовни,Spiritual,Theological,,
+,Духовни витеж,Spiritual knight,Hagiographic Title,,
+,Духовни отац,Spiritual father,Monastic,,
+,Духовни отац,Spiritual father,Monastic,,
+,Духовни отац,Spiritual father,Monastic Title,,
+,Духовни пад,Spiritual fall,Biblical,,
+,Духовни свет,Spiritual world,Theological,,
+,Духовно весеље,Spiritual joy,Spiritual Phrase,,
+,Духовно војевати,To fight spiritually,Spiritual Verb,,
+,Духовно образовање,Spiritual education,Phrase,,
+,Духовно сродство,Spiritual kinship,Spiritual,,
+,Духом и молитвом везан,By spirit and prayer bound,Spiritual Phrase,,
+,Духом јачи,Stronger in spirit,Spiritual Phrase,,
+,Духом обасјани,Illumined by Spirit,Hagiographic Phrase,,
+,Духом Твојим светим,By Thy Holy Spirit,Prayer Phrase,,
+,Духу нашему,To our spirit,Spiritual Phrase,,
+,Душа Јованова,John's soul,Phrase,,
+,Душа јуначка,Heroic soul,Hagiographic Phrase,,
+,Душа незасићена,Soul unsatisfied,Spiritual,,
+,Душа оде у Рај,Soul went to Paradise,Death Phrase,,
+,Душа се весели,Soul rejoices,Spiritual Phrase,,
+,Душан,Dušan,Personal Name,,
+,Душанова сила,Dušan's power,Historical Phrase,,
+,Душевни мртвац,Spiritual corpse,Spiritual Phrase,,
+,Душмани,Enemies,Phrase,,
+,Душу не искриви,Did not curve soul,Spiritual Phrase,,
+,Душу спасем за времена,To save soul in time,Spiritual Phrase,,
+,Ђакон,Deacon,Church Title,,
+,Ђакон цркве Кесаријске,Deacon of Church of Caesarea,Church Title,,
+,Евгеније,Eugenius,Saint Name,,
+,Евкратије,Eucrates,Personal Name,,
+,Евномије,Eunomius,Personal Name,,
+,Ево видим небеса отворена,Behold I see heavens opened,Biblical Quote,,
+,Ево казне,Behold punishment,Phrase,,
+,Евстохије,Eustochius,Saint Name,,
+,Евтих,Eutychus,Personal Name,,
+,Евтихије,Eutychius,Saint Name,,
+,Евул,Evulus,Personal Name,,
+,Егеат,Aegeates,Personal Name,,
+,Едем,Eden,Biblical Geographical,,
+,Едеса,Edessa,Geographical,,
+,Едеса,Edessa,Geographical,,
+,Едесије,Aedesius,Personal Name,,
+,Едеска епархија,Diocese of Edessa,Geographical,,
+,Екатерина,Catherine,Saint Name,,
+,Економ,Steward,Church Title,,
+,Економ цркве Јерусалимске,Steward of the Jerusalem Church,Church Title,,
+,Економска дужност,Economic duties,Monastic,,
+,Екстаза,Ecstasy,Miracle,,
+,Елкесем,Elkesem,Geographical,,
+,Елпидифор,Elpidephorus,Saint Name,,
+,Емеса,Emesa,Geographical,,
+,Еп. Воронежски,Bishop of Voronezh,Church Title,,
+,Еп. Иконијски,Bishop of Iconium,Church Title,,
+,Еп. Коринтски,Bishop of Corinth,Church Title,,
+,Еп. Неокесаријски,Bishop of Neocaesarea,Church Title,,
+,Епир,Epirus,Geographical,,
+,Епископ (еп.),Bishop,Church Title,,
+,Епископ Арабски,Bishop of Arabia,Church Title,,
+,Епископ Ива,Bishop Iba,Personal Name,,
+,Епископ Кесаријски,Bishop of Caesarea,Church Title,,
+,Епископ Кизички,Bishop of Cyzicus,Church Title,,
+,Епископ колсонијски,Bishop of Colsonia,Ecclesiastical Title,,
+,Епископ Теодор,Bishop Theodore,Personal Name,,
+,Епископ Урбан,Bishop Urban,Personal Name,,
+,Епископ циклански,Bishop of Tsqalani,Ecclesiastical Title,,
+,Епископска столица,Episcopal see,Ecclesiological,,
+,Епископски престо,Episcopal throne,Ecclesiastical,,
+,Епископски чин,Episcopal rank,Ecclesiastical,,
+,Епифаније,Epiphanius,Saint Name,,
+,Ераст,Erastus,Saint Name,,
+,Ерма,Hermas,Saint Name,,
+,Ермеј презвитер,Hermas the Presbyter,Saint Name,,
+,Етиопија,Ethiopia,Geographical,,
+,Етиопљани,Ethiopians,Geographical,,
+,Ето свега,Behold all,Phrase,,
+,Ето то су,Behold such are,Phrase,,
+,Еф.,Eph.,Biblical Book,,
+,"Еф. 4, 11",Eph. 4:11,Biblical Reference,,
+,"Еф. 4, 17–18",Eph. 4:17–18,Biblical Reference,,
+,Ефес,Ephesus,Geographical,,
+,Ефес,Ephesus,Geographical,,
+,Ефимија,Euphemia,Personal Name,,
+,Жалосно би било,It would be sad,Phrase,,
+,Жалост у срцу праведника,Sorrow in hearts of righteous,Phrase,,
+,Жао беше,Was loath,Phrase,,
+,Жедни,Those who thirst,Phrase,,
+,Жедно питање,Thirsting question,Phrase,,
+,Жедном прија,Pleasing to the thirsty,Phrase,,
+,Жежени,Seared,Martyrdom Verb,,
+,Жезал,Rod,Biblical,,
+,Жељан мучеништва,Desiring martyrdom,Hagiographic Phrase,,
+,Жељан усамљеничког живота,Desiring solitary life,Monastic Phrase,,
+,Жена Ева,Woman Eve,Biblical,,
+,Жена Јулијанија,Woman Juliana,Personal Name,,
+,Жена мени буди,Be my wife,Phrase,,
+,Женик,Bridegroom,Spiritual,,
+,Женски манастир,Women's monastery,Monastic,,
+,Женски манастир,Women's monastery,Monastic,,
+,Жену од човека,Woman from man,Biblical Phrase,,
+,Жењени,Married (people),Phrase,,
+,Жив само за онај,Alive only for that one,Eschatological Phrase,,
+,Жива вода,Living water,Biblical,,
+,Жива Вода,Living Water,Biblical,,
+,Жива истина,Living truth,Theological,,
+,Жива робиња,Living slave woman,Phrase,,
+,Жива учешћа,Living part,Theological,,
+,Живе у води,Live in water,Biblical Phrase,,
+,Живет и тумачити живот,To live and interpret life,Phrase,,
+,Живети по вери,To live according to the faith,Spiritual Phrase,,
+,Живети у девствености,To live in virginity,Spiritual Phrase,,
+,Живи Бог,Living God,Theological,,
+,Живи Господ,Living Lord,Theological,,
+,Живи извор утехе,Living fountain of comfort,Hagiographic Phrase,,
+,Живи сродници,Living relatives,Phrase,,
+,Живи Творац,Living Creator,Theological,,
+,Живи Христос,Living Christ,Theological,,
+,Живи Христос,Living Christ,Theological,,
+,Живинче,Living creature,Biblical,,
+,Живити у љубави,To live in love,Spiritual Verb,,
+,Живљати,To live,Verb,,
+,Живљаше као земљорадник,Lived as farmer,Phrase,,
+,Живо јединство,Living unity,Theological,,
+,Живо тело,Living body,Ecclesiological,,
+,Живодавац,Life-giver,Theological Title,,
+,Живодавца Христа,Christ Life-giver,Theological Title,,
+,Живом водом,With living water,Biblical Phrase,,
+,Живот бесмртни,Immortal life,Theological,,
+,Живот Божји,Life of God,Theological,,
+,Живот вечни после века,Eternal life after age,Theological Phrase,,
+,Живот и рад,Life and work,Phrase,,
+,Живот понудити,To offer life,Verb,,
+,Живот пружа,Life offers,Phrase,,
+,Живота свога,Of his life,Phrase,,
+,Животворан,Life-giving,Theological,,
+,Животворна вода,Life-giving water,Biblical Phrase,,
+,Животворна храна,Life-giving nourishment,Theological,,
+,Животворност,Life-giving power,Theological,,
+,Животе наш,Our life,Theological,,
+,Животи Светих,Lives of the Saints,Structural,,
+,Животиње,Creatures,Biblical,,
+,Животна мета,Life's goal,Spiritual Phrase,,
+,Жиле,Veins,Phrase,,
+,Житејске бриге,Life's cares,Phrase,,
+,Житија светитеља,Lives of the saints,Phrase,,
+,Жрец,Priest,Liturgical,,
+,Жрец идолски,Pagan priest,Phrase,,
+,Жртва,Sacrifice,Liturgical,,
+,Жртва довољна,Sufficient sacrifice,Theological Phrase,,
+,Жртва Христова,Sacrifice of Christ,Theological,,
+,Жртвени јањци,Sacrificial lambs,Phrase,,
+,Жртвеник,Altar,Liturgical,,
+,Жртвовати добро целине,To sacrifice good of whole,Phrase,,
+,Жртвовати Христу,To sacrifice to Christ,Spiritual Verb,,
+,Жртвоприношење идолима,Sacrifice to idols,Theological,,
+,За васкрсење Христу,For resurrection to Christ,Liturgical Phrase,,
+,За време благочестивог цара,During time of pious king,Historical Phrase,,
+,За време доброг цара,During time of good emperor,Historical Phrase,,
+,За време Другог светског рата,During Second World War,Historical Phrase,,
+,За време молитве,During prayer,Spiritual Phrase,,
+,За време цара Манасије,During reign of King Manasseh,Historical Phrase,,
+,За добит,For profit,Phrase,,
+,За живота свога,During his lifetime,Temporal Phrase,,
+,За зло своје,For his evil,Phrase,,
+,За иконе свете,For holy icons,Phrase,,
+,За једну годину,In one year,Temporal Phrase,,
+,За казну,As punishment,Phrase,,
+,За клањање,For worship,Phrase,,
+,За небеса везан,Bound to heaven,Spiritual Phrase,,
+,За незнање,Through ignorance,Phrase,,
+,За неко добро,For some good purpose,Phrase,,
+,За осам векова,In eight centuries,Temporal Phrase,,
+,За пет стотина тридесет две године,For five hundred thirty-two years,Temporal Phrase,,
+,За раздвојеним телетом,For separated calf,Phrase,,
+,За сва времена,For all times,Temporal Phrase,,
+,За све и свакога,For all and everyone,Phrase,,
+,За смрт греху,For death to sin,Liturgical Phrase,,
+,За увек,Forever,Phrase,,
+,Забодена у земљу,Thrust into the ground,Phrase,,
+,Заборавити опасности,To forget dangers,Verb,,
+,Заборавити себе,To forget oneself,Spiritual Verb,,
+,Забранити Адаму,To forbid Adam,Biblical Verb,,
+,Забранити јести,To forbid eating,Biblical Verb,,
+,Забранити приступ,To forbid access,Verb,,
+,Завапити горко,To cry out bitterly,Verb,,
+,Заварава другог,Deludes another,Verb,,
+,Заваран призрацима,Deluded by phantoms,Phrase,,
+,Завежљај новаца,Bundle of money,Phrase,,
+,Заветовати доживотно девство,To vow lifelong virginity,Spiritual Verb,,
+,Завештане на девство,Vowed to virginity,Spiritual Phrase,,
+,Завидљивци,The envious,Phrase,,
+,Завидљивци,Envious people,Phrase,,
+,Заволети,To love,Verb,,
+,Завршетак,End,Phrase,,
+,Заврши победом,Finishes with victory,Hagiographic Phrase,,
+,Завршити земни живот,To end one's earthly life,Death Verb,,
+,Завући руку,To reach (into),Verb,,
+,Загледа се у Јована,Looked closely at John,Phrase,,
+,Загрлити,To embrace,Verb,,
+,Задивити се,To marvel,Verb,,
+,Задивљени цар,Amazed emperor,Phrase,,
+,Задоби небо,Gained heaven,Spiritual Phrase,,
+,Задобити за Господа,To win for Lord,Ecclesiological Verb,,
+,Задобити за мишљење,To win over to one's opinion,Verb,,
+,Задобити крвљу,To acquire with blood,Theological Verb,,
+,Задобити славу,To gain glory,Verb,,
+,Зажарени,Set ablaze,Verb,,
+,Заинтересовани пролазници,Interested passersby,Phrase,,
+,Заједнички посао јеванђелски,Common evangelical mission,Ecclesiological Phrase,,
+,Заједно са свих шест синова,Together with all six sons,Phrase,,
+,Заједно са синовима,Together with sons,Phrase,,
+,Заједно са Херувимима,Together with the Cherubim,Angelic Phrase,,
+,Зајеца,Wept,Verb,,
+,Закла ћерку своју,Slew his own daughter,Martyrdom Phrase,,
+,Заклати,To slaughter,Martyrdom Verb,,
+,Заклетва,Oath,Phrase,,
+,Заклети (Пресветом Тројицом),To adjure (by the Most Holy Trinity),Spiritual Verb,,
+,Заклети се клетвом великом,To swear with great oath,Phrase,,
+,Заклети се на гробу,To swear at the tomb,Verb,,
+,Закључана црква,Locked church,Phrase,,
+,Закључати врата,To lock the door,Verb,,
+,Закон,Law (Mosaic Law),Theological,,
+,Закон Божји испунити,To fulfill God's law,Spiritual Phrase,,
+,Законита жена,Lawful wife,Phrase,,
+,Законита жена,Lawful wife,Phrase,,
+,Законодавац,Lawgiver,Christ/Theotokos,,
+,Закопати,To bury,Verb,,
+,Закупац пореза,Tax farmer,Title,,
+,Залог за спасење,Pledge for salvation,Theological Phrase,,
+,Залуд сав труд,In vain all labor,Phrase,,
+,Заменити жртве,To replace sacrifices,Theological Verb,,
+,Заменити истину,To replace the truth,Theological Verb,,
+,Замерити се,To offend,Verb,,
+,Замоли,Entreated,Verb,,
+,Замонашити се,To become a monk,Monastic Verb,,
+,Замонашити се,To become monk,Monastic Verb,,
+,Занесени буром,Swept away by storm,Phrase,,
+,Занети се слашћу,To be captivated by sweetness,Verb,,
+,Западна црква,Western Church,Ecclesiological,,
+,Запаљене свеће,Lighted candles,Liturgical,,
+,Запамти,Remember,Verb,,
+,Заплака се,Began to weep,Verb,,
+,Заплака се горко,Wept bitterly,Phrase,,
+,Заповедати водама,To command waters,Miracle Verb,,
+,Заповедати горама,To command mountains,Miracle Verb,,
+,Заповедати злим дусима,To command evil spirits,Spiritual Verb,,
+,Заповеди Божје,Commandments of God,Theological,,
+,Заповест Неронова,Command of Nero,Historical Phrase,,
+,Запојати,To sing,Liturgical Verb,,
+,Запослени на послу,Engaged in labor,Phrase,,
+,Запушити уши,To stop up one's ears,Verb,,
+,Запуштени храм,Abandoned church,Phrase,,
+,Зарадова се,Rejoiced,Verb,,
+,Зарасте чудесно,Healed miraculously,Miracle Verb,,
+,Заратити против,To wage war against,Verb,,
+,Заробити Себи,To take captive to Thyself,Spiritual Verb,,
+,Засијати,To shine,Verb,,
+,Засјати,To shine forth,Verb,,
+,Заслуге,Merit,Theological,,
+,Заслуге,Merits,Theological,,
+,Заспало тело,Sleeping body,Phrase,,
+,Застати код гомиле,To stop at crowd,Verb,,
+,Застидети се вере,To be ashamed of faith,Phrase,,
+,Застидети се живота,To become ashamed of life,Phrase,,
+,Затворен сандук,Closed chest,Phrase,,
+,Затвори се у келију,Shut himself in cell,Monastic Verb,,
+,Затвори се у келију,Shut himself up in cell,Monastic Verb,,
+,Затвори се у келију,Shut himself in cell,Monastic Verb,,
+,Затвори у кулу високу,Shut up in high tower,Phrase,,
+,Затворити се,To shut oneself,Verb,,
+,Затворник печерски,Recluse of Caves,Monastic Title,,
+,Затећи,To find,Verb,,
+,Заточеник,Prisoner,Phrase,,
+,Затрпати,To cover (with earth),Verb,,
+,Заустави и изломи,Stopped and broke,Miracle Verb,,
+,Зацарени Урош,Enthroned Uroš,Hagiographic Phrase,,
+,Зацарити,To enthrone,Verb,,
+,Зачети и родити,To conceive and bear,Verb,,
+,Зачуди се старац,Elder was amazed,Verb,,
+,Зашити,To sew (into sacks),Verb,,
+,Заштитница музике,Patroness of music,Hagiographic,,
+,Заштитница појања,Patroness of singing,Hagiographic,,
+,Зашто не говори,Why does not speak,Question,,
+,Збацити га,To throw him off,Verb,,
+,Збацити епископе,To depose bishops,Ecclesiological Verb,,
+,Збацити с престола,To overthrow from throne,Historical Verb,,
+,Збесити се,To rage,Verb,,
+,Због бола,By pain,Martyrdom Phrase,,
+,Због ватреног заступања,Because of ardent defense,Phrase,,
+,Због доброте очеве,Because of father's goodness,Phrase,,
+,Због иконопоштовања,Because of icon veneration,Ecclesiological Phrase,,
+,Због истине и доброте,Because of truth and goodness,Spiritual Phrase,,
+,Због мене на теби,For my sake upon thee,Martyrdom Phrase,,
+,Због сујете,Because of vanity,Phrase,,
+,Због те љубави,Because of that love,Phrase,,
+,Због тога предложи га,Because of this proposed him,Phrase,,
+,Због Христа Исуса,Because of Christ Jesus,Theological Phrase,,
+,Зборити гласније,To speak more loudly,Verb,,
+,Збратимљавати,To make brothers,Theological Verb,,
+,Звање,Calling,Theological,,
+,Звање апостолско,Apostolic calling,Ecclesiological,,
+,Звезда јасна,Bright star,Hagiographic Phrase,,
+,Звездано небо,Starry heaven,Phrase,,
+,Звездано небо горе,Starry heaven above,Phrase,,
+,Звезде везане,Stars bound,Phrase,,
+,Звездо првозвана,First-Called star,Hagiographic,,
+,Зверови,Wild beasts,Phrase,,
+,Зверови,Beasts,Biblical,,
+,Звиждати,To whistle,Verb,,
+,Згнушати се,To be disgusted,Verb,,
+,Зграбити грања,To gather sticks,Verb,,
+,Згреши,Sinned,Verb,,
+,Згрешивши,Having sinned,Verb,,
+,Здрав,Healthy,Adjective,,
+,Здраво крсте,Hail O cross,Prayer Phrase,,
+,Зејтин,Oil,Phrase,,
+,Земаљска сила,Earthly power,Theological Phrase,,
+,Земаљска царица,Earthly empress,Title,,
+,Земаљски свет при стварању,Earthly world at creation,Biblical Phrase,,
+,Земља Исмаилћанска,Land of Ishmaelites,Geographical,,
+,Земља црначка,Land of black people,Geographical,,
+,Земља црначка,Land of black people,Geographical,,
+,Земљак,Compatriot,Phrase,,
+,Земље Дунавске,Danube lands,Geographical,,
+,Земљиште плодно,Ground fruitful,Phrase,,
+,Земљиште подесно,Ground suitable,Phrase,,
+,Земљорадник,Farmer,Phrase,,
+,Земљотрес,Earthquake,Phrase,,
+,Земљотрес престаде,Earthquake ceased,Miracle Phrase,,
+,Земљу доле,Earth below,Phrase,,
+,Земљу изгуби,Lost earth,Spiritual Phrase,,
+,Земна блага,Earthly goods,Phrase,,
+,Земни живот,Earthly life,Phrase,,
+,Зет цар,Son-in-law emperor,Historical Title,,
+,Зидање,Building,Theological,,
+,Зидати,To build,Verb,,
+,Зидати у човека савршена,To build into perfect man,Theological Verb,,
+,Зидати цркве,To build churches,Ecclesiological Verb,,
+,Зинон,Zeno,Personal Name,,
+,Зјапити,To gape,Verb,,
+,Златна кадилница,Golden censer,Biblical,,
+,Златна Орда,Golden Horde,Historical,,
+,Златни језик,Golden tongue,Hagiographic Phrase,,
+,Златни новци,Gold coins,Phrase,,
+,Златни Патријарх,Golden Patriarch,Hagiographic Title,,
+,Златни ум,Golden mind,Hagiographic Phrase,,
+,Златник,Gold coin,Phrase,,
+,Златоуст,Chrysostom,Saint Name,,
+,Златоуст Богом дарован,Chrysostom bestowed by God,Hagiographic Phrase,,
+,Златоуст изгнаник,Chrysostom the exile,Phrase,,
+,Златоусти патријарх,Golden-mouthed patriarch,Saint Title,,
+,Златоусти патријарх,Golden-mouthed patriarch,Hagiographic Title,,
+,Зли демони се страше,Evil demons fear,Spiritual Phrase,,
+,Зли дуси,Evil spirits,Demonic,,
+,Зли духови,Evil spirits,Theological,,
+,Зли духови се крију,Evil spirits hide,Spiritual Phrase,,
+,Зли старац,Evil elder,Monastic Phrase,,
+,Зли старац раскаја се,Evil elder repented,Spiritual Verb,,
+,Зло је од греха,Evil is from sin,Theological Phrase,,
+,Зло супротно добру,Evil contrary to good,Philosophical Phrase,,
+,Злоба демона,Malice of demons,Spiritual Phrase,,
+,Злоба и смутња,Malice and turmoil,Phrase,,
+,Злобна замисао,Malicious scheme,Phrase,,
+,Злобни гонитељи,Malicious persecutors,Phrase,,
+,Злобни началник,Malicious governor,Phrase,,
+,Злочестиви цар,Wicked Emperor,Phrase,,
+,Злочинац,"Malefactor, evildoer",Phrase,,
+,Змија,"Snake, serpent",Phrase,,
+,Змија,Serpent,Phrase,,
+,Змија,Viper,Phrase,,
+,Змија изазва,Serpent aroused,Biblical Phrase,,
+,Змијурина,Great serpent,Phrase,,
+,Знаменит пастир,Renowned pastor,Hagiographic,,
+,Знаменит писац,Distinguished writer,Hagiographic Title,,
+,Знаменит положајем,Distinguished by position,Phrase,,
+,Знаменита грешница,Famous sinner,Phrase,,
+,Знаменита школа,Renowned school,Academic Phrase,,
+,Знаменити игуман,Renowned abbot,Saint Title,,
+,Знаменити патриције,Distinguished patrician,Historical Title,,
+,Знаменити споменик,Significant monument,Phrase,,
+,Знамење Сина Човечјег,Sign of the Son of Man,Eschatological,,
+,Знамење Христово,Sign of Christ,Theological,,
+,Знатан подвижник,Notable ascetic,Saint Title,,
+,Знатан чиновник,Prominent official,Title,,
+,Знатни и богати,Notable and wealthy,Phrase,,
+,Зраци славе,Rays of glory,Theological,,
+,Зрели људи,Mature people,Phrase,,
+,Зрео род,Ripe fruit,Phrase,,
+,Зрно песка,Grain of sand,Phrase,,
+,И видећете,And shall see,Biblical Phrase,,
+,И видје Бог да је добро,And God saw that it was good,Biblical Quote,,
+,И данас,Even today,Temporal Phrase,,
+,И других 370,And 370 others,Phrase,,
+,И за њ сазда,And for him,Biblical Quote,,
+,И јуче и данас,Both yesterday and today,Temporal Phrase,,
+,И по смрти послушан,Obedient even after death,Hagiographic Phrase,,
+,И Промислитељ,And Provider,Theological Title,,
+,И пророк и пастир,And prophet and pastor,Ecclesiological,,
+,И сада царује,Still reigns now,Hagiographic Phrase,,
+,Иако рече превелику цену,Although stated excessive price,Phrase,,
+,Ивице суда,Edges of the vessel,Phrase,,
+,Игла,Needle,Phrase,,
+,Игњатије,Ignatius,Personal Name,,
+,Игуман,Abbot / Igumen,Church Title,,
+,Игуманија,Abbess,Church Title,,
+,Иде с коњем у рат,To go to war with horse,Phrase,,
+,Иди с миром,Go in peace,Biblical Phrase,,
+,Идоли,Idols,Theological,,
+,Идоли глупи,Foolish idols,Phrase,,
+,Идоли нејаки,Powerless idols,Phrase,,
+,Идолопоклоници,Idolaters,Phrase,,
+,Идолопоклоничка заблуда,Idolatrous delusion,Theological,,
+,Идолопоклонство,Idolatry,Theological,,
+,Идолска ноћ,Idolatrous night,Phrase,,
+,Идолски (град),Idolatrous (city),Theological,,
+,Идолски празник,Idolatrous feast,Phrase,,
+,Иду путем добра,Walk path of good,Spiritual Phrase,,
+,Из благодарности,Out of gratitude,Phrase,,
+,Из брачног чертога,From bridal chamber,Phrase,,
+,Из главе разилазе се нерви,From head nerves spread,Phrase,,
+,Из године у годину,From year to year,Temporal Phrase,,
+,Из дана у дан,From day to day,Temporal Phrase,,
+,Из дана у дан,Day by day,Temporal Phrase,,
+,Из земне прашине,From earthly dust,Phrase,,
+,Из корена,From the root,Phrase,,
+,Из љубави,Out of love,Theological Phrase,,
+,Из онога света,From that world,Eschatological Phrase,,
+,Из разних страна,From various regions,Phrase,,
+,Из сваког града,From every city,Phrase,,
+,Из свега срца,With all heart,Biblical Phrase,,
+,Из светиње Светоме,From holy place to Holy One,Theological Phrase,,
+,Из светле одаје,From bright chamber,Phrase,,
+,Из стопе,From footprint,Phrase,,
+,Из тела,From body,Phrase,,
+,Из чистоте Чистоме,From purity to Pure One,Theological Phrase,,
+,Из џепа,From pocket,Phrase,,
+,Иза друге завесе,Behind second veil,Biblical,,
+,Изабран за патријарха,Chosen as Patriarch,Ecclesiological Verb,,
+,Изабран материјал,Chosen materials,Ecclesiological Phrase,,
+,Изабрати,"To choose, to elect",Verb,,
+,Изагнати,To banish,Verb,,
+,Изађе благоухани мирис,Came fragrant smell,Miracle Phrase,,
+,Изађе из двора,Left palace,Verb,,
+,Изађе из састава,Goes out from structure,Ecclesiological Verb,,
+,Изазвати завист,To arouse envy,Verb,,
+,Изазива радост,Arouses joy,Verb,,
+,Изазива тугу и страх,Arouses sorrow and fear,Phrase,,
+,Изасланици,Emissaries,Phrase,,
+,Изаћи,To go out,Verb,,
+,Изаћи жив,To emerge alive,Miracle Phrase,,
+,Изаћи међу људе,To go out among people,Phrase,,
+,Изаћи на литију,To go out in procession,Liturgical Verb,,
+,Изаћи смело,To come out boldly,Verb,,
+,Избавити,"To deliver, to rescue",Spiritual Verb,,
+,Избавити свет,To redeem the world,Theological Verb,,
+,Избегнути мреже,To avoid snares,Spiritual Verb,,
+,Избећи смрт,To avoid death,Phrase,,
+,Изби је сурово,Beat her cruelly,Martyrdom Verb,,
+,Избости очи,To pierce out eyes,Martyrdom Verb,,
+,Избости очи,To pierce out eyes,Martyrdom Verb,,
+,Избости цело тело,To pierce whole body,Martyrdom Verb,,
+,Избрани угодници,Chosen saints,Hagiographic,,
+,Избрање,Election (divine),Theological,,
+,Избројати чудеса,To count miracles,Phrase,,
+,Извадити завежљај,To draw out bundle,Verb,,
+,Извадити из огња,To extract from the fire,Verb,,
+,Извађен из јаме,Brought out of pit,Phrase,,
+,Извађене из мора,Retrieved from sea,Miracle Phrase,,
+,Изванредним примером,By extraordinary example,Hagiographic Phrase,,
+,Изведен на суд,Brought to trial,Martyrdom Phrase,,
+,Изведоше на губилиште,Led out to place of execution,Martyrdom Phrase,,
+,Изверже душу,Gave up soul,Death Phrase,,
+,Извесан број,Certain number,Phrase,,
+,Извесно место,Certain place,Phrase,,
+,Извести воду из земље,To bring forth water from earth,Miracle Verb,,
+,Извести замисао,To carry out scheme,Verb,,
+,Извести на губилиште,To lead to place of execution,Martyrdom Phrase,,
+,Извести пред Адама,To bring before Adam,Biblical Verb,,
+,Извести пред човека,To bring before man,Biblical Verb,,
+,Извести сина,To bring out son,Verb,,
+,Извођене на губилиште,Led to execution,Martyrdom Phrase,,
+,Извор воде,Spring of water,Miracle Phrase,,
+,Извор воде хладне,Spring of cold water,Phrase,,
+,Извор добра,Fountain of good,Theological,,
+,Извор живи,Living fountain,Theological,,
+,Изворе живота,Fountain of life,Theological,,
+,Изворе љубави,Fountain of love,Theological,,
+,Изврсно,Excellently,Adverb,,
+,Изврћу закон,Do violence to law,Biblical Quote,,
+,Извући из тамнице,To drag from prison,Verb,,
+,Изгнани хришћани,Banished Christians,Historical Phrase,,
+,Изгонити из друштва,To drive out from society,Verb,,
+,Изгорети,To burn off,Martyrdom Verb,,
+,Изгубити се,To be lost,Verb,,
+,Изгубити се,To be lost,Verb,,
+,Изгубљени родитељи,Lost parents,Phrase,,
+,Издалека,From afar,Phrase,,
+,Издати законе,To publish laws,Verb,,
+,Издати заповест,To issue commandment,Verb,,
+,Издахнути,"To expire, to breathe one's last",Death Verb,,
+,Издахнути,To expire,Death Verb,,
+,Издахнути,To expire,Death Verb,,
+,Издвајати се,To separate oneself,Verb,,
+,Издигерд,Yezdigerd,Personal Name,,
+,Изиђе из куле,Came out from tower,Verb,,
+,Изједначити се,To become equal,Verb,,
+,Излазак из Раја,Exit from Paradise,Theological,,
+,Излазити из келије,To leave cell,Monastic Phrase,,
+,Изложен подсмеху,Exposed to ridicule,Phrase,,
+,Изложи положај,Set forth situation,Verb,,
+,Изломити ноге и руке,To break legs and hands,Martyrdom Verb,,
+,Између 251–259. год.,Between 251–259,Temporal Phrase,,
+,Између других ствари,Among other things,Phrase,,
+,Између многих трудова,Among many labors,Phrase,,
+,Између осталога,Among other things,Phrase,,
+,Између осталога,Among other things,Phrase,,
+,Измиритељ,Reconciler,Theological,,
+,Измирити,To reconcile,Spiritual Verb,,
+,Измирити,To reconcile,Theological Verb,,
+,Измолити у Бога,To pray to God,Spiritual Verb,,
+,Изнад ангелских сила,Above angelic powers,Theological Phrase,,
+,Изнад промене и пролазности,Above change and transience,Theological Phrase,,
+,Изнад речи,Beyond words,Phrase,,
+,Изнемогле,Infirm,Phrase,,
+,Изненадна срећа,Sudden fortune,Phrase,,
+,Изненадно и неочекивано,Suddenly and unexpectedly,Phrase,,
+,Изненадно искочити,To jump suddenly,Verb,,
+,Изненађени,Astonished,Adjective,,
+,Изненађујући докази,Surprising proofs,Phrase,,
+,Изнети сандук,To bring up coffin,Verb,,
+,Износити блага,To bring forth treasures,Verb,,
+,Изнутра јеретици,From within by heretics,Ecclesiological Phrase,,
+,Изобличавати,To denounce,Spiritual Verb,,
+,Изобличитељ,Reprover,Phrase,,
+,Изобличити,To reproach,Verb,,
+,Изобличити,To denounce,Verb,,
+,Изобличити заблуду,To denounce delusion,Verb,,
+,Изображено на срцу,Depicted upon the heart,Spiritual Phrase,,
+,Изображење Богоматере,Image of the Mother of God,Liturgical,,
+,Израз науке,Expression of teaching,Phrase,,
+,Израсти (над),To grow (over),Verb,,
+,Израсту три смокве,Three fig trees grew,Miracle Phrase,,
+,Изрекао Своју оцену,Pronounced His assessment,Theological Phrase,,
+,Изрећи веру,To declare faith,Spiritual Verb,,
+,Изрећи јавно,To declare publicly,Verb,,
+,Изрећи осуду,To pronounce sentence,Legal Verb,,
+,Изрећи проклетство,To pronounce curse,Verb,,
+,Изречено или неизречено,Spoken or unspoken,Phrase,,
+,Изузев само,Except only,Phrase,,
+,Изузев само,Except only,Phrase,,
+,Изузев случаја,Except in cases,Phrase,,
+,Изузетак,Exception,Phrase,,
+,Изузетан догађај,Extraordinary event,Phrase,,
+,Изузетно,Exceptional,Adjective,,
+,Изучити философију,To study philosophy,Academic Verb,,
+,Икона,Icon,Liturgical,,
+,Икона св. апостола Павла,Icon of holy Apostle Paul,Liturgical,,
+,Икона св. Богородице,Icon of the Holy Theotokos,Liturgical,,
+,Икона Христова,Icon of Christ,Ecclesiological,,
+,Иконија,Iconium,Geographical,,
+,Иконија,Iconium,Geographical,,
+,Иконоборни јеретици,Iconoclast heretics,Ecclesiological,,
+,Иконоборни цар,Iconoclast emperor,Historical Title,,
+,Иконоборство,Iconoclasm,Historical,,
+,Иконопоштовања,Icon veneration,Theological,,
+,Иконопоштовање,Icon veneration,Theological,,
+,Иларион,Hilarion,Saint Name,,
+,Или боље рећи,Or better to say,Phrase,,
+,Или призраком,Or pretense,Phrase,,
+,Илија,Elias,Personal Name,,
+,Илиодор,Heliodorus,Saint Name,,
+,Илиопољ,Heliopolis,Geographical,,
+,Илиопољска епархија,Diocese of Heliopolis,Geographical,,
+,Илирик,Illyricum,Geographical,,
+,Има да дође искушење,There will come temptation,Quote,,
+,Има један свет,There is world,Phrase,,
+,Има ли још неког живота,Whether there was any other life,Phrase,,
+,Има рашта,Has reason,Phrase,,
+,Има у виду,Has in view,Phrase,,
+,Имаде визију,Had vision,Miracle Phrase,,
+,Имајући смерност велику,Having great humility,Hagiographic Phrase,,
+,Имање,"Possessions, property",Phrase,,
+,Имао везе са њом,Had relations with her,Phrase,,
+,Имао почетак,Had beginning,Phrase,,
+,Име Исусово,Name of Jesus,Theological,,
+,Име остати гласно,Name remained renowned,Hagiographic Phrase,,
+,Име се прославља,Name is glorified,Hagiographic Phrase,,
+,Именом Христовим,By name of Christ,Miracle Phrase,,
+,Иначе,Otherwise,Adverb,,
+,Индијски,Indian,Geographical,,
+,Индијски преп. мученици,Indian Venerable Martyrs,Saint Name,,
+,Индијски цар,Indian King,Historical Title,,
+,Инок,Monk,Monastic Title,,
+,Инокентије Иркутски,Innocent of Irkutsk,Saint Name,,
+,Ипак сам духом с тобом,Yet am with thee in spirit,Quote,,
+,Ипатија,Hypatia,Personal Name,,
+,Ираклије,Heraclius,Personal Name,,
+,Ирмологију,Irmologion,Liturgical,,
+,Иса,Ise,Saint Name,,
+,Исав,Esau,Personal Name,,
+,Исаврија,Isauria,Geographical,,
+,Исак,Isaac,Saint Name,,
+,Исећи ситно,To cut into pieces,Martyrdom Verb,,
+,Исидор војник,Isidore soldier,Saint Name,,
+,Исихије,Hesychius,Saint Name,,
+,Искажати истине,To declare truths,Verb,,
+,Искање истине,Seeking truth,Spiritual,,
+,Искидају се нерви,Nerves are severed,Phrase,,
+,Искона,From of old,Phrase,,
+,Искочити из огња,To leap out from the fire,Verb,,
+,Искрено,Sincerely,Adverb,,
+,Искупитељ,Redeemer,Theological,,
+,Искупитељ,Redeemer,Theological,,
+,Искупити природу,To redeem nature,Theological Verb,,
+,Искупити се од клетве,To be redeemed from the curse,Theological Phrase,,
+,Искуша послушност,Test obedience,Monastic Verb,,
+,Искушеник,Novice,Monastic,,
+,Исмаилћани,Ishmaelites,Biblical,,
+,Испевао посмртне песме,Composed funeral hymns,Liturgical Phrase,,
+,Испечен,Roasted,Martyrdom Verb,,
+,Исписа пресуду,Wrote sentence,Biblical Phrase,,
+,Испитати,To question,Verb,,
+,Испитати,To question,Verb,,
+,Испити чашу,To drink cup,Phrase,,
+,Испитивати о вери,To question about faith,Martyrdom Phrase,,
+,Исплетене котарице,Woven baskets,Phrase,,
+,Исповеди,Confessed,Verb,,
+,Исповеди веру пред Сенатом,Confessed faith before Senate,Martyrdom Phrase,,
+,Исповедити име,To confess name,Spiritual Verb,,
+,Исповедници Христови,Confessors of Christ,Ecclesiological,,
+,Испосничке узе,Ascetic bonds,Monastic,,
+,Исправити животопис,To correct a biography,Verb,,
+,Испражњено буре,Emptied barrel,Phrase,,
+,Испражњено од љубави,Emptied of love,Spiritual Phrase,,
+,Испреже вола,Unharnessed ox,Verb,,
+,Исприча све,To tell everything,Verb,,
+,Исприча старцима,To tell elders,Verb,,
+,Испуни тамницу,Filled dungeon,Miracle Verb,,
+,Испунити (закон),To fulfill (the Law),Spiritual Verb,,
+,Испунити бездан,To fill the abyss,Theological Verb,,
+,Испунити весеље,May joy be fulfilled,Biblical Phrase,,
+,Испунити дуг,To fulfill duty,Phrase,,
+,Испунити жељу,To fulfill desire,Verb,,
+,Испунити жељу,To fulfill desire,Verb,,
+,Испунити све,To fill all things,Theological Verb,,
+,Испуњава молитве,Fulfills prayers,Theological Verb,,
+,Испуњава се Христом,Is filled with Christ,Spiritual Phrase,,
+,Испуњава Собом,Fills with Himself,Theological Verb,,
+,Испуњавати срца,To fill hearts,Spiritual Verb,,
+,Испуњаваш силом,Fillest with power,Theological Phrase,,
+,Испуњени страхом,Filled with fear,Phrase,,
+,Испуњено силом,Filled with power,Ecclesiological Phrase,,
+,Испуњено чудотворством,Filled with miracle-working,Ecclesiological Phrase,,
+,Испуњење заповести,To fulfill commandments,Spiritual Phrase,,
+,Испуњење пророка,Fulfillment of the prophets,Theological,,
+,Исрцпно,Exhaustively,Adverb,,
+,Иста крв,Same blood,Phrase,,
+,Истера из куле,Drove from tower,Martyrdom Verb,,
+,Истерати из двора,To drive from the palace,Verb,,
+,Истерати из двора,To drive from court,Phrase,,
+,Истерати из двора,To drive from court,Verb,,
+,Истећи година,To pass year,Temporal Verb,,
+,Истећи млеко,To flow milk,Miracle Phrase,,
+,Исти језик,Same language,Phrase,,
+,Исти онај,Same One,Theological,,
+,Исти родитељи,Same parents,Phrase,,
+,Исти такав,Just like that,Phrase,,
+,Истина без мита,Truth without deceit,Phrase,,
+,Истина небесна,Heavenly truth,Theological,,
+,Истина откривена,Truth revealed,Theological Phrase,,
+,Истина спасоносна,Saving truth,Theological,,
+,Истина у Бога и од Бога,Truth in God and from God,Theological Phrase,,
+,Истинита пророчанства,True prophecies,Biblical Phrase,,
+,Истинити одговор,True answer,Phrase,,
+,Истинитост речи,Truth of words,Phrase,,
+,Истинитост речи,Truth of words,Phrase,,
+,Истину изусти,To speak truth,Verb,,
+,Истицати се,To stand out,Verb,,
+,Истјазаван,Interrogated,Martyrdom Verb,,
+,Истјазаван,Interrogated,Martyrdom Verb,,
+,Истјазавани на разне начине,Interrogated in various ways,Martyrdom Phrase,,
+,Истјазање,Interrogation,Phrase,,
+,Истјазање,Interrogation,Legal,,
+,Исто огњиште,Same hearth,Phrase,,
+,Истовремено,Simultaneously,Adverb,,
+,Историја каже,History tells,Phrase,,
+,Истрајати у вери,To persevere in faith,Spiritual Verb,,
+,Исушен и ублеђен,Dried up and pale,Phrase,,
+,Исход Светога Духа (и од Сина),Procession of the Holy Spirit (from the Son also),Theological,,
+,Исцелења болних,Healings of the sick,Phrase,,
+,Исцелити,"To heal, to cure",Spiritual Verb,,
+,Исцелити од слепила,To heal of blindness,Miracle Verb,,
+,Исцељење,Healing,Miracle,,
+,Исцељење примити,To receive healing,Miracle Verb,,
+,Исцељивао људе од болести,Healed people from diseases,Miracle Phrase,,
+,Ићи по џамијама,To go about the mosques,Phrase,,
+,Івер / Иверски,Iveron,Geographical,,
+,Ја сам Божји,I am God's,Biblical Phrase,,
+,Ја сам с тобом,I am with thee,Biblical Phrase,,
+,Јави се у визији,Appeared in vision,Miracle Phrase,,
+,Јавити где се налази,To reveal where is located,Verb,,
+,Јавити се,"To appear, to manifest",Verb,,
+,Јавити се,To appear,Miracle Verb,,
+,Јавити се на сну,To appear in dream,Miracle Phrase,,
+,Јавити се у гробу,To appear in the tomb,Phrase,,
+,Јавити се цару,To appear before emperor,Verb,,
+,Јавише истину вере Христове,Declared truth of Christian Faith,Spiritual Phrase,,
+,Јављала се,Has appeared,Miracle Verb,,
+,Јављао се многима,Appeared to many,Miracle Phrase,,
+,Јављати се наизменично,To appear in turn,Verb,,
+,Јављати се у тамници,To appear in prison,Angelic Phrase,,
+,Јављена преславно,Manifested gloriously,Miracle Phrase,,
+,Јавна жена,Public woman,Phrase,,
+,Јавно проповедати,To preach openly,Spiritual Verb,,
+,Јаја,Eggs,Phrase,,
+,Јајета,Eggs (alternative form),Phrase,,
+,Јака вера,Strong faith,Spiritual,,
+,Јака вера,Strong faith,Spiritual,,
+,Јаков Отшелник,James the Hermit,Saint Name,,
+,Јаков Персијанац,James the Persian,Saint Name,,
+,Јама лавовска,Lions' den,Biblical,,
+,Јаму не знам,Know not den,Biblical Quote,,
+,Јарост,"Fury, rage",Phrase,,
+,Јарост,Fury,Phrase,,
+,Јасније од сунца,More brightly than sun,Miracle Phrase,,
+,Јасно за сваког нормалног човека,Clear to every normal person,Phrase,,
+,Јасно откровење,Clear revelation,Theological Phrase,,
+,Јасно проницати,To see clearly,Spiritual Verb,,
+,Јасно сазнање,Clear knowledge,Phrase,,
+,Јача од огња,Stronger than fire,Hagiographic Phrase,,
+,Јача спона,Stronger bond,Phrase,,
+,Јачање вере,Strengthening of faith,Spiritual Phrase,,
+,Јаче него језик,More strongly than language,Phrase,,
+,Јаче него крв,More strongly than blood,Phrase,,
+,Јачи од смрти,Stronger than death,Theological,,
+,Јачи од тела,Stronger than body,Phrase,,
+,Јачи у мудрости,Stronger in wisdom,Phrase,,
+,Јачим везама,By stronger bonds,Phrase,,
+,Јачим гласом,Louder voice,Phrase,,
+,Јеванђелист,Evangelist,Saint Title,,
+,Јеванђелисти,Gospel writers,Biblical,,
+,Јевреји,Jews,Theological,,
+,Јеврејски језик,Hebrew language,Phrase,,
+,Јеврејство,Judaism,Theological,,
+,Јевсевија,Eusebeia,Personal Name,,
+,Јевсевије,Eusebius,Personal Name,,
+,Јевстатије,Eustathius,Saint Name,,
+,Јегудил,Jehudiel,Archangel Name,,
+,Један Бог и Отац свију,One God and Father of all,Theological,,
+,Један Господ,One Lord,Theological,,
+,Један за другим,One after another,Temporal Phrase,,
+,Један из тринаест отаца сиријских,One of Thirteen Syrian Fathers,Hagiographic Phrase,,
+,Један исти,One and same,Theological Phrase,,
+,Један од стражара,One of guards,Phrase,,
+,Један таланат,One talent,Biblical,,
+,Једанпут годишње,Once a year,Temporal Phrase,,
+,Једе од дрвета,Ate from tree,Biblical Phrase,,
+,Једина жеља,Only desire,Phrase,,
+,Једини вечити,Only eternal,Theological,,
+,Једини и добри Бог,One and good God,Theological,,
+,Једини и свети,Only and holy One,Theological,,
+,Једини истинити Бог,Only true God,Theological,,
+,Једини мир,One peace,Theological,,
+,Једини прави одговор,Only right answer,Phrase,,
+,Једини прави пут,One true path,Spiritual,,
+,Једини Творче,Only Creator,Theological Title,,
+,Једино од дрвета,Only from tree,Biblical Phrase,,
+,Јединог истинитог Бога Творца,One true God Creator,Theological,,
+,Јединородни Сине и Слове Божји,Only-begotten Son and Word of God,Liturgical Hymn,,
+,Јединосуштна,Consubstantial,Theological,,
+,Јединствена бићем,One in essence,Theological,,
+,Јединство вере,Unity of faith,Theological,,
+,Јединство Духа,Unity of Spirit,Theological,,
+,Јединство мужа и жене,Unity of husband and wife,Phrase,,
+,Једна вера,One faith,Theological,,
+,Једна вјера,One faith,Theological,,
+,Једна времена,One temporal,Theological,,
+,Једна иста крв,One and same blood,Theological,,
+,Једна иста уста,One and same lips,Phrase,,
+,Једна једина шака крви,One single fist of blood,Phrase,,
+,Једна рука,One hand,Phrase,,
+,Једне апостоле,Some apostles,Ecclesiological,,
+,Једне благовеснике,Some evangelists,Ecclesiological,,
+,Једне пастире и учитеље,Some pastors and teachers,Ecclesiological,,
+,Једне пророке,Some prophets,Ecclesiological,,
+,Једни другима,One another,Phrase,,
+,Једно вече,One evening,Temporal Phrase,,
+,Једно и исто звање,One and same calling,Ecclesiological,,
+,Једно исто желети,To desire one same thing,Phrase,,
+,Једно исто мислити,To think one same thing,Phrase,,
+,Једно исто хтети,To will one same thing,Phrase,,
+,Једно крштење,One baptism,Theological,,
+,Једно суштаство,One essence,Theological,,
+,"Једно тијело, један дух","One body, one spirit",Theological,,
+,Једновремено,Simultaneously,Adverb,,
+,Једнога дана,One day,Temporal Phrase,,
+,Једногласно,With one voice,Phrase,,
+,Једногласност,Harmony,Phrase,,
+,Једнодушност,Unanimity,Phrase,,
+,Једнолике душе,Uniform souls,Spiritual Phrase,,
+,Једном удаљи се,Once went away,Phrase,,
+,Једнорог,Unicorn,Phrase,,
+,Једнорог представља смрт,Unicorn represents death,Phrase,,
+,Једрене,Adrianople,Geographical,,
+,Језеро Галилејско,Sea of Galilee,Geographical,,
+,Јелини,Hellenes,Theological,,
+,Јелинско гробље,Pagan cemetery,Phrase,,
+,Јелинство,Hellenism,Theological,,
+,Јело и пиће,Food and drink,Phrase,,
+,Јер ће бити помиловани,For they shall obtain mercy,Biblical Quote,,
+,Јераполj,Hierapolis,Geographical,,
+,Јерарх,Hierarch,Church Title,,
+,Јерархе,Hierarchs,Church Title,,
+,Јеремија,Jeremiah,Biblical Name,,
+,Јеремил,Jeremiel,Archangel Name,,
+,Јерес,Heresy,Theological,,
+,Јерес Варламова,Heresy of Barlaam,Theological,,
+,Јереси,Heresies,Theological,,
+,Јереси истребити,To exterminate heresies,Ecclesiological Verb,,
+,Јеретик Варлам,Heretic Barlaam,Personal Name,,
+,Јеретик/јеретици,Heretic/heretics,Theological,,
+,Јермени,Armenians,Phrase,,
+,Јерменија,Armenia,Geographical,,
+,Јерменски,Armenian,Geographical Adjective,,
+,Јерменски језик,Armenian language,Phrase,,
+,Јерусалим,Jerusalem,Geographical,,
+,Јеси ли умро,Have you died,Phrase,,
+,Јесте живот,Is life,Phrase,,
+,Јетак,Wicked,Adjective,,
+,Јн.,John,Biblical Book,,
+,Јоасаф,Joasaph,Saint Name,,
+,Јоасаф,Joasaph,Personal Name,,
+,Јоасаф царевић,Prince Joasaph,Saint Name,,
+,Јов.,John,Biblical Book,,
+,"Јов. 1, 36",John 1:36,Biblical Reference,,
+,Јован Богослов,John the Theologian,Saint Name,,
+,Јован Богослов,John the Theologian,Saint Name,,
+,Јован Дамаскин,John of Damascus,Saint Name,,
+,Јован не креће,John moved not,Phrase,,
+,Јован Ћутљиви,John the Silent,Saint Name,,
+,Јоване песниче,John hymnographer,Hagiographic Title,,
+,Јордан (река),Jordan (River),Geographical,,
+,Јосија,Josiah,Biblical Name,,
+,Јосиф (презвитер),Joseph (presbyter),Personal Name,,
+,Још боље,Even better,Phrase,,
+,Још вреднији,Yet more diligent,Phrase,,
+,Још говорио,Also used to say,Phrase,,
+,Још жешће,Even more fiercely,Phrase,,
+,Још за време молитве,While still in prayer,Prayer Phrase,,
+,Још једанпут,Once again,Temporal Phrase,,
+,Још једном,Once more,Temporal Phrase,,
+,Још нису били дорасли,Were not yet mature,Phrase,,
+,Још одојче,Still nursing infant,Phrase,,
+,Још се више утврди,Was strengthened all more,Phrase,,
+,Још чудесније,Even more wondrous,Phrase,,
+,Јулијан (цар одступник),Julian (the apostate emperor),Saint Name,,
+,Јулијан Одступник,Julian the Apostate,Personal Name,,
+,Јулијанија,Juliana,Personal Name,,
+,Јунак православни,Orthodox champion,Hagiographic Phrase,,
+,Јунак Христов,Christ's warrior,Hagiographic Title,,
+,Јуноша светли,Radiant youth,Phrase,,
+,Јустинијан,Justinian,Personal Name,,
+,"Јуче, данас и сутра","Yesterday, today, and tomorrow",Temporal Phrase,,
+,К духовноме свету,Toward spiritual world,Theological Phrase,,
+,К ономе старцу,To that elder,Phrase,,
+,К светлости и спасењу,To light and salvation,Spiritual Phrase,,
+,Ка свету ангелскоме,Toward angelic world,Theological Phrase,,
+,Кавала,Kavala,Geographical,,
+,Кад год га питао,Whenever anyone asked,Temporal Phrase,,
+,Кад год се приближим,Whenever I approach,Temporal Phrase,,
+,Кад делујемо по Христу,When we act according to Christ,Spiritual Phrase,,
+,Кад изгубе врлину,When lose virtue,Spiritual Phrase,,
+,Кад је дошао Нови Завет,When New Covenant had come,Biblical Phrase,,
+,Кад љубимо Христа,When we love Christ,Spiritual Phrase,,
+,Кад мислимо Христа,When we think Christ,Spiritual Phrase,,
+,Кад му се моле,When they pray to him,Phrase,,
+,Кад не би било,If there were no,Phrase,,
+,Кад осироте,When became impoverished,Phrase,,
+,Кад почне пије,When begins to drink,Phrase,,
+,Кад пред цара стаде,When stood before emperor,Phrase,,
+,Кад сагреши,When sinned,Verb,,
+,Када дођоше да га сахране,When came to bury him,Burial Phrase,,
+,Када ишчезе,When disappeared,Phrase,,
+,Када је размотрио,When had considered,Verb,,
+,Када навалише,When pressed,Verb,,
+,Када се залије,When watered,Phrase,,
+,Када се поново јави,When appeared again,Phrase,,
+,Када умре велики светитељ,When great saint died,Death Phrase,,
+,Када хтеде рукоположити,When wanted to ordain,Ecclesiastical Phrase,,
+,Кадила,Incense,Liturgical,,
+,Кажњени прогонством,Punished with exile,Legal Phrase,,
+,Казати,To tell,Verb,,
+,Казати тајну,To tell secret,Phrase,,
+,Казна Божја,God's punishment,Theological,,
+,Казна га није снашла,No punishment befell him,Phrase,,
+,Казна и награда,Punishment and reward,Theological,,
+,Казнити неверне,To punish the unfaithful,Phrase,,
+,Казну над Газом,Punishment upon Gaza,Biblical Phrase,,
+,Казује пре свега,Tells before all else,Phrase,,
+,Казује се зрелим људима,Is told to mature people,Phrase,,
+,Каин братоубица,Cain the fratricide,Biblical,,
+,Кајте се свакога часа,Repent every hour,Biblical Quote,,
+,Какав изгледаше,What looked like,Phrase,,
+,Какав почетак такав свршетак,As beginning so ending,Phrase,,
+,Какве везе везују,What bonds bind,Phrase,,
+,Каквом лажју,With some lie,Phrase,,
+,Каквоћа,Quality,Phrase,,
+,Како ангели поје,How angels sing,Angelic Phrase,,
+,Како би тужно лутао,How sadly would wander,Phrase,,
+,Како верни треба да расту,How faithful should grow,Theological Phrase,,
+,Како виде у визији,As had seen in vision,Miracle Phrase,,
+,Како га срести,How shall we meet it,Liturgical Question,,
+,Како душа раставља се од тела,How soul separates from body,Eschatological Phrase,,
+,Како за живота тако по смрти,Both during life and after death,Hagiographic Phrase,,
+,Како и колико,As and how much,Phrase,,
+,Како је збијена,How condensed,Phrase,,
+,Како је све добро,How all is good,Theological Phrase,,
+,Како не би покајања,Since there was no repentance,Phrase,,
+,Како оживе,How didst revive,Question,,
+,Како приличи,Fittingly,Adverb,,
+,Како су могли изаћи,How could come forth,Phrase,,
+,Како ће век проживети,How would live out age,Phrase,,
+,Калеме кропећи,Sprinkling grafts,Verb,,
+,Калимах,Callimachus,Saint Name,,
+,Калиник,Callinicus,Saint Name,,
+,Калист,Callistus,Saint Name,,
+,Калиф Абдалмелех,Caliph Abd al-Malik,Personal Name,,
+,Калиф се раскаја,Caliph repented,Phrase,,
+,Кало-Јован,Kalo-John,Personal Name,,
+,Камен крајеугаони,Cornerstone,Theological,,
+,Камен о врату,Stone around neck,Martyrdom Phrase,,
+,Камен од угла,Corner stone,Theological,,
+,Камење,Stones,Phrase,,
+,Камење и трње,Stones and thorns,Martyrdom,,
+,Кан татарски,Tatar khan,Historical Title,,
+,Канон 35,Canon 35,Historical,,
+,Канон пасхални,Paschal Canon,Liturgical,,
+,Канонски,Canonical,Ecclesiastical,,
+,Као бедни монах,As poor monk,Monastic Phrase,,
+,Као безумноме,As madman,Phrase,,
+,Као благо,Like treasure,Phrase,,
+,Као богослов,As theologian,Hagiographic Title,,
+,Као великаш,As nobleman,Historical Title,,
+,Као ветар прође,Like wind passed,Phrase,,
+,Као војник истине Христове,As soldier of Christ's truth,Hagiographic Phrase,,
+,Као вртар,Like gardener,Phrase,,
+,Као гвожђем урезан,As if carved with iron,Miracle Phrase,,
+,Као година години,As year follows year,Phrase,,
+,Као громом поражени,As though struck by lightning,Idiom,,
+,Као да га ту не бејаше,As if he were not there,Phrase,,
+,Као да је подједнако произашло,As if has proceeded equally,Phrase,,
+,Као да се каје,As if to repent,Phrase,,
+,Као дану ноћ,As night follows day,Phrase,,
+,Као ђакон,As deacon,Ecclesiological,,
+,Као жив,As if alive,Miracle Phrase,,
+,Као заморени путници,Like weary travelers,Phrase,,
+,Као и с вама,As with you,Quote,,
+,Као једна душа,As one soul,Theological Phrase,,
+,Као млађи,As the younger,Phrase,,
+,Као негда,Just as once,Temporal Phrase,,
+,Као негда верног Јова,As once faithful Job,Biblical Phrase,,
+,Као негда Навуходоносор,As once Nebuchadnezzar,Biblical Phrase,,
+,Као непознати,As strangers,Phrase,,
+,Као од кипариса,Like cypress,Phrase,,
+,Као орли на стрви,Like eagles upon carrion,Phrase,,
+,Као песник,As hymnographer,Hagiographic Title,,
+,Као победник,Like victor,Phrase,,
+,Као проповедник,As preacher,Ecclesiological,,
+,Као савијено платно,Like folded cloth,Phrase,,
+,Као сасуд Свој,As His vessel,Spiritual Phrase,,
+,Као сунце сјајно,Shining like sun,Miracle Phrase,,
+,Као у манастиру,As in monastery,Monastic Phrase,,
+,Као угарак,Like charcoal,Phrase,,
+,Као хришћанског центра,As Christian center,Ecclesiological Phrase,,
+,Као што Мојсеј описује,As Moses describes,Biblical Phrase,,
+,Кападокија,Cappadocia,Geographical,,
+,Кападокија / кападокијској,Cappadocia / in Cappadocia,Geographical,,
+,Капернаум,Capernaum,Geographical,,
+,Кастрихије,Castryches,Saint Name,,
+,Катерина Мудра,Catherine the Wise,Hagiographic Title,,
+,Катуанија,Cotyaeum,Geographical,,
+,Кварт,Quartus,Saint Name,,
+,Квасити,To moisten,Verb,,
+,Кела,Kela,Geographical,,
+,Келија,Cell (monastic),Monastic,,
+,Келија Ксантопул,Cell of Xanthopoul,Geographical,,
+,Келти,Celts,Historical,,
+,Кесарија Кападокијска,Caesarea in Cappadocia,Geographical,,
+,Кесарија Палестинска,Palestinian Caesarea,Geographical,,
+,Кизик,Cyzicus,Geographical,,
+,Кијев,Kiev,Geographical,,
+,Кијев,Kiev,Geographical,,
+,Кијев,Kiev,Geographical,,
+,Кикилија,Cecilia,Saint Name,,
+,Кип од камена,Statue of stone,Phrase,,
+,Кип човечји,Human statue,Phrase,,
+,Кир,Cyrrhus,Geographical,,
+,Кир,Cyrus,Biblical Name,,
+,Кирил и Методије,Cyril and Methodius,Saint Names,,
+,Клавдијан,Claudian,Saint Name,,
+,Кладе,Stocks,Martyrdom,,
+,Клањање мртвим тварима,Worshiping dead creatures,Theological Phrase,,
+,Клањати се Ваплоћеном Слову,To worship the Incarnate Word,Theological Phrase,,
+,Клањати се идолима,To worship idols,Theological Phrase,,
+,Клањати се идолима,To bow to idols,Phrase,,
+,Клапи,Klapi,Geographical,,
+,Клеон,Cleon,Personal Name,,
+,Клетва те пратити,Curse follow thee,Phrase,,
+,Клетва те срести,Curse meet thee,Phrase,,
+,Кликуј Израиљу,Shout O Israel,Biblical Quote,,
+,Климент еп. Римски,"Clement, Bishop of Rome",Saint Name,,
+,Клинци гвоздени,Iron nails,Martyrdom,,
+,Клирици,Clerics,Church Title,,
+,Клит,Cletus,Personal Name,,
+,Кључ пасхални,Paschal Key,Liturgical,,
+,Кнез,Prince,Title,,
+,Кнез,Prince,Title,,
+,Кнез Аквилин,Prince Aquilinus,Personal Name,,
+,Кнез Василије Васиљевич,Prince Basil Vasilievich,Personal Name,,
+,Кнез жречевски,Prince of the priests,Phrase,,
+,Кнез Јарослав,Prince Yaroslav,Personal Name,,
+,Кнез Лазар,Prince Lazar,Personal Name,,
+,Кнез народу,Prince to people,Title,,
+,Кнез Нумеријан,Prince Numerian,Personal Name,,
+,Кнез побожни,Pious prince,Hagiographic Title,,
+,Кнезови лавови који ричу,Princes are roaring lions,Biblical Quote,,
+,Књаз власти ваздушне,Prince of the power of the air,Demonic,,
+,Књига Живота,Book of Life,Theological,,
+,Књиге Светога Писма,Books of Holy Scripture,Biblical Phrase,,
+,Ко је дошао,Who has come,Phrase,,
+,Ко је могао боље,Who could better,Question,,
+,Ко послушност врши верно,Who practices obedience faithfully,Spiritual Phrase,,
+,Ко ризу раздра,Who has torn robe,Phrase,,
+,Ко се понижава,He that humbles himself,Biblical,,
+,Ко се узноси,Whosoever exalts himself,Biblical,,
+,Ковачи,Blacksmiths,Profession,,
+,Ковчег,Coffin,Phrase,,
+,Код Божјег престола,At God's throne,Theological Phrase,,
+,Код Ефеса,Near Ephesus,Geographical Phrase,,
+,Код Јерусалима,Near Jerusalem,Geographical Phrase,,
+,Код калифа,To caliph,Phrase,,
+,Код кога беше у служби,Under whom had been in service,Phrase,,
+,Код цара Абисинског,With Abyssinian emperor,Historical Phrase,,
+,Кожани мехови,Leather sacks,Phrase,,
+,Која се од Бога даје,Which is given from God,Theological Phrase,,
+,Које некад учини,Which once had done,Phrase,,
+,Које се може носити,Which can be carried,Phrase,,
+,Који би однесен,Who was caught up,Biblical Phrase,,
+,Који га везују с главом,That bind to head,Phrase,,
+,Који је преогроман,Which is enormous,Phrase,,
+,Који љубе добро,Who love good,Spiritual Phrase,,
+,Који многима причини исцељење,Which brought healing to many,Miracle Phrase,,
+,Који написаше јеванђеља,Who wrote Gospels,Biblical Phrase,,
+,Који нас из љубави створи,Who created us out of love,Theological Phrase,,
+,Који њим управља,Who governs it,Theological Phrase,,
+,Који први позна,Who first came to know,Phrase,,
+,Који све види,Who sees all,Theological Phrase,,
+,Који се даје,Being given,Phrase,,
+,Који су уз цара,Who were with emperor,Phrase,,
+,Којом би оженила,With whom would marry,Phrase,,
+,Коју љуља и заноси,Tossed to and fro and carried about,Biblical Phrase,,
+,Коју си платио крвљу,Which Thou hast purchased with blood,Theological Phrase,,
+,Кокош,Chicken,Phrase,,
+,Колебање,Fluctuation,Phrase,,
+,Колевка вере,Cradle of Faith,Phrase,,
+,Колико толико,Somehow,Phrase,,
+,Колов,Kolov / the Short,Descriptive,,
+,"Колош. 1,16",Col. 1:16,Biblical Reference,,
+,Колсонија,Colsonia,Geographical,,
+,Колсонијски,Of Colsonia,Geographical,,
+,Коман,Comana,Geographical,,
+,Команa,Comana,Geographical,,
+,Конак,Night lodging,Phrase,,
+,Конак,Lodging,Phrase,,
+,Конопац,Rope,Phrase,,
+,Константин,Constantine,Personal Name,,
+,Константин,Constantine,Personal Name,,
+,Констанције,Constantius,Personal Name,,
+,Консте,Constus,Personal Name,,
+,Копати,To dig,Verb,,
+,Копље,Spear,Angelic Symbol,,
+,Копроним,Copronymus,Personal Name,,
+,Копронимови људи,Copronymus's men,Historical Phrase,,
+,Коринт,Corinth,Geographical,,
+,Корисне поуке,Profitable instructions,Phrase,,
+,Корисне су свима,Beneficial to all,Phrase,,
+,Корисно за спасење,Beneficial for salvation,Spiritual Phrase,,
+,Корист цркве,Benefit of Church,Ecclesiastical,,
+,Користити људима,To benefit people,Spiritual Verb,,
+,Корити и грдити,To scold and revile,Verb,,
+,Костурска епархија,Diocese of Kastoria,Geographical,,
+,Котао,Cauldron,Phrase,,
+,Котарице,Baskets,Phrase,,
+,Котарице,Baskets,Phrase,,
+,Котломушки манастир,Koutloumousiou Monastery,Geographical,,
+,Крава риче,Cow was lowing,Phrase,,
+,Крај VI века,End of sixth century,Temporal Phrase,,
+,Крај Цара стати,To stand beside King,Theological Phrase,,
+,Крајња последица,Ultimate consequence,Phrase,,
+,Крају свога века,End of his age,Death Phrase,,
+,Краљ Драгутин,King Dragutin,Personal Name,,
+,Краљ Милутин,King Milutin,Personal Name,,
+,Краљевска величина,Royal majesty,Phrase,,
+,Красна ликом,Beautiful in appearance,Hagiographic Phrase,,
+,Красна поука,Beautiful instruction,Phrase,,
+,Красна црква,Beautiful church,Phrase,,
+,Красне девице,Beautiful maidens,Phrase,,
+,Красота ангелска,Angelic beauty,Angelic Phrase,,
+,Красота душе,Beauty of soul,Hagiographic Phrase,,
+,Красота неизречена,Beauty ineffable,Angelic Phrase,,
+,Красота тела,Beauty of body,Phrase,,
+,Крв животињска,Animal blood,Theological,,
+,Крв истицаше,Blood flowed,Martyrdom Phrase,,
+,Крв многа истече,Much blood flowed,Martyrdom Phrase,,
+,Крв Христова пречиста,Most pure Blood of Christ,Theological,,
+,Крвљу витеза,By blood of knights,Martyrdom Phrase,,
+,Крвљу и ранама,With blood and wounds,Martyrdom Phrase,,
+,Крвљу светом,By holy Blood,Theological,,
+,Крвна браћа,Blood brothers,Theological Phrase,,
+,Крвници,Murderers,Phrase,,
+,Крену,Departed,Verb,,
+,Кренути се,To set out,Verb,,
+,Крепимо се љубављу,Be strengthened by love,Spiritual Verb,,
+,Крете на пут,Set out on road,Verb,,
+,Крете на пут,Set out on road,Verb,,
+,Креће се правилно к Богу,Moves rightly toward God,Spiritual Phrase,,
+,Кривити веру,To distort faith,Spiritual Verb,,
+,Криво учење,False teaching,Theological,,
+,Кријати се,To hide oneself,Verb,,
+,Крије се,Is hidden,Verb,,
+,Крије се под бесловесну природу,Hides under irrational nature,Spiritual Phrase,,
+,Крин,Lily,Phrase,,
+,Крискент,Crescentius,Personal Name,,
+,Крит,Crete,Geographical,,
+,Крманош,Helmsman,Hagiographic,,
+,Кроз векове,Through centuries,Temporal Phrase,,
+,Кроз векове бацати,Through ages cast,Phrase,,
+,Кроз Господа Исуса Христа,Through Lord Jesus Christ,Prayer Phrase,,
+,Кроз дуго време,For long time,Temporal Phrase,,
+,Кроз мозак и нерве,Through brain and nerves,Phrase,,
+,Кроз патње и сузе,Through sufferings and tears,Hagiographic Phrase,,
+,Кроз савест,Through conscience,Spiritual Phrase,,
+,Кроз седам прстију,Through seven fingers,Martyrdom Phrase,,
+,Кроз ум и перо,Through mind and pen,Phrase,,
+,Кроз уста пророка,Through mouth of prophet,Biblical Phrase,,
+,Кротак и умилан,Meek and gentle,Hagiographic Phrase,,
+,Кротак побожан и благ,Meek pious and gentle,Hagiographic Phrase,,
+,Кротко,Meekly,Adverb,,
+,Кротост,"Meekness, gentleness",Virtue,,
+,Кротост,Meekness,Virtue,,
+,Кротост,Meekness,Virtue,,
+,Крсно знако,Sign of the Cross,Liturgical,,
+,Крсно знамење,Sign of Cross,Liturgical,,
+,Крст се удуби,Cross was impressed,Miracle Phrase,,
+,Крст црвени,Red cross,Angelic Symbol,,
+,Крст чека,Cross awaited,Martyrdom Phrase,,
+,Крсти се,Was baptized,Verb,,
+,Крсти се,Was baptized,Spiritual Verb,,
+,Крстити на хиљаде,To baptize by thousands,Ecclesiological Verb,,
+,Крстити се,To be baptized,Life Event Verb,,
+,Крстити се,To cross oneself,Liturgical Verb,,
+,Крстити сина,To baptize son,Verb,,
+,Крстов дан,Day of the Cross,Feast,,
+,Крстом крштаваше,Baptized with cross,Liturgical Verb,,
+,Круна,Crown,Phrase,,
+,Круна злата,Golden crown,Angelic Symbol,,
+,Крупан,Large,Adjective,,
+,Ксант,Xanthius,Saint Name,,
+,Ксантопулос,Xanthopulos,Personal Name,,
+,Кћери Јерусалимска,Daughter of Jerusalem,Biblical,,
+,Кћери Сионска,Daughter of Zion,Biblical,,
+,Кћери царева,King's daughter,Theotokos Title,,
+,Куд и камо пре,How much more so,Phrase,,
+,Кукуз,Cucusus,Geographical,,
+,Кукус,Cucusus,Geographical,,
+,Кула висока,High tower,Phrase,,
+,Купатило,Bathhouse,Phrase,,
+,Купи и плати без речи,Bought and paid without word,Phrase,,
+,Купјатицка икона,Icon of Kupyatichi,Liturgical,,
+,Кушајући га,Testing him,Monastic Verb,,
+,Лабуд са лековима,Alabaster jar (physician's),Angelic Symbol,,
+,Лав Исаврјанин,Leo the Isaurian,Personal Name,,
+,Лав Исаврјанин,Leo the Isaurian,Personal Name,,
+,Лав се појави,Lion appeared,Miracle Phrase,,
+,Лава,Lavra,Monastic,,
+,Лавови који ричу,Roaring lions,Biblical Phrase,,
+,Лавра св. Атанасија,Lavra of Saint Athanasius,Geographical,,
+,Лађа,Ship,Phrase,,
+,Лаж и мрак,Falsehood and darkness,Theological Phrase,,
+,Лаж идолска,Falsehood of idols,Theological Phrase,,
+,Лажна вера,False faith,Theological,,
+,Лажна молба,False petition,Phrase,,
+,Лажни идоли,False idols,Theological,,
+,Лажни хришћани,False Christians,Ecclesiological,,
+,Лак сан,Light sleep,Phrase,,
+,Лако побеђивао демоне,Easily conquered demons,Miracle Phrase,,
+,Лако се решавати,To easily resolve,Verb,,
+,Лакомислен син,Thoughtless son,Phrase,,
+,Лакомство,Greed,Sin,,
+,Ласкатељ,Flatterer,Phrase,,
+,Ласке,Flattery,Phrase,,
+,Латини,Latins,Historical Denomination,,
+,Леже у манастиру,Lay down in monastery,Death Verb,,
+,Лекар,Physician,Profession,,
+,Лекар бесребреник,Unmercenary Physician,Christ/Theotokos,,
+,Лекарије,Medicines,Phrase,,
+,Лекарска вештина,Art of medicine,Phrase,,
+,Лепо за гледање,Beautiful to behold,Biblical Phrase,,
+,Лепотица жена,Beautiful woman,Phrase,,
+,Лепша од звезда,More beautiful than stars,Hagiographic Phrase,,
+,Лепши од жеља,More beautiful than desires,Phrase,,
+,Леса железна,Iron grate,Martyrdom,,
+,Лесбос,Lesbos,Geographical,,
+,Лествица,The Ladder,Book Title,,
+,Лечити,To heal,Spiritual Verb,,
+,Лечити бесплатно,To heal without charge,Spiritual Verb,,
+,Лечити муке,To heal pains,Miracle Verb,,
+,Лечити од болести,To heal disease,Miracle Verb,,
+,Леш,Corpse,Phrase,,
+,Лешина,Corpse,Phrase,,
+,Ливаније,Libanius,Personal Name,,
+,Лида Палестинска,Lydda in Palestine,Geographical,,
+,Лидија,Lydia,Personal Name,,
+,Лик Пресвете Богородице,Image of the Most Holy Theotokos,Liturgical,,
+,Ликујући,Rejoicing,Verb,,
+,Лин,Linus,Saint Name,,
+,Лин,Linus,Personal Name,,
+,Лиодот,Liodotus,Saint Name,,
+,Лисије,Lycias,Personal Name,,
+,Литија,"Procession, litany",Liturgical,,
+,Литија,Procession,Liturgical,,
+,Литургија,Liturgy,Liturgical,,
+,Лица поцрнеше,Faces blackened,Miracle Phrase,,
+,Лице засија,Face shone,Miracle Phrase,,
+,Лице засија,Face shone,Miracle Phrase,,
+,Лице светло као сунце,Face bright as the sun,Hagiographic Phrase,,
+,Лицемерно претворити се,To pretend hypocritically,Verb,,
+,Личит човек,Handsome man,Phrase,,
+,Лично,Personally,Adverb,,
+,Лично молити,To ask personally,Verb,,
+,Лично разумевање,Personal understanding,Phrase,,
+,Лишће смоквино,Fig leaves,Biblical,,
+,Лишћем смоквиним,With fig leaves,Biblical Phrase,,
+,Логика,Logic,Academic,,
+,Ложити огањ,To kindle fire,Verb,,
+,Лоза истинита,True Vine,Biblical,,
+,Лоза се обрезује,Vine is pruned,Biblical Phrase,,
+,Лонгин,Longinus,Saint Name,,
+,Лонгос,Longos,Geographical,,
+,Лоша грађа,Poor material,Phrase,,
+,Лувигелд,Leovigild,Personal Name,,
+,Луда ћерка,Mad daughter,Phrase,,
+,Луди и мудри цареви,Foolish and wise emperors,Allegorical,,
+,Луди људи,Foolish people,Phrase,,
+,Лудост пред Богом,Foolishness before God,Theological Phrase,,
+,Лукава молба,Cunning petition,Phrase,,
+,Лукаве мисли,Cunning thoughts,Phrase,,
+,Љубав пламена,Flaming love,Spiritual Phrase,,
+,Љубав претежнија од разума,Love that surpasses knowledge,Theological,,
+,Љубав Христова,Love of Christ,Theological,,
+,Љубав хришћанска,Christian love,Theological,,
+,Љубави наша,Our love,Theological,,
+,Љубављу према Христу Господу,With love toward Christ the Lord,Spiritual Phrase,,
+,Љубавници,Lovers,Phrase,,
+,Љубимо љубав,We love love,Spiritual Phrase,,
+,Љубимог учитеља,Beloved teacher,Phrase,,
+,Љубљени Господ,Beloved Lord,Spiritual Title,,
+,Људе знамените,Men distinguished,Phrase,,
+,Људи његовог доба,People of his time,Historical Phrase,,
+,Љута казна,Severe punishment,Phrase,,
+,Љуте истјазања,Cruel interrogations,Martyrdom Phrase,,
+,Љуте муке,Cruel tortures,Martyrdom Phrase,,
+,Љуто гоњење,Fierce persecution,Historical Phrase,,
+,Љуто покајати се,To bitterly repent,Spiritual Verb,,
+,Љуто страдати,To suffer bitterly,Verb,,
+,Љуто урлати,To roar fiercely,Miracle Verb,,
+,Љуто шибана,Fiercely beaten,Martyrdom Phrase,,
+,Ма какав одговор,Any answer,Phrase,,
+,Маврикије,Maurice,Personal Name,,
+,Магида,Magida,Geographical,,
+,Магнезија,Magnesia,Geographical,,
+,Мада беше,Though was,Phrase,,
+,Мађије,Sorcery,Phrase,,
+,Мађије су моје Христос,My sorcery is Christ,Martyrdom Phrase,,
+,Македоније,Macedonius,Personal Name,,
+,Македоније,Macedonius,Personal Name,,
+,Македоније злочестиви,Wicked Macedonius,Personal Name,,
+,Максенције,Maxentius,Personal Name,,
+,Максенције глупи,Foolish Maxentius,Phrase,,
+,Максим,Maximus,Personal Name,,
+,Максим Капсокаливит,Maximus Kapsokalivis,Saint Name,,
+,Максимијан,Maximian,Saint Name,,
+,Максимин,Maximus,Personal Name,,
+,Мала Дева,Small Virgin,Theotokos Title,,
+,Мала деца,Children,Biblical Phrase,,
+,Мала књига,Small book,Phrase,,
+,Малена раста,Small stature,Phrase,,
+,Малена црква,Small church,Phrase,,
+,Мало дете,Little child,Phrase,,
+,Мало значе,Mean little,Phrase,,
+,Мало меда,Little honey,Phrase,,
+,Мало сласти,Little sweetness,Phrase,,
+,Маловерни,Little-faithful,Spiritual,,
+,Маловерство,Little faith,Spiritual,,
+,Маловремени живот,Short-lived life,Theological,,
+,Малодушествовати,To be faint-hearted,Vice,,
+,Малодушност,Faint-heartedness,Vice,,
+,Мамант,Mamas,Saint Name,,
+,Мамити,To entice,Demonic Verb,,
+,Ман. св. Тројице,Monastery of the Holy Trinity,Geographical,,
+,Манaстир св. Саве Освештаног,Monastery of Saint Sabbas the Sanctified,Geographical,,
+,Мана,Manna,Biblical,,
+,Манасија,Manasseh,Biblical Name,,
+,Манастир,Monastery,Monastic,,
+,Манастир Јаска,Jaska monastery,Geographical,,
+,Манастир Родолфија,Rodolphius monastery,Geographical,,
+,Манастир Св. Саве Освештаног,Monastery of Saint Sabas the Sanctified,Geographical,,
+,Манастир св. Тројице,Monastery of the Holy Trinity,Geographical,,
+,Манастир Сведржитеља,Monastery of the All-Sustainer,Geographical,,
+,Манастир Свети Наум,Monastery Saint Nahum,Geographical,,
+,Манастир Светог Саве Освећеног,Monastery of Saint Sabas Sanctified,Geographical,,
+,Манастирска лађица,Monastery boat,Monastic,,
+,Манастирски послушник,Monastic obedientiary,Monastic,,
+,Манета,Manita,Saint Name,,
+,Мање милостив,No less merciful,Hagiographic Phrase,,
+,Мање ће одговарати,Will answer for less,Theological Phrase,,
+,Мањих апостола,Lesser apostles,Ecclesiological,,
+,Мараме,Handkerchiefs,Phrase,,
+,Марија,Mary,Personal Name,,
+,Маријамна,Mariamne,Saint Name,,
+,Марикат (село),Marikata (village),Geographical,,
+,Маркел,Marcellus,Saint Name,,
+,Маркијан и Мартирије,Marcian and Martyrius,Saint Name,,
+,Марсина,Myrtle (tree),Phrase,,
+,Мартензес,Martenses,Military Name,,
+,Мартијан,Martianus,Personal Name,,
+,Мартин,Martin,Personal Name,,
+,Маса народна,Mass of people,Phrase,,
+,Мастридија,Mastridia,Saint Name,,
+,Мат.,Matt.,Biblical Book,,
+,Матеј Јеванђелист,Matthew the Evangelist,Saint Name,,
+,Матер,Mother,Phrase,,
+,Матер и жена,Mother and wife,Phrase,,
+,Матере Ефимије,Mother Euphemia,Phrase,,
+,Материјалне везе,Material bonds,Phrase,,
+,Материјални интереси,Material interests,Phrase,,
+,Мати Божја,Mother of God,Christ/Theotokos,,
+,Маторог,Old man,Phrase,,
+,Матронијан,Matronianus,Personal Name,,
+,Маче,Sword,Martyrdom,,
+,Маче против Персијанаца,Sword against Persians,Angelic Symbol,,
+,Маште,Phantoms,Phrase,,
+,Мегдан,Combat,Phrase,,
+,Медицина,Medicine,Academic,,
+,Међу ангеле,Among angels,Angelic Phrase,,
+,Међу дрвећем,Among trees,Biblical Phrase,,
+,Међу невернима,Among unbelievers,Phrase,,
+,Међу обожаваоцима,Among admirers,Phrase,,
+,Међу овима,Among them,Phrase,,
+,Међу пријатељима,Among friends,Phrase,,
+,Међустење ограде,Middle wall of the fence,Theological Phrase,,
+,Међутим,Meanwhile,Adverb,,
+,Мелетије П.,Meletije P.,Personal Name,,
+,Мелетије патријарх,"Meletius, Patriarch",Personal Name,,
+,Мелитина,Melitene,Geographical,,
+,Менигнос,Menignus,Saint Name,,
+,Мера дара Христова,Measure of Christ's gift,Theological,,
+,Мера узраста,Measure of stature,Biblical Phrase,,
+,Меркурије,Mercurius,Saint Name,,
+,Меропије,Meropius,Personal Name,,
+,Месецослов,Menologion,Liturgical,,
+,Месецу и звездама,Moon and stars,Biblical Phrase,,
+,Месија,Messiah,Theological,,
+,Место Кела,Place of Kela,Geographical,,
+,Место крви,Instead of blood,Miracle Phrase,,
+,Место не распознаваше,Place could not be recognized,Phrase,,
+,Место њега,In his place,Phrase,,
+,Место понижења,Instead of humiliation,Phrase,,
+,Мета,Goal,Phrase,,
+,Мета путовања,Goal of journey,Spiritual Phrase,,
+,Метеж светски,Worldly turmoil,Phrase,,
+,Метнути пред царске двери,To place before the Royal Doors,Liturgical Phrase,,
+,Метнути руке,To lay hands,Liturgical Verb,,
+,Метнути у недра,To place in bosom,Verb,,
+,Метнуше трнов венац,Placed crown of thorns,Martyrdom Phrase,,
+,Методије патријарх Цариградски,Patriarch Methodius of Constantinople,Saint Name,,
+,Метох,Metochion,Monastic,,
+,Мећи на муке,To put to torments,Martyrdom Verb,,
+,Мештани,Inhabitants,Phrase,,
+,Мидија,Media,Geographical,,
+,Милобајни,Most gentle,Adjective,,
+,Миловати не престаје,Never ceases to show mercy,Theological Phrase,,
+,Миловати све,To caress all,Theological Verb,,
+,Милосрдна делатност,Merciful activity,Ecclesiological Phrase,,
+,Милосрђе,Mercy,Virtue,,
+,Милосрђем задиви свет,Amazed world with mercy,Hagiographic Phrase,,
+,Милост,Mercy,Theological,,
+,Милост Божју,God's mercy,Theological,,
+,Милост до смрти прати,Mercy follow unto death,Prayer Phrase,,
+,Милост роду своме проси,Mercy for his people asks,Prayer Phrase,,
+,Милост трајна,Lasting grace,Theological,,
+,Милостива срца,Merciful of heart,Hagiographic Phrase,,
+,Милостиви Бог,Merciful God,Theological,,
+,Милостивог Бог милује,God shows mercy to merciful,Theological Phrase,,
+,Милостиња,Alms,Phrase,,
+,Милутин,Milutin,Personal Name,,
+,Мимо Христа,Apart from Christ,Theological Phrase,,
+,Минска губернија,Minsk province,Geographical,,
+,Мир,Myra,Geographical,,
+,Мир се зацарити,Peace would reign,Phrase,,
+,Мир ти,Peace be to thee,Biblical Quote,,
+,Миран као небо,Peaceful as heaven,Hagiographic Phrase,,
+,Мирис од тамјана,Fragrance of incense,Phrase,,
+,Мириси,Fragrances,Phrase,,
+,Миритрикије,Myritricus,Personal Name,,
+,Мирјанин,Layman,Ecclesiological,,
+,Мирно прећи,To pass peacefully,Death Verb,,
+,Мирно се упокоји,Reposed peacefully,Death Verb,,
+,Миропија,Myropia,Saint Name,,
+,Миротворци,Peacemakers,Virtue,,
+,Мисао о Богу,Thought of God,Spiritual,,
+,Мисионари,Missionaries,Ecclesiological,,
+,Мисир,Egypt,Geographical,,
+,Мисирски,In Egypt,Geographical,,
+,Мислећи,Thinking,Verb,,
+,Мислећи за себе,Thinking to himself,Phrase,,
+,Мисли долазе као ветар,Thoughts come like wind,Phrase,,
+,Мисли људске,Human thoughts,Phrase,,
+,Мислимо истину,We think truth,Spiritual Phrase,,
+,Мислити само на уживања,To think only of pleasures,Phrase,,
+,Мислити што Христос мисли,To think what Christ thinks,Spiritual Phrase,,
+,Митар,Publican,Title,,
+,Митилена,Mytilene,Geographical,,
+,Митрополит Солунски,Metropolitan of Thessalonica,Church Title,,
+,Митрополити Московски,Metropolitans of Moscow,Church Title,,
+,Митрофан,Mitrophan,Saint Name,,
+,Михаил,Michael,Archangel Name,,
+,Михаил јуродиви Клопски,Michael the fool-for-Christ of Klopsk,Saint Name,,
+,Михаил Шишман,Michael Shishman,Personal Name,,
+,Михаило војник,Michael the Soldier,Saint Name,,
+,Мишљу одредити,To determine in thought,Phrase,,
+,Млада срца,Young hearts,Phrase,,
+,Младенац божански,divine Infant,Christ/Theotokos,,
+,Млади Акакије,Young Acacius,Phrase,,
+,Млади син Константин,Young son Constantine,Personal Name,,
+,Младић од 24 године,Young man of twenty-four,Phrase,,
+,Младост,Youth,Phrase,,
+,Младост не пожалити,To spare not one's youth,Hagiographic Phrase,,
+,Млађи брат по оцу,Younger brother by father,Phrase,,
+,Многа добра дела,Many good deeds,Spiritual,,
+,Многе године оста непознат,Many years remained unknown,Hagiographic Phrase,,
+,Многе милионе,Many millions,Phrase,,
+,Многи на смрти,Many at death,Phrase,,
+,Многим благом платим,Pay with much treasure,Biblical Phrase,,
+,Многим сузама,With many tears,Monastic Phrase,,
+,Много ангела,Many angels,Miracle Phrase,,
+,Много гласова,Many voices,Phrase,,
+,Много добра учинити,To do much good,Verb,,
+,Много доцније,Much later,Temporal Phrase,,
+,Много душа,Many souls,Phrase,,
+,Много људи као један човек,Many people as one man,Ecclesiological Phrase,,
+,Много ће се тражити,Much will be required,Biblical Phrase,,
+,Много ученика,Many disciples,Phrase,,
+,Многобројан свет,Numerous people,Phrase,,
+,Многократни одјек,Manifold echo,Phrase,,
+,Многоочити Херувими,Many-eyed Cherubim,Angelic Order,,
+,Многоразлична премудрост,Manifold wisdom,Theological,,
+,Множина као једнина,Multitude as unity,Ecclesiological Phrase,,
+,Множина сродника,Multitude of relatives,Phrase,,
+,Множити се,To multiply,Verb,,
+,Мноштво свештенства,Multitude of clergy,Ecclesiological,,
+,Могла произаћи,Could proceed,Verb,,
+,Може распрострти,Can be spread out,Phrase,,
+,Може чинити и добро и зло,Can do both good and evil,Theological Phrase,,
+,Можеш с ума сићи,Canst lose mind,Phrase,,
+,Молба,Petition,Phrase,,
+,Моли Господа,Pray to Lord,Prayer Quote,,
+,Молитва,Prayer,Spiritual,,
+,Молитве услишује,Hears prayers,Spiritual Verb,,
+,Молитвена самоћа,Prayerful solitude,Monastic,,
+,Молитвом као копљем,By prayer as with a spear,Spiritual Phrase,,
+,Молите се Господу Исусу Христу,Pray to Lord Jesus Christ,Prayer Phrase,,
+,Молити за посредовање,To ask for intercession,Verb,,
+,Молити се,To pray,Spiritual Verb,,
+,Молити се Богу на литији,To pray to God in procession,Liturgical Phrase,,
+,Молити се да спасе,To pray to save,Spiritual Verb,,
+,Молити се са црквом,To pray with Church,Ecclesiological Phrase,,
+,Молчалник,Silent One,Monastic Title,,
+,Мољати се за сина,To pray for son,Phrase,,
+,Мољаше се Богу,Prayed to God,Prayer Phrase,,
+,Монаси отшелници,Hermit monks,Monastic,,
+,Монаси хришћански,Christian monks,Monastic,,
+,Монах Нитријски,Nitrian monk,Monastic Title,,
+,Монах чудни,Wondrous monk,Hagiographic Title,,
+,Монахе и монахиње,Monks and nuns,Monastic,,
+,Монахиње,Nuns,Monastic,,
+,Монаше славни,Glorious monk,Hagiographic Title,,
+,Мора ићи кроз Христа,Must go through Christ,Theological Phrase,,
+,Морални живот,Moral life,Spiritual Phrase,,
+,Морати вратити,Have to bring back,Phrase,,
+,Морати да исуши,Must wither away,Verb,,
+,Морати молити се,Must pray,Spiritual Verb,,
+,Морати се примити,To be obliged to accept,Verb,,
+,Москва,Moscow,Geographical,,
+,Москва,Moscow,Geographical,,
+,Москва,Moscow,Geographical,,
+,Моћан учинити свако добро,Mighty to do every good,Theological Phrase,,
+,Моћан чудотворац,Mighty wonderworker,Hagiographic,,
+,Моћи оценити,Could assess,Verb,,
+,Мошти,Relics,Ecclesiological,,
+,Мошти откривене,Relics were discovered,Miracle Phrase,,
+,Мошти пренете,Relics transferred,Phrase,,
+,Мржња,Hatred,Phrase,,
+,Мрзети на...,"To abhor, to hate",Verb,,
+,Мртав ли си,Art thou dead,Phrase,,
+,Мртве твари,Dead creatures,Theological,,
+,Мртви и неми идоли,Dead and dumb idols,Phrase,,
+,Мртви идоли,Dead idols,Theological Phrase,,
+,Мртвити себе,To mortify oneself,Spiritual Verb,,
+,"Мт 5, 7",Matt. 5:7,Biblical Reference,,
+,Мува,Fly,Phrase,,
+,Мудра умом,Wise in mind,Hagiographic Phrase,,
+,Мудре изреке,Wise sayings,Phrase,,
+,Мудри архијереј,Wise hierarch,Ecclesiological Phrase,,
+,Мудри пак,Wise however,Phrase,,
+,Мудри устројитељ,Wise organizer,Saint Title,,
+,Мудри цареви,Wise emperors,Allegorical,,
+,Мудро зидати,To build wisely,Ecclesiological Verb,,
+,Мудрост божанска,Divine wisdom,Theological,,
+,Мудрост државничка,Wisdom in statecraft,Virtue,,
+,Мудрост Христова,Wisdom which is Christ's,Theological,,
+,Мудрости наша,Our wisdom,Theological,,
+,Муж трулежан,Husband corrupted,Phrase,,
+,Мужу праведноме,For righteous man,Phrase,,
+,Муке Романа,Torments of Romanus,Martyrdom Phrase,,
+,Муке ублажује,Eases sufferings,Miracle Phrase,,
+,Мучен и поруган,Tortured and mocked,Martyrdom Phrase,,
+,Мученик Исидор војник,Martyr Isidore soldier,Saint Name,,
+,Мученик покајани,Penitent martyr,Hagiographic Title,,
+,Мученица Миропија,Martyr Myropia,Saint Name,,
+,Мученичка смрт,Martyric death,Martyrdom,,
+,Мученичка смрт,Martyrdom,Martyrdom,,
+,Мученички пострада,Suffered martyrically,Martyrdom Verb,,
+,Мученички скончати,To end as martyr,Martyrdom Verb,,
+,Мученички чин,Martyr's rank,Hagiographic,,
+,Мученичку смрт прими,Received martyr's death,Martyrdom Phrase,,
+,Мучење,Torture,Martyrdom,,
+,Мучи још љуће,Torture even more cruelly,Martyrdom Phrase,,
+,Мучитељи,Torturers,Martyrdom,,
+,Мучитељи посекоше,Torturers beheaded,Martyrdom Verb,,
+,Мучити и злостављати,To torment and abuse,Verb,,
+,Мучни подвизи,Arduous struggles,Monastic Phrase,,
+,Мушко одело,Men's clothing,Phrase,,
+,На 40 дана,Forty days beforehand,Temporal Phrase,,
+,На велико чудо,To great wonder,Phrase,,
+,На враге урлати,To roar at enemies,Miracle Phrase,,
+,На годину дана,For one year,Temporal Phrase,,
+,На гранама,On branches,Phrase,,
+,На гроб умрлога,To grave of deceased,Death Phrase,,
+,На далек пут,On long journey,Phrase,,
+,На далеко,Far away,Phrase,,
+,На две стотине година,Two hundred years,Temporal Phrase,,
+,На двема рукама,On two hands,Phrase,,
+,На дворовима цара,At courts of emperor,Historical Phrase,,
+,На двору,At court,Historical Phrase,,
+,На двору Теодосија Великог,At court of Theodosius the Great,Historical Phrase,,
+,На дјело службе,For work of ministry,Ecclesiological,,
+,На дну морске воде,On seafloor,Geographical Phrase,,
+,На добро целога тела,For good of whole body,Ecclesiological Phrase,,
+,На добро цркве,For good of Church,Ecclesiological Phrase,,
+,На дуго и на дуго,Far and wide,Phrase,,
+,На земном путовању,On earthly journey,Spiritual Phrase,,
+,На име,Namely,Adverb,,
+,На истоку,In the east,Geographical,,
+,На један столп,To a pillar,Monastic Phrase,,
+,На једанпут,Suddenly,Adverb,,
+,На коју га одређиваше,To which assigned him,Phrase,,
+,На корист једно другоме,For benefit of one another,Phrase,,
+,На крају,In the end,Temporal Phrase,,
+,На крају године,At end of year,Temporal Phrase,,
+,На Крсту Распети,On the Cross Crucified,Theological,,
+,На нарочитом месту,In special place,Phrase,,
+,На њиву његову,To his field,Phrase,,
+,На Охридском језеру,On Lake Ohrid,Geographical,,
+,На очи,Before eyes,Phrase,,
+,На пиру,At feast,Phrase,,
+,На подвиг,For ascetic struggle,Monastic Phrase,,
+,На поду,On floor,Phrase,,
+,На поновно наваљивање,Upon repeated insistence,Phrase,,
+,На првом месту,In first place,Phrase,,
+,На прсима,On chest,Martyrdom Phrase,,
+,На радост,To the joy,Phrase,,
+,На разним местима,In various places,Phrase,,
+,На разним местима,In various places,Phrase,,
+,На самртној постељи,On his deathbed,Hagiographic Phrase,,
+,На сваком месту,In every place,Phrase,,
+,На све начине,In every way,Phrase,,
+,На све стране,In all directions,Phrase,,
+,На седам стотина година,Seven hundred years,Temporal Phrase,,
+,На смрти раставља се,At death separates,Death Phrase,,
+,На стени,On stone,Phrase,,
+,На супрот,In opposition to,Phrase,,
+,На том путовању,On that journey,Phrase,,
+,На утеху,For consolation,Phrase,,
+,На четири стране света,To four corners of world,Geographical Phrase,,
+,На шест стотина година,Six hundred years,Temporal Phrase,,
+,Набрати плодове,To gather fruit,Verb,,
+,Набројати,To enumerate,Verb,,
+,Набројати,To enumerate,Verb,,
+,Навала,Invasion,Historical,,
+,Навалити,To rush,Verb,,
+,Навлачити гнев Божји,To draw wrath of God,Theological Phrase,,
+,Наводити речи,To cite words,Verb,,
+,Навратио молитвом,Turned by prayer,Miracle Verb,,
+,Навршити се три године,To reach age of three years,Temporal Phrase,,
+,Навући гнев,To draw upon oneself wrath,Phrase,,
+,Навуходоносор,Nebuchadnezzar,Biblical Name,,
+,Навуходоносор,Nebuchadnezzar,Biblical Name,,
+,Нагађања философска,Philosophical conjectures,Philosophical,,
+,Наги од дела,Naked of deeds,Spiritual Phrase,,
+,Наговарати,To urge,Verb,,
+,Наговарати на подвојеност,To urge toward division,Ecclesiological Verb,,
+,Нагомилане,Accumulated,Verb,,
+,Нагомилано богатство,Accumulated wealth,Phrase,,
+,Награду од Бога,Reward from God,Spiritual Phrase,,
+,Над варкама,Above deceptions,Spiritual Phrase,,
+,Над главама нашим,Above our heads,Phrase,,
+,Над маловерством,Over little faith,Spiritual Phrase,,
+,Над судбом,On fate,Phrase,,
+,Надахњавати се,To be inspired by,Theological Verb,,
+,Надети име,To give name,Biblical Verb,,
+,Надети имена,To give names,Biblical Verb,,
+,Надживљавати,To outlive,Verb,,
+,Надзорник тамнички,Prison warden,Martyrdom,,
+,Надмеће се,Competed,Verb,,
+,Надмудрити,To outwit,Verb,,
+,Наду,Hope,Virtue,,
+,Надчулан,Supersensory,Philosophical Adjective,,
+,Надчулни предмети,Supersensory things,Philosophical,,
+,Нађоше га где седи,Found him sitting,Phrase,,
+,Наесон,Naeson,Geographical,,
+,Назарет,Nazareth,Geographical,,
+,Назват Ксантопулос,Called Xanthopulos,Phrase,,
+,Назвати свод,To call the firmament,Biblical Verb,,
+,Назива се Свемогућим,Is called Almighty,Theological Phrase,,
+,Називајући по имену,Calling by name,Phrase,,
+,Називати себе,To call oneself,Verb,,
+,Наизменично,Alternately,Adverb,,
+,Наиме,Namely,Adverb,,
+,Наићи на,To come upon,Verb,,
+,Најбољу девојку,Best maiden,Phrase,,
+,Највећа здања,Largest buildings,Phrase,,
+,Највећи тумач,Greatest interpreter,Phrase,,
+,Највећи чудо,Greatest wonder,Phrase,,
+,Највећма љубити,To love most of all,Verb,,
+,Највиша небеса,Highest heavens,Theological,,
+,Најдоња места земље,Lowest parts of earth,Theological,,
+,Најдраже име,Dearest name,Theological,,
+,Наједанпут,Suddenly,Adverb,,
+,Наједанпут,Suddenly,Adverb,,
+,Наједанпут,Suddenly,Adverb,,
+,Наједанпут јави се,Suddenly appeared,Miracle Verb,,
+,Наједанпут оживе,Suddenly revived,Miracle Verb,,
+,Најзад,Finally,Temporal Adverb,,
+,Најзад,Finally,Temporal Adverb,,
+,Најзад и главу,Finally head,Phrase,,
+,Најзад казује,Finally tells,Phrase,,
+,Најзад седми пут,Finally seventh time,Phrase,,
+,Најјаче објављује,Most powerfully manifests,Verb,,
+,Најлепша здања,Most beautiful buildings,Phrase,,
+,Најлепши од најлепших,Most beautiful of the most beautiful,Phrase,,
+,Најмилије тајне,Dearest mysteries,Phrase,,
+,Најмоћнији човек,Most powerful man,Phrase,,
+,Најнеобузданији,Most unrestrained,Phrase,,
+,Најпознатији учитељи,Most renowned teachers,Phrase,,
+,Најпре,First,Temporal Adverb,,
+,Најпре грозно гонио,At first terribly persecuted,Historical Phrase,,
+,Најпре први министар,First prime minister,Historical Title,,
+,Најпре прсте,First fingers,Phrase,,
+,Најпре учеником,At first disciple,Temporal Phrase,,
+,Најређе чудо,Rarest wonder,Phrase,,
+,Најсветије место храма,Holiest place of Temple,Liturgical,,
+,Најсигурније руке,Most secure hands,Theological Phrase,,
+,Најсигурнији пут,Most secure path,Theological Phrase,,
+,Најугледнију девојку,Most distinguished maiden,Phrase,,
+,Најурити по трњу,To drive over thorns,Martyrdom Verb,,
+,Најчистије тело,Purest Body,Ecclesiological,,
+,Наквашено сочиво,Soaked lentils,Ascetic Phrase,,
+,Налазе се у Кијеву,Are in Kiev,Geographical Phrase,,
+,Налазити смисао,To find meaning,Theological Verb,,
+,Нападати на Русију,To attack Russia,Historical Phrase,,
+,Напасти одолети,To overcome temptations,Spiritual Verb,,
+,Написане на двема таблицама,Written on two tablets,Biblical Phrase,,
+,Написао богословска дела,Wrote theological works,Phrase,,
+,Написати Јеванђеље,To write Gospel,Phrase,,
+,Написати писмо,To write letter,Verb,,
+,Напоменути,To mention,Verb,,
+,Напори,Endeavors,Phrase,,
+,Напред иђаху,Went ahead,Verb,,
+,Напунило се буре,Barrel was filled,Miracle Phrase,,
+,Напуњено похотљивошћу,Filled with lustfulness,Spiritual Phrase,,
+,Напусти епископски престо,Left episcopal throne,Ecclesiastical Phrase,,
+,Напустити занимање,To abandon occupation,Verb,,
+,Напустити манастир,To leave monastery,Monastic Verb,,
+,Нараштаји,Generations,Phrase,,
+,Наредба царска,Imperial decree,Historical Phrase,,
+,Нареди,Ordered,Verb,,
+,Нареди земљи,To command the earth,Biblical Verb,,
+,Нареди те се просече,Commanded that be cut,Phrase,,
+,Наређивати,To command,Verb,,
+,Народу руском,For Russian people,Geographical Phrase,,
+,Нарочита дојкиња,Special wet nurse,Phrase,,
+,Нарочити чин,Particular order,Liturgical,,
+,Нарочито знаменито,Particularly notable,Phrase,,
+,Нарочито од демона,Especially from demons,Spiritual Phrase,,
+,Нарочито пак,Especially,Adverb,,
+,Наругали се,Mocked,Verb,,
+,Наругати се,To mock,Verb,,
+,Наругати се,To mock,Verb,,
+,Наругати се,To mock,Verb,,
+,Нас ради,For our sake,Phrase,,
+,Насадити рајски врт,To plant garden,Biblical Verb,,
+,Насадити усред Раја,To plant in midst of Paradise,Biblical Verb,,
+,Насилнички,Oppressive,Biblical Adjective,,
+,Наследити живот вјечни,To inherit eternal life,Biblical Phrase,,
+,Наследити на престолу,To succeed to the throne,Verb,,
+,Наследити престо,To inherit the throne,Verb,,
+,Наследити царство,To inherit kingdom,Theological Verb,,
+,Наследник у игуманству,Successor in abbacy,Monastic,,
+,Наследници,Heirs,Theological,,
+,Наслеђе,Inheritance,Theological,,
+,Наслутити,To surmise,Verb,,
+,Насмејали се,Laughed,Verb,,
+,Настањен,Settled,Adjective,,
+,Натанаил,Nathanael,Saint Name,,
+,Натапати животворношћу,To saturate with life-giving power,Spiritual Verb,,
+,Натоварити,To load,Verb,,
+,Натпис,Inscription,Phrase,,
+,Натуралистичке басне,Naturalistic fables,Theological Phrase,,
+,Наћи и послати,To find and send,Verb,,
+,Наћи одјек,To find echo,Phrase,,
+,Наћи пример,To find example,Phrase,,
+,Наћи се усред,To find oneself in midst,Verb,,
+,Наука догматског карактера,Teaching of a dogmatic character,Theological Phrase,,
+,Наука о смирености,Teaching about meekness,Spiritual,,
+,Наука тајна,Secret teaching,Spiritual Phrase,,
+,Наум,Nahum,Saint Name,,
+,Научен од Духа,Taught by Spirit,Spiritual Phrase,,
+,Научен Св. Писму,Taught Holy Scripture,Phrase,,
+,Научити вери,To teach the faith,Spiritual Verb,,
+,Научити се мудрости,To learn wisdom,Spiritual Verb,,
+,Научити цара,To teach emperor,Verb,,
+,Начала,Principalities,Angelic Order,,
+,Начала,Principalities,Angelic,,
+,Началник,Governor,Title,,
+,Началник Агрипин,Governor Agrippinus,Personal Name,,
+,Началник Мартијан,Governor Martianus,Personal Name,,
+,Начела Православља,Principles of Orthodoxy,Book Title,,
+,Начелник Антиохијски,Governor of Antioch,Title,,
+,Начело различности,Principle of difference,Theological,,
+,Начин да се врати уму,Way to return to senses,Phrase,,
+,Начин приношења,Manner of offering,Phrase,,
+,Не беше их срамота,Were not ashamed,Biblical Phrase,,
+,Не би боље,Could not better,Phrase,,
+,Не би му ништа,Suffered no harm,Phrase,,
+,Не би ни поштеде,There was no mercy either,Phrase,,
+,Не бој се,Fear not,Biblical Phrase,,
+,Не бунцам,I am not raving,Quote,,
+,Не верујем,I do not believe,Phrase,,
+,Не видеше себе нагим,Saw not themselves naked,Biblical Phrase,,
+,Не глођу кости до јутра,Gnaw not bones till morrow,Biblical Quote,,
+,Не давати мира,To give no peace,Phrase,,
+,Не дозвољава,Does not allow,Verb,,
+,Не допусти,Do not allow,Prayer Verb,,
+,Не жељати никако,To wish in no way,Phrase,,
+,Не зна за меру,Knows no measure,Phrase,,
+,Не зна смисао ничему,Knows no meaning in anything,Phrase,,
+,Не знаде,Knew not,Verb,,
+,Не знаде се,Were not known,Verb,,
+,Не знађаху за грех,Did not know sin,Biblical Phrase,,
+,Не знати законе,Not to know laws,Phrase,,
+,Не изражавати,Not to express,Verb,,
+,Не именовати,Not to name,Verb,,
+,Не испитуј сувише,Do not examine too much,Spiritual Phrase,,
+,Не испунити жељу,Not to fulfill desire,Verb,,
+,Не могаше гледати,Could not look,Phrase,,
+,Не могаше излечити,Could not heal,Verb,,
+,Не могоше живи,Could not living,Phrase,,
+,Не може подносити добродетељ,Cannot endure virtue,Spiritual Phrase,,
+,Не може произаћи,Cannot proceed,Theological Verb,,
+,Не може се одвојити,Cannot be separated,Spiritual Phrase,,
+,Не може чинити зло,Cannot do evil,Theological Phrase,,
+,Не моћи подносити,Could not endure,Verb,,
+,Не моћи се догледати,Could no longer be seen,Verb,,
+,Не на пропаст но на спасење,Not unto destruction but unto salvation,Theological Phrase,,
+,Не на срам но на славу,Not unto shame but unto glory,Phrase,,
+,Не надати се,Not to expect,Verb,,
+,Не напоји,Not watered,Verb,,
+,Не обазрети се,To pay no attention,Verb,,
+,Не обзирући се,Without regard,Phrase,,
+,Не одбацити,Do not cast away,Verb,,
+,Не одвајати се,Not to separate,Verb,,
+,Не одене,Not clothed,Verb,,
+,Не оздрави,Not healed,Verb,,
+,Не ослабити,Not to weaken,Verb,,
+,Не особити себе,Not to separate oneself,Ecclesiological Verb,,
+,Не остави без утехе,Did not leave without consolation,Biblical Phrase,,
+,Не остави праведника,Did not leave righteous man,Biblical Phrase,,
+,Не остави стрпљивога слугу,Did not forsake patient servant,Spiritual Phrase,,
+,Не отима се,Did not contend,Verb,,
+,Не погорди срећом,Was not made proud by fortune,Spiritual Verb,,
+,Не погуби,Did not destroy,Biblical Verb,,
+,Не подносити,Not to endure,Verb,,
+,Не покаја се,Did not repent,Spiritual Verb,,
+,Не поклони се идолима,Would not bow down to idols,Biblical Phrase,,
+,Не покори се,Did not submit,Verb,,
+,Не последовати примеру,Not to follow example,Verb,,
+,Не признаје меру,Acknowledges no measure,Phrase,,
+,Не противрече,Do not contradict,Verb,,
+,Не сакрити,Not to hide,Verb,,
+,Не само главар друштва,Not merely chief of society,Phrase,,
+,Не сећа се,Did not remember,Verb,,
+,Не скривати веру,Not to hide faith,Spiritual Verb,,
+,Не смути се,Is not troubled,Spiritual Verb,,
+,Не струну,Did not decay,Miracle Phrase,,
+,Не сумњати,To doubt not,Verb,,
+,Не треба гледати у новац,Should not look at money,Phrase,,
+,Не трпети,Not to endure,Verb,,
+,Не туговати,Not to grieve,Spiritual Verb,,
+,Не тугуј,Grieve not,Quote,,
+,Не умеде одговарати,Could answer nothing,Verb,,
+,Не уморити се,Not to weary,Verb,,
+,Не устраши се сиромаштине,Did not fear poverty,Phrase,,
+,Не усуђивати се,Not to dare,Verb,,
+,Не ухватити,Did not capture,Verb,,
+,Не хотећи згрешити,Not wishing to sin,Spiritual Phrase,,
+,Не хте остати,No longer wished to remain,Phrase,,
+,Не хтети спорити,Not wish to argue,Phrase,,
+,Не царују људи,People do not reign,Phrase,,
+,Небеска обитељ,Heavenly dwelling,Theological,,
+,Небеска откровења,Heavenly revelations,Spiritual Phrase,,
+,Небеска светлост,Heavenly light,Miracle Phrase,,
+,Небеска сила,Heavenly power,Theological Phrase,,
+,Небеска слава,Heavenly glory,Angelic Phrase,,
+,Небеска хијерархија,Heavenly hierarchy,Theological,,
+,Небеска храна,Heavenly food,Theological Phrase,,
+,Небеске висине,Heavenly heights,Theological,,
+,Небеске тајне,Heavenly mysteries,Theological,,
+,Небески и земаљски,Heavenly and earthly,Theological,,
+,Небески предмети,Heavenly things,Theological,,
+,Небески свет,Heavenly world,Theological,,
+,Небески цар,Heavenly King,Theological,,
+,Небеско воинство,Heavenly host,Angelic,,
+,Небеског света,Heavenly world,Theological,,
+,Небесна светлост,Heavenly light,Miracle Phrase,,
+,Небесно царство,Heavenly Kingdom,Theological,,
+,Небо и земља пуни су славе Твоје,Heaven and earth are full of Thy glory,Liturgical Phrase,,
+,Небо и земљу,Heaven and earth,Biblical Quote,,
+,Неверни,Unbelievers,Phrase,,
+,Неверни и нечисти,Unfaithful and impure,Spiritual Phrase,,
+,Неверовање,Unbelief,Spiritual,,
+,Невеста Божја,Bride of God,Theotokos Title,,
+,Невидљиво,Invisibly,Adverb,,
+,Невина крв,Innocent blood,Phrase,,
+,Невини,Innocent,Adjective,,
+,Невини као јагањци,Innocent as lambs,Biblical Phrase,,
+,Невини људи,Innocent people,Phrase,,
+,Невини младенац,Innocent youth,Phrase,,
+,Невини праведници,Innocent righteous ones,Hagiographic Phrase,,
+,Невино створење,Innocent creature,Phrase,,
+,Невину Варвару,Innocent Barbara,Martyrdom Phrase,,
+,Невољнике,Needy,Phrase,,
+,Негдашње благочешће,Piety of old,Phrase,,
+,Негдашњег великаша,Former nobleman,Historical Phrase,,
+,Него се допуњују,But complement each other,Phrase,,
+,Негодовања жене,Displeasure of wife,Phrase,,
+,Недовољност,Insufficiency,Phrase,,
+,Недозвољене телесне везе,Forbidden bodily relations,Phrase,,
+,Недокучни,Unfathomable,Adjective,,
+,Недосежна свеобухватљивост,Unattainable all-embracingness,Theological,,
+,Недостојно,Unworthy,Adjective,,
+,Недоумица,Perplexity,Phrase,,
+,Недуг,"Infirmity, affliction",Phrase,,
+,Нежењен,Unmarried,Adjective,,
+,Незлобив као јагње,Guileless as a lamb,Phrase,,
+,Незнабожаци,Pagans,Theological,,
+,Незнабожачки родитељи,Pagan parents,Phrase,,
+,Незнабожачки свет,Pagan world,Historical Phrase,,
+,Незнабожачки филозоф,Pagan philosopher,Phrase,,
+,Незнабожачко празновање,Pagan festival,Phrase,,
+,Незнабожни родитељи,Pagan parents,Phrase,,
+,Незнабожци,Ungodly men,Phrase,,
+,Незнабошац,"Pagan, unbeliever",Theological,,
+,Незнабошац,Pagan,Phrase,,
+,Незнабоштво,Paganism,Theological,,
+,Незнабошци,Gentiles,Theological,,
+,Незнабошци,Pagans,Theological,,
+,Незнање и окамењеност,Ignorance and hardness,Theological,,
+,Неизлечива болест,Incurable disease,Phrase,,
+,Неисказане ријечи,Unspeakable words,Biblical,,
+,Неисказани укус,Ineffable taste,Theological Phrase,,
+,Неисцрпно богатство,Inexhaustible wealth,Theological,,
+,Нејак у насиљу,Weak in violence,Hagiographic Phrase,,
+,Нек громови грме,Let thunder roar,Phrase,,
+,Нек ме узнесе,May take me up,Prayer Phrase,,
+,Нека затворе уста,Let them close mouths,Phrase,,
+,Нека су близу,Let them be near,Quote,,
+,Некад брзо следује,Sometimes follows swiftly,Temporal Phrase,,
+,Некад споро,Sometimes slowly,Temporal Phrase,,
+,Неки грађанин,Certain citizen,Phrase,,
+,Неко време,For a time,Temporal Phrase,,
+,Неко од јеретика,Someone among heretics,Phrase,,
+,Неколико књига о вери,Several books on faith,Phrase,,
+,Неколико литургија,Several liturgies,Liturgical Phrase,,
+,Нема смрти,There is no death,Spiritual Phrase,,
+,Немаде никога за учитеља,Had no one as teacher,Phrase,,
+,Немати ни хлеба ни крова,To have neither bread nor shelter,Phrase,,
+,Немати своје воље,To have no will of one's own,Spiritual Phrase,,
+,Немогуће је умрети послушноме,Impossible for obedient one to die,Spiritual Phrase,,
+,Неморал,Immorality,Phrase,,
+,Неморално живети,To live immorally,Phrase,,
+,Немоћне силе,Powerless forces,Phrase,,
+,Необавештен отац,Uninformed father,Phrase,,
+,Необичан благоухани мирис,Extraordinary fragrant smell,Miracle Phrase,,
+,Необична лепота,Unusual beauty,Hagiographic Phrase,,
+,Необична светлост,Unusual light,Miracle Phrase,,
+,Необична светлост,Extraordinary light,Miracle Phrase,,
+,Необуздани великаши,Unrestrained nobles,Historical,,
+,Неодољива спона,Irresistible bond,Phrase,,
+,Неодрасла деца,Young children,Phrase,,
+,Неокесарија,Neocaesarea,Geographical,,
+,Неописана љубав,Love indescribable,Theological,,
+,Неопходно,Necessary,Adjective,,
+,Неосетљив,Insensitive,Adjective,,
+,Неосетно,Imperceptibly,Adverb,,
+,Неоткривено,Unrevealed,Theological,,
+,Неотпали,Who had not fallen,Angelic,,
+,Неофит,Neophyte,Personal Name,,
+,Неповређен,Unharmed,Adjective,,
+,Неповређен,Unharmed,Adjective,,
+,Неподељена љубав,Undivided love,Spiritual,,
+,Непознате ангелима,Unknown to the angels,Phrase,,
+,Непокајани грешници,Unrepentant sinners,Spiritual,,
+,Непоколебљив,Unwavering,Hagiographic Adjective,,
+,Непоколебљиви,Unshaken,Adjective,,
+,Непоколебљиви у вери,Unshakable in faith,Spiritual Phrase,,
+,Непокретан,Immobile,Adjective,,
+,Непорочно,Blamelessly,Adverb,,
+,Непостојане сенке,Inconstant shadows,Demonic,,
+,Неправдом стечено,Acquired through injustice,Phrase,,
+,Непрекидно,Unceasingly,Adverb,,
+,Непрестана молитва,Unceasing prayer,Spiritual,,
+,Непрестано викао,Constantly cried out,Phrase,,
+,Непрестано досађивати,To constantly trouble,Verb,,
+,Непрестано се мучити питањем,To constantly torment with question,Phrase,,
+,Непријављен,Unannounced,Adjective,,
+,Непријатељи имена Христова,Enemies of Christ's name,Theological Phrase,,
+,Непријатељска веза,Hostile bond,Theological,,
+,Непријатељство,Hostility,Theological,,
+,Нераздвојно везан,Inseparably bound,Phrase,,
+,Неразделна,Undivided,Theological,,
+,Неразделна,Undivided,Theological,,
+,Нераздељиво јединство,Indivisible unity,Theological,,
+,Нерон,Nero,Personal Name,,
+,Несравњено већи,Incomparably greater,Phrase,,
+,Несравњива ревност,Incomparable zeal,Hagiographic Phrase,,
+,Несразмерно велики,Disproportionately large,Adjective,,
+,Несразмерно мали,Disproportionately small,Adjective,,
+,Несрећни цар,Unfortunate emperor,Phrase,,
+,Нестати средстава,To run out of means,Phrase,,
+,Нестворен,Uncreated,Theological,,
+,Неће моћи продати,Will not be able to sell,Phrase,,
+,Нећете веровати,Will not believe,Quote,,
+,Неуморно,Untiringly,Adverb,,
+,Неуморно поучавао,Tirelessly taught,Hagiographic Phrase,,
+,Неустрашив,Fearless,Hagiographic Adjective,,
+,Неустрашиво,Fearlessly,Adverb,,
+,Неустрашивост,Fearlessness,Hagiographic,,
+,Нехотично,Inadvertently,Adverb,,
+,Нечестиви судија,Impious judge,Phrase,,
+,Нечестиви цар,Impious emperor,Phrase,,
+,Нечиста веза,Impure relations,Phrase,,
+,Нечисти дух,Unclean spirit,Demonic,,
+,Нечовечно мучен,Tortured inhumanly,Martyrdom Phrase,,
+,Ни дању ни ноћу,Neither day nor night,Temporal Phrase,,
+,Ни за тренутак,Not for a moment,Temporal Phrase,,
+,Ни палио свећу,Nor burned candle,Ascetic Phrase,,
+,Ни помисли о греху,Not even thought of sin,Biblical Phrase,,
+,Ни преко прага,Not even threshold,Monastic Phrase,,
+,Ни с ким не проговоривши речи,Not speaking word to anyone,Monastic Phrase,,
+,Ни трага,Not even trace,Phrase,,
+,Ни уз какву неправду не пристати,To consent to no injustice,Phrase,,
+,Ниже није могло,Lower was not possible,Theological Phrase,,
+,Ниже свих људи,Lower than all men,Theological Phrase,,
+,Низвргнути,To cast down,Theological Verb,,
+,Низложен,Deposed,Ecclesiastical Verb,,
+,Није дата само једна част,Was given not just one honor,Phrase,,
+,Није моје дело,Not my work,Phrase,,
+,Није ни издалека,Is not even remotely,Phrase,,
+,Није његово него Божје,Not his but God's,Theological Phrase,,
+,Није приозашао,Did not come,Verb,,
+,Није свакоме дат,Is not given to everyone,Theological Phrase,,
+,Није се жалио,Did not complain,Verb,,
+,Није смети,Had not dared,Verb,,
+,Није хтео више открити,Did not wish to reveal more,Theological Phrase,,
+,Није хтео силом,Did not wish by force,Phrase,,
+,Ниједан хришћанин,Not single Christian,Phrase,,
+,Никад не изостаје,Never fails to come,Phrase,,
+,Никад није ложио огањ,Never lit fire,Ascetic Phrase,,
+,Никад није успео,Never climbed up,Phrase,,
+,Никада не старе,Never age,Phrase,,
+,Никада није јео месо,Never ate meat,Hagiographic Phrase,,
+,Никада није пио вина,Never drank wine,Ascetic Phrase,,
+,Никада те не видесмо,Never saw you,Phrase,,
+,Никакав стваран доказ,No actual proof,Phrase,,
+,Никакво боље сравњење,No better comparison,Phrase,,
+,Никаквој мрачној сили,Any dark power,Spiritual Phrase,,
+,Никако не моћи,Could in no way,Phrase,,
+,Никако није хтела,In no way wished,Phrase,,
+,Никандр,Nicander,Saint Name,,
+,Никифор,Nicephorus,Saint Name,,
+,Никнути,To grow,Biblical Verb,,
+,Нико ко ти,No one as thou,Phrase,,
+,Нико никада не улажаше,No one ever entered,Phrase,,
+,Нико од смртних,No mortal,Phrase,,
+,Никоме не прилича,Befits no one,Phrase,,
+,Никомидија,Nicomedia,Geographical,,
+,Никомидија,Nicomedia,Geographical,,
+,Никон,Nicon,Saint Name,,
+,"Никон „Покајаније""","Nikon ""Repent""",Saint Name,,
+,Никопољ Јерменски,Nicopolis in Armenia,Geographical,,
+,Никуд маћи,Went nowhere,Verb,,
+,Ниневићани,Ninevites,Geographical,,
+,Нинивија,Nineveh,Geographical,,
+,Нисам умро оче,I have not died father,Phrase,,
+,Ниско,Base,Vice,,
+,Ниско земљиште,Low ground,Phrase,,
+,Нити способни,Nor capable,Phrase,,
+,Нити ћете ме послушати,Nor will obey me,Quote,,
+,Нитријски,Nitrian,Geographical Adjective,,
+,Ничим непомућен,Troubled by nothing,Theological Phrase,,
+,Ништа више о небу,Nothing more about heaven,Phrase,,
+,Ништа не хте говорити,Wished to say nothing,Phrase,,
+,Ништа само од себе,Nothing by itself,Philosophical Phrase,,
+,Ништавна слашћа,Worthless sweetness,Phrase,,
+,Но Бог је ближи,But God is nearer,Quote,,
+,Но узнаде доцније,But learned later,Temporal Phrase,,
+,Но чистијем,But purer,Phrase,,
+,Нова пројава,New manifestation,Theological,,
+,Нова твар,New creation,Theological,,
+,Нова црква,New church,Phrase,,
+,Новгород,Novgorod,Geographical,,
+,Новгород (велики),(Great) Novgorod,Geographical,,
+,Новгородски,Of Novgorod,Geographical,,
+,Нови Адам,New Adam,Theological,,
+,Нови Завет,New Covenant,Biblical,,
+,Нови Завет Бога с људима,New Covenant of God with men,Biblical Phrase,,
+,Нови човек,New man (spiritual),Theological,,
+,Ново откровење,New revelation,Theological,,
+,Ново чудо,New miracle,Phrase,,
+,Новозаветни,New Testament (adj.),Theological,,
+,Новозаветни,New Testament (adj.),Theological,,
+,Новообраћене у веру,Newly converted to faith,Ecclesiological Phrase,,
+,Ножевима исечене,Cut to pieces with knives,Martyrdom Phrase,,
+,Носилац весеља,Bearer of joy,Saint Title,,
+,Носити затворен,To carry closed,Verb,,
+,Носити се над водом,To move upon the waters,Biblical Phrase,,
+,Носити Цара славе,To bear the King of glory,Theological Phrase,,
+,Ноћна тама,Night's darkness,Phrase,,
+,Ноћна утвара,Night vision,Phrase,,
+,Ноћу,At night,Temporal Phrase,,
+,Ношаше ручак,Was carrying lunch,Phrase,,
+,Нудити,To urge,Verb,,
+,Нужно за спасење,Necessary for salvation,Spiritual Phrase,,
+,Нумеријан,Numerian,Personal Name,,
+,Његов старац,His elder,Monastic Title,,
+,Његов ученик,His disciple,Phrase,,
+,Његовој пречистој Матери,His most pure Mother,Theological Title,,
+,Његовом вољом светом,By His holy will,Theological Phrase,,
+,Њим се спасавамо,By Him we are saved,Theological Phrase,,
+,Њиховим следбеницима,Their followers,Phrase,,
+,О Богу једином,About the one God,Theological Phrase,,
+,О два света,On two worlds,Theological,,
+,О двојству у Богу,Of duality in God,Theological Phrase,,
+,О каквим јеретицима,Of what heretics,Phrase,,
+,О колика тама,O how great darkness,Phrase,,
+,О колико,How many,Phrase,,
+,О небеском свету,About heavenly world,Theological Phrase,,
+,О небесној Јерархији,On the Celestial Hierarchy,Book Title,,
+,О престолима,Of thrones,Theological,,
+,О свештенству,On the Priesthood,Book Title,,
+,О стварању неба,About creation of heaven,Biblical Phrase,,
+,О стварању човека,About creation of man,Theological Phrase,,
+,О Уроше царе,O Uroš emperor,Prayer Phrase,,
+,О хлебу и води једино,On bread and water only,Monastic Phrase,,
+,Оба брата,Both brothers,Phrase,,
+,Обадва живота,Both lives,Phrase,,
+,Обале Абисиније,Shores of Abyssinia,Geographical,,
+,Обамирање,Near-death experience,Phrase,,
+,Обасја га целог,Illumined him completely,Miracle Phrase,,
+,Обасја тамницу,Illumined dungeon,Miracle Verb,,
+,Обасјати,To illumine,Miracle Verb,,
+,Обвезан,Obliged,Adjective,,
+,Обе страшно мучене,Both terribly tortured,Martyrdom Phrase,,
+,Обезглављена маса,Beheaded mass,Martyrdom,,
+,Обесити камен о врат,To hang a stone around the neck,Martyrdom Phrase,,
+,Обесмрћавамо се,We are immortalized,Theological Verb,,
+,Обећао потурчити се,Promised to become Muslim,Historical Phrase,,
+,Обећати помоћ,To promise help,Verb,,
+,Обзнанити,To make known,Verb,,
+,Обилат дар,Abundant gift,Phrase,,
+,Обистинити се,To come true,Verb,,
+,Обитељ светог Саве,Monastery of Saint Sabas,Geographical,,
+,Обитељи славне,Of glorious monastery,Phrase,,
+,Обићи,To travel throughout,Verb,,
+,Обичај,Custom,Phrase,,
+,Обична поука,Ordinary instruction,Phrase,,
+,Објава премудрости,Revelation of wisdom,Theological,,
+,Објавити себе хришћанима,To declare themselves Christians,Spiritual Phrase,,
+,Објавити славу,To reveal glory,Theological Verb,,
+,Објављене у Цркви,Revealed in the Church,Ecclesiological Phrase,,
+,Објасни цару,Explained to emperor,Verb,,
+,Објаснити,To explain,Verb,,
+,Објаснити истине,To make clear truths,Verb,,
+,Објашњавати све,To explain all,Theological Verb,,
+,Облаци,Clouds,Phrase,,
+,Облистати,To envelop,Verb,,
+,Обманут својим мислима,Deceived by own thoughts,Phrase,,
+,Обмањује другог,Deceives another,Verb,,
+,Обнажено тело,Naked body,Martyrdom Phrase,,
+,Обнажити,To strip naked,Martyrdom Verb,,
+,Обништа веома,Became utterly impoverished,Phrase,,
+,Обновити манастир,To restore monastery,Ecclesiological Verb,,
+,Обожаватељи,Admirers,Phrase,,
+,Обојица,Both,Phrase,,
+,Обојица за кратко време,Both for short time,Temporal Phrase,,
+,Обојица одоше,Both went,Verb,,
+,Оборити,To topple,Verb,,
+,Оборити (учења),To refute (teachings),Spiritual Verb,,
+,Обрати сву Абисинију,Converted all Abyssinia,Ecclesiological Verb,,
+,Обратити Арапе,To convert Arabs,Spiritual Verb,,
+,Обратити се учитељима,To turn to teachers,Spiritual Verb,,
+,Обратити у веру,To convert to faith,Spiritual Verb,,
+,Обраћати (вери),To convert (to the faith),Spiritual Verb,,
+,Обраћати у веру,To convert to faith,Ecclesiological Verb,,
+,Обрезање,Circumcision,Feast,,
+,Обрезање духовно,Spiritual circumcision,Theological,,
+,Обрезао се у осми дан,Was circumcised on eighth day,Biblical Phrase,,
+,Обрнути други образ,To turn the other cheek,Biblical Phrase,,
+,Обручница,Betrothal,Phrase,,
+,Обући у красоту,To clothe in beauty,Verb,,
+,Обући у муке,To dress in torments,Martyrdom Verb,,
+,Обухватати све,To embrace all,Theological Verb,,
+,Обухватити у план,To encompass in plan,Theological Verb,,
+,Обучен,Dressed,Verb,,
+,Обучени у невиност,Clothed in innocence,Biblical Phrase,,
+,Овакве клевете,Such slanders,Phrase,,
+,Овакву визију,This vision,Miracle Phrase,,
+,Овце,Sheep,Phrase,,
+,Овче поље,Ovche Field,Geographical,,
+,Огањ за ваздух,Fire to air,Phrase,,
+,Огањ неугасиви,Unquenchable fire,Biblical,,
+,Огледало од зеленог јасписа,Mirror of green jasper,Angelic Symbol,,
+,Оградити,"To surround, to encircle",Verb,,
+,Ограђивати себе,To protect oneself,Spiritual Verb,,
+,Ограничени на место,Limited to place,Ecclesiological Phrase,,
+,Огроман пут,Enormous journey,Phrase,,
+,Огромна количина,Enormous quantity,Phrase,,
+,Од Адама до данас,From Adam until now,Temporal Phrase,,
+,Од безумља,From madness,Phrase,,
+,Од Бога је свет,World is from God,Theological,,
+,Од Бога прослављен,Glorified by God,Hagiographic Phrase,,
+,Од болести и смрти,Of illness and death,Phrase,,
+,Од братије опран,Washed by brethren,Phrase,,
+,Од буре,By storm,Phrase,,
+,Од врха до дна,From top to bottom,Phrase,,
+,Од доброг корена,From good root,Biblical Phrase,,
+,Од доброга Творца,From good Creator,Theological Phrase,,
+,Од екстазе,From ecstasy,Miracle Phrase,,
+,Од земљотреса,From earthquake,Phrase,,
+,Од зле силе,From evil power,Phrase,,
+,Од јединога благога Бога,From one good God,Theological,,
+,Од Кога почетак,From Whom beginning,Theological Phrase,,
+,Од леве стране,From left side,Phrase,,
+,Од лудила исцелити,To heal from madness,Miracle Verb,,
+,Од људи убијен,Slain by men,Martyrdom Phrase,,
+,Од малена,From childhood,Temporal Phrase,,
+,Од малена,From youth,Temporal Phrase,,
+,Од малена предан,From youth dedicated,Phrase,,
+,Од многих твораца,From many creators,Phrase,,
+,Од моштију,From relics,Phrase,,
+,Од насиља,From violence,Phrase,,
+,Од незнабожаца,By ungodly men,Phrase,,
+,Од нечистоте на чистоту,From impurity to purity,Spiritual Phrase,,
+,Од оне стране Јордана,Beyond Jordan,Geographical Phrase,,
+,Од онога што виде,Than what saw,Phrase,,
+,Од онога што видео,Of what had seen,Phrase,,
+,Од Оригенове јереси,From heresy of Origen,Heresy Reference,,
+,Од оца Евкратија,Son of Eucrates,Phrase,,
+,Од очију и срдаца,Of eyes and hearts,Ecclesiological Phrase,,
+,Од почетка узор,From beginning example,Hagiographic Phrase,,
+,Од правремена,From the beginning,Temporal Phrase,,
+,Од проповеди Јонине,Because of Jonah's preaching,Biblical Phrase,,
+,Од рана и крви,From wounds and blood,Martyrdom Phrase,,
+,Од раних лета,From early years,Temporal Phrase,,
+,Од речи до речи,Word for word,Phrase,,
+,Од родитеља хришћанских,To Christian parents,Phrase,,
+,Од руку и од ногу,From hands and from feet,Martyrdom Phrase,,
+,Од свега што није Христос,Of everything that is not Christ,Spiritual Phrase,,
+,Од светих икона,From holy icons,Ecclesiological Phrase,,
+,Од случаја,From chance,Phrase,,
+,Од тада па до смрти,From then until death,Temporal Phrase,,
+,Од те пропасти,From that ruin,Phrase,,
+,Од Тебе и тела Твог,From Thee and Thy body,Ecclesiological Phrase,,
+,"Од Тебе, у Теби, кроз Тебе","From Thee, in Thee, through Thee",Theological Phrase,,
+,Од цара Кира,By King Cyrus,Biblical Phrase,,
+,Од царскога рода,Of imperial lineage,Historical Phrase,,
+,Од чега долази зло,From what comes evil,Phrase,,
+,Одавати благодарност,To give thanks,Spiritual Verb,,
+,Одавати благодарност,To give thanks,Spiritual Verb,,
+,Одазвати се позиву,To respond to the call,Spiritual Verb,,
+,Одаја за примање,Reception chamber,Phrase,,
+,Одаја патријархова,Patriarch's chamber,Phrase,,
+,Одакле почиње,Where begins,Phrase,,
+,Одати почаст,To show honor,Verb,,
+,Одатле удаљити,To remove from there,Verb,,
+,Одбацити,To cast aside,Theological Verb,,
+,Одбегнути,To flee,Verb,,
+,Одбећи у пустињу,To flee to desert,Monastic Verb,,
+,Одбити,To refuse,Verb,,
+,Одважно исповедити,To boldly confess,Spiritual Verb,,
+,Одведе началнику,Took to governor,Martyrdom Phrase,,
+,Одведоше у Цариград,Took to Constantinople,Geographical Verb,,
+,Одвезан од света,Unbound from world,Spiritual Phrase,,
+,Одвезан од ствари,Unbound from things,Spiritual Phrase,,
+,Одвезати се,To unbind oneself,Verb,,
+,Одвратан,Abhorrent,Adjective,,
+,Одвраћао верне,Turned faithful away,Ecclesiastical Verb,,
+,Одвраћати се с ненавишћу,To turn away with hatred,Verb,,
+,Одговара монах смерно,Humble monk answers,Phrase,,
+,Одговарајућа служба,Corresponding duty,Ecclesiological,,
+,Одговарајући,Answering,Verb,,
+,Одговарати за крв,To answer for blood,Phrase,,
+,Одговор Божји,God's answer,Theological,,
+,Одговорити кротко,To answer meekly,Verb,,
+,Одговорност,Responsibility,Phrase,,
+,Одговором истинитим,With true answer,Phrase,,
+,Одгонити,To drive away,Verb,,
+,Оде у лов,Went hunting,Phrase,,
+,Оделење дворца,Chamber of the palace,Phrase,,
+,Одели суву земљу,To separate dry land,Biblical Verb,,
+,Оделити људе,To separate people,Verb,,
+,Одело бело,White garments,Phrase,,
+,Одену,To clothe,Verb,,
+,Одећи ка Господу,To go to the Lord,Death Phrase,,
+,Одкуда овај свет,Whence this world,Philosophical Question,,
+,Одкуда теби то,Whence comes this to thee,Phrase,,
+,Одлучити од цркве,To excommunicate from Church,Ecclesiological Verb,,
+,Одлучни тренутак,Decisive moment,Phrase,,
+,Одлучно остави свет,Resolutely left world,Monastic Verb,,
+,Одмах после греха,Immediately after sin,Temporal Phrase,,
+,Одмеравати,To apportion,Verb,,
+,Одморити се,To rest,Verb,,
+,Одморишт,Resting place,Phrase,,
+,Однеси ручак,Take lunch,Biblical Quote,,
+,Однет на небо,Taken to heaven,Miracle Phrase,,
+,Однети дома,To carry home,Verb,,
+,Односно,Concerning,Adverb,,
+,Одолети,To withstand,Verb,,
+,Одолети времену,To withstand time,Verb,,
+,Одомаћити се,To become established,Verb,,
+,Одрасли синови и кћери,Grown sons and daughters,Phrase,,
+,Одрасти,To grow up,Life Event Verb,,
+,Одреди врло високу цену,Set very high price,Phrase,,
+,Одредити брзописце,To appoint scribes,Verb,,
+,Одредити монахе,To appoint monks,Monastic Verb,,
+,Одређени дан,Appointed day,Phrase,,
+,Одрезани Тебе ради,Cut off for Thy sake,Martyrdom Phrase,,
+,Одрећи се душе,To renounce soul,Phrase,,
+,Одрећи се иконопоштовања,To renounce icon veneration,Ecclesiological Verb,,
+,Одрећи се јереси,To renounce heresy,Ecclesiological Verb,,
+,Одрећи се почасти,To renounce honors,Verb,,
+,Одрећи се свега,To renounce everything,Monastic Verb,,
+,Одрећи се Христа,To renounce Christ,Spiritual Phrase,,
+,Одрешити се (језик),To be loosed (tongue),Verb,,
+,Одржати у вези,To keep in bond,Verb,,
+,Одриче смисао свачему,Denies meaning to everything,Phrase,,
+,Одсекоше груди женске,Cut off female breasts,Martyrdom Phrase,,
+,Одсећи главу,"To cut off the head, to behead",Martyrdom Verb,,
+,Одсећи језике,To cut out tongues,Martyrdom Verb,,
+,Одсећи мртве главе,To cut off dead heads,Martyrdom Phrase,,
+,Одсећи палац,To cut off thumb,Martyrdom Verb,,
+,Одсећи прсте,To cut off fingers,Martyrdom Verb,,
+,Одсецати део по део,To cut off piece by piece,Martyrdom Phrase,,
+,Одсече десну руку,Cut off right hand,Martyrdom Phrase,,
+,Одсече ли се глава,If head is cut off,Phrase,,
+,Одсечено од Бога,Cut off from God,Theological Phrase,,
+,Одслужити литургију,To serve liturgy,Liturgical Verb,,
+,Одступити од богопоштовања,To depart from worship of God,Spiritual Phrase,,
+,Одступити од вере,To depart from faith,Spiritual Phrase,,
+,Одсуство вере,Absence of faith,Spiritual Phrase,,
+,Одсуство љубави,Absence of love,Spiritual Phrase,,
+,Одузети благо,To take away wealth,Verb,,
+,Одустати од предузећа,To desist from undertaking,Verb,,
+,Одушевљено кличе,Cries out with enthusiasm,Biblical Phrase,,
+,Оженити,To marry off,Verb,,
+,Ожењен,Married,Verb,,
+,Оживе,Came to life,Miracle Verb,,
+,Оживети,To restore to life,Miracle Verb,,
+,Оживи и озелени,Revives and turns green,Phrase,,
+,Озаравати светлост,Light illumined,Miracle Phrase,,
+,Оздравити,To be healed,Miracle Verb,,
+,Оздравити,To be healed,Miracle Verb,,
+,Оздравити,To recover,Miracle Verb,,
+,Озеленети,To turn green,Miracle Verb,,
+,Озеленети,To turn green,Verb,,
+,Озлобљени,Enraged,Adjective,,
+,Ознаменовати,To mark,Verb,,
+,Окади га,Censed it,Liturgical Verb,,
+,Окадити,To cense,Liturgical Verb,,
+,Окамењеност срца,Hardness of heart,Theological,,
+,Оклеветан,Slandered,Verb,,
+,Оклеветан би,Was slandered,Martyrdom Verb,,
+,Оклеветати,To slander,Verb,,
+,Оклеветати,To slander,Verb,,
+,Оклеветати пред судом,To slander before court,Legal Verb,,
+,Око 2000,About two thousand,Phrase,,
+,Око 400. године,Around year 400,Temporal Phrase,,
+,Око 776. године,Around year 776,Temporal Phrase,,
+,Око људско,Human eye,Phrase,,
+,Око Црног Мора,Around Black Sea,Geographical,,
+,Око части и првенства,For honor and primacy,Phrase,,
+,Окован,Chained,Martyrdom Adjective,,
+,Окови,Chains,Martyrdom,,
+,Окови,Chains,Martyrdom,,
+,Околина Антиохије,Vicinity of Antioch,Geographical,,
+,Околина Скопља,Region of Skopje,Geographical,,
+,Около столпа,Around pillar,Geographical Phrase,,
+,Оконча живот,To end life,Death Verb,,
+,Окорели грешници,Hardened sinners,Phrase,,
+,Окренути други образ,To turn the other cheek,Biblical Verb,,
+,Окренути оружје,To turn weapons,Verb,,
+,Окретати на точку,To spin on wheel,Martyrdom Verb,,
+,Окретати се,To turn away,Spiritual Verb,,
+,Окретати се,To turn about,Verb,,
+,Окретати се око,To turn around,Theological Verb,,
+,Окретност,Cleverness,Phrase,,
+,Окривљујући друге,By accusing others,Phrase,,
+,Окривљујући жену,By accusing woman,Biblical Phrase,,
+,Окружи угодностима,Surrounded with comforts,Phrase,,
+,Окруживати,To surround,Verb,,
+,Окруживати блеском,To surround with splendor,Verb,,
+,Октоих,Octoechos,Liturgical,,
+,Окусити устима,To taste with mouth,Verb,,
+,Олимп,Olympas,Saint Name,,
+,Олимп Азијски,Mount Olympus in Asia,Geographical,,
+,Оловни сандук,Lead coffin,Phrase,,
+,Олово кипеће,Boiling lead,Martyrdom,,
+,Олтар,Altar,Liturgical,,
+,Омањи метох,Small metochion,Monastic,,
+,Омофор,Omophorion,Liturgical,,
+,Омрзох,I have hated,Biblical Phrase,,
+,Он је дао,He gave,Biblical Phrase,,
+,Онај ко испуњава,Him who fulfills,Phrase,,
+,Онај који сиђе,Him who descended,Theological,,
+,Онај који узиђе,Him who ascended,Theological,,
+,Онако и онолико,In such manner and measure,Phrase,,
+,Онако исто,Exactly as,Phrase,,
+,Онде сместити,There to place,Biblical Verb,,
+,Оно и дати,That should be given,Phrase,,
+,Оно и открива,That He reveals,Theological Verb,,
+,Оно учинити,To accomplish,Phrase,,
+,Оно што је сазидао,What He has made,Theological Phrase,,
+,Оно што се не казује деци,What is not told to children,Phrase,,
+,Ономе ко не послуша,Anyone who would not obey,Phrase,,
+,Опажа царство духовно,Perceives spiritual kingdom,Spiritual Verb,,
+,Опажају осећају крећу се,Perceive feel move,Phrase,,
+,Опазити намеру,To perceive intention,Verb,,
+,Опак кнез,Wicked governor,Phrase,,
+,Опака царица,Wicked Queen,Biblical Phrase,,
+,Опаки и наопаки тумачи,Wicked and perverse interpreters,Phrase,,
+,Опаки кнез,Wicked prince,Phrase,,
+,Опаки кнез,Wicked prince,Historical Title,,
+,Опаки цар,Wicked emperor,Phrase,,
+,Опаљивати свећама,To burn with candles,Martyrdom Verb,,
+,Опасна змијурина,Dangerous serpent,Phrase,,
+,Опасни људи,Dangerous men,Phrase,,
+,Опет поврати у манастир,Returned again to monastery,Monastic Verb,,
+,Опет странца,Again foreigner,Phrase,,
+,Описивати стварање земље,To describe creation of earth,Biblical Phrase,,
+,Описује небеску хијерархију,Describes heavenly hierarchy,Theological Phrase,,
+,Оплакати,To lament,Verb,,
+,Опојни мирис,Intoxicating fragrance,Phrase,,
+,Опоменути се,To remind oneself,Verb,,
+,Опрати,To wash,Verb,,
+,Опре се томе,Opposed this,Verb,,
+,Опрезан човек,Prudent man,Phrase,,
+,Опростити,To forgive,Spiritual Verb,,
+,Опростити се с братијом,To say farewell to brethren,Phrase,,
+,Оптужен за веру,Accused of faith,Martyrdom Phrase,,
+,Оптужити цару,To accuse to emperor,Verb,,
+,Опустошење Јерусалима,Devastation of Jerusalem,Biblical Phrase,,
+,Опште васкрсење,General resurrection,Eschatological,,
+,Опште слављење,Common glorification,Ecclesiological,,
+,Општење с братијом,Fellowship with the brethren,Monastic Phrase,,
+,Општење са црквом,Communion with Church,Ecclesiological,,
+,Општити са Христом,To commune with Christ,Spiritual Verb,,
+,Органи једнога тела,Organs of one body,Theological,,
+,Ориген,Origen,Personal Name,,
+,Ориген,Origen,Personal Name,,
+,Оригенова јерес,Heresy of Origen,Heresy,,
+,Оригенова школа,School of Origen,Academic,,
+,Оригинално,Original,Adjective,,
+,Оружан до зуба,Armed to teeth,Phrase,,
+,Оружје духовно,Spiritual weapon,Spiritual,,
+,Освану,Dawned,Verb,,
+,Осветио телом Својим,Sanctified with His body,Theological Phrase,,
+,Осветити,To sanctify,Theological Verb,,
+,Осветити младенца,To sanctify youth,Spiritual Verb,,
+,Осветљавати се,To be illumined,Spiritual Verb,,
+,Освећење (храма),Consecration (of a church),Liturgical,,
+,Освештани,Sanctified,Hagiographic Title,,
+,Осенити крсним знамењем,To make the sign of the Cross over,Liturgical Verb,,
+,Осете се наги,Feel themselves naked,Spiritual Phrase,,
+,Осећао се најсрећнијим,Felt happiest,Phrase,,
+,Осећати потребу,To feel the need,Phrase,,
+,Осим архијереја,Except high priest,Ecclesiological Phrase,,
+,Осим ова два брата,Except these two brothers,Phrase,,
+,Осим овог виђења,Besides this vision,Phrase,,
+,Осим овога,Besides this one,Phrase,,
+,Осим по имену,Except in name,Phrase,,
+,Оскврњен,Polluted,Biblical Adjective,,
+,Ослабити и пропати,To weaken and perish,Verb,,
+,Ослепити,To blind,Martyrdom Verb,,
+,Ослепљење,Blinding,Martyrdom,,
+,Ослободитељу наш,Our liberator,Devotional Phrase,,
+,Ослободити девојку,To free maiden,Miracle Verb,,
+,Ослобођење Јерусалима,Liberation of Jerusalem,Biblical Phrase,,
+,Ословљавати,To address,Verb,,
+,Оснивач манастира,Founder of monastery,Monastic Phrase,,
+,Основ духовног живота,Foundation of spiritual life,Spiritual Phrase,,
+,Основ и разлог,Foundation and reason,Phrase,,
+,Основ спасења,Foundation of salvation,Spiritual Phrase,,
+,Особина порочности,Character of vice,Spiritual Phrase,,
+,Осредњи крст,Medium-sized cross,Phrase,,
+,Оста за навек,Remained forever,Phrase,,
+,Остави заиста све,Truly left all,Phrase,,
+,Остави првога учитеља,Left first teacher,Verb,,
+,Остави сујету света,Left vanity of world,Spiritual Phrase,,
+,Оставити и побећи,To leave and flee,Verb,,
+,Оставити се демона,To forsake demons,Spiritual Verb,,
+,Остаје неоткривено,Remains unrevealed,Theological Verb,,
+,Остати дужан,To still owe,Phrase,,
+,Остати као сироче,To remain as orphan,Phrase,,
+,Остати при занимању,To remain at occupation,Phrase,,
+,Остати при храму,To remain at Temple,Phrase,,
+,Остати у чуду,To remain in wonder,Phrase,,
+,Острво Проконис,Island of Proconnesus,Geographical,,
+,Острво Хиос,Island of Chios,Geographical,,
+,Острихије,Ostryches,Saint Name,,
+,Осудити на смрт,To condemn to death,Martyrdom Verb,,
+,Осудити на смрт,To condemn to death,Martyrdom Verb,,
+,Осушени свет,Withered world,Phrase,,
+,Осушено дрвеће,Withered trees,Biblical Phrase,,
+,От почетка до краја времена,From beginning to end of time,Temporal Phrase,,
+,Отац нерођен,Father unbegotten,Theological,,
+,Отац оде да тражи,Father went to search,Phrase,,
+,Отац свију,Father of all,Theological,,
+,Отац Цркве,Father of the Church,Church Title,,
+,Отварати,To open,Verb,,
+,Отворено небо,Open heaven,Spiritual Phrase,,
+,Отворено небо,Open heaven,Biblical Phrase,,
+,Отворено признати,To confess openly,Verb,,
+,Отвори се ум,Mind was opened,Miracle Phrase,,
+,Отворити небо,To open heaven,Theological Verb,,
+,Отворити сама од себе,To open by itself,Miracle Phrase,,
+,Отечество,"Homeland, fatherland",Phrase,,
+,Отечество,Fatherland,Geographical,,
+,Отимати туђе,To seize what belongs to another,Verb,,
+,Отићи у ад,To go to Hades,Theological Verb,,
+,Отићи у монахе,To go off to become monk,Monastic Verb,,
+,Отићи у Србију,To go to Serbia,Geographical Verb,,
+,"Отк. 4,1",Rev. 4:1,Biblical Reference,,
+,Откази се иконопоштовања,To renounce icon veneration,Ecclesiological Verb,,
+,Откајати грех,To atone for sin,Spiritual Verb,,
+,Отклонити беду,To remove affliction,Verb,,
+,Откри се у сну,Was revealed in dream,Miracle Phrase,,
+,Открива реч Божја,Word of God reveals,Biblical Phrase,,
+,Откривати чудеса промисла,To reveal wonders of providence,Spiritual Phrase,,
+,Откривене 1832. год.,Discovered in 1832,Temporal Phrase,,
+,Открио апостолима,Revealed to apostles,Biblical Phrase,,
+,Открио много више,Revealed much more,Theological Phrase,,
+,Открити греховне ужасе,To reveal sinful horrors,Spiritual Phrase,,
+,Открити сву тајну,To reveal whole secret,Verb,,
+,Открити судове,To reveal judgments,Theological Verb,,
+,Откровење Божје,Divine revelation,Theological,,
+,Откровење тајни,Revelation of mysteries,Theological,,
+,Откровењу тајни,To revelation of mysteries,Theological Phrase,,
+,Откровитељ Бога,Revealer of God,Theological,,
+,Откуда њој смелост,Whence came boldness,Phrase,,
+,Отпасти,To fall away,Verb,,
+,Отпусти их,Sent them away,Verb,,
+,Отрести,To shake off,Verb,,
+,Отрести се,To rid oneself,Verb,,
+,Отровна жаока,Poisonous sting,Demonic,,
+,Отровна змија,Venomous viper,Phrase,,
+,Отровнице змије,Venomous serpents,Phrase,,
+,Отрок,Boy,Phrase,,
+,Отрпети,To endure,Verb,,
+,Отрчати,To run (quickly),Verb,,
+,Отуђени од живота,Alienated from life,Biblical Phrase,,
+,Отуђење од живота,Alienation from life,Biblical Phrase,,
+,Отшелник,Hermit,Monastic,,
+,Отшелнички,As a hermit,Monastic,,
+,Отшкринута врата,Half-open door,Phrase,,
+,Официр,Officer,Title,,
+,Охладити се,To cool,Miracle Verb,,
+,Охрабрити,To encourage,Verb,,
+,Охрабрити,To encourage,Verb,,
+,Охрабрити,To encourage,Verb,,
+,Охридско језеро,Lake Ohrid,Geographical,,
+,Оцу што царује,Father who reigns,Theological Phrase,,
+,Очај човек,Strange man,Phrase,,
+,Очајање,Despair,Vice,,
+,Очајном оцу,Despairing father,Phrase,,
+,Оче Јоване,Father John,Monastic Address,,
+,Оче наш,Our Father,Devotional Phrase,,
+,Оче наш,Our Father,Prayer,,
+,Очи твоје,Thy eyes,Phrase,,
+,Очима,With eyes,Phrase,,
+,Очисти нас,Cleanse us,Prayer,,
+,Очистити се од скверне,To cleanse from defilement,Spiritual Verb,,
+,Очишћење греха,Cleansing of sin,Spiritual Phrase,,
+,Очишћење срца,Purifying hearts,Spiritual,,
+,Очувати,To guard,Spiritual Verb,,
+,Оштра власјаница,Sharp hairshirt,Monastic,,
+,Па порекао,But then denied,Phrase,,
+,Павле сужањ,Paul the prisoner,Saint Name,,
+,Пагуба душе,Destruction of the soul,Theological,,
+,Паде у део,Fell to lot,Phrase,,
+,Падоше на конак,Stopped for lodging,Phrase,,
+,Пазар,Market,Phrase,,
+,Пази се,Beware,Verb,,
+,Паладија,Palladia,Personal Name,,
+,Паладије,Paladios,Personal Name,,
+,Пали анђели,Fallen angels,Demonic,,
+,Палма зелена,Green palm branch,Angelic Symbol,,
+,Памфилија,Pamphylia,Geographical,,
+,Панеада Палестинска,Paneas in Palestine,Geographical,,
+,Пантократор,Pantokrator,Geographical,,
+,Папа Јулије,Pope Julius,Saint Name,,
+,Папа Силвестар Римски,Pope Sylvester of Rome,Saint Name,,
+,Паписти,Papists,Historical Denomination,,
+,Парамон,Paramon,Saint Name,,
+,Параскева,Paraskeva,Personal Name,,
+,Парос,Paros,Geographical,,
+,Парохијски свештеник,Parish priest,Church Title,,
+,Партија,Parthia,Geographical,,
+,Пасти (овце),To pasture (sheep),Verb,,
+,Пасти на конак,To stop for night,Verb,,
+,Пасти у ров,To fall into pit,Verb,,
+,Пастир добри,Good shepherd,Ecclesiological Title,,
+,Пастирствовање,Pastoral ministry,Ecclesiological,,
+,Патав,Pettau,Geographical,,
+,Патрас,Patras,Geographical,,
+,Патријарх Александар,Patriarch Alexander,Saint Name,,
+,Патријарх Александар Александријски,Patriarch Alexander of Alexandria,Saint Name,,
+,Патријарх Генадије,Patriarch Gennadius,Saint Name,,
+,Патријарх Илија,Patriarch Elias,Personal Name,,
+,Патријарх Флавијан,Patriarch Flavian,Personal Name,,
+,Патријарх Флавијан Антиохијски,Patriarch Flavian of Antioch,Saint Name,,
+,Патријарху Илији,To Patriarch Elias,Ecclesiastical Phrase,,
+,Патров,Patrobas,Saint Name,,
+,Пафлагонац,Paphlagonian,Geographical,,
+,Пафлагонија,Paphlagonia,Geographical,,
+,Пафнутије,Paphnutius,Saint Name,,
+,Певати на харфи,To sing on harp,Biblical Verb,,
+,Педао,Span (measurement),Phrase,,
+,Педесет година,Fifty years,Temporal Phrase,,
+,Пелагија,Pelagia,Personal Name,,
+,Пелопонез,Peloponnese,Geographical,,
+,Пентапољ,Pentapolis,Geographical,,
+,Пену бацати,To throw foam,Phrase,,
+,Пепео,"Ash, ashes",Phrase,,
+,Пергамије,Pergamius,Personal Name,,
+,Пергија Памфилијска,Perge in Pamphylia,Geographical,,
+,Персија,Persia,Geographical,,
+,Персијанке,Persian women,Geographical,,
+,Пет мудрих девојака,Five wise virgins,Biblical,,
+,Пет таланата,Five talents,Biblical,,
+,Петар Велики,Peter the Great,Personal Name,,
+,Петар митрополит,"Peter, Metropolitan",Personal Name,,
+,Пети васељ. Сабор,Fifth Ecumenical Council,Ecclesiological,,
+,Петог дана,On the fifth day,Temporal Phrase,,
+,Пећ огњена,Fiery furnace,Martyrdom,,
+,Пећ страдања,Furnace of suffering,Spiritual Phrase,,
+,Пећи на огњу,To burn in fire,Martyrdom Verb,,
+,Пећина,Cave,Geographical,,
+,Пигасије,Pegasius,Saint Name,,
+,Пијац,Marketplace,Phrase,,
+,Пинуфрије,Phnuphrius,Saint Name,,
+,Пирати,Pirates,Historical,,
+,Пирос,Pyrrhus,Personal Name,,
+,Писати житија мученика,To write lives of martyrs,Hagiographic Verb,,
+,Писати смрт,To prescribe death,Verb,,
+,Писмено излагати,To expound in writing,Verb,,
+,Питајмо се,Let us ask ourselves,Verb,,
+,Питати за мишљење,To ask for opinion,Phrase,,
+,Питаху га,Asked him,Verb,,
+,Пјевај кћери Сионска,Sing O daughter of Zion,Biblical Quote,,
+,Пламен,Flame,Phrase,,
+,Пламен вере,Flame of faith,Spiritual Phrase,,
+,Пламен љубави,Flame of love,Spiritual Phrase,,
+,Пламен огњени,Fiery flame,Angelic Symbol,,
+,Пламен опали руку,Flame consumed hand,Martyrdom Phrase,,
+,Пламен похоте,Flame of lust,Spiritual,,
+,План грађевине,Plan of building,Ecclesiological Phrase,,
+,План света,Plan of the world,Theological,,
+,План спасења,Plan of salvation,Theological,,
+,Планина густа,Dense mountain,Geographical,,
+,Платон,Plato,Personal Name,,
+,Платон филозоф,Plato the philosopher,Personal Name,,
+,Плаћање цене,To pay price,Phrase,,
+,Племе Симеоново,Tribe of Simeon,Biblical,,
+,Племена земна,Tribes of the earth,Phrase,,
+,Племенити Климент,Noble Clement,Hagiographic Title,,
+,Племићки род,Noble lineage,Phrase,,
+,Пловећи по мору,Sailing by sea,Phrase,,
+,Плод вере и љубави,Fruit of faith and love,Spiritual Phrase,,
+,Плод донети,To bear fruit,Miracle Verb,,
+,Плод послушности,Fruit of obedience,Monastic Phrase,,
+,Плод сладак,Sweet fruit,Phrase,,
+,Плотски,"Carnal, fleshly",Theological,,
+,Плућа од ваздуха,Lungs from air,Phrase,,
+,По Божјем закону,According to God's law,Theological Phrase,,
+,По Божјем Промислу,By God's Providence,Theological Phrase,,
+,По Божјем суду,By God's judgment,Theological Phrase,,
+,По ваздан,The whole day,Phrase,,
+,По вери понајвернији,In faith the most faithful,Phrase,,
+,По врстама,According to kinds,Biblical Phrase,,
+,По граду вођене,Led through city,Martyrdom Phrase,,
+,По дару Духа Светога,By gift of Holy Spirit,Theological Phrase,,
+,По дејству и мери,According to working and measure,Ecclesiological Phrase,,
+,По добродетељи,Through virtue,Spiritual Phrase,,
+,По жељи цара,At the wish of the emperor,Phrase,,
+,По жељи цара,At wish of emperor,Phrase,,
+,По занимању,By occupation,Phrase,,
+,По имену,By name,Phrase,,
+,По имену Диоскор,Named Dioscorus,Phrase,,
+,По мудрости понајмудрији,In wisdom the most wise,Phrase,,
+,По навршетку 12 година,After turned twelve years old,Temporal Phrase,,
+,По наредби кнежевој,By order of prince,Phrase,,
+,По његовој молитви,Through his prayer,Miracle Phrase,,
+,По обећању,According to promise,Phrase,,
+,По образу Своме,In His own image,Biblical Phrase,,
+,По околини,Surrounding area,Geographical,,
+,По повратку душе у тело,After return of soul to body,Miracle Phrase,,
+,По попуштењу Божјем,By God's permission,Theological Phrase,,
+,По примеру предака,According to the example of forefathers,Phrase,,
+,По речи Божјој,According to God's word,Biblical Phrase,,
+,По рођењу и васпитању,By birth and upbringing,Phrase,,
+,По свету материјалном,In material world,Philosophical Phrase,,
+,По свима деловима,Throughout all parts,Phrase,,
+,По својему саду,In his garden,Phrase,,
+,По силаску Св. Духа,After descent of Holy Spirit,Biblical Phrase,,
+,По сили понајсилнији,In power the most powerful,Phrase,,
+,По смрти,After death,Death Phrase,,
+,По смрти,After death,Death Phrase,,
+,По смрти жене,After death of wife,Phrase,,
+,По смрти јављао се,After death appeared,Miracle Phrase,,
+,По смрти мужа,After husband's death,Temporal Phrase,,
+,По смрти оца,After father's death,Temporal Phrase,,
+,По смрти оца,After death of father,Phrase,,
+,По суху,On dry land / As on dry land,Phrase,,
+,По тадашњем обичају,According to custom of that time,Historical Phrase,,
+,По том од незнања,Thereafter from ignorance,Phrase,,
+,По томе знамо,By this we know,Phrase,,
+,По трави,On grass,Phrase,,
+,По тренутним помислима,According to momentary thoughts,Phrase,,
+,По ту цену,For that price,Phrase,,
+,По целоме телу,Over whole body,Martyrdom Phrase,,
+,По човекољубљу,In love for mankind,Theological Phrase,,
+,Побегоше,Fled,Verb,,
+,Победа у рату,Victory in war,Phrase,,
+,Победивши себе,Having conquered himself,Spiritual Phrase,,
+,Победитељ,Victor,Hagiographic,,
+,Победити непријатеље,To defeat enemies,Military Verb,,
+,Победити Шведе,To defeat Swedes,Military Verb,,
+,Победнички скуп,Victorious assembly,Theological,,
+,Победоносац,Victorious one,Saint Title,,
+,Побеђен победи,Defeated he conquered,Hagiographic Phrase,,
+,Побеђени демони,Defeated demons,Spiritual Phrase,,
+,Побеђивати,To overcome,Spiritual Verb,,
+,Побеже хорда,Horde fled,Historical Phrase,,
+,Побећи из девојке,To flee from girl,Verb,,
+,Побише све људе,Killed all people,Verb,,
+,Пободе крст на висини,Erected cross on heights,Phrase,,
+,Пободети крст,To erect cross,Verb,,
+,Побожна сестра,Pious sister,Phrase,,
+,Поборник (икона),Champion (of icons),Saint Title,,
+,Поборник истине,Champion of truth,Hagiographic Title,,
+,Побудити,To move,Verb,,
+,Побуђен речима,Moved by words,Phrase,,
+,Побуђује на добра дела,Moves to good deeds,Spiritual Phrase,,
+,Побуђује на зла дела,Moves to evil deeds,Phrase,,
+,Повезани међу собом,Bound to one another,Ecclesiological Phrase,,
+,Поверова у Христа,Believed in Christ,Spiritual Verb,,
+,Поверовати,To believe,Verb,,
+,Повести везане,To lead bound,Verb,,
+,Повратити се Христу,To return to Christ,Spiritual Verb,,
+,Поврће,Vegetables,Phrase,,
+,Повући се,To withdraw,Verb,,
+,Повући се на гору,To withdraw to mountain,Monastic Verb,,
+,Повући се у пештеру,To withdraw into cave,Monastic Verb,,
+,Повући се у самоћу,To withdraw into solitude,Monastic Verb,,
+,Повуче се из Цариграда,Withdrew from Constantinople,Geographical Verb,,
+,Повуче се у манастир,Withdrew to monastery,Monastic Verb,,
+,Погибељ,Perdition,Theological,,
+,Поглаварствима,Principalities,Angelic Hierarchy,,
+,Поглед људи,Gaze of people,Phrase,,
+,Погледати доле,To look down,Verb,,
+,Погледати навише,To look up,Verb,,
+,Погодити неће,Shall not strike,Phrase,,
+,Погорђена жена,Woman having become proud,Biblical Phrase,,
+,Погрбити,To bend,Verb,,
+,Погубити,To execute,Martyrdom Verb,,
+,Погубити монахиње,To execute nuns,Martyrdom Verb,,
+,Погубљен са пет синова,Executed with five sons,Martyrdom Phrase,,
+,Под великашима,By nobles,Phrase,,
+,Под видом обручнице,Under appearance of betrothal,Phrase,,
+,Под камен стати,To set beneath stone,Phrase,,
+,Под отвореним небом,Under open sky,Monastic Phrase,,
+,Под пазухом,Under arm,Phrase,,
+,Под појасом,Under belt,Phrase,,
+,Под претњом смрти,Under threat of death,Biblical Phrase,,
+,Под утицајем,Under influence,Phrase,,
+,Под Царем разумеваше,By King meant,Phrase,,
+,Подвале,Stratagems,Phrase,,
+,Подвиг мисаони,Struggle in thought,Monastic Phrase,,
+,Подвиг на делу,Struggle in deed,Monastic Phrase,,
+,Подвиг свршити,To complete one's struggle,Hagiographic Phrase,,
+,Подвиг у духу,Struggle in spirit,Monastic Phrase,,
+,Подвиг у телу,Struggle in body,Monastic Phrase,,
+,Подвижници Индијски,Indian ascetics,Hagiographic,,
+,Подвижници Мисирске,Ascetics of Egypt,Monastic Phrase,,
+,Подвижничка књижевност,Ascetical literature,Monastic,,
+,Подвижнички (adj.),Ascetical,Monastic,,
+,Подвижништво,Asceticism,Monastic,,
+,Подвижништво,Asceticism,Monastic,,
+,Подвизавати се,"To struggle ascetically, to labor",Monastic Verb,,
+,Подвизавати се,To struggle,Hagiographic Verb,,
+,Подвизавати се,To struggle,Monastic Verb,,
+,Подвизавати се Христа ради,To struggle for Christ's sake,Spiritual Phrase,,
+,Подвизаваше пуних тридесет година,Struggled full thirty years,Monastic Phrase,,
+,Подвизаваше се,Struggled,Monastic Verb,,
+,Подвизивати се,To struggle ascetically,Monastic Verb,,
+,Подигни ме у висине,Lift me up on high,Prayer Phrase,,
+,Подићи се 75 цркава,Seventy-five churches were built,Ecclesiological Phrase,,
+,Подићи се бура,Storm arose,Phrase,,
+,Подићи се два манастира,Two monasteries were built,Ecclesiological Phrase,,
+,Подићи столп,To raise pillar,Monastic Verb,,
+,Подићи храм,To raise a temple,Verb,,
+,Подићи храм,To erect a church,Ecclesiological Verb,,
+,Подједнака љубав,Equal love,Phrase,,
+,Подносити подвиге,To endure struggles,Monastic Verb,,
+,Подносити стрпљиво,To endure patiently,Spiritual Verb,,
+,Подражавати примеру,To imitate example,Verb,,
+,Подржаше,Upheld,Verb,,
+,Подсмех,Ridicule,Phrase,,
+,Подсмех људи,Mockery of men,Phrase,,
+,Пође за Исусом,Followed Jesus,Biblical Verb,,
+,Пожали се,Complained,Verb,,
+,Пожалити се,To complain,Verb,,
+,Пожели мучеништва,Desired martyrdom,Martyrdom Phrase,,
+,Поживе четрдесет пет година,Lived forty-five years,Temporal Phrase,,
+,Поживети у покајању,To live in repentance,Spiritual Verb,,
+,Поживеше богоугодно,Lived in God-pleasing manner,Hagiographic Phrase,,
+,Пожури,Hastened,Verb,,
+,Позвани,Called,Theological Adjective,,
+,Позват у рат,Called to war,Historical Phrase,,
+,Позвати на бденије,To summon to vigil,Liturgical Verb,,
+,Позивати на јединство,To call to unity,Ecclesiological Verb,,
+,Познавалац плана,One who knows plan,Phrase,,
+,Познавати истинога Бога,To know true God,Spiritual Phrase,,
+,Познаде и Јован њега,John recognized him also,Phrase,,
+,Познаде јединог истинитог Бога,Came to know one true God,Spiritual Phrase,,
+,Познаде у њему,Recognized in him,Verb,,
+,Познање мудрости божанске,Knowledge of divine wisdom,Theological,,
+,Познање Сина Божјег,Knowledge of Son of God,Theological,,
+,Познат под именом,Known by the name,Phrase,,
+,Познати красоту Христову,To know Christ's beauty,Spiritual Phrase,,
+,Позове на вечеру,To invite to dinner,Verb,,
+,Појава ангела,Appearance of the angel,Phrase,,
+,Појавити се,To appear,Verb,,
+,Појати на литургији,To be sung at the Liturgy,Liturgical Verb,,
+,Појединог човека,Individual man,Phrase,,
+,Појмити,To comprehend,Verb,,
+,Појмити значење,To understand the meaning,Verb,,
+,Појури за њом,Pursued her,Martyrdom Verb,,
+,Покажи ангела,To show angel,Phrase,,
+,Показати живу истину,To show the living truth,Theological Verb,,
+,Показати на икону,To point to icon,Verb,,
+,Показати примером,To show by example,Verb,,
+,Показати ране,To show wounds,Phrase,,
+,Показати судији,To show judge,Phrase,,
+,Показивати редом,To show in order,Phrase,,
+,Покајане душе,Penitent souls,Spiritual,,
+,Покајани грешници,Penitent sinners,Spiritual Phrase,,
+,Покајани краљ,Penitent king,Phrase,,
+,Покајање,Repentance,Theological,,
+,Покајање заузме место казне,Repentance takes place of punishment,Spiritual Phrase,,
+,Покајници прави,True penitents,Spiritual,,
+,Покајте се,Repent,Biblical,,
+,Покајте се за грехе,Repent of sins,Spiritual Phrase,,
+,Поквареном (град),Corrupt (city),Phrase,,
+,Поклапати се,To coincide,Verb,,
+,Поклони се икони,To bow before icon,Ecclesiological Verb,,
+,Поклони се ћутке,Bowed in silence,Monastic Phrase,,
+,Поклонити Богу,To worship God,Verb,,
+,Поклонити се идолима,To worship the idols,Theological Phrase,,
+,Поклонити се идолима,To bow down to idols,Phrase,,
+,Поклонити се идолима,To bow down to idols,Phrase,,
+,Поклонити се идолу,To bow down to idol,Phrase,,
+,Поклонити се крсту,To bow down to cross,Liturgical Verb,,
+,Поклоњење анђелима,Worship of angels,Theological,,
+,Поклоњење идолима,Worshiping idols,Theological Phrase,,
+,Поколебати у намери,To shake in purpose,Verb,,
+,Покорити,To conquer,Verb,,
+,Покорити се вољи Божјој,To submit to will of God,Spiritual Phrase,,
+,Покорити се наредби,To submit to the decree,Verb,,
+,Покрај храма,Beside church,Geographical Phrase,,
+,Покрај храма,Near temple,Geographical Phrase,,
+,Покрити ранама,To cover with wounds,Martyrdom Phrase,,
+,Покрише наготу,Covered nakedness,Biblical Verb,,
+,Пола столећа,Half a century,Temporal Phrase,,
+,Полакомљена жена,Woman having become greedy,Biblical Phrase,,
+,Поласкан царем,Flattered by emperor,Phrase,,
+,Половина столећа,Half a century,Temporal Phrase,,
+,Положене у Саборну цркву,Placed in Cathedral church,Phrase,,
+,Положити у ковчег,To place in coffin,Verb,,
+,Полудела девојка,Demented girl,Phrase,,
+,Полудети,To go mad,Verb,,
+,Полудети,To go mad,Verb,,
+,Полудети,To go mad,Verb,,
+,Полуострво,Peninsula,Geographical,,
+,Помагати,"To help, to assist",Verb,,
+,Помагати болесној деци,To help sick children,Hagiographic Phrase,,
+,Помагати неплодним женама,To help barren women,Hagiographic Phrase,,
+,Помије,Swill,Vice,,
+,Помилова и награди,Showed mercy and rewarded,Biblical Phrase,,
+,Помилован Богом,Pardoned by God,Theological Phrase,,
+,Помиловати,To have mercy,Spiritual Verb,,
+,Помилуй нас,Have mercy on us,Liturgical (Church Slavonic),,
+,Помилуј ме грешнога,Have mercy on me a sinner,Prayer,,
+,Помишљати,To think,Verb,,
+,Помогнут од других,Helped by others,Phrase,,
+,Помози нам испунити,Help us to fulfill,Prayer Phrase,,
+,Помоћи многима,To help many,Hagiographic Verb,,
+,Помоћу нерава,By means of nerves,Phrase,,
+,Помрачаваху,Darkened (repeatedly),Verb,,
+,Помрачен смислом,Darkened in understanding,Biblical Phrase,,
+,Помрачен умом,Darkened in mind,Biblical Phrase,,
+,Помрачени људи,Darkened people,Phrase,,
+,Помрачени смислом,Darkened in understanding,Biblical Phrase,,
+,Помрачење смисла,Darkening of understanding,Biblical Phrase,,
+,Помрачи се,Darkened,Verb,,
+,Понаособ,Particularly,Adverb,,
+,Понегда,Sometimes,Adverb,,
+,Понекад одмах,Sometimes immediately,Temporal Phrase,,
+,Понекад сама,Sometimes alone,Phrase,,
+,Понижавати се,To humble oneself,Spiritual Verb,,
+,Понижење,"Humiliation, self-abasement",Theological,,
+,Понижење бесповратно,Humiliation irrevocable,Spiritual,,
+,Понижење вечно,Eternal humiliation,Theological,,
+,Понижење добровољно,Voluntary humiliation,Spiritual,,
+,Понижење привремено,Temporary humiliation,Spiritual,,
+,Понижењем себе,By humility,Spiritual Phrase,,
+,Понизио се,Humbled Himself,Theological Verb,,
+,Понизити,To humiliate,Verb,,
+,Понизити се,To humble oneself,Spiritual Verb,,
+,Понизиће нас грех,Sin will humble us,Spiritual Phrase,,
+,Понизиће се,Shall be abased,Biblical Verb,,
+,Поникнути,To sprout,Verb,,
+,Поновио седам пута,Repeated seven times,Phrase,,
+,Поново повраћају,Are returned again,Verb,,
+,Поново постао богат,Again became wealthy,Phrase,,
+,Поново се покварише,Became corrupt again,Spiritual Verb,,
+,Поново ухваћен,Recaptured,Martyrdom Verb,,
+,Понор заборава,Abyss of oblivion,Phrase,,
+,Понос и дика,Pride and glory,Hagiographic Phrase,,
+,Понудити да једе,To offer food,Verb,,
+,Попадати,To collapse,Verb,,
+,Попети се,To climb upon,Verb,,
+,Поплава,Flood,Phrase,,
+,Поплаве,Floods,Phrase,,
+,Попразниство,Afterfeast,Feast,,
+,Попусти Бог злог духа,God allowed evil spirit,Phrase,,
+,Попустити беду,To allow misfortune,Theological Verb,,
+,Попут апостола,Like the apostles,Phrase,,
+,Попуштати искушења,To permit temptations,Spiritual Verb,,
+,Поравнати,To level,Theological Verb,,
+,Порасти,To grow up,Verb,,
+,Поред тела кнеза Лазара,Beside body of Prince Lazar,Historical Phrase,,
+,Пореклом Словенин,A Slav by origin,Phrase,,
+,Породица,Family,Phrase,,
+,Порок,Vice,Theological,,
+,Поронити у дубине,To plunge into depths,Verb,,
+,Португалија,Portugal,Geographical,,
+,Порфирије,Porphyrius,Saint Name,,
+,Порфирије,Porphyrius,Personal Name,,
+,Посаветовати,To counsel,Verb,,
+,Посадити,To plant,Verb,,
+,Посведневно,Daily,Temporal Adverb,,
+,Посведневно слати,To send daily,Verb,,
+,Посведочити кроз плач,To testify through tears,Verb,,
+,Посвети Богу,To dedicate to God,Spiritual Verb,,
+,Посветити за епископа,To consecrate as bishop,Ecclesiological Verb,,
+,Посветити себе Богу,To dedicate oneself to God,Spiritual Verb,,
+,Посветити цркву,To dedicate the church,Liturgical Verb,,
+,Посвећен за свештеника,Ordained as a priest,Church Title,,
+,Посвојити за сина,To adopt as son,Theological Verb,,
+,Посебице,Separately,Adverb,,
+,Поседнути,To possess,Spiritual Verb,,
+,Посејдон,Poseidon,Mythological Name,,
+,Посекоше га за веру,Beheaded him for faith,Martyrdom Phrase,,
+,Посети с висине,Visited from on high,Biblical Phrase,,
+,Посетити,To visit,Verb,,
+,Посећи мачем,To behead with a sword,Martyrdom Verb,,
+,Посећи мачем,To behead by sword,Martyrdom Verb,,
+,Посећи мачем,To behead with sword,Martyrdom Verb,,
+,Посећивати често,To visit often,Verb,,
+,Посечен од Турака,Beheaded by Turks,Martyrdom Phrase,,
+,Посечење мачем,Beheading by sword,Martyrdom Phrase,,
+,Посинити,To adopt as sons,Theological Verb,,
+,Посиновљење,Adoption as sons,Theological,,
+,Посланик цара,Ambassador of king,Title,,
+,Посланице апостола Павла,Epistles of Apostle Paul,Biblical,,
+,Послати мисионаре,To send missionaries,Ecclesiological Verb,,
+,Послати потере,To send pursuers,Verb,,
+,Послати реч,To send word,Verb,,
+,Послати слуге да убију,To send servants to kill,Martyrdom Phrase,,
+,Послати стражу,To send a guard,Verb,,
+,После 9 година,After nine years,Temporal Phrase,,
+,После греха,After sin,Biblical Phrase,,
+,После двогодишњег патријарховања,After two years of patriarchal service,Ecclesiastical Phrase,,
+,После десет година,After ten years,Temporal Phrase,,
+,После дугог подвига,After long struggle,Monastic Phrase,,
+,После истјазања,After interrogation,Legal Phrase,,
+,После неколико дана,After several days,Temporal Phrase,,
+,После њега,After him,Temporal Phrase,,
+,После опет врати,Later returned again,Temporal Phrase,,
+,После пророка Јоне,After Prophet Jonah,Temporal Phrase,,
+,После свакога дела,After each work,Phrase,,
+,После свршене гозбе,After feast was finished,Temporal Phrase,,
+,После следоваху,After followed,Verb,,
+,После цара,After emperor,Historical Phrase,,
+,Последња станица,Final station,Theological,,
+,Последње причешће,Last communion,Liturgical,,
+,Последње речи,Last words,Phrase,,
+,Последње три ноћи,Last three nights,Temporal Phrase,,
+,Последњи коњ,Last horse,Phrase,,
+,Последњоваше,Followed,Verb,,
+,Послужити Духу,To serve Spirit,Spiritual Verb,,
+,Послужити примером,To serve by example,Hagiographic Verb,,
+,Послушање и мучење,Obedience and torment,Monastic Phrase,,
+,Послушни Акакије,Obedient Acacius,Hagiographic Title,,
+,Послушник,Obedientiary,Monastic,,
+,Послушник,Novice,Monastic,,
+,Послушност,Obedience,Monastic,,
+,Послушност са смерношћу,Obedience with humility,Spiritual Phrase,,
+,Послушношћу спасе душу,By obedience saved soul,Spiritual Phrase,,
+,Посматрајући кроз прозор,Observing through window,Phrase,,
+,Посматрано ван Бога,Viewed apart from God,Theological Phrase,,
+,Посматрати,To observe,Verb,,
+,Посмртна литургија,Memorial liturgy,Liturgical,,
+,Посмртне песме,Funeral hymns,Liturgical,,
+,Посрамити,To shame,Verb,,
+,Посрамљен у нади,Put to shame in hope,Phrase,,
+,Пост,Fasting,Monastic,,
+,Поста бело као снег,Became white as snow,Miracle Phrase,,
+,Поста душа жива,Became living soul,Biblical Phrase,,
+,Поста иноком,Became monk,Monastic Verb,,
+,Поста мученица,Became martyr,Hagiographic Phrase,,
+,Постави епископе,Appointed bishops,Ecclesiological Verb,,
+,Постави за епископа,To appoint as bishop,Ecclesiological Verb,,
+,Постави за епископа,To appoint as bishop,Ecclesiological Verb,,
+,Постави за епископа,To appoint as bishop,Ecclesiological Verb,,
+,Постави идоле,Set up idols,Phrase,,
+,Постави првога епископа,Appointed first bishop,Ecclesiological Verb,,
+,Постави свештенике,Appointed priests,Ecclesiological Verb,,
+,Поставивши за сто,Having seated at table,Phrase,,
+,Постављен за епископа,Appointed bishop,Ecclesiastical Phrase,,
+,Постаје безделан,Becomes useless,Phrase,,
+,Постајемо постојани,We become steadfast,Spiritual Verb,,
+,"Постања 1,1",Gen. 1:1,Biblical Reference,,
+,"Постања 1,4,10,12,18,21,25","Gen. 1:4,10,12,18,21,25",Biblical Reference,,
+,Постање,Genesis,Biblical Book,,
+,Постање свијета,Foundation of the world,Theological,,
+,Постарији,Elderly,Adjective,,
+,Постати верни,To become believers,Spiritual Verb,,
+,Постати здравији,To become healthier,Verb,,
+,Постати подобан скоту,To become like beast,Phrase,,
+,Постати потпуно мирна,To become completely calm,Phrase,,
+,Постати ревним слугом,To become zealous servant,Hagiographic Verb,,
+,Постигнути судба,Fate befell,Verb,,
+,Постидити јеретике,To shame the heretics,Ecclesiological Verb,,
+,Постиже грешнике,Overtakes sinners,Theological Verb,,
+,Постићи,To befall,Verb,,
+,Постићи казна,To be struck by punishment,Phrase,,
+,Постојанство у вери,Steadfastness in faith,Spiritual,,
+,Постојбина,Homeland,Geographical,,
+,Постом и молитвом,Fasting and prayer,Monastic Phrase,,
+,Пострада за Христа,Suffered for Christ,Martyrdom Phrase,,
+,Пострадати,To suffer (for Christ),Martyrdom Verb,,
+,Пострадати због њеног дела,To suffer because of her deed,Phrase,,
+,Пострадати око 230. год.,To suffer around year 230,Temporal Phrase,,
+,Пострижена у монаштво,Tonsured into monasticism,Monastic Verb,,
+,Постричи се,To be tonsured,Monastic Verb,,
+,Поступак,Action,Phrase,,
+,Поступак,Action,Phrase,,
+,Поступно,Gradually,Adverb,,
+,Потајна хришћанка,Secret Christian,Phrase,,
+,Потврдити заповест,To confirm commandment,Verb,,
+,Потере,Pursuers,Phrase,,
+,Потећи (миро),To flow (myrrh),Miracle Verb,,
+,Потом монах,Then monk,Phrase,,
+,Потом у пустињи,Then in desert,Monastic Phrase,,
+,Потплатити,To bribe,Verb,,
+,Потплаћена,Bribed,Adjective,,
+,Потпуна затупелост,Complete dullness,Spiritual Phrase,,
+,Потпуни господар,Complete master,Phrase,,
+,Потпуно,Fully,Adverb,,
+,Потпуно незнање,Complete ignorance,Phrase,,
+,Потражи пастире,Requested pastors,Ecclesiological Verb,,
+,Потражити с груди,To demand from breast,Phrase,,
+,Потрајати,To endure,Verb,,
+,Потресати цркву,To shake Church,Ecclesiastical Phrase,,
+,Потресе,Earthquakes,Phrase,,
+,Потрудише се,Labored,Verb,,
+,Потурити свога синчића,To substitute own little son,Verb,,
+,Потурчити се,To convert to Islam,Verb,,
+,Потчинити вољу,To subject one's will,Spiritual Verb,,
+,Потчињавати необуздане великаше,To subdue unrestrained nobles,Historical Phrase,,
+,Поћи да проповеда,To go to preach,Verb,,
+,Поћи за њима,To set out after them,Verb,,
+,Поћи на исток,To set out to east,Verb,,
+,Поуздано сазнање,Reliable knowledge,Phrase,,
+,Поуздање,Hope,Spiritual,,
+,Поука,Instruction,Spiritual,,
+,Поучи,Taught,Verb,,
+,Похвале људске,Human praise,Phrase,,
+,Похвалити се Христом,To boast of Christ,Spiritual Verb,,
+,Похоте,Lusts,Vice,,
+,Поцепати наредбу,To tear up decree,Verb,,
+,Поцрвенети,To blush,Verb,,
+,Поцрнети,To turn black,Verb,,
+,Поче молити се,Began to pray,Verb,,
+,Поче потресати,Began to shake,Verb,,
+,Почели тек хришћани виђати,Christians first began to see,Historical Phrase,,
+,Почетак,Beginning,Phrase,,
+,Почетак VII века,Beginning of seventh century,Temporal Phrase,,
+,Почетак од добра,Beginning from good,Phrase,,
+,Почети певати,To begin to sing,Liturgical Verb,,
+,Почивале у манастиру Јаску,Rested in Jaska monastery,Geographical Phrase,,
+,Почивати,To repose,Death Verb,,
+,Починити,To commit,Verb,,
+,Почне проповедати,Began to preach,Ecclesiological Verb,,
+,Пошто не беше,Since there was not,Phrase,,
+,Поштовање икона,Veneration of icons,Liturgical,,
+,Поштовање светих икона,Veneration of holy icons,Ecclesiological,,
+,Поштовати,To honor,Verb,,
+,Поштовати веома,To honor greatly,Verb,,
+,Поштовати дар,To honor gift,Spiritual Verb,,
+,Поштовати као духовног оца,To honor as spiritual father,Spiritual Phrase,,
+,Прав пред Богом,Righteous before God,Spiritual Phrase,,
+,Права вера,True faith,Theological,,
+,Права казна,True punishment,Theological,,
+,Права љубав,True love,Spiritual,,
+,Права награда,True reward,Theological,,
+,Права слава,True glory,Theological,,
+,Правдају себе,Justify themselves,Verb,,
+,Правдаше себе,Justified himself,Verb,,
+,Правди и истини,Righteousness and truth,Spiritual Phrase,,
+,Праведни Михаило,Michael the Righteous,Saint Name,,
+,Праведни муж,Righteous man,Hagiographic,,
+,Праведници,Righteous ones,Theological,,
+,Прави Бог,True God,Theological,,
+,Прави племић,True nobleman,Title,,
+,Право богопоштовање,True worship of God,Theological,,
+,Право православно познање,Right Orthodox knowledge,Theological,,
+,Право рекао,Spoke rightly,Phrase,,
+,Правоверни,Orthodox,Ecclesiastical,,
+,Православље,Orthodoxy,Theological,,
+,Православни Христос,Orthodox Christ,Theological,,
+,Православни цар,Orthodox emperor,Title,,
+,Православно веровање,Orthodox faith,Theological,,
+,Праг вечности,Threshold of eternity,Theological Phrase,,
+,Празан законски формализам,Empty legal formalism,Theological Phrase,,
+,Празна,Empty,Spiritual Adjective,,
+,Празна страшила,Empty scarecrows,Demonic,,
+,Празник Христов,Christ's feast,Liturgical,,
+,Празнује се 22. маја,Celebrated on May 22,Temporal Phrase,,
+,Праисконог недуга,Primordial ailment,Spiritual Phrase,,
+,Праотац Јаков,Patriarch Jacob,Biblical Name,,
+,"Праоци, пророци и праведници","Forefathers, prophets, and righteous",Theological,,
+,Пратиоци,Attendants,Phrase,,
+,Прах земни,Dust of earth,Biblical,,
+,Прашину дижу,Raise dust,Phrase,,
+,Прва ноћ,First night,Temporal Phrase,,
+,Прваци богумилски,Leaders of the Bogomils,Theological,,
+,Првенство папе,Primacy of the Pope,Theological,,
+,Први апостол,First apostle,Hagiographic,,
+,Први великаш,First nobleman,Phrase,,
+,Први војвода,First commander,Military Title,,
+,Први министар,Prime minister,Historical Title,,
+,Први храм,First temple,Theological,,
+,Прво од окамењености,First from hardness,Phrase,,
+,Прво откровење,First revelation,Theological,,
+,Првозвани,First-Called,Hagiographic Title,,
+,Првомученик,Protomartyr,Martyrdom Title,,
+,Првосвештеник Захарија,High priest Zechariah,Biblical Name,,
+,Пре греха,Before sin,Biblical Phrase,,
+,Пре него људи пресудише,Before men judged,Phrase,,
+,Пре него се збила,Before it took place,Temporal Phrase,,
+,Пре своје смрти,Before own death,Temporal Phrase,,
+,Пре Христа,Before Christ,Temporal Phrase,,
+,Пребивати,To abide,Verb,,
+,Преблаги Искупитељ,Most good Redeemer,Theological,,
+,Преблагодарни,Most grateful,Adjective,,
+,Превазилази појимање,Transcends comprehension,Theological Verb,,
+,Превазилазити природу,To surpass nature,Phrase,,
+,Превасходити,To surpass,Verb,,
+,Превелика љубав,Surpassing love,Spiritual,,
+,Превелика ревност,Exceeding great zeal,Hagiographic Phrase,,
+,Превелика цена,Excessive price,Phrase,,
+,Превести мноштво,To convert multitudes,Ecclesiological Verb,,
+,Превише свих небеса,Far above all heavens,Theological,,
+,Превод Св. Писма,Translation of Holy Scripture,Phrase,,
+,Прегледати,To survey,Verb,,
+,Преговарати о миру,To negotiate peace,Verb,,
+,Прегризти,To bite through,Verb,,
+,Пред Богом,Before God,Phrase,,
+,Пред величанством,Before majesty,Theological Phrase,,
+,Пред иконом Пресвете Богородице,Before icon of Most Holy Theotokos,Prayer Phrase,,
+,Пред капијом Фанара,Before the gate of Phanar,Geographical,,
+,Пред престолом Божјим,Before God's throne,Theological Phrase,,
+,Пред пут,Before journey,Temporal Phrase,,
+,Пред свеца бану,Appeared before saint,Miracle Verb,,
+,Пред смрт,Before death,Temporal Phrase,,
+,Пред смрт,Before death,Temporal Phrase,,
+,Пред смрт,Before death,Death Phrase,,
+,Пред Христом мојим,Before my Christ,Spiritual Phrase,,
+,Пред целим Сенатом,Before whole Senate,Historical Phrase,,
+,Пред црквом у Витлејему,Before church in Bethlehem,Geographical Phrase,,
+,Предавати Господу,To present to Lord,Liturgical Verb,,
+,Предавати се подвизима,To devote to ascetic struggles,Monastic Verb,,
+,Предаде Божјој руци,Gave to God's hand,Spiritual Phrase,,
+,Предаде дух Богу,Gave up spirit to God,Death Phrase,,
+,Предаде на мучење,Handed over for torture,Martyrdom Phrase,,
+,Предан Богу на службу,Dedicated to God for service,Spiritual Phrase,,
+,Преданост,Devotion,Virtue,,
+,Предати Богу на службу,To present to God for service,Liturgical Phrase,,
+,Предати дух,To give up one's spirit,Death Verb,,
+,Предати дух,To give up spirit,Death Verb,,
+,Предати дух,To give up spirit,Biblical Death Phrase,,
+,Предати душе Богу,To give up souls to God,Death Phrase,,
+,Предати душу Богу,To give up soul to God,Death Phrase,,
+,Предати новац,To hand over money,Verb,,
+,Предати свету душу,To give up holy soul,Death Verb,,
+,Предати се Господу,To surrender to the Lord,Spiritual Verb,,
+,Предати се на службу,To devote to service,Spiritual Verb,,
+,Предати се у руке судбини,To give oneself up to fate,Idiom,,
+,Предати у манастир,To hand over to monastery,Monastic Verb,,
+,Предати царство,To hand over kingdom,Verb,,
+,Предвидети смрт,To foresee death,Miracle Verb,,
+,Предели Сихемски,Region of Shechem,Geographical,,
+,Предиван мирис,Wondrous fragrance,Miracle Phrase,,
+,Предображавати,To prefigure,Theological Verb,,
+,Предпразниство,Forefeast,Feast,,
+,Представити се душом,To present soul,Death Verb,,
+,Предстати ка Господу,To appear before Lord,Death Phrase,,
+,Предубока јама,Very deep pit,Phrase,,
+,Пређашњи љубавници,Former lovers,Phrase,,
+,Пређоше у царство,Passed into kingdom,Death Verb,,
+,Преживети 100 година,To live one hundred years,Temporal Phrase,,
+,Презвитер,Presbyter,Church Title,,
+,Презвитер,Presbyter,Ecclesiastical Title,,
+,Презирати,To despise,Verb,,
+,Презрети нагађања,To despise conjectures,Verb,,
+,Презрети престо,To despise throne,Verb,,
+,Прејасан,Most clear,Adjective,,
+,Прекине везу,Severs bond,Ecclesiological Verb,,
+,Преко 100 на број,Over one hundred in number,Phrase,,
+,Преко апостола,Through apostles,Ecclesiological Phrase,,
+,Преко дана,During the day,Temporal Phrase,,
+,Прекорно писмо,Reproachful letter,Phrase,,
+,Прекрасан споља и изнутра,Beautiful outwardly and inwardly,Biblical Phrase,,
+,Прекрасна и кротка,Beautiful and gentle,Hagiographic Phrase,,
+,Прекрасне слуге Божје,Most beautiful servants of God,Angelic Phrase,,
+,Прекрасни војник,Most beautiful soldier,Hagiographic Phrase,,
+,Прекрасни Рај,Beautiful Paradise,Theological,,
+,Прекрасним учинити,To make most beautiful,Verb,,
+,Прекрупан,Most great,Adjective,,
+,Прекршити,"To violate, to break",Verb,,
+,Преластити се,To be deceived,Verb,,
+,Прелестити,To deceive,Demonic Verb,,
+,Прелестити се,To be deceived,Verb,,
+,Преливати се,To overflow,Verb,,
+,Према закону,According to law,Biblical Phrase,,
+,Према мери узраста,According to measure of stature,Theological Phrase,,
+,Према молитви,According to prayer,Phrase,,
+,Према назначењу,According to appointment,Phrase,,
+,Према служби и дару,According to ministry and gift,Ecclesiological Phrase,,
+,Према узрасту духовноме,According to spiritual maturity,Spiritual Phrase,,
+,Према целом телу,To whole body,Ecclesiological Phrase,,
+,Премила љубав,Most dear love,Theological,,
+,Преминути,"To pass away, to depart this life",Death Verb,,
+,Премноге милостиње,Excessive almsgiving,Spiritual Phrase,,
+,Премудри,Most wise,Hagiographic Adjective,,
+,Премудри,Most wise,Theological Attribute,,
+,Премудри Варлам,Wise Barlaam,Hagiographic Phrase,,
+,Премудрост,Wisdom (all-wisdom for премудри as epithet),Virtue,,
+,Пренебрегавати дар,To neglect the gift,Verb,,
+,Пренебрегао брак,Forsaken marriage,Verb,,
+,Пренебрегао родитеље,Forsaken parents,Verb,,
+,Пренебрегао сав свет,Forsaken all world,Verb,,
+,Пренесе у Јудеју,Transported to Judea,Geographical Verb,,
+,Пренете мошти,Relics were transferred,Ecclesiological Phrase,,
+,Пренете у Београд,Transferred to Belgrade,Geographical Verb,,
+,Пренети,"To transfer, to carry",Verb,,
+,Пренети,To transport,Verb,,
+,Пренети мошти,To transfer relics,Ecclesiological Verb,,
+,Пренети у цркву,To carry to the church,Verb,,
+,Пренос моштију,Translation of relics,Ecclesiological,,
+,Пренос моштију,Transfer of relics,Ecclesiological,,
+,Преп. Акакије Синајски,Venerable Acacius of Sinai,Saint Name,,
+,Преп. Алимпије Столпник,Venerable Alypius the Stylite,Saint Name,,
+,Преп. Ана,Venerable Anna,Saint Name,,
+,Преп. Варлам и Јоасаф,Venerable Barlaam and Joasaph,Saint Name,,
+,Преп. Варлам Хутински,Venerable Barlaam of Khutyn,Saint Name,,
+,Преп. Генадије Ватопедски,Venerable Gennadius of Vatopedi,Saint Name,,
+,Преп. Григорије Декаполит,Venerable Gregory the Decapolite,Saint Name,,
+,Преп. Илија Египатски,Venerable Elias of Egypt,Saint Name,,
+,Преп. Јаков Отшелник,Venerable James the Hermit,Saint Name,,
+,Преп. Јевтимије Дохијарски,Venerable Euthymius of Dochiariou,Saint Name,,
+,Преп. Јоаникије Велики,Venerable Joannicius the Great,Saint Name,,
+,Преп. Јован Колов,Venerable John Kolov (the Short),Saint Name,,
+,Преп. Лазар Галасијски,Venerable Lazarus of Galesium,Saint Name,,
+,Преп. Маркијан Кирски,Venerable Marcian of Cyrrhus,Saint Name,,
+,Преп. Матрона Цариградска,Venerable Matrona of Constantinople,Saint Name,,
+,Преп. муч. Галактион,Venerable Martyr Galaction,Saint Name,,
+,Преп. муч. Дамаскин,Venerable Martyr Damascene,Saint Name,,
+,Преп. муч. Епистима,Venerable Martyr Episteme,Saint Name,,
+,Преп. муч. Јаков,Venerable Martyr James,Saint Name,,
+,Преп. муч. Стефан Нови,Venerable Martyr Stephen the Newer,Saint Name,,
+,Преп. Натанаил,Venerable Nathanael,Saint Name,,
+,"Преп. Никон „Покајаније""","Venerable Nikon ""Repent""",Saint Name,,
+,Преп. Никон Радонежски,Venerable Nikon of Radonezh,Saint Name,,
+,Преп. Пафнутије,Venerable Paphnutius,Saint Name,,
+,Преп. Пинуфрије,Venerable Phnuphrius,Saint Name,,
+,Преп. Роман чудотворац,Venerable Roman the Wonderworker,Saint Name,,
+,Преп. Сергије Малопинежски,Venerable Sergius of Malopinega,Saint Name,,
+,Преп. Стилијан,Venerable Stylianos,Saint Name,,
+,Преп. Теодор Студит,Venerable Theodore the Studite,Saint Name,,
+,Преп. Теоктиса Пароска,Venerable Theoctiste of Paros,Saint Name,,
+,Препирати се о вери,To dispute about faith,Verb,,
+,Препирка,Dispute,Phrase,,
+,Преподобни Атанасије,Venerable Athanasius,Saint Name,,
+,Преподобни Сава Сторожевски,Venerable Sabas of Storozhev,Saint Name,,
+,Преподобни Теодул,Venerable Theodulus,Saint Name,,
+,Препоручити,To recommend,Verb,,
+,Преручити се,To disguise oneself,Verb,,
+,Прерушен у проста монаха,Disguised as simple monk,Monastic Phrase,,
+,Пресвета Богородица,Most Holy Theotokos,Christ/Theotokos,,
+,Пресвета Дева,Most Holy Virgin,Christ/Theotokos,,
+,Пресвета Дева Марија,Most Holy Virgin Mary,Theotokos Title,,
+,Пресвета Тројица,Most Holy Trinity,Theological,,
+,Пресели (се у царство),Departed (to the Kingdom),Death Verb,,
+,Пресели се с мајком,Moved with mother,Phrase,,
+,Пресели се у вечност,Departed into eternity,Death Phrase,,
+,Пресели у престоницу,Moved to capital,Geographical Verb,,
+,Преселио се,Passed,Death Verb,,
+,Преселити се душом,Soul passing,Death Phrase,,
+,Преселити се у вечни живот,To pass into eternal life,Death Phrase,,
+,Преславни старац,Most glorious old man,Hagiographic Phrase,,
+,Престарели Филарет,Aged Philaret,Hagiographic Phrase,,
+,Престати гоњење,Persecution ceased,Historical Phrase,,
+,Престати пролевати крв,To cease spilling blood,Verb,,
+,Престо,Throne,Ecclesiological,,
+,Престо,Throne,Phrase,,
+,Престо архиепископски,Archepiscopal throne,Ecclesiological,,
+,Престо земаљског царства,Throne of an earthly kingdom,Phrase,,
+,Престо патријаршијски,Patriarchal throne,Ecclesiological,,
+,Престо родитељски,Ancestral throne,Historical Phrase,,
+,Престоли,Thrones,Angelic Hierarchy,,
+,Престоница,Capital,Geographical,,
+,Преступи заповест,Transgressed commandment,Biblical Verb,,
+,Пресудити ствар,To decide case,Legal Verb,,
+,Претворити се у вино,To transform into wine,Verb,,
+,Претежи разум,To surpass knowledge,Theological Verb,,
+,Претежнија,That surpasses,Theological Adjective,,
+,Претендент на престо,Pretender to the throne,Historical,,
+,Претешко време,Most difficult time,Historical Phrase,,
+,Претити мукама,To threaten with tortures,Martyrdom Phrase,,
+,Претње,Threats,Phrase,,
+,Претрпети безбројне беде,To endure countless afflictions,Spiritual Phrase,,
+,Претрпети одрезање,To endure cutting off,Martyrdom Verb,,
+,Претходно опомиње,Warns beforehand,Verb,,
+,Прећати смртном казном,To threaten with capital punishment,Legal Phrase,,
+,Прећи у бољи живот,To pass into better life,Death Phrase,,
+,Пречисте руке,Most pure hands,Theological,,
+,Пречудна вера,Wondrous faith,Spiritual,,
+,Пречудна истина,Wondrous truth,Theological,,
+,Пречудна љубав,Wondrous love,Spiritual,,
+,Пречудни путеви,Wondrous ways,Phrase,,
+,Прешао из овог живота,Passed from this life,Death Phrase,,
+,При гробу,At tomb,Phrase,,
+,При губитцима,In losses,Phrase,,
+,При знамењу крста,At the sign of the Cross,Liturgical Phrase,,
+,При крају писма,At end of letter,Phrase,,
+,При њему,In his time,Temporal Phrase,,
+,При опасностима,In dangers,Phrase,,
+,При поласку,At departure,Temporal Phrase,,
+,При помену имена,At the mention of the name,Phrase,,
+,При продаји поврћа,While selling vegetables,Phrase,,
+,При сваком сечењу,At each cutting,Martyrdom Phrase,,
+,При страдању,At suffering,Martyrdom Phrase,,
+,При том,Besides this,Phrase,,
+,При том остати,In that to remain,Phrase,,
+,Прибегавати,To take refuge,Spiritual Verb,,
+,Прибеже,"Turned to, fled to",Verb,,
+,Приближи нам се,Draw near to us,Prayer,,
+,Приближити,To bring near,Theological Verb,,
+,Приближити се,To approach,Verb,,
+,Приближити се,To approach,Verb,,
+,Приведе брата,Brought brother,Biblical Verb,,
+,Привезати,To bind,Verb,,
+,Привести жену,To bring woman,Biblical Verb,,
+,Привести ка Христу,To bring to Christ,Spiritual Verb,,
+,Привести у веру,To bring to faith,Spiritual Verb,,
+,Привидни мир,Apparent peace,Phrase,,
+,Привидно задовољити,To satisfy outwardly,Verb,,
+,Приводити,To lead,Verb,,
+,Приволети се,To be won over,Verb,,
+,Привуче к богоугодном животу,Drew to God-pleasing life,Spiritual Phrase,,
+,Приготовљена слава,Glory prepared,Theological Phrase,,
+,Придобијати,To win over,Spiritual Verb,,
+,Придобити,To win (converts),Spiritual Verb,,
+,Придружити се,To join,Verb,,
+,Приђоше два друга,Two friends approached,Phrase,,
+,Призва децу,Called children,Verb,,
+,Призвати,To summon,Verb,,
+,Призив,Invocation,Phrase,,
+,Призивати,To call upon,Verb,,
+,Призивати све,To call all,Theological Verb,,
+,Признаде,Confessed,Verb,,
+,Признати,To acknowledge,Verb,,
+,Признати,To acknowledge,Verb,,
+,Призрак,Pretense,Phrase,,
+,Призраци,Phantoms,Phrase,,
+,Пријави се сама власти,Presented herself to authorities,Phrase,,
+,Пријављивати посетиоце,To announce visitors,Phrase,,
+,Пријатељи,Friends,Phrase,,
+,Приковати за крст,To nail to cross,Spiritual Phrase,,
+,Прикривају голотињу,Cover nakedness,Spiritual Verb,,
+,Прилагати труд ка труду,To add labor to labor,Monastic Phrase,,
+,Прилике,Circumstances,Phrase,,
+,Приличи,Befits,Verb,,
+,Приљежно молити се,To pray diligently,Spiritual Verb,,
+,Примати клевете,To receive slanders,Verb,,
+,Примати похвале,To receive praise,Biblical Phrase,,
+,Пример љубави дат,Example of love given,Theological Phrase,,
+,Примери постојанства,Examples of steadfastness,Phrase,,
+,Примерни живот,Exemplary life,Hagiographic Phrase,,
+,Примером и речима,By example and words,Phrase,,
+,Прими Господе,Receive O Lord,Prayer Phrase,,
+,Прими нас у Себе,Receive us into Thyself,Prayer Phrase,,
+,Прими ручак,Receive lunch,Biblical Quote,,
+,Примио благодат свештеника,Received grace of priesthood,Ecclesiological Phrase,,
+,Примио на се испосничке узе,Didst take upon ascetic bonds,Monastic Phrase,,
+,Примити благослов,To receive blessing,Liturgical Verb,,
+,Примити епископства,To accept episcopacy,Ecclesiological Verb,,
+,Примити крштење,To receive baptism,Spiritual Verb,,
+,Примити мучење,To receive torment,Martyrdom Verb,,
+,Примити поново,To receive again,Ecclesiological Verb,,
+,Примити поругу,To accept mockery,Martyrdom Verb,,
+,Примити причешће,To receive communion,Spiritual Verb,,
+,Примити прстен,To receive ring,Phrase,,
+,Примити са небеса,To receive from heaven,Spiritual Verb,,
+,Примити стоструко,To receive hundredfold,Biblical Phrase,,
+,Примити сунце у се,To receive sun into itself,Phrase,,
+,Примићеш венац,Shalt receive crown,Biblical Quote,,
+,Примљен од народа,Received by people,Phrase,,
+,Примора силом околности,To compel by force of circumstances,Phrase,,
+,Приморавати,To compel,Verb,,
+,Принети жртву,To offer sacrifice,Liturgical Verb,,
+,Принети жртву,To offer sacrifice,Liturgical Verb,,
+,Принети прст,To offer finger,Martyrdom Phrase,,
+,Приносити жртве,To offer sacrifices,Verb,,
+,Приносити на жртву,To offer as a sacrifice,Theological Phrase,,
+,Принципо,Prinkipo,Geographical,,
+,Припаде на молитву,Fell in prayer,Prayer Phrase,,
+,Припијати се,To cleave to,Theological Verb,,
+,Приписано је,Was ascribed to,Verb,,
+,Припремише гозбу,Prepared feast,Verb,,
+,Припремљен за сахрану,Prepared for burial,Burial Phrase,,
+,Припретити смрћу,To threaten with death,Martyrdom Verb,,
+,Приредити дочек,To prepare a reception,Verb,,
+,Природа човечја,Human nature,Phrase,,
+,Природна смрт,Natural death,Phrase,,
+,Присебан,Composed,Adjective,,
+,Присилити,To force,Verb,,
+,Присилити на брак,To compel to marriage,Verb,,
+,Присталице,Adherents,Phrase,,
+,Приступити цркви,To come to Church,Ecclesiological Verb,,
+,Присуство Божје,God's presence,Theological,,
+,Присуство љубави,Presence of love,Theological,,
+,Присуство Христово,Presence of Christ,Theological,,
+,Присуствује у сваком делу,Is present in every part,Ecclesiological Phrase,,
+,Присутни људи,People present,Phrase,,
+,Притицати за савет,To come for counsel,Verb,,
+,Прича о талантима,Parable of talents,Biblical,,
+,Прича старца,Elder's tale,Phrase,,
+,Прича старца,Elder's tale,Phrase,,
+,Причестити,To commune (someone),Spiritual Verb,,
+,Пробати разумевање,To test understanding,Phrase,,
+,Прободети језик трном,To pierce tongue with thorn,Martyrdom Verb,,
+,Проведе године и године,Spent years and years,Temporal Phrase,,
+,Проведе девет година,Spent nine years,Temporal Phrase,,
+,Провести дуго времена,To spend a long time,Phrase,,
+,Провести на безмолвију,To spend in silence,Monastic Phrase,,
+,Провести на столпу,To spend on pillar,Monastic Phrase,,
+,Провести остатак живота,To spend remainder of life,Phrase,,
+,Провести у покајању,To live in repentance,Spiritual Verb,,
+,Провидећи време доласка Месије,Foreseeing time of Messiah's coming,Biblical Phrase,,
+,Проглашен за краља,Proclaimed king,Historical Phrase,,
+,Прогледати,To receive one's sight,Miracle Verb,,
+,Прогледати,To receive sight,Miracle Verb,,
+,Прогнан на острво,Exiled to island,Phrase,,
+,Прогонити иконе,To persecute icons,Ecclesiological Verb,,
+,Прогутала земља,Earth swallowed,Biblical Phrase,,
+,Прогутати,To swallow up,Verb,,
+,Прогутати човека,To swallow man,Verb,,
+,Продаја котарица,To sell baskets,Phrase,,
+,Продужавати се,To continue,Verb,,
+,Продужити живети,To continue to live,Verb,,
+,Продужити пут,To continue on way,Verb,,
+,Продужити служити,To continue to serve,Verb,,
+,Продужује исрцпно,Continues exhaustively,Verb,,
+,Прође по улицама,Went through streets,Verb,,
+,Прође тама,Darkness passed,Phrase,,
+,Проживе неколико година,Lived several years,Temporal Phrase,,
+,Проживети земни век,To live out earthly days,Hagiographic Phrase,,
+,Прозван,Called,Verb,,
+,Прозват Бељом,Called Bleacher,Phrase,,
+,Прозват Невским,Called Nevsky,Title,,
+,Прозирање у будућност,Seeing into future,Miracle Phrase,,
+,Прозирао у духовни свет,Saw into spiritual world,Miracle Phrase,,
+,Прозирати у даљини,To see into distance,Miracle Verb,,
+,Прозор,Window,Phrase,,
+,Прозорљив,Far-seeing,Hagiographic Adjective,,
+,Прозорљивим духом,With prophetic spirit,Miracle Phrase,,
+,Произаћи,To descend (from),Verb,,
+,Произашао,Came forth,Verb,,
+,Произишао од Бога,Came from God,Theological Phrase,,
+,Произлазити,To proceed,Verb,,
+,Пројавити,To manifest,Miracle Verb,,
+,Пројавити се,To be manifested,Miracle Verb,,
+,Прокажене,Lepers,Phrase,,
+,Прокл,Proclus,Saint Name,,
+,Проклета јереси,Accursed heresy,Theological,,
+,Проклети грех,Accursed sin,Theological,,
+,Проклети демони,Accursed demons,Theological,,
+,Прокључа извор воде,Gushed forth spring of water,Miracle Phrase,,
+,Проконис,Proconnesus,Geographical,,
+,Прокунути,To curse,Verb,,
+,Пролазити путем,To pass by road,Verb,,
+,Пролазна као пена,Passing like foam,Phrase,,
+,Пролазно,Transitory,Vice,,
+,Проливена са Крста,Poured out from Cross,Theological Phrase,,
+,Пролити за икону,To shed for icon,Martyrdom Verb,,
+,Променити живот,To change life,Spiritual Verb,,
+,Промешати новац,To mix up money,Phrase,,
+,Промисао Божји,Divine Providence,Theological,,
+,Промисао Божји,God's Providence,Theological,,
+,Промисао Божји,God's providence,Theological,,
+,Промислом Божјим,By God's providence,Theological,,
+,Пропаде сав град,Whole city perished,Historical Phrase,,
+,Пропасти,To perish,Verb,,
+,Пропис законски,Ordinance of the Law,Theological,,
+,Прописани подвизи монашки,Prescribed monastic struggles,Monastic Phrase,,
+,Проповедати,To preach,Spiritual Verb,,
+,Проповедати Бога у Тројици,To preach God in Trinity,Theological Verb,,
+,Проповедати живот бесмртни,To preach immortal life,Theological Verb,,
+,Проповедати Јеванђеље,To preach Gospel,Ecclesiological Verb,,
+,Прорекао дан гнева Божјега,Foretold day of God's wrath,Biblical Phrase,,
+,Прорекао крштење,Prophesied baptism,Miracle Verb,,
+,Прорекао опустошење,Foretold devastation,Miracle Verb,,
+,Прорекао пропаст,Prophesied destruction,Miracle Verb,,
+,Прорећи,To predict,Verb,,
+,Прорећи,To prophesy,Verb,,
+,Прорећи будућност,To prophesy future,Miracle Verb,,
+,Прорече свакоме,Prophesied to each,Miracle Verb,,
+,Прорицати,To prophesy,Spiritual Verb,,
+,Прориче пропаст,Prophesied destruction,Miracle Verb,,
+,Проричити,To prophesy,Spiritual Verb,,
+,Пророк Авакум,Prophet Habakkuk,Saint Name,,
+,Пророк Јеремија,Prophet Jeremiah,Biblical Name,,
+,Пророк Наум,Prophet Nahum,Saint Name,,
+,Пророк Софоније,Prophet Zephaniah,Saint Name,,
+,Пророковао о ослобођењу,Prophesied concerning liberation,Miracle Phrase,,
+,Пророци новозаветни,New Testament prophets,Biblical,,
+,Пророци старозаветни,Old Testament prophets,Biblical,,
+,Пророци хвалише,Prophets are light,Biblical Quote,,
+,Пророчанство,Prophecy,Theological,,
+,Просветитељ Абисиније,Enlightener of Abyssinia,Hagiographic Title,,
+,Просветити људе,To enlighten people,Spiritual Verb,,
+,Просвећивати размишљањем,To be enlightened by contemplating,Spiritual Verb,,
+,Просијати,To shine,Verb,,
+,Просјаке,Beggars,Phrase,,
+,Прослави Бога,Glorified God,Spiritual Verb,,
+,Прославити,To glorify,Spiritual Verb,,
+,Прославити Бога,To glorify God,Spiritual Verb,,
+,Прославити себе,To glorify oneself,Verb,,
+,Прослављамо се,We are glorified,Theological Verb,,
+,Прослављачу Бога,Glorifier of God,Hagiographic Title,,
+,Прослављен за увек,Glorified forever,Hagiographic Phrase,,
+,Прослављен као богослов,Celebrated as a theologian,Hagiographic Phrase,,
+,Прослављен као јерарх,Celebrated as a hierarch,Hagiographic Phrase,,
+,Прослављен као подвижник,Celebrated as an ascetic,Hagiographic Phrase,,
+,Прослављен си сада,Glorified art thou now,Hagiographic Phrase,,
+,Прослављена у Царству Христовоме,Glorified in Christ's Kingdom,Hagiographic Phrase,,
+,Прослављење Бога,Glorification of God,Theological,,
+,Прост монах,Simple monk,Monastic Title,,
+,Пространа земља,Spacious land,Geographical,,
+,Протерати на острво,To drive to island,Verb,,
+,Протерати с бешчешћем,To expel with dishonor,Verb,,
+,Протерати у Херсон,To exile to Cherson,Verb,,
+,Протераше,Drove into exile,Persecution Verb,,
+,Против гневљивости,Against wrath,Phrase,,
+,Против гордости,Against pride,Phrase,,
+,Против јеретика,Against heretics,Ecclesiastical Phrase,,
+,Против малодушности,Against faint-heartedness,Phrase,,
+,Противник царев,Emperor's enemy,Phrase,,
+,Противно закону,Contrary to law,Phrase,,
+,Противно обичају,Contrary to custom,Phrase,,
+,Противречити,To contradict,Verb,,
+,Проткан чудесима,Woven with miracles,Hagiographic Phrase,,
+,Протумачити посланице,To interpret epistles,Phrase,,
+,Проћи кроз огањ,To pass through fire,Phrase,,
+,Проћи улицом,To pass along the street,Phrase,,
+,Прохлађиван,Cooled,Miracle Verb,,
+,Прохујали,Had passed,Verb,,
+,Прочути се,To become famous,Verb,,
+,Прошлост,Past,Phrase,,
+,Прсти,Fingers,Phrase,,
+,Прсти мученикови,Martyr's fingers,Martyrdom Phrase,,
+,Прсти на ногама,Fingers on feet,Phrase,,
+,Прсти на рукама,Fingers on hands,Phrase,,
+,Прстом нацрта крст,Traced cross with finger,Miracle Phrase,,
+,Пружи руку,Stretched out hand,Verb,,
+,Пружити руке,To reach out hands,Verb,,
+,Пс.,Ps.,Biblical Book,,
+,Псалам,Psalm,Biblical,,
+,Псалмиста,Psalmist,Biblical,,
+,Псалмопјеније,Psalmody,Liturgical,,
+,Птице и зверове,Birds and beasts,Biblical,,
+,Птице небеске,Birds of heaven,Biblical,,
+,Публије,Publius,Personal Name,,
+,Пук јерменски,Armenian regiment,Military,,
+,Пулхерија,Pulcheria,Personal Name,,
+,Пунити празнину,To fill emptiness,Spiritual Verb,,
+,Пуних 38 година,Full thirty-eight years,Temporal Phrase,,
+,Пуних 53 године,Full fifty-three years,Temporal Phrase,,
+,Пуних 9 година,Full nine years,Temporal Phrase,,
+,Пуних тридесет година,Full thirty years,Temporal Phrase,,
+,Пуно заслужно,Most deservedly,Hagiographic Phrase,,
+,Пуноћа бесмртна,Immortal fullness,Theological,,
+,Пуноћа живота,Fullness of life,Theological,,
+,Пуноћа красоте,Fullness of beauty,Theological,,
+,Пуноћа мудрости,Fullness of wisdom,Theological,,
+,Пуноћа над пуноћама,Fullness above fullnesses,Theological,,
+,Пуноћа сласти,Fullness of sweetness,Theological,,
+,Пуноћа Христова,Fullness of Christ,Theological,,
+,Пуста планина,Barren mountain,Geographical,,
+,Пустиња,"Desert, wilderness",Monastic,,
+,Пустиња сура,Harsh desert,Monastic,,
+,Пустињом ходи,Walks through desert,Monastic Phrase,,
+,Пустити из себе,To bring forth from itself,Biblical Verb,,
+,Пустити тврди сан,To cause deep sleep to fall,Biblical Verb,,
+,Пут живота,Path of life,Spiritual Phrase,,
+,Путници,Travelers,Phrase,,
+,Путовања,Journeys,Phrase,,
+,Путовао је с ангелом,Traveled with angel,Miracle Phrase,,
+,Путоваше за Индију,Was traveling to India,Geographical Verb,,
+,Путујући,Traveling,Verb,,
+,Пчела цркве Христове,Bee of Christ's Church,Hagiographic Phrase,,
+,Пчелари,Beekeepers,Profession,,
+,Работник,Laborer,Monastic Title,,
+,Рад безбожног цара,For sake of godless emperor,Phrase,,
+,Рад истине,For truth,Phrase,,
+,Ради Бога,For the sake of God,Devotional Phrase,,
+,Ради живог Христа,For sake of living Christ,Spiritual Phrase,,
+,Ради лечења,For healing,Phrase,,
+,Ради разонођења,For recreation,Phrase,,
+,Ради славе Твоје,For the sake of Thy glory,Devotional Phrase,,
+,Ради спасења нашег,For the sake of our salvation,Devotional Phrase,,
+,Ради увеселења,For amusement,Phrase,,
+,Ради Христа,For Christ's sake,Spiritual Phrase,,
+,Ради Христа,For Christ's sake,Spiritual Phrase,,
+,Радницима на њиви,To workers in field,Phrase,,
+,Радовање,Joy,Spiritual,,
+,Радонешки,Of Radonezh,Geographical,,
+,Радосна откровења,Joyful revelations,Theological,,
+,Радост вечна,Eternal joy,Theological,,
+,Радост Господа,Joy of the Lord,Theological Phrase,,
+,Радост неисказана,Unspeakable joy,Hagiographic Phrase,,
+,Радост неисказана,Unspeakable joy,Phrase,,
+,Радуј се и весели се,Be glad and rejoice,Biblical Quote,,
+,Радује неисказано,Unspeakably rejoices,Verb,,
+,Радујемо се,We rejoice,Verb,,
+,Радујемо се сунцу,Rejoice in sun,Phrase,,
+,Радујмо се и веселимо се,Let us rejoice and be glad,Biblical Phrase,,
+,Рађати се,To be born,Verb,,
+,Ражљутити се,To become enraged,Verb,,
+,Ражљућен на,Enraged at,Phrase,,
+,Разби се лађа,Ship was wrecked,Verb,,
+,Разбојници,Robbers,Phrase,,
+,Разбојничко занимање,Brigand occupation,Phrase,,
+,Разболети се,To fall ill,Verb,,
+,Разгневити се веома,To become very angry,Verb,,
+,Разговарам с њима,Conversing with them,Quote,,
+,Разговарао са децом,Conversed with children,Phrase,,
+,Разговарати,To converse,Verb,,
+,Разговарати са ангелима,To converse with angels,Angelic Phrase,,
+,Разговор имао,Didst have conversation,Miracle Phrase,,
+,Разголићење,Nakedness,Spiritual,,
+,Разгонити,To disperse,Verb,,
+,Разгоревати се,To be enkindled,Verb,,
+,Разгорети се похоти,To be inflamed with lust,Phrase,,
+,Раздавати награде,To distribute rewards,Theological Verb,,
+,Раздати имање,To distribute possessions,Spiritual Verb,,
+,Разделење звања,Division of callings,Ecclesiological,,
+,Разделење служби,Division of ministries,Ecclesiological,,
+,Разделио дарове,Divided gifts,Theological Phrase,,
+,Разденуше,Stripped,Martyrdom Verb,,
+,Раздражити се,To be enraged,Verb,,
+,Раздробити тело,To crush body,Martyrdom Verb,,
+,Разилазити се,To scatter,Verb,,
+,Разјапљена уста,Gaping mouth,Phrase,,
+,Разјарен због тога,Enraged because of this,Phrase,,
+,Разјарени,Enraged,Adjective,,
+,Разјарени кнез,Enraged prince,Phrase,,
+,Разјарити се коњ,Horse became enraged,Phrase,,
+,Различни судови,Various judgments,Theological Phrase,,
+,Разлог крупан,Reason great,Phrase,,
+,Разлучити светлост од таме,To divide light from darkness,Biblical Verb,,
+,Разлучих телом,Parted in body,Quote,,
+,Размишљање,Reflection,Structural,,
+,Разна привиђења,Various apparitions,Spiritual Phrase,,
+,Разне службе,Various functions,Ecclesiological,,
+,Разни људи,Various people,Phrase,,
+,Разни органи,Various organs,Phrase,,
+,Разобличити,"To refute, to expose",Spiritual Verb,,
+,Разорити,To destroy,Theological Verb,,
+,Разорити јединство,To destroy unity,Ecclesiological Verb,,
+,Разуздани младић,Dissolute young man,Phrase,,
+,Разумевање тајни,Understanding of mysteries,Spiritual Phrase,,
+,Разумети,To understand,Verb,,
+,Разумети се,To understand each other,Verb,,
+,Разумна,Rational,Adjective,,
+,Разумније,Wiser,Adjective,,
+,Рајски сјај,Paradise's radiance,Theological,,
+,Рамена,Shoulders,Phrase,,
+,Ране се отворише,Wounds opened,Phrase,,
+,Раније непројављена,Not previously manifested,Theological Phrase,,
+,Раније обећање,Earlier promise,Phrase,,
+,Ранити,To wound,Verb,,
+,Рано остави,Early abandoned,Verb,,
+,Раскајати се љуто,To repent bitterly,Spiritual Verb,,
+,Раскинути савез,To break a covenant,Verb,,
+,Раскошни Рим,Splendid Rome,Geographical,,
+,Распад царства српског,Disintegration of Serbian empire,Historical Phrase,,
+,Распе на крсту,Crucified on cross,Martyrdom Verb,,
+,Распети наопако,To crucify upside down,Martyrdom Verb,,
+,Распламтети,To inflame,Verb,,
+,Распознавати се,To be recognizable,Verb,,
+,Распростирати се,To spread,Verb,,
+,Распростро руке,Didst spread out hands,Biblical Phrase,,
+,Распусна омладина,Dissolute youth,Phrase,,
+,Распутство,Licentiousness,Phrase,,
+,Расрдити,To scatter,Verb,,
+,Расрдити се,To become angry,Verb,,
+,Расрдити се,To become angry,Verb,,
+,Расрђен цар,Angry emperor,Phrase,,
+,Раставити воду,To divide the water,Biblical Verb,,
+,Растанак,Separation,Phrase,,
+,Расти и развијати се,To grow and develop,Spiritual Verb,,
+,Растопити се као восак,To melt like wax,Miracle Phrase,,
+,Растргнути,To tear apart,Martyrdom Verb,,
+,Растргнути на комаде,To be torn to pieces,Martyrdom Verb,,
+,Растумачити,To expound,Verb,,
+,Раступити се,To open (earth),Verb,,
+,Растурене књиге,Scattered books,Phrase,,
+,Расуђивање,Reflection,Structural,,
+,Расхладити,To cool,Verb,,
+,Расцарити,To dethrone,Verb,,
+,Ратник на коњу,Warrior on horseback,Phrase,,
+,Ратовати против варвара,To wage war against barbarians,Military Verb,,
+,Ратовати са Христом,To make war with Christ,Phrase,,
+,Рафаил,Raphael,Archangel Name,,
+,Рачуна се у велике Оце Цркве,Numbered among great Fathers of Church,Ecclesiastical Phrase,,
+,Раширити делатност,To expand activity,Verb,,
+,Рђаве мисли,Evil thoughts,Spiritual,,
+,Ревновати за Христа,To be zealous for Christ,Spiritual Verb,,
+,Ревносан хришћанин,Zealous Christian,Hagiographic Phrase,,
+,Ревносни заштитник,Zealous defender,Hagiographic,,
+,Ревносно сабирати,To diligently gather,Verb,,
+,Ревност,Zeal,Virtue,,
+,Редом,In order,Phrase,,
+,Ређати се,To alternate in succession,Verb,,
+,Река Волхова,River Volkhov,Geographical,,
+,Река Нева,Neva River,Geographical,,
+,Река Тигар,River Tigris,Geographical,,
+,Рекавши то,Having said that,Phrase,,
+,Рекао цену робе,Told price of goods,Phrase,,
+,Реку из даљине навратио,Turned river from distance,Miracle Phrase,,
+,Рећи о хришћанима,To tell about Christians,Verb,,
+,Реч чудесну,Wondrous word,Biblical Phrase,,
+,Рече између осталога,Said among other things,Phrase,,
+,Речи бледе,Pale words,Phrase,,
+,Речју и чудима,By word and by miracles,Hagiographic Phrase,,
+,Решетка гвоздена,Iron grate,Martyrdom,,
+,Реши се,Resolved,Verb,,
+,Риба,Fish,Angelic Symbol,,
+,Рибар по занимању,Fisherman by occupation,Phrase,,
+,Ридаше,Wept,Verb,,
+,Ризница свих добара,Treasury of all good things,Ecclesiological Phrase,,
+,Рим.,Rom.,Biblical Book,,
+,Римокатолички,Roman Catholic,Historical Denomination,,
+,Римски закони,Roman laws,Historical,,
+,Риторика,Rhetoric,Academic,,
+,Роб Свемоћнога,Slave of Almighty,Spiritual Title,,
+,Робиња,Slave girl,Phrase,,
+,Робиња,Slave woman,Phrase,,
+,Робље,Captives,Phrase,,
+,Ров,Pit,Phrase,,
+,Ров испуњен опасностима,Pit filled with dangers,Phrase,,
+,Род људски,Human race,Phrase,,
+,Род људски,Human race,Phrase,,
+,Родион,Rodion,Saint Name,,
+,Родитељи благочестиви,Pious parents,Phrase,,
+,Родитељи знаменити,Distinguished parents,Phrase,,
+,Родити Живодавца,To give birth to the Life-giver,Theological Phrase,,
+,Родно воће,Fruitful produce,Biblical,,
+,Родно дрвеће,Fruit-bearing trees,Biblical,,
+,Родолфија,Rodolphius,Geographical,,
+,Родољуб,Patriot,Phrase,,
+,Родом из Витсаиде,From Bethsaida,Geographical Phrase,,
+,Родом из Јерменије,From Armenia,Geographical Phrase,,
+,Родом од горе Саварата,From Mount Sabarath,Geographical Phrase,,
+,Рођен/рођена,Born,Life Event Verb,,
+,Рођена у Ефесу,Born in Ephesus,Historical Phrase,,
+,Рој мува на лешину,Swarm of flies upon a corpse,Phrase,,
+,Роман чудотворац,Roman the Wonderworker,Saint Name,,
+,Ропство,Captivity,Phrase,,
+,Ропство код Сарацена,Captivity among the Saracens,Historical Phrase,,
+,Роса Духа Божјег,Dew of God's Spirit,Theological Phrase,,
+,Роса чиста,Pure dew,Phrase,,
+,Руже беле,White roses,Angelic Symbol,,
+,Рука се састави,Hand was joined together,Miracle Phrase,,
+,Рука ће извадити,Hand will draw out,Phrase,,
+,Руководити ка добру,To guide toward good,Spiritual Verb,,
+,Руководити ка спасењу,To guide toward salvation,Spiritual Verb,,
+,Руковођати,To guide,Verb,,
+,Рукодеље,Handiwork,Phrase,,
+,Рукоположен за презвитера,Ordained as presbyter,Ecclesiological Verb,,
+,Рукоположени епископ,Ordained bishop,Ecclesiological,,
+,Рукоположењем,By ordination,Ecclesiological,,
+,Рукоположи за епископа,Ordained as bishop,Ecclesiological Verb,,
+,Рукоположи за презвитера,Ordain presbyter,Ecclesiastical Verb,,
+,Рукоположити,To ordain,Life Event Verb,,
+,Рукосад,Vineyard,Biblical,,
+,Румени свану,Dawned rosy,Phrase,,
+,Руски народ,Russian people,Phrase,,
+,Руски парохијски свештеник,Russian parish priest,Church Title,,
+,Ручни рад,Manual labor,Monastic,,
+,Рушити,To destroy,Verb,,
+,С Божијом помоћи,With God's help,Spiritual Phrase,,
+,С виком,With shouting,Phrase,,
+,С висине,From on high,Angelic Phrase,,
+,С времена на време,From time to time,Temporal Phrase,,
+,С Главом цркве,With Head of Church,Ecclesiological Phrase,,
+,С два прозора,With two windows,Phrase,,
+,С десне стране,On right side,Phrase,,
+,С друге женски,On other for women,Monastic Phrase,,
+,С јарошћу укоравати,To furiously rebuke,Verb,,
+,С једне стране мушки,On one side for men,Monastic Phrase,,
+,С једне стране... с друге,On one side... on the other,Phrase,,
+,С једним волом,With one ox,Phrase,,
+,С лађе,From ship,Phrase,,
+,С молбом,With request,Phrase,,
+,С молитвом у срцу,With prayer in heart,Spiritual Phrase,,
+,С надахнућем и дубином,With inspiration and depth,Phrase,,
+,С надом у Бога,With hope in God,Spiritual Phrase,,
+,С нама пре живео,Lived with us before,Phrase,,
+,С обзиром на корист цркве,With regard to benefit of Church,Ecclesiastical Phrase,,
+,С педао висине,To the height of a span,Phrase,,
+,С плачем,With tears,Phrase,,
+,С поругом вођене,Led with mockery,Martyrdom Phrase,,
+,С пустињом суром надмеће се,Competed with harsh desert,Monastic Phrase,,
+,С пута уклонити,To remove from path,Verb,,
+,С тим да,With this provision,Phrase,,
+,С тобом,With thee,Phrase,,
+,С уверењем,With conviction,Phrase,,
+,Са ангелима и светитељима,With angels and saints,Theological Phrase,,
+,Са безбожним тврђењем,With godless assertion,Phrase,,
+,Са Богоматером,With Mother of God,Miracle Phrase,,
+,Са великим торжеством,With great triumph,Phrase,,
+,Са великом славом,With great glory,Angelic Phrase,,
+,Са вером долази Христос,With faith comes Christ,Spiritual Phrase,,
+,Са већом дубином,With greater depth,Phrase,,
+,Са већом љубављу,With greater love,Phrase,,
+,Са виком и игром,With shouting and dancing,Phrase,,
+,Са дружином,With (his) companions,Hagiographic Phrase,,
+,Са кога би ширио,From which would spread,Phrase,,
+,Са небеса,From heaven,Phrase,,
+,Са њима разговарају,Converse with them,Phrase,,
+,Са пламеном ревношћу,With flaming zeal,Hagiographic Phrase,,
+,Са самим Собом,With Himself,Theological Phrase,,
+,Са сваком чашћу,With every honor,Phrase,,
+,Са свима великашима,With all nobles,Phrase,,
+,Са силним,With the mighty,Phrase,,
+,Са слатким појањем,With sweet singing,Miracle Phrase,,
+,Са страхом и трепетом,With fear and trembling,Devotional Phrase,,
+,Са телом,With body,Theological,,
+,Са химнама,With hymns,Liturgical,,
+,Са Христом љубав,"With Christ, love",Spiritual Phrase,,
+,Сабирати у мараме,To collect in handkerchiefs,Verb,,
+,Саблазнити се,To be scandalized,Verb,,
+,Сабор Лаодикијски,Council of Laodicea,Historical,,
+,Саборна црква,Cathedral church,Phrase,,
+,Сабрали се око крста,Gathered around cross,Phrase,,
+,Сабрано знање,Gathered knowledge,Phrase,,
+,Сабрао растурене књиге,Gathered scattered books,Phrase,,
+,Сабрати законе,To collect laws,Verb,,
+,Сабрати кости,To gather bones,Phrase,,
+,Сабрати стотину,To gather one hundred,Verb,,
+,Сав предан молитви,Wholly devoted to prayer,Spiritual Phrase,,
+,Сава Сторожевски,Sabas of Storozhev,Saint Name,,
+,Саварата,Sabarath,Geographical,,
+,Савест,Conscience,Theological,,
+,Савет тражити,To seek counsel,Verb,,
+,Саветовати,To counsel,Verb,,
+,Саветовати се,To take counsel,Verb,,
+,Сави главу под мач,To bow head beneath sword,Martyrdom Phrase,,
+,Сави шаку,Clenched fist,Phrase,,
+,Савијено платно,Folded cloth,Phrase,,
+,Савин,Sabinus,Personal Name,,
+,Савладана беда,Conquered misfortune,Phrase,,
+,Савременик,Contemporary,Phrase,,
+,Савременик,Contemporary,Phrase,,
+,Савременик апостола,Contemporary of apostles,Historical Phrase,,
+,Савременик Диоклецијанов,Contemporary of Diocletian,Historical Phrase,,
+,Савременик пророка Јеремије,Contemporary of Prophet Jeremiah,Biblical Phrase,,
+,Савршена сагласност,Perfect concord,Theological,,
+,Савршени делови,Perfect parts,Phrase,,
+,Савршено безмолвије,Perfect silence,Monastic,,
+,Савршено добро,Perfect good,Theological,,
+,Савршено једномислије,Perfect unanimity,Theological,,
+,Сагледати дужину историје,To survey the length of history,Phrase,,
+,Сагледати јавно,To behold openly,Verb,,
+,Сагорети рука,Hand burned off,Martyrdom Phrase,,
+,Сагорети у огњу,To burn in fire,Martyrdom Phrase,,
+,Садашњост,Present,Phrase,,
+,Сазвати Сабор,To convene a Council,Ecclesiological Verb,,
+,Сазвати сабор,To convene council,Ecclesiological Verb,,
+,Саздати,To build,Theological Verb,,
+,Сазида га,Built it,Verb,,
+,Сазида купатило,Built bathhouse,Phrase,,
+,Сазидан манастир Свети Наум,Was built monastery Saint Nahum,Historical Phrase,,
+,Сазидање тијела,Edifying of body,Ecclesiological,,
+,Сазидати,To build (church),Verb,,
+,Сазидати,To build (construct),Theological Verb,,
+,Сазидати храм,To build church,Ecclesiological Verb,,
+,Сазидати цркву,To build a church,Ecclesiological Verb,,
+,Сазнавши,Learning,Verb,,
+,Сазнати догађај,To learn the event,Verb,,
+,Сазнати о чему се ради,To learn what was happening,Phrase,,
+,Сазнати од слугу,To learn from servants,Verb,,
+,Сакри од оца,Hid from father,Miracle Verb,,
+,Сакривница тајни,Treasury of mysteries,Theological,,
+,Сакрити у пештере,To hide in caves,Verb,,
+,Сакрише се међу дрвећем,Hid themselves among trees,Biblical Phrase,,
+,Сакрише се од Бога,Hid themselves from God,Biblical Phrase,,
+,Салатил,Salathiel,Archangel Name,,
+,Сам Господ с ангелима,Lord Himself with angels,Miracle Phrase,,
+,Сам отац закла ћерку,Father himself slew daughter,Martyrdom Phrase,,
+,Сам себе тумачити,To interpret himself,Verb,,
+,Сама брзо узиђе,Herself quickly ascended,Phrase,,
+,Сама сила груба,Sheer crude force,Phrase,,
+,Самац самотник,Solitary hermit,Monastic Title,,
+,Само добра дела,Only good works,Theological Phrase,,
+,Само за то што,Solely because,Phrase,,
+,Само зато што,Only because,Phrase,,
+,Само личним присуством,By personal presence alone,Theological Phrase,,
+,Само по земљи,Only on earth,Phrase,,
+,Само Христа видети,To see Christ only,Spiritual Phrase,,
+,Самовање,Solitude,Monastic,,
+,Самолично,Individual,Adjective,,
+,Самон,Samonas,Saint Name,,
+,Самопожртвовање,Self-sacrifice,Virtue,,
+,Самотник,Hermit,Monastic Title,,
+,Санаследници Христови,Co-heirs with Christ,Theological,,
+,Саопштава житије,Relates life,Hagiographic Verb,,
+,Сапор,Shapur,Personal Name,,
+,Сапор / Саворија / Саворије,Sapor / Shapur,Personal Name,,
+,Сарагоска,Zaragoza,Geographical,,
+,Сарацени,Saracens,Historical,,
+,Сарацени,Saracens,Historical,,
+,Сасвим близу,Very close,Phrase,,
+,Сасвим наг,Completely naked,Phrase,,
+,Састави се породица,Family was reunited,Phrase,,
+,Састави уједно,Made one,Theological Verb,,
+,Саставио кључ пасхални,Compiled Paschal Key,Liturgical Phrase,,
+,Саставио Октоих,Compiled Octoechos,Liturgical Phrase,,
+,Саставити животопис,To compose a biography,Verb,,
+,Саставити руке и срца,To join together hands and hearts,Theological Phrase,,
+,Саставити црквену песму,To compose church hymn,Liturgical Verb,,
+,Састављено и склопљено,Fitly joined together and compacted,Ecclesiological Phrase,,
+,Састати се,To meet,Verb,,
+,Састрадалник,Fellow sufferer,Martyrdom,,
+,Сасуд демонски,Vessel of demons,Theological,,
+,Сатана / Луцифер,Satan / Lucifer,Demonic,,
+,Сатрти,To crush,Verb,,
+,Саучасник греха,Participant in sin,Phrase,,
+,Саученик,Fellow disciple,Monastic,,
+,Сахранити,To bury,Death Verb,,
+,Сахранити заједно,To bury together,Verb,,
+,Сахрањен у месту Кела,Buried in place of Kela,Historical Phrase,,
+,Сацар,Co-emperor,Historical Title,,
+,Сачувана глава,Head is preserved,Phrase,,
+,Сачувати живот,To preserve life,Phrase,,
+,Сачувати од беде,To save from misery,Verb,,
+,Сачувати у животу,To preserve in life,Verb,,
+,Св. Александар Невски,Saint Alexander Nevsky,Saint Name,,
+,Св. Амфилохије еп. Иконијски,"Saint Amphilochius, Bishop of Iconium",Saint Name,,
+,Св. Антим еп. Никомидијски,"Saint Anthimus, Bishop of Nicomedia",Saint Name,,
+,Св. Антоније Велики,Saint Anthony the Great,Saint Name,,
+,Св. ап. Марко,Holy Apostle Mark,Saint Name,,
+,Св. ап. Филимон,Holy Apostle Philemon,Saint Name,,
+,Св. апостол Андреја Првозвани,Holy Apostle Andrew the First-Called,Saint Name,,
+,Св. апостол Матеј,Holy Apostle Matthew,Saint Name,,
+,Св. апостол Филип,Holy Apostle Philip,Saint Name,,
+,Св. апостоли,Holy Apostles,Saint Title,,
+,Св. апостоли (из 70),Holy Apostles (from the Seventy),Saint Name,,
+,Св. Арсеније Велики,Saint Arsenius the Great,Saint Name,,
+,Св. Атанасије,Saint Athanasius,Saint Name,,
+,Св. Атанасије Велики,Saint Athanasius the Great,Saint Name,,
+,Св. Атанасије Велики,Saint Athanasius the Great,Saint Name,,
+,Св. благоверни цар Маврикије,Holy Blessed Emperor Maurice,Saint Name,,
+,Св. Богородица,Holy Theotokos,Theological,,
+,Св. Борис,Saint Boris,Saint Name,,
+,Св. Васијан,Saint Bassian,Saint Name,,
+,Св. Василије Велики,Saint Basil the Great,Saint Name,,
+,Св. вел. муч. Екатерина,Holy Great-Martyr Catherine,Saint Name,,
+,Св. вел. муч. Меркурије,Holy Great-Martyr Mercurius,Saint Name,,
+,Св. вел. муч. Мина,Holy Great Martyr Menas,Saint Name,,
+,Св. великомуч. Георгије,Holy Great Martyr George,Saint Name,,
+,Св. Гљеб,Saint Gleb,Saint Name,,
+,Св. Григорије еп. Акрагантски,"Saint Gregory, Bishop of Agrigentum",Saint Name,,
+,Св. Григорије Палама,Saint Gregory Palamas,Saint Name,,
+,Св. Григорије Палама,Saint Gregory Palamas,Saint Name,,
+,Св. Григорије Синаит,Saint Gregory of Sinai,Saint Name,,
+,Св. Григорије Чудотворац,Saint Gregory the Wonderworker,Saint Name,,
+,Св. девица Мастридија,Holy Virgin Mastridia,Saint Name,,
+,Св. Димитрије Ростовски,Saint Demetrius of Rostov,Saint Name,,
+,Св. Дионисије,Saint Dionysius,Saint Name,,
+,Св. Дионисије Ареопагит,Saint Dionysius the Areopagite,Saint Name,,
+,Св. Ефимија,Saint Euphemia,Saint Name,,
+,Св. Златоуст,Saint Chrysostom,Saint Name,,
+,Св. Иларион Мегленски,Saint Hilarion of Moglen,Saint Name,,
+,Св. Инокентије Иркутски,Saint Innocent of Irkutsk,Saint Name,,
+,Св. Ирина,Saint Irene,Saint Name,,
+,Св. Исак архиеп. Јерменски,"Saint Isaac, Archbishop of Armenia",Saint Name,,
+,Св. Јован Богослов,Saint John the Theologian,Saint Name,,
+,Св. Јован Златоуст,Saint John Chrysostom,Saint Name,,
+,Св. Јован Крститељ,Saint John the Baptist,Saint Name,,
+,Св. Јован Лествичник,Saint John Climacus,Saint Name,,
+,Св. Јован Претеча,Saint John the Forerunner,Saint Name,,
+,Св. Јона архиеп. Новгородски,"Saint Jonah, Archbishop of Novgorod",Saint Name,,
+,Св. Јустинијан цар,"Saint Justinian, Emperor",Saint Name,,
+,Св. Калист,Saint Callistus,Saint Name,,
+,Св. Касијан,Saint Cassian,Saint Name,,
+,Св. Кирил,Saint Cyril,Saint Name,,
+,Св. кнез Лазар,Holy Prince Lazar,Saint Name,,
+,Св. Козма и Дамјан,Saints Cosmas and Damian,Saint Name,,
+,Св. Макарије,Saint Macarius,Saint Name,,
+,Св. Макарије,Saint Macarius,Saint Name,,
+,Св. Максим Капсокаливит,Saint Maximus Kapsokalivis,Saint Name,,
+,Св. Марко Архиепископ Ефески,"Saint Mark, Archbishop of Ephesus",Saint Name,,
+,Св. Марон,Saint Maron,Saint Name,,
+,Св. Методије,Saint Methodius,Saint Name,,
+,Св. Митрофан еп. Воронежски,"Saint Mitrophan, Bishop of Voronezh",Saint Name,,
+,Св. муч. Акиндин,Holy Martyr Acindynus,Saint Name,,
+,Св. муч. Антонин,Holy Martyr Antoninus,Saint Name,,
+,Св. муч. Аполоније,Holy Martyr Apollonius,Saint Name,,
+,Св. муч. Варлам,Holy Martyr Barlaam,Saint Name,,
+,Св. муч. Василиск,Saint Martyr Basiliscus,Saint Name,,
+,Св. муч. Викентије ђакон,Holy Martyr Vincent the Deacon,Saint Name,,
+,Св. муч. Гурије,Holy Martyr Gurias,Saint Name,,
+,Св. муч. Дионисије,Holy Martyr Dionysius,Saint Name,,
+,Св. муч. Елпидије,Holy Martyr Elpidius,Saint Name,,
+,Св. муч. Ерминигелд,Saint Martyr Hermenegild,Saint Name,,
+,Св. муч. Илиодор,Holy Martyr Heliodorus,Saint Name,,
+,Св. муч. Јаков Персијанац,Holy Martyr James the Persian,Saint Name,,
+,Св. муч. Јевстатије,Holy Martyr Eustathius,Saint Name,,
+,Св. муч. Јерон,Holy Martyr Hieron,Saint Name,,
+,Св. муч. Кикилија,Holy Martyr Cecilia,Saint Name,,
+,Св. муч. Менигнос,Holy Martyr Menignus,Saint Name,,
+,Св. муч. Онисифор,Holy Martyr Onesiphorus,Saint Name,,
+,Св. муч. Орест,Holy Martyr Orestes,Saint Name,,
+,Св. муч. Парамон,Holy Martyr Paramon,Saint Name,,
+,Св. муч. Платон,Holy Martyr Plato,Saint Name,,
+,Св. муч. Роман,Holy Martyr Romanus,Saint Name,,
+,Св. муч. Стефан Дечански,Holy Martyr Stephen Dechanski,Saint Name,,
+,Св. муч. Тесалоникија,Holy Martyr Thessalonica,Saint Name,,
+,Св. Никола,Saint Nicholas,Saint Name,,
+,Св. Николај чудотворац,Saint Nicholas the Wonderworker,Saint Name,,
+,Св. новомуч. Христо,Holy New-Martyr Christo,Saint Name,,
+,Св. Нон еп. Илиопољски,"Saint Nonnus, Bishop of Heliopolis",Saint Name,,
+,Св. Павле Исповедник,Saint Paul the Confessor,Saint Name,,
+,Св. Пајсије Велики,Saint Paisius the Great,Saint Name,,
+,Св. Памво,Saint Pambo,Saint Name,,
+,Св. праведни Михаило,Saint Michael the Righteous,Saint Name,,
+,Св. Прокл патријарх,"Saint Proclus, Patriarch",Saint Name,,
+,Св. пророк Авдија,Holy Prophet Obadiah,Saint Name,,
+,Св. Сава,Saint Sava,Saint Name,,
+,Св. Сава Освештани,Saint Sabbas the Sanctified,Saint Name,,
+,Св. Сава Освештани,Saint Sabas the Sanctified,Saint Name,,
+,Св. Сергије Радонежски,Saint Sergius of Radonezh,Saint Name,,
+,Св. Симеон Метафраст,Saint Symeon the Metaphrast,Saint Name,,
+,Св. Симеон Столпник,Saint Symeon the Stylite,Saint Name,,
+,Св. Софија,Hagia Sophia,Geographical,,
+,Св. Стахије,Saint Stachys,Saint Name,,
+,Св. Стефан првомученик,Saint Stephen Protomartyr,Saint Name,,
+,Св. Теона,Saint Theonas,Saint Name,,
+,Св. Теофилакт Охридски,Saint Theophylact of Ohrid,Saint Name,,
+,Св. Тиридат цар Јерменски,Holy Tiridates King of Armenia,Saint Name,,
+,Св. три девице,Three holy virgins,Saint Name,,
+,Св. Урошица кнез Српски,"Holy Urošica, Serbian Prince",Saint Name,,
+,Св. Фрументије просветитељ,Saint Frumentius Enlightener,Saint Name,,
+,Сва дела Твоја,All Thy works,Theological Phrase,,
+,Сва наша истина,All our truth,Theological,,
+,Сва наша љубав,All our love,Theological,,
+,Сва покољења,All generations,Phrase,,
+,Сва пуноћа благодати,All fullness of grace,Theological,,
+,Сва рањава,All wounded,Martyrdom Phrase,,
+,Сва сујета,All vanity,Phrase,,
+,Свак ко остави,Everyone who has left,Biblical Phrase,,
+,Свака врлина одећа,Every virtue is clothing,Spiritual Phrase,,
+,Свака реч Божја,Every word of God,Biblical Phrase,,
+,Сваки ветар учења,Every wind of doctrine,Biblical Phrase,,
+,Сваки грех разголићење,Every sin is nakedness,Spiritual Phrase,,
+,Сваки грех удаљава,Every sin distances,Spiritual Phrase,,
+,Сваки умрли,Each dead person,Phrase,,
+,Сваким дахом,With every breath,Phrase,,
+,Свако да се слади,That everyone might delight,Phrase,,
+,Сваком створењу,To every creature,Biblical Phrase,,
+,Сваком телу,To every body,Phrase,,
+,Сваку службу,Every service,Monastic Phrase,,
+,Сватыий крјепкiй,Holy Mighty,Liturgical (Church Slavonic),,
+,Све бежећи,Always fleeing,Phrase,,
+,Све биље,All plants,Biblical,,
+,Све више жедни,Thirsts all more,Phrase,,
+,Све живо,All living things,Biblical,,
+,Све се кроза њ сазда,All things were created by him,Biblical Quote,,
+,Све тијело,Whole body,Ecclesiological,,
+,Све укупно,All together,Phrase,,
+,Све части,All honors,Phrase,,
+,Све чешће тражи,Seeks all more often,Phrase,,
+,Свеблаги,All-good,Theological Adjective,,
+,Свеблаги,All-good,Theological Attribute,,
+,Свевидећи Бог,All-seeing God,Theological,,
+,Свега поживе,Lived in all,Temporal Phrase,,
+,Сведочанство апостола,Testimony of the apostles,Theological,,
+,Сведочаше,Testified,Verb,,
+,Сведочи,Testifies,Verb,,
+,Сведржитељ,All-Sustainer,Theological,,
+,Свезнајућег,All-knowing,Theological Attribute,,
+,Свезнајући,All-knowing,Adjective,,
+,Свеколико устројство,Entire structure,Phrase,,
+,Свемилостивог,All-merciful,Theological Attribute,,
+,Свемудри,All-wise,Theological Adjective,,
+,Свемудри,All-wise,Theological Attribute,,
+,Свесан мере,Conscious of measure,Phrase,,
+,Свесни присуства,Conscious of presence,Spiritual Phrase,,
+,Свет ангелски,Angelic world,Theological,,
+,Свет виде и обрадова се,The world saw and rejoiced,Theological Phrase,,
+,Свет материјалан,Material world,Philosophical,,
+,Свет мртав,Dead world,Theological,,
+,Свет није сам од себе,World is not of itself,Philosophical Phrase,,
+,Свет оставио,Didst abandon world,Monastic Phrase,,
+,Свет створен,World created,Theological Phrase,,
+,Света Ана,Holy Anna,Saint Name,,
+,Света великомученица Варвара,Holy Great-Martyr Barbara,Saint Name,,
+,Света Гора,Holy Mountain (Mount Athos),Geographical,,
+,Света Гора,Holy Mountain,Geographical,,
+,Света девица Христова,Holy virgin of Christ,Hagiographic Title,,
+,Света духовног,Spiritual world,Theological,,
+,Света мученица Миропија,Holy Martyr Myropia,Saint Name,,
+,Света страдалница,Holy sufferer,Martyrdom Title,,
+,Свете молитве,Holy prayers,Spiritual,,
+,Свети Генадије,Saint Gennadius,Saint Name,,
+,Свети Иса,Saint Ise,Saint Name,,
+,Свети Јоаким,Holy Joachim,Saint Name,,
+,Свети Јован Дамаскин,Saint John of Damascus,Saint Name,,
+,Свети Јован Ћутљиви,Saint John the Silent,Saint Name,,
+,Свети племенити,Holy noble,Hagiographic Title,,
+,Свети пророк Авакум,Holy Prophet Habakkuk,Saint Name,,
+,Свети пророк Наум,Holy Prophet Nahum,Saint Name,,
+,Свети пророк Софоније,Holy Prophet Zephaniah,Saint Name,,
+,Свети Сергије Радонешки,Saint Sergius of Radonezh,Saint Name,,
+,Свети страдалниче,Holy sufferer,Hagiographic Title,,
+,Свети Урош,Saint Uroš,Saint Name,,
+,Свети усавршили,Saints be perfected,Theological Phrase,,
+,Свети Филарет Милостиви,Saint Philaret the Merciful,Saint Name,,
+,Светилници света,Lights of the world,Hagiographic Phrase,,
+,Светило духовно,Spiritual luminary,Hagiographic Phrase,,
+,Светиња,"Holiness, holy place",Theological,,
+,Светиња над Светињама,Holiest of Holy Places,Liturgical,,
+,Светковина,Celebration,Liturgical,,
+,Светла душа,Bright soul,Spiritual,,
+,Светла нада,Bright hope,Spiritual,,
+,Светли као сунце,Bright as sun,Angelic Phrase,,
+,Светли младићи,Radiant youths,Angelic Phrase,,
+,Светлијем од нас,Brighter than us,Phrase,,
+,Светлити дању,To shine by day,Biblical Verb,,
+,Светлити ноћу,To shine by night,Biblical Verb,,
+,Светлом силом,With radiant power,Spiritual Phrase,,
+,Светлосно обасјање,Luminous illumination,Miracle Phrase,,
+,Светлост небеска,Heavenly light,Phrase,,
+,Светлост небеска,Heavenly light,Miracle Phrase,,
+,Светлост постаје тама,Light becomes darkness,Biblical Phrase,,
+,Светлост у шуми,Light in the forest,Phrase,,
+,Светлошћу свршити,To end in brightness,Phrase,,
+,Свето поштовати,To honor holily,Spiritual Verb,,
+,Свето пријатељство,Holy friendship,Theological,,
+,Светост живота,Holiness of life,Hagiographic Phrase,,
+,Светост привуче ученике,Holiness attracted disciples,Hagiographic Phrase,,
+,Светске науке,Secular studies,Phrase,,
+,Светско образовање,Secular education,Phrase,,
+,Свету и саборну цркву,Holy and catholic Church,Ecclesiological,,
+,Свећа упаљена,Lit candle,Angelic Symbol,,
+,Свеумна глава,All-wise Head,Hagiographic Phrase,,
+,Свецела истина,Complete truth,Theological,,
+,Свешт. муч.,Hieromartyr (abbr.),Church Title,,
+,Свешт. муч. Акепсим еп. Наесонски,"Hieromartyr Acepsimas, Bishop of Naeson",Saint Name,,
+,Свешт. муч. Викторин,Hieromartyr Victorinus,Saint Name,,
+,Свешт. муч. Климент,Hieromartyr Clement,Saint Name,,
+,Свешт. муч. Никандр еп. Мирски,"Hieromartyr Nicander, Bishop of Myra",Saint Name,,
+,Свешт. муч. Петар,Hieromartyr Peter,Saint Name,,
+,Свештеник,Priest,Church Title,,
+,Свештеници,Priests,Ecclesiological,,
+,Свештеници скврне светињу,Priests pollute sanctuary,Biblical Quote,,
+,Свештеномученик Теодор,Hieromartyr Theodore,Saint Name,,
+,Сви дарови,All gifts,Theological,,
+,Сви дарови благодатни,All gifts of grace,Theological,,
+,Сви помислише,Everyone thought,Verb,,
+,Свију оних који обамиру,Of all those who have near-death experiences,Phrase,,
+,"Свјат, свјат, свјат Господ Саваотъ","Holy, holy, holy, Lord of Sabaoth",Liturgical Phrase,,
+,Свјати Боже,Holy God,Liturgical Phrase,,
+,Свјатый безсмертный,Holy Immortal,Liturgical (Church Slavonic),,
+,Свјатый Боже,Holy God,Liturgical (Church Slavonic),,
+,Свога зета цара,His son-in-law emperor,Phrase,,
+,Свод између вода,Firmament between the waters,Biblical,,
+,Својим примером,By his example,Hagiographic Phrase,,
+,Својим родитељима,To his parents,Phrase,,
+,Својом ревношћу,By his zeal,Spiritual Phrase,,
+,Својски почастити,To honor in own way,Verb,,
+,Својствено људима,Proper to men,Phrase,,
+,Свом душом заљуби,Loved with all soul,Spiritual Phrase,,
+,Свом душом пожелети,To desire with all soul,Phrase,,
+,Свршавати црквено правило,To fulfill church rule,Ecclesiological Verb,,
+,Свршетак дела,Completion of work,Phrase,,
+,Свршетак добро,Ending good,Phrase,,
+,Свршити посао,To finish work,Phrase,,
+,Свршити светске науке,To complete secular studies,Phrase,,
+,Свршити школе,To finish school,Phrase,,
+,Сву засновану,All founded,Phrase,,
+,Свуда,Everywhere,Adverb,,
+,Свуда тама,Darkness everywhere,Biblical Phrase,,
+,Свуколика величина,Entire greatness,Phrase,,
+,Свуколики род човечји,Entire human race,Phrase,,
+,Свући,To strip,Verb,,
+,Святая святыхъ,Holy of Holies,Liturgical (Church Slavonic),,
+,Себичност,Selfishness,Vice,,
+,Седам брзописаца,Seven scribes,Phrase,,
+,Седам пута на дан,Seven times a day,Biblical Phrase,,
+,Седамдесет апостола,Seventy Apostles,Ecclesiological,,
+,Седамнаест Индијских мученика,Seventeen Indian Martyrs,Saint Name,,
+,Седео у тамници,Sitting in prison,Phrase,,
+,Седети на престолу,To sit on throne,Phrase,,
+,Седети с десне стране,To sit at the right hand,Theological Phrase,,
+,Седи и плаче,Sitting and weeping,Phrase,,
+,Седну у лађу,Boarded ship,Verb,,
+,Секретари,Secretaries,Church Title,,
+,Секунд,Secundus,Personal Name,,
+,Секући као траву,Cutting like grass,Phrase,,
+,Село Амнија,Village of Amnia,Geographical,,
+,Село Вевчани,Village Vevčani,Geographical,,
+,Село Витахарамска,Village of Bethacharba,Geographical,,
+,Село Купјатичу,Village of Kupyatichi,Geographical,,
+,Сељаци,Villagers,Phrase,,
+,Сен законска,Shadow of the Law,Theological,,
+,Сенатор,Senator,Title,,
+,Сенатор римски,Roman senator,Historical Title,,
+,Сенка,Shadow,Phrase,,
+,Сенка правога живота,Shadow of the true life,Theological Phrase,,
+,Сео у престо,Sat in throne,Phrase,,
+,Сергије,Sergius,Personal Name,,
+,Сестра Пулхерија,Sister Pulcheria,Personal Name,,
+,Сећајући се добра,Remembering good,Phrase,,
+,Сечен на кајише,Cut into strips,Martyrdom Phrase,,
+,Сијати (врлинама),To shine forth (in virtues),Hagiographic Verb,,
+,Сијати као сунце,To shine like sun,Hagiographic Phrase,,
+,Сијати у ноћ,To shine in the night,Verb,,
+,Сијати у Риму,To shine in Rome,Hagiographic Verb,,
+,Сика,Sika,Geographical,,
+,Сила Божја,Power of God,Theological Phrase,,
+,Сила Господња,Lord's power,Theological,,
+,Сила нетелесна,Non-bodily power,Spiritual,,
+,Сила Распетога,Power of the Crucified One,Theological Phrase,,
+,Сила речи,Power of speech,Phrase,,
+,Силазак Св. Духа,Descent of the Holy Spirit,Feast,,
+,Силан,Powerful,Adjective,,
+,Силан,Mighty,Adjective,,
+,Силан у врлини,Strong in virtue,Hagiographic Phrase,,
+,Силе,Powers,Angelic Order,,
+,Силе небеске,Heavenly powers,Angelic,,
+,Силе небесне безтелесне,Bodiless heavenly powers,Angelic,,
+,Силна светлост,Powerful light,Phrase,,
+,Силна спона,Powerful bond,Phrase,,
+,Силни чудотворац,Mighty wonderworker,Hagiographic Title,,
+,Силно,Powerfully,Adverb,,
+,Силом Христовом,By the power of Christ,Phrase,,
+,Символ Вере,Symbol of Faith,Theological,,
+,Символом Свете Тројице,Symbol of Holy Trinity,Theological Phrase,,
+,Симонида,Simonida,Personal Name,,
+,Симонидин син,Simonida's son,Phrase,,
+,Симонија,Simony,Ecclesiological,,
+,Симонисти,Simonists,Ecclesiological,,
+,Син Алфејев,Son of Alphaeus,Biblical,,
+,Син Асафатов,Son of Asaphat,Biblical Phrase,,
+,Син Божји јединородни,Only-begotten Son of God,Theological,,
+,Син јединац,Only son,Phrase,,
+,Син Јонин,Son of Jonah,Biblical Phrase,,
+,Син рођен,Son begotten,Theological,,
+,Син цара Душана,Son of Emperor Dušan,Historical Phrase,,
+,Синај,Sinai,Geographical,,
+,Синајски манастир,Sinai monastery,Geographical,,
+,Синаксар,Synaxarion,Liturgical,,
+,Синовац,Nephew,Phrase,,
+,Синови Божји,Sons of God,Theological,,
+,Синови противљења,Children of disobedience,Demonic,,
+,Синовска љубав,Filial love,Phrase,,
+,Сипај,Sidon,Geographical,,
+,Сирија,Syria,Geographical,,
+,Сирија,Syria,Geographical,,
+,Ситити се месом,To be satisfied with meat,Phrase,,
+,Ситне животиње,Small creatures,Biblical,,
+,Ситно,Petty,Adjective,,
+,Сићи с ума,To lose mind,Phrase,,
+,Сихем,Shechem,Geographical,,
+,Сицилија,Sicily,Geographical,,
+,Сјај,Glory (brightness),Phrase,,
+,Сјајати на земљи,To shine on earth,Verb,,
+,Сјајем чудним,With wondrous radiance,Phrase,,
+,Сјајна звезда,Bright star,Hagiographic Phrase,,
+,Сјајну хришћанску будућност,Brilliant Christian future,Phrase,,
+,Сједини,To unite,Verb,,
+,Сједињавати се,To be united,Theological Verb,,
+,Сједињавати се,To be united,Theological Verb,,
+,Сједињује људе,Unites people,Theological Verb,,
+,Сквернa,Defilement,Spiritual,,
+,Сквернi отац,Vile father,Phrase,,
+,Скверна жена,Vile woman,Phrase,,
+,Скверна царица,Vile empress,Phrase,,
+,Скверни кнез,Vile prince,Phrase,,
+,Скинути повез са очију,To remove bandage from eyes,Phrase,,
+,Скинути распетог,To take down the crucified one,Verb,,
+,Скинути се,To be stripped,Verb,,
+,Скит,Scetis,Geographical,,
+,Скити,Scythians,Historical,,
+,Склони се,Took refuge,Verb,,
+,Склонити се ван града,To hide outside the city,Verb,,
+,Склонити се на брдо,To take refuge on hill,Verb,,
+,Скончавати живот,To end life,Death Phrase,,
+,Скончао земни век,Reposed his earthly age,Death Phrase,,
+,Скончао/Упокојио се,Reposed,Death Verb,,
+,Скончао/Упокојио се,Reposed,Death Verb,,
+,Скончати,To end one's life,Death Verb,,
+,Скончаше у Господу,Reposed in Lord,Death Phrase,,
+,Скопље,Skopje,Geographical,,
+,Скоро ће крај,Soon comes end,Phrase,,
+,Скоро ће смрт,Soon comes death,Phrase,,
+,Скоро ће суд,Soon comes judgment,Phrase,,
+,Скоро ћеш бити с нама,Soon shalt be with us,Biblical Quote,,
+,Скоро ћеш умрети,Soon shalt die,Phrase,,
+,Скрајати кајише од коже,To strip leather thongs from skin,Martyrdom Verb,,
+,Скраћивати живот,To shorten life,Verb,,
+,Скрежетати зубима,To gnash with teeth,Phrase,,
+,Скрива пророчанство,Is hidden prophecy,Biblical Phrase,,
+,Скрити наготу,To hide nakedness,Phrase,,
+,Скрише се од Бога,Hid themselves from God,Biblical Phrase,,
+,Скупи беднике,Gathered wretched,Verb,,
+,Скупише се око њега,Gathered around him,Phrase,,
+,Скупља од злата,More precious than gold,Hagiographic Phrase,,
+,Скупљач пореза,Tax collector,Title,,
+,Скупоцена крв,Precious blood,Theological,,
+,Слава Богу за све,Glory to God for all things,Devotional Phrase,,
+,Слава место срама,Glory instead of shame,Theological,,
+,Слава праведничка,Glory of righteous,Hagiographic,,
+,Слава се пронети,Fame spread,Phrase,,
+,Слава у цркви,Glory in the Church,Ecclesiological,,
+,Славна књига,Glorious book,Phrase,,
+,Славна победа,Glorious victory,Military Phrase,,
+,Славна следбеница Христова,Glorious follower of Christ,Hagiographic Phrase,,
+,Славни мученик Исидор војник,Glorious martyr Isidore soldier,Saint Name,,
+,Славни оче Дамаскине,Glorious father John of Damascus,Hagiographic Address,,
+,Славни руски јерарх,Glorious Russian hierarch,Hagiographic Phrase,,
+,Славни учитељ,Glorious teacher,Hagiographic Phrase,,
+,Славно прославити,To gloriously glorify,Theological Verb,,
+,Славољубље,Vainglory,Vice,,
+,Славопојати,To sing glory,Liturgical Verb,,
+,Славословије,Doxology,Liturgical,,
+,Сладосни мирис,Sweet fragrance,Phrase,,
+,Сладосни Рај,Sweet Paradise,Theological,,
+,Слађом песмом,With sweeter hymn,Phrase,,
+,Сламу,Straw,Phrase,,
+,Сласти Раја,Delights of Paradise,Theological Phrase,,
+,Слати пред собом,To send before oneself,Verb,,
+,Слатки и благи,Sweet and good,Theological,,
+,Слатко појање,Sweet singing,Miracle Phrase,,
+,Следбеник,Follower,Phrase,,
+,Следбеник Христов,Follower of Christ,Ecclesiological,,
+,Следбеници апостола Петра,Followers of the Apostle Peter,Hagiographic Phrase,,
+,Следовати за мученицима,To follow the martyrs,Hagiographic Verb,,
+,Следствено,Consequently,Adverb,,
+,Слепе,Blind,Phrase,,
+,Сличан,Like,Adjective,,
+,Слично једном телу,Like a body,Ecclesiological Phrase,,
+,Сличном нама,Similar to us,Phrase,,
+,Сличну беди,Similar to misfortune,Phrase,,
+,Слободна воља,Free will,Theological,,
+,Словенац,Slavic (person),Phrase,,
+,Словени,Slavs,Phrase,,
+,Словенско име,Slavic name,Phrase,,
+,Сломити,To break,Verb,,
+,Слуга Господу,Servant to Lord,Spiritual Title,,
+,Слуга Спаситеља,Servant of Savior,Hagiographic Phrase,,
+,Слуга Христов,Servant of Christ,Hagiographic Title,,
+,Слуге цареве,Emperor's servants,Phrase,,
+,Служба,Liturgy / Service,Liturgical,,
+,Служба архипастирска,Office of chief pastor,Ecclesiological,,
+,Служе око стола,To serve around table,Phrase,,
+,Слутња разума,Intimation of reason,Philosophical,,
+,Случајеви,Occasions,Phrase,,
+,Случајеви обамирања,Cases of near-death experiences,Phrase,,
+,Случити се,To happen,Verb,,
+,Слуша молитве праведника,Hears prayers of righteous,Theological Phrase,,
+,Слушати у свему,To obey in all things,Verb,,
+,Слушкиња,Handmaiden,Phrase,,
+,Слушкиње на службу,Maidservants for service,Phrase,,
+,Сматрати вечним,To consider eternal,Verb,,
+,Сматрати за мајку,To consider to be mother,Phrase,,
+,Смерно понижење,Humble humiliation,Spiritual,,
+,Смешно висока цена,Ridiculously high price,Phrase,,
+,Смирено испуњавање,Meek fulfillment,Spiritual Phrase,,
+,Смирење,"Humility, abasement",Theological,,
+,Смирити се,To be calmed,Verb,,
+,Смисао горења,Meaning of burning,Spiritual Phrase,,
+,Смислени циљ,Meaningful goal,Phrase,,
+,Смокве,Fig trees,Phrase,,
+,Смрад,Stench,Phrase,,
+,Смрад и муке,Stench and torments,Phrase,,
+,Смрт донети,To bring death,Theological Verb,,
+,Смрт прекида све,Death cuts off everything,Phrase,,
+,Смртна пресуда,Death sentence,Phrase,,
+,Смртни,Mortals,Phrase,,
+,Смућивати верне,To trouble faithful,Ecclesiological Verb,,
+,Снага и храброст,Strength and courage,Hagiographic Phrase,,
+,Снажно ударити,To strike forcefully,Verb,,
+,Снизити се,To humble Himself,Theological Verb,,
+,Содом и Гомор,Sodom and Gomorrah,Geographical,,
+,Созерцање,Contemplation,Structural,,
+,Солун,Thessalonica,Geographical,,
+,Солун,Thessalonica,Geographical,,
+,Сопствени опит,Own account,Phrase,,
+,Сосипатер,Sosipater,Saint Name,,
+,Сотворити чудеса,To work miracles,Miracle Verb,,
+,"Соф 3, 1-4",Zeph. 3:1-4,Biblical Reference,,
+,"Соф 3, 14",Zeph. 3:14,Biblical Reference,,
+,Софоније,Zephaniah,Saint Name,,
+,Спаваћа соба,Bedchamber,Phrase,,
+,Спаја са вернима,Joins with believers,Ecclesiological Verb,,
+,Спајати,To join together,Theological Verb,,
+,Спалити на огњу,To burn in the fire,Martyrdom Verb,,
+,Спаљиван на огњу,Burned in the fire,Martyrdom Phrase,,
+,Спарта,Sparta,Geographical,,
+,Спас / Спаситељ,Savior,Christ/Theotokos,,
+,Спасавајућа благодат,Saving grace,Theological,,
+,Спасавати од напасти,To save from misfortune,Theological Verb,,
+,Спасао се од клевете,Saved from slander,Hagiographic Phrase,,
+,Спасвајте се,Save yourselves,Biblical Quote,,
+,Спасење,Salvation,Theological,,
+,Спасење једнога човека,Salvation of one person,Spiritual Phrase,,
+,Спасоносно дело,Saving work,Theological,,
+,Спасти душе праведника,To save souls of righteous,Theological Phrase,,
+,Спасти мир,To save peace,Verb,,
+,Спасти самог себе,To save oneself,Spiritual Verb,,
+,Списак оптужених,List of the accused,Martyrdom,,
+,Спојити,To join together,Theological Verb,,
+,Споља борба,Outwardly battle,Phrase,,
+,Споља варка,Outwardly deception,Phrase,,
+,Споља и унутра,Externally and internally,Phrase,,
+,Споља неверници,From without by unbelievers,Phrase,,
+,Споља раскош,Outwardly splendor,Phrase,,
+,Споља украшен,Outwardly adorned,Phrase,,
+,Спољашње околности,External circumstances,Phrase,,
+,Спољашње оружје,Outward weapons,Phrase,,
+,Спопаде га лудило,Madness seized him,Phrase,,
+,Спотицати се,To stumble,Verb,,
+,Спреда раздрана,Torn in front,Phrase,,
+,Спреман да заштити,Ready to protect,Phrase,,
+,Спремати план,To prepare plan,Theological Verb,,
+,Спреме најбољу гозбу,To prepare best feast,Phrase,,
+,Спровести у Рим,To bring to Rome,Verb,,
+,Спустио се ниско,Descended low,Theological Verb,,
+,Спустити лагано,To descend gently,Verb,,
+,Спустити се,To descend,Verb,,
+,Спустити се у Ад,To descend into Hades,Theological Verb,,
+,Спустити се у град,To descend into the city,Verb,,
+,Спуштати се к земљи,To descend to earth,Verb,,
+,Сраму,Shame,Phrase,,
+,Срдачно усвојити,To heartily embrace,Verb,,
+,Срдобоља,Dysentery,Phrase,,
+,Сребрни тањир,Silver plate,Phrase,,
+,Срести се с човеком,To meet man,Phrase,,
+,Срете првосвештеник,High priest met,Phrase,,
+,Срете се с хришћанкама,Met with Christian women,Phrase,,
+,Срећан и успешан,Fortunate and successful,Phrase,,
+,Сродник,Kinsman,Phrase,,
+,Сродник,Kinsman,Phrase,,
+,Сродници,Relatives,Phrase,,
+,Сродници,Relatives,Phrase,,
+,Срушити јерес,To overthrow heresy,Theological Verb,,
+,Срушити се на земљу,To collapse to ground,Verb,,
+,Срце распламти се,Heart was inflamed,Spiritual Phrase,,
+,Срцем окренут к Богу,Heart turned toward God,Spiritual Phrase,,
+,Срцем учинити,To portray by heart,Phrase,,
+,Срџба,Anger,Phrase,,
+,Ст.31,Verse 31,Biblical Reference,,
+,Стави на муке,Put to tortures,Martyrdom Verb,,
+,Ставити до знања,To make known,Verb,,
+,Ставити на муке,To subject to tortures,Martyrdom Verb,,
+,Ставити огањ на длан,To place fire on palm,Martyrdom Phrase,,
+,Ставити помисао у ум,To put thought in mind,Phrase,,
+,Стадо,Flock,Phrase,,
+,Стадо словесно,Rational flock,Ecclesiological,,
+,Стадо Христово,Christ's flock,Ecclesiological,,
+,Стаза врло уска,Very narrow path,Spiritual Phrase,,
+,Стајати као један човек,To stand as one man,Ecclesiological Phrase,,
+,Стајати на тргу,To stand in square,Phrase,,
+,Стајати наднет,To stand bent over,Verb,,
+,Стајати пред степеницама,To stand before steps,Phrase,,
+,Стакленце,Small glass,Phrase,,
+,Стан небесима,Dwelling for heaven,Spiritual Phrase,,
+,Стао на пијац,Stood in marketplace,Phrase,,
+,Стара црква,Old church,Phrase,,
+,Старати се,To take care,Verb,,
+,Старац,Elder,Monastic Title,,
+,Старац Варлаам,Elder Barlaam,Personal Name,,
+,Старац духовник,Elder confessor,Monastic,,
+,Старац Јов,Elder Job,Personal Name,,
+,Старац Јован,Elder John,Personal Name,,
+,Старац јунак,Old warrior,Hagiographic Phrase,,
+,Старац мисли,Old man intended,Phrase,,
+,Старац опак,Wicked elder,Phrase,,
+,Старешинство,Birthright,Phrase,,
+,Стари Адам,Old Adam,Theological,,
+,Стари и Нови Завет,Old and New Testament,Biblical,,
+,Стари човек,Old man (spiritual),Theological,,
+,Старица просјакиња,Old beggar woman,Phrase,,
+,Старозаветни,Old Testament (adj.),Theological,,
+,Старозаветни,Old Testament (adj.),Theological,,
+,Стати на молитву,To stand in prayer,Spiritual Verb,,
+,Стати преда њ,To stand before him,Verb,,
+,Стахије,Stachys,Personal Name,,
+,Стахије,Stachys,Saint Name,,
+,Ствара бол и наготу,Creates pain and nakedness,Phrase,,
+,Ствара глад и жеђ,Creates hunger and thirst,Phrase,,
+,Стварање земље,Creation of earth,Biblical,,
+,Стварање неба,Creation of heaven,Biblical,,
+,Стварање света,Creation of the world,Theological,,
+,Стварање светлости,Creation of light,Theological,,
+,Стварање цркве,Creation of the Church,Ecclesiological,,
+,Стварао молитвом и вером,Didst work by prayer and faith,Miracle Phrase,,
+,Стварати јереси,To create heresies,Ecclesiological Verb,,
+,Стварна глава,Actual head,Ecclesiological,,
+,Створење света,Creation of world,Theological,,
+,Створење света,Creation of the world,Theological,,
+,Створење света,Creation of world,Biblical,,
+,Створи бесмртника,Created immortal one,Hagiographic Phrase,,
+,Створио два света,Created two worlds,Theological Phrase,,
+,Створио и уредио цркве,Created and organized churches,Ecclesiological Verb,,
+,Створитељ,Creator,Theological,,
+,Створитељ не губи,Creator loses not,Theological Phrase,,
+,Створитељ света,Creator of the world,Theological,,
+,Створитељу и Сведржитељу,Creator and Almighty,Theological Title,,
+,Створити небо и земљу,To create heaven and earth,Theological Verb,,
+,Створити од ребра,To create from rib,Biblical Verb,,
+,Створити човека,To create man,Biblical Verb,,
+,Стезати одећу,To hold garment,Verb,,
+,Стена Православља,Rock of Orthodoxy,Saint Title,,
+,Стена раступи се,Rock split open,Miracle Phrase,,
+,Стена спасења,Rock of salvation,Theological,,
+,Стене пустињске,Desert rocks,Phrase,,
+,Степеница ка савршенству,Ladder toward perfection,Spiritual Phrase,,
+,Стефан Нови,Stephen the Newer,Saint Name,,
+,Стефан првомученик,Stephen Protomartyr,Saint Name,,
+,Стефан Штиљановић,Stefan Štiljanović,Personal Name,,
+,Стефанида,Stephanida,Personal Name,,
+,Стигавши у Дамаск,Arriving in Damascus,Phrase,,
+,Стилијан,Stylianos,Saint Name,,
+,Стићи,To arrive,Verb,,
+,Стићи,To overtake,Verb,,
+,Стићи блаженству,To reach blessedness,Spiritual Verb,,
+,Стићи га казна,Punishment overtook him,Phrase,,
+,Стоји на руци,Stands on hand,Phrase,,
+,Стока,Cattle,Biblical,,
+,Столп,Pillar (for stylites),Monastic,,
+,Столп велики,Great pillar,Phrase,,
+,Столп висок,High pillar,Monastic,,
+,Столпник,Stylite,Monastic,,
+,Стомакоугађање,Belly-pleasing,Vice,,
+,Стопе учења отачког,Footsteps of patristic teaching,Ecclesiological Phrase,,
+,Сторожевски,Of Storozhev,Geographical,,
+,Стоструке даре даје,Gives gifts hundredfold,Biblical Phrase,,
+,Страдалник за иконе,Sufferer for the icons,Saint Title,,
+,Страдалник за истину,Sufferer for truth,Hagiographic Title,,
+,Страдање прста,Suffering of finger,Martyrdom Phrase,,
+,Страдање свете девице,Suffering of holy virgin,Martyrdom Phrase,,
+,Страдање туђе,Another's suffering,Phrase,,
+,Стражари,Guards,Phrase,,
+,Стране Азије,Regions of Asia,Geographical,,
+,Страни човек,Strange man,Phrase,,
+,Страсни гњет,Passion's yoke,Spiritual,,
+,Страст/страсти,Passion/passions,Theological,,
+,Стратоника,Stratonice,Personal Name,,
+,Страх Божји,Fear of God,Theological,,
+,Страх од свега ради тела,Fear of everything for sake of body,Spiritual Phrase,,
+,Страшна змија,Terrible dragon,Phrase,,
+,Страшна тајна,Terrible mystery,Theological,,
+,Страшне муке,Terrible tortures,Martyrdom,,
+,Страшни једнорог,Terrible unicorn,Phrase,,
+,Страшни суд,Dread Judgment,Eschatological,,
+,Страшни трус,Terrible tremor,Phrase,,
+,Страшно гоњење,Terrible persecution,Historical Phrase,,
+,Стремљење греховно,Sinful striving,Theological Phrase,,
+,Стриц,Uncle,Phrase,,
+,Стриц Јустин,Uncle Justin,Personal Name,,
+,Стриц Теодор,Uncle Theodore,Personal Name,,
+,Стрица Теодора,Uncle Theodore,Phrase,,
+,Строги закони,Strict laws,Phrase,,
+,Строго подвизавајући се,Struggling strictly,Monastic Phrase,,
+,Стројитељ,Builder,Ecclesiological,,
+,Стројити све на добро,To order all things for good,Theological Phrase,,
+,Стројити тело,To build body,Ecclesiological Verb,,
+,Стројни склоп,Orderly structure,Ecclesiological,,
+,Стрпљење славног ученика,Patience of glorious disciple,Monastic Phrase,,
+,Стрпљиви у чекању,Patient in waiting,Spiritual Phrase,,
+,Стругати,To scrape,Martyrdom Verb,,
+,Струнути,To rust,Verb,,
+,Стуб од светлости,Pillar of light,Phrase,,
+,Стуб од светлости,Pillar of light,Miracle Phrase,,
+,Стуб цркве,Pillar of the Church,Hagiographic Phrase,,
+,Студијски манастир,Studion Monastery,Geographical,,
+,Ступати у брак,To enter into marriage,Verb,,
+,Ступити на престо,To ascend to throne,Ecclesiological Verb,,
+,Ступише у погодбу,Entered into agreement,Phrase,,
+,Сува мотка,Dry stick,Phrase,,
+,Суво дрво,Dry tree,Biblical Phrase,,
+,Суд препун млека,Vessel full of milk,Phrase,,
+,Суд Страшни,Last Judgment,Theological,,
+,Судба цркве,Destiny of the Church,Ecclesiological,,
+,Судије вуци вечерњи,Judges are evening wolves,Biblical Quote,,
+,Судови,Vessels,Phrase,,
+,Судови Божји,Judgments of God,Theological,,
+,Суђени,Judged,Martyrdom Verb,,
+,Сужанство,Bondage,Spiritual,,
+,Сужањ,Prisoner,Phrase,,
+,Сужањ,Prisoner,Phrase,,
+,Сужањ Исуса Христа,Prisoner of Jesus Christ,Hagiographic Phrase,,
+,Сужањ Христов,Prisoner of Christ,Hagiographic Phrase,,
+,Сузбије и осуди,Suppressed and condemned,Ecclesiastical Verb,,
+,Сузбити симонију,To suppress simony,Ecclesiological Verb,,
+,Сузе радости,Tears of joy,Phrase,,
+,Сујета света,Vanity of world,Spiritual,,
+,Сујета светска,Worldly vanity,Spiritual Phrase,,
+,Сујета ума,Vanity of mind,Theological,,
+,Сумашедша,Insane,Adjective,,
+,Сунђери,Sponges,Phrase,,
+,Супротан овоме,Contrary to this,Phrase,,
+,Супруга Теозва,Wife Theozva,Personal Name,,
+,Сурови отац,Cruel father,Phrase,,
+,Сурово поступати,To deal harshly,Verb,,
+,Суседи са Христом,Co-seated with Christ,Theological,,
+,Сутрадан,The next day,Temporal Phrase,,
+,Сухој земљи,To dry earth,Biblical Phrase,,
+,Сухота,Dryness,Monastic,,
+,Суше,Droughts,Phrase,,
+,Суши се и гине,Withers and perishes,Spiritual Phrase,,
+,Сходно звању,Worthy of calling,Spiritual Phrase,,
+,Сцена величанствена,Magnificent scene,Phrase,,
+,Тавенски манастир,Tabennisi Monastery,Geographical,,
+,Таврион,Taurion,Saint Name,,
+,Тада разумеше,Then understood,Verb,,
+,Тај и тај велмож,Such and such nobleman,Phrase,,
+,Тајанствена привлачност,Mysterious attraction,Phrase,,
+,Тајанствени,Mysterious,Adjective,,
+,Тајанственост,Mysteriousness,Phrase,,
+,Тајна Ваплоћења,Mystery of the Incarnation,Theological,,
+,Тајне људи,People's secrets,Phrase,,
+,Тајне спасоносне,Saving mysteries,Theological,,
+,Тајни ћивот,Secret ark,Theological,,
+,Тајно узе тело,Secretly took body,Phrase,,
+,Тајновидац,Seer,Biblical Title,,
+,Тајну знати,To know mystery,Phrase,,
+,Такав одговор лажан,Such answer false,Phrase,,
+,Таква недела,Such evil deeds,Phrase,,
+,Тако исцрпно,So exhaustively,Phrase,,
+,"Тако онда, тако и данас","So then, so also today",Phrase,,
+,Тако редом,So in succession,Phrase,,
+,Тако се питају неверници,Thus unbelievers ask,Phrase,,
+,Тако умуј,Thus think thou,Phrase,,
+,Талант богодани,God-given talent,Hagiographic Phrase,,
+,Тама бившега,Darkness of the past,Phrase,,
+,Тама густа,Thick darkness,Phrase,,
+,Тамјан,Incense,Liturgical,,
+,Тамница,Prison,Martyrdom,,
+,Тамновање,Imprisonment,Martyrdom,,
+,Тамо и натраг,There and back,Phrase,,
+,Тамо прода,Sell there,Verb,,
+,Татарска,Tatar,Historical Adjective,,
+,Твојим молитвама,With thy prayers,Prayer Phrase,,
+,Творац наш,Our Creator,Theological,,
+,Творац новог човека,Creator of the new man,Theological,,
+,Творачко Слово,Creative Word,Theological,,
+,Творити мир,To make peace,Theological Phrase,,
+,Тврди сан,Deep sleep,Biblical,,
+,Тврдити,To assert,Verb,,
+,Тврдо и одлучно,Firmly and resolutely,Monastic Phrase,,
+,Те ће имати свршетак,Consequently will have ending,Phrase,,
+,Теби благом,To Thee the good,Prayer Phrase,,
+,Теби слава и хвала вавек,To Thee be glory and praise forever,Devotional Phrase,,
+,Тежак,Peasant,Phrase,,
+,Тежак крст понети,To bear heavy Cross,Theological Phrase,,
+,Теже ка добру,Strive toward good,Spiritual Phrase,,
+,Тезоименити,Namesake,Phrase,,
+,Тек даље од земље,Ever farther from earth,Phrase,,
+,Тек кад векови прохујали,Only when centuries had passed,Temporal Phrase,,
+,Тек у време,Only in time,Temporal Phrase,,
+,Теле од последње краве,Calf from last cow,Phrase,,
+,Телесна кора,Bodily husk,Phrase,,
+,Телесна лепота,Bodily beauty,Phrase,,
+,Телесна похот,Bodily lust,Phrase,,
+,Телесна снага,Bodily strength,Phrase,,
+,Телесне очи,Bodily eyes,Phrase,,
+,Телесне разлике,Bodily differences,Phrase,,
+,Телесни престо,Bodily throne,Theological,,
+,Телесно искушење,Carnal temptation,Spiritual,,
+,Телесно сродство,Bodily kinship,Phrase,,
+,Тело,Body,Theological,,
+,Тело духовно,Spiritual body,Ecclesiological,,
+,Тело мучениково украдено,Martyr's body had been stolen,Martyrdom Phrase,,
+,Тело састављено,Body composed,Phrase,,
+,Тело скрши,Crushes body,Martyrdom Verb,,
+,Тело тајанствено,Mystical body,Ecclesiological,,
+,Тело цело,Entire body,Phrase,,
+,Тело цркве,Body of the Church,Ecclesiological,,
+,Темелије,Themelius,Saint Name,,
+,Темељ,Foundation,Theological,,
+,Темељ апостола и пророка,Foundation of apostles and prophets,Theological,,
+,Теоген,Theogenes,Saint Name,,
+,Теодор,Theodore,Saint Name,,
+,Теодосије Велики,Theodosius the Great,Personal Name,,
+,Теодосије Велики,Theodosius the Great,Personal Name,,
+,Теодосије Млађи,Theodosius the Younger,Personal Name,,
+,Теодот,Theodotus,Saint Name,,
+,Теодотија,Theodotia,Personal Name,,
+,Теодотија,Theodotia,Personal Name,,
+,Теодул,Theodulus,Saint Name,,
+,Теодул,Theodulus,Saint Name,,
+,Теозва,Theozva,Personal Name,,
+,Теона,Theonas,Saint Name,,
+,Теофил,Theophilus,Saint Name,,
+,Теофил патријарх,"Theophilus, Patriarch",Personal Name,,
+,Теофилакт Охридски,Theophylact of Ohrid,Saint Name,,
+,Терције,Tertius,Saint Name,,
+,Тесање камена,Quarrying stone,Phrase,,
+,Тескоба,Distress,Phrase,,
+,Теспесије,Thespesios,Saint Name,,
+,Тешка искушења,Severe trials,Spiritual Phrase,,
+,Тешка судба,Heavy fate,Phrase,,
+,Тешке муке,Severe tortures,Martyrdom Phrase,,
+,Тешко болесни војник,Gravely ill soldier,Phrase,,
+,Тешко замислити,Difficult to imagine,Phrase,,
+,Ти бунцаш,Thou art raving,Quote,,
+,Ти си Творац сваког добра,Thou art Maker of all good,Theological Phrase,,
+,Тиваида,Thebaid,Geographical,,
+,Тивуртије,Tiburtius,Personal Name,,
+,Тијана,Tyana,Geographical,,
+,Тијана,Tyana,Geographical,,
+,Тијело Христово,Body of Christ,Ecclesiological,,
+,Тим делом својим,By this deed of his,Phrase,,
+,Тим начином,In this way,Phrase,,
+,Тир,Tyre,Geographical,,
+,Тиридат,Tiridates,Personal Name,,
+,Тицати се,To concern,Verb,,
+,Тлетворан (ваздух),Pestilential (air),Demonic,,
+,То ближи Христос,The nearer Christ,Spiritual Phrase,,
+,То и Сведржитељ,Also Almighty,Theological Title,,
+,То не може бити сада,This cannot be now,Quote,,
+,Тобија,Tobias,Personal Name,,
+,Тобож,Supposedly,Adverb,,
+,Тога истог дана,On that same day,Temporal Phrase,,
+,Толика благодат,Such grace,Spiritual Phrase,,
+,Толики број,Such a number,Phrase,,
+,Толико година,So many years,Temporal Phrase,,
+,Толковање,Interpretation,Phrase,,
+,Том приликом,On that occasion,Phrase,,
+,Топла љубав,Warm love,Spiritual Phrase,,
+,Топташити ногама,To trample with hooves,Verb,,
+,Точак,Wheel,Martyrdom,,
+,Траже по целом царству,To seek throughout whole empire,Historical Phrase,,
+,Траже саучеснике,Seek participants,Verb,,
+,Тражи цену смешно високу,Ask ridiculously high price,Phrase,,
+,Трајан,Trajan,Personal Name,,
+,Трајати кроз родове,To endure through generations,Ecclesiological Verb,,
+,Трајаше пола сата,Lasted half hour,Temporal Phrase,,
+,Трака ленена,Linen ribbon,Angelic Symbol,,
+,Тракија,Thrace,Geographical,,
+,Тракија,Thrace,Geographical,,
+,Траћити без пажње,To waste without care,Phrase,,
+,Тргнути,To recover (from deception),Verb,,
+,Трговци,Merchants,Profession,,
+,Требало прво,Had to first,Phrase,,
+,Требати да,Was to,Phrase,,
+,Тренутак одлучан,Decisive moment,Phrase,,
+,Тренутно,Instantly,Adverb,,
+,Тренутно бива умртвљен,Is instantly killed,Phrase,,
+,Тренутно пренесе,Instantly transported,Miracle Verb,,
+,Тресати се,To shake,Verb,,
+,Трећа група,Third group,Phrase,,
+,Трећа ноћ,Third night,Temporal Phrase,,
+,Треће небо,Third heaven,Theological,,
+,Треће небо,Third heaven,Biblical,,
+,Треће откровење,Third revelation,Theological,,
+,Трећег дана,On the third day,Temporal Phrase,,
+,Трећи прозор,Third window,Phrase,,
+,Трећи спрат,Third floor,Phrase,,
+,Трзати,To tear,Martyrdom Verb,,
+,Трзати се,To jerk,Verb,,
+,Три врлине,Three virtues,Spiritual Phrase,,
+,Три дана пута,Three days' journey,Temporal Phrase,,
+,Три здрава стања,Three healthy states,Phrase,,
+,Три ипостаси,Three hypostases,Theological,,
+,Три нездрава стања,Three unhealthy states,Phrase,,
+,Три ноћи,Three nights,Temporal Phrase,,
+,Три прозора,Three windows,Phrase,,
+,Три пута,Three times,Phrase,,
+,Три сина,Three sons,Phrase,,
+,Триада,Triad,Theological,,
+,Трикратно погружавање,Triple immersion,Liturgical,,
+,Тринаест отаца сиријских,Thirteen Syrian Fathers,Hagiographic,,
+,Тринаести апостол,Thirteenth apostle,Ecclesiological,,
+,Трнов венац,Crown of thorns,Biblical,,
+,Трново,Tarnovo,Geographical,,
+,Трње,Thorns,Phrase,,
+,Троада,Troas,Geographical,,
+,Тројица Божанска,Divine Trinity,Theological,,
+,Трпезар,Cup-bearer,Phrase,,
+,Трпељивост,Patience,Virtue,,
+,Трпљење,Endurance,Hagiographic Phrase,,
+,Трска,Reed,Phrase,,
+,Трубачу живота вечнога,Trumpeter of eternal life,Hagiographic Title,,
+,Труд око учења,Labor about learning,Phrase,,
+,Трудити се,To strive,Verb,,
+,Трудити се улудо,To labor in vain,Phrase,,
+,Трудољубље,Diligence,Virtue,,
+,Трулеж,Corruption,Theological,,
+,Трулеж,Corruption,Spiritual,,
+,Трулеж и нестројност,Corruption and disorder,Phrase,,
+,Трулежно,Corruptible,Vice,,
+,Трупина,Torso,Martyrdom,,
+,Ту силу даје непосредно,This power gives directly,Phrase,,
+,Туговати за,To grieve for,Verb,,
+,Туговаше много,Grieved much,Phrase,,
+,Тужно уплакан,Tearfully weeping,Phrase,,
+,Тумач Јеванђеља,Interpreter of the Gospel,Saint Title,,
+,Тумачења,Commentaries,Theological,,
+,Тумачење,Interpretation,Phrase,,
+,Тумачи Светога Писма,Interpreters of Holy Scripture,Ecclesiological,,
+,Турци,Turks,Historical,,
+,Ћелав,Bald,Adjective,,
+,Ћерка девојка,Virgin daughter,Phrase,,
+,Ћерка његове ћерке,Daughter of his daughter,Phrase,,
+,Ћерку јединицу,Only daughter,Phrase,,
+,Ћивот,Ark,Biblical,,
+,Ћивот од завета,Ark of covenant,Biblical,,
+,Ћилим везен,Embroidered carpet,Phrase,,
+,Ћутање,Silence,Virtue,,
+,Ћуташе,Kept silent,Verb,,
+,Ћутке,Silently,Adverb,,
+,Ћутке се удаљити,To withdraw silently,Verb,,
+,Ћутљиви,Silent,Monastic Title,,
+,У 100 глава,In one hundred chapters,Phrase,,
+,У 16. години,In sixteenth year,Temporal Phrase,,
+,У 25. години,In twenty-fifth year,Temporal Phrase,,
+,У 53. год. живота,In fifty-third year of life,Temporal Phrase,,
+,У IV веку,In fourth century,Temporal Phrase,,
+,У VII веку,In seventh century,Temporal Phrase,,
+,У беди,In poverty,Phrase,,
+,У беди и понижењу,In misery and humiliation,Phrase,,
+,У бедној раси монашкој,In poor monastic garb,Monastic Phrase,,
+,У белини,In whiteness,Phrase,,
+,У близини,In the vicinity,Phrase,,
+,У близини града,To vicinity of city,Geographical Phrase,,
+,У Бога уздаше,Hoped in God,Spiritual Verb,,
+,У богатству,In wealth,Phrase,,
+,У Богу нема греха,In God there is no sin,Theological Phrase,,
+,У Божјим рукама,In God's hands,Theological Phrase,,
+,У бољи живот,To better life,Eschatological Phrase,,
+,У Вавилон Данилу,To Babylon to Daniel,Biblical Phrase,,
+,У ваздуху,In the air,Phrase,,
+,У вези са телом цркве,In connection with Body of Church,Ecclesiological,,
+,У великим масама,In great masses,Phrase,,
+,У великом страху,In great fear,Phrase,,
+,У великом ужасу,In great terror,Phrase,,
+,У вери незнабожац,In faith unbeliever,Phrase,,
+,У вечном извору добра,In eternal fountain of good,Theological Phrase,,
+,У виду обична човека,In form of ordinary man,Phrase,,
+,У визији,In a vision,Spiritual Phrase,,
+,У власти јединога Бога,In power of God alone,Theological Phrase,,
+,У време иконоборног цара,During time of iconoclast emperor,Historical Phrase,,
+,У време Теодосија Великог,During time of Theodosius the Great,Historical Phrase,,
+,У време цара...,In the time of Emperor...,Temporal Phrase,,
+,У времену и у вечности,In time and in eternity,Theological Phrase,,
+,У времену подесну,At time opportune,Biblical Phrase,,
+,У вртлогу промене,In whirlpool of change,Phrase,,
+,У гневу своме,In his wrath,Phrase,,
+,У даљину огромну,Into enormous distance,Phrase,,
+,У два маха,Twice,Phrase,,
+,У деведесетој години,In ninetieth year,Temporal Phrase,,
+,У девети час,At ninth hour,Biblical Temporal,,
+,У договору,In agreement,Phrase,,
+,У држави,In the state,Political,,
+,У дубокој старости,In deep old age,Death Phrase,,
+,У живот телесни,To bodily life,Phrase,,
+,У животу људском,In human life,Phrase,,
+,У засебности,In isolation,Phrase,,
+,У згодно време,At opportune time,Temporal Phrase,,
+,У знак обручења,As sign of betrothal,Phrase,,
+,У зрелим годинама,In his mature years,Temporal Phrase,,
+,У име Оца и Сина и Духа,In name of Father and Son and Spirit,Liturgical,,
+,У искању истине,In seeking truth,Spiritual Phrase,,
+,У историји Цркве,In history of Church,Phrase,,
+,У јаму лавовску,To lions' den,Biblical Phrase,,
+,У јединству,In unity,Ecclesiological,,
+,У једног човека,Into one person,Theological Phrase,,
+,У једноме дому,In single household,Phrase,,
+,У јесен,In autumn,Temporal Phrase,,
+,У кајању и молитви,In repentance and prayer,Spiritual Phrase,,
+,У камен,Into stone,Phrase,,
+,У Кијеву,In Kiev,Geographical,,
+,У који ћемо се уселити,Into which shall move,Eschatological Phrase,,
+,У којима се налази двојство,In whom is found duality,Phrase,,
+,У колико се испразни,Insofar as empties himself,Spiritual Phrase,,
+,У корист своју,On behalf,Phrase,,
+,У кућу Диоскорову,Dioscorus's house,Phrase,,
+,У лицу од поста исушен,In face dried up from fasting,Monastic Phrase,,
+,У лицу св. Стахија,In person of Saint Stachys,Phrase,,
+,У љубави,In love,Spiritual Phrase,,
+,У месту рођења,In place of birth,Phrase,,
+,У милини,In tenderness,Phrase,,
+,У младим годинама,In youth,Temporal Phrase,,
+,У Москви,In Moscow,Geographical Phrase,,
+,У муци,In torment,Spiritual Phrase,,
+,У нама или ван нас,In us or outside us,Phrase,,
+,У наше дане,In our days,Temporal Phrase,,
+,У некоме граду,In certain city,Phrase,,
+,У низини и на висини,In depths and in heights,Theological Phrase,,
+,У оба света,In both worlds,Theological Phrase,,
+,У оба света,In both worlds,Theological Phrase,,
+,У обадва света,In both worlds,Theological Phrase,,
+,У обиљу свега,In abundance of everything,Phrase,,
+,У овоме свету и у ономе,In this world and in next,Theological Phrase,,
+,У одвојености,In separateness,Phrase,,
+,У одговарајућој мери,In appropriate measure,Phrase,,
+,У одговарајућој сразмери,In appropriate proportion,Phrase,,
+,У ономе који је глава,Into Him who is head,Theological Phrase,,
+,У ономе свету,In the other world,Theological Phrase,,
+,У ономе свету,In that world,Eschatological Phrase,,
+,У Ономе свршетак,In Him ending,Theological Phrase,,
+,У осамнаестој години,In eighteenth year,Temporal Phrase,,
+,У осми дан по рођењу,On the eighth day after (His) Nativity,Temporal Phrase,,
+,У очи дана,On the eve,Temporal Phrase,,
+,У очишћењу срца,In purifying hearts,Spiritual Phrase,,
+,У пламену,In the flames,Martyrdom Phrase,,
+,У покој отићи,To go to rest,Death Verb,,
+,У полусну,Half-asleep,Phrase,,
+,У поноћи,At midnight,Temporal Phrase,,
+,У послушности,In obedience,Monastic Phrase,,
+,У почетку,In the beginning,Biblical Phrase,,
+,У почетку,At first,Temporal Phrase,,
+,У почетку створи Бог,In beginning God created,Biblical Quote,,
+,У празној кући,In empty house,Phrase,,
+,У пратњи Пресвете Богородице,In company of Most Holy Theotokos,Miracle Phrase,,
+,У први мах,At first,Temporal Phrase,,
+,У првој реченици,In first sentence,Phrase,,
+,У присуству,In the presence of,Phrase,,
+,У пуној мери,Fully,Phrase,,
+,У разговору,In conversation,Phrase,,
+,У разне стране,In different directions,Phrase,,
+,У Рају пред Богом,In Paradise before God,Theological Phrase,,
+,У Рају пред Христа узноси,In Paradise before Christ raises,Prayer Phrase,,
+,У руке Оца,Into hands of Father,Biblical Phrase,,
+,У Русији,In Russia,Geographical,,
+,У савршеној целини,In perfect whole,Phrase,,
+,У сами ад,Into Hades itself,Theological,,
+,У самовању,In solitude,Monastic Phrase,,
+,У саму колевку,Into very cradle,Phrase,,
+,У свако време,At all times,Temporal Phrase,,
+,У свакоме верноме члану,In every faithful member,Ecclesiological Phrase,,
+,У све векове,Throughout all ages,Phrase,,
+,У све нараштаје,Throughout all generations,Temporal Phrase,,
+,У свези мира,In bond of peace,Theological Phrase,,
+,У свему Богу угодан,Pleasing to God in all things,Spiritual Phrase,,
+,У свему узрасти,To grow up in all things,Biblical Phrase,,
+,У свима осталим,In all others,Phrase,,
+,У своје време,In due time,Temporal Phrase,,
+,У своје време,In His time,Temporal Phrase,,
+,У своје време,In His own time,Theological Phrase,,
+,У својој 18. години,In her eighteenth year,Temporal Phrase,,
+,У својој 43. години,In his forty-third year,Temporal Phrase,,
+,У селу Вевчанима,In village Vevčani,Geographical,,
+,У сили и мудрости божанској,In strength and divine wisdom,Hagiographic Phrase,,
+,У Сирији,In Syria,Geographical,,
+,У сиромаштини и нужди,In poverty and need,Phrase,,
+,У смирености,In humility,Spiritual Phrase,,
+,У сплету лажних путова,In tangle of false paths,Phrase,,
+,У средини,In midst,Phrase,,
+,У ствари,In fact,Phrase,,
+,У стотину четвртој години,In one hundred fourth year,Temporal Phrase,,
+,У сухоти,In dryness,Monastic Phrase,,
+,У суштини,In essence,Phrase,,
+,У тамници јави се,In dungeon appeared,Miracle Phrase,,
+,У телу Христовоме,In body of Christ,Ecclesiological Phrase,,
+,У телу човечјем,In human body,Phrase,,
+,У то време цароваше,At that time reigned,Historical Phrase,,
+,У толико улази,To that extent enters,Theological Phrase,,
+,У том звању,In that capacity,Phrase,,
+,У том кретању,In that movement,Phrase,,
+,У том опажању,In that perception,Phrase,,
+,У том осећању,In that feeling,Phrase,,
+,У том часу,At that hour,Temporal Phrase,,
+,У том часу,In that hour,Temporal Phrase,,
+,У тренутку,In moment,Temporal Phrase,,
+,У тридесет првој години,In thirty-first year,Temporal Phrase,,
+,У ћутању,In silence,Monastic Phrase,,
+,У ћутању и молитви,In silence and prayer,Monastic Phrase,,
+,У утроби,In womb,Phrase,,
+,У Фрушкој гори,In Fruška Gora,Geographical,,
+,У целини,In wholeness,Ecclesiological,,
+,У целини,As whole,Phrase,,
+,У целини и у деловима,In whole and in parts,Phrase,,
+,У част,In honor,Phrase,,
+,У Чудовом манастиру,In Chudov Monastery,Geographical Phrase,,
+,У шести дан,On the sixth day,Temporal Phrase,,
+,У шести час,At sixth hour,Biblical Temporal,,
+,Убеђен од откровења,Convinced by revelation,Spiritual Phrase,,
+,Уби и њега и Мартијана,Killed both him and Martianus,Miracle Phrase,,
+,Убијати раздаљину,To diminish distance,Spiritual Verb,,
+,Убити страшну змију,To kill terrible dragon,Miracle Verb,,
+,Ублажена,Mitigated,Verb,,
+,Убогост,Poverty,Phrase,,
+,Убрзо,Soon,Adverb,,
+,Убрусе,Aprons,Phrase,,
+,Уважавати,To respect,Verb,,
+,Уважавати,To respect,Verb,,
+,Увенчан славом неувелом,Crowned with unfading glory,Hagiographic Phrase,,
+,Увео у царство,Led into kingdom,Theological Verb,,
+,Увери се,Became convinced,Verb,,
+,Увести,To lead,Verb,,
+,Увођати у храм,To bring into Temple,Liturgical Verb,,
+,Увући се,To creep into,Verb,,
+,Угаони камен,Cornerstone,Theological,,
+,Угаони каменови,Cornerstones,Theological,,
+,Угарак,Charcoal,Phrase,,
+,Углачати,To polish,Verb,,
+,Угледати,To see,Verb,,
+,Угледни грађани,Distinguished citizens,Phrase,,
+,Угоди цару,To please emperor,Verb,,
+,Угодити,To please,Spiritual Verb,,
+,Угодник Божји,Saint of God,Ecclesiological,,
+,Угодност воље,Good pleasure of will,Theological,,
+,Угодност лична,Personal convenience,Phrase,,
+,Удавити,To strangle,Martyrdom Verb,,
+,Удавити,To strangle,Martyrdom Verb,,
+,Удавити,To strangle,Verb,,
+,Удављен,Strangled,Martyrdom Verb,,
+,Удаљавати се,To wander away,Verb,,
+,Удаљавати се из храма,To depart from Temple,Verb,,
+,Удаљено,Far off,Adjective,,
+,Удаљено острво,Distant island,Geographical,,
+,Удаљеност од Бога,Distance from God,Theological,,
+,Удаљити се,To withdraw,Monastic Verb,,
+,Удаљити се у планину,To withdraw to mountains,Monastic Verb,,
+,Удаљити се у пустињу,To withdraw into desert,Monastic Verb,,
+,Ударати камењем,To strike with stones,Martyrdom Verb,,
+,Ударати камењем,To strike with stones,Martyrdom Verb,,
+,Удари гром,Lightning struck,Miracle Phrase,,
+,Удари на Јерусалим,Attacked Jerusalem,Historical Verb,,
+,Ударити дрветом,To strike with wood,Martyrdom Verb,,
+,Ударити по врату,To strike on neck,Martyrdom Verb,,
+,Ударити по образу,To strike on cheek,Biblical Phrase,,
+,Ударити у главу,To strike on the head,Verb,,
+,Ударити у ноге,To drive into the feet,Martyrdom Verb,,
+,Удешавати сплетке,To devise intrigues,Verb,,
+,Удивити се мудрости,To marvel at wisdom,Verb,,
+,Удивљавати људе,To amaze people,Verb,,
+,Удови,Organs / Members,Theological,,
+,Удовица,Widow,Phrase,,
+,Удостојавамо се пребивати,We are counted worthy to dwell,Spiritual Phrase,,
+,Удостојили,Be made worthy,Theological Verb,,
+,Удостојио прозирања,Made worthy of seeing,Miracle Phrase,,
+,Удостојите се,Make yourselves worthy,Spiritual Verb,,
+,Удостојити,To count worthy,Spiritual Verb,,
+,Удостојити муке,To make worthy of torments,Theological Phrase,,
+,Удостојити се,To be found worthy,Spiritual Verb,,
+,Удостојити се вером,To be made worthy by faith,Spiritual Phrase,,
+,Удостојити се посете,To be counted worthy of visitation,Spiritual Phrase,,
+,Удостојити се почасти,To be made worthy of honor,Spiritual Verb,,
+,Удостојити се раја,To be made worthy of Paradise,Theological Phrase,,
+,Ужасно гонити,To terribly persecute,Verb,,
+,Уз теле даде и краву,With calf gave cow,Phrase,,
+,Уз Христа Бога,Together with Christ God,Theological Phrase,,
+,Уз Часни Пост,During Great Lent,Liturgical Phrase,,
+,Узајамна љубав,Mutual love,Spiritual,,
+,Узалуд,In vain,Adverb,,
+,Узбунити село,To alarm the village,Verb,,
+,Узвикнути,To cry out,Verb,,
+,Узвикнути,To cry out,Verb,,
+,Узвикнути,To cry out,Verb,,
+,Узвисивати све,To exalt all,Theological Verb,,
+,Узвисио се,Exalted Himself,Theological Verb,,
+,Узвишен осећај,Exalted sense,Phrase,,
+,Узвишени пример,Elevated example,Hagiographic Phrase,,
+,Узводити на небеса,To carry to heaven,Angelic Verb,,
+,Уздигни уста чиста,Lift up pure lips,Prayer Phrase,,
+,Уздигнути,To raise up,Theological Verb,,
+,Уздижемо дух свој,Raise our spirit,Spiritual Phrase,,
+,Уздизати се стуб,Pillar rose,Miracle Phrase,,
+,Уздићи се,To be exalted,Theological Verb,,
+,Уздићи се Богу,To ascend to God,Spiritual Verb,,
+,Уздићи се до небеса,To ascend to heavens,Spiritual Verb,,
+,Уздићи се духом,To rise in spirit,Spiritual Verb,,
+,Уздићи себе,To raise oneself,Verb,,
+,Уздићиће се,Will be raised up,Theological Verb,,
+,Уздржати се изнад,To restrain above,Verb,,
+,Узе за косу,Took by hair,Miracle Phrase,,
+,Узе котарице,Took baskets,Verb,,
+,Узела и сахранила,Taken and buried,Verb,,
+,Узео собом,Had taken with him,Phrase,,
+,Узети душу,To take soul,Death Phrase,,
+,Узети за гушу,To take by throat,Verb,,
+,Узети за руку,To take by hand,Phrase,,
+,Узети за сацара,To take as co-emperor,Historical Verb,,
+,Узети ребро,To take rib,Biblical Verb,,
+,Узети учешћа,To take part,Verb,,
+,Узидати,To build into,Ecclesiological Verb,,
+,Узимати душе из тела,To take souls from bodies,Angelic Phrase,,
+,Узимати за цара,To take as emperor,Verb,,
+,Узимати у обзир,To take into account,Phrase,,
+,Узјашити коња,To mount horse,Verb,,
+,Узнав веру ћерке,Learning of daughter's faith,Phrase,,
+,Узнети се,To ascend,Theological Verb,,
+,Узнеће се,Shall be exalted,Biblical Verb,,
+,Узнеше на небо,Raised to heaven,Miracle Phrase,,
+,Узор монасима,Example to monks,Hagiographic Phrase,,
+,Узраст духовни,Spiritual maturity,Spiritual,,
+,Узрок лудила,Cause of madness,Phrase,,
+,Ујединити срца,To unite hearts,Spiritual Verb,,
+,Уједињавати,To unite,Theological Verb,,
+,Уједињавати се,To be united,Theological Verb,,
+,Уједно,Together,Adverb,,
+,Ујести,To bite,Verb,,
+,Указа прстом,Pointed with finger,Biblical Phrase,,
+,Указивати пут,To point way,Spiritual Verb,,
+,Указивати степеницу,To show the ladder,Phrase,,
+,Уклањати се од зла,To turn away from evil,Spiritual Verb,,
+,Уклонити се,To depart,Verb,,
+,Укопати,To bury (in ground),Verb,,
+,Укорењивати се,To be rooted,Theological Verb,,
+,Укоријењени,Rooted,Theological,,
+,Укорити,To rebuke,Spiritual Verb,,
+,Укорити,To rebuke,Verb,,
+,Украђени тањир,Stolen plate,Phrase,,
+,Украси,Ornaments,Phrase,,
+,Украсити,To adorn,Verb,,
+,Украсити Рај,To adorn Paradise,Biblical Verb,,
+,Украсити се цветом,To adorn with flowers,Verb,,
+,Украсти,To steal,Verb,,
+,Украшена царским одећама,Adorned with royal garments,Phrase,,
+,Укрепити веру,To strengthen faith,Spiritual Verb,,
+,Укроћавати,To tame,Verb,,
+,Укупно седам пута,Altogether seven times,Phrase,,
+,Укус меда,Taste of honey,Phrase,,
+,Улазак,Entrance,Phrase,,
+,Улити се,To pour into,Spiritual Verb,,
+,Улице Цариградске,Streets of Constantinople,Geographical,,
+,Уловити бисер,To catch a pearl,Verb,,
+,Улудо пропустити,"To waste, to let pass in vain",Phrase,,
+,Ум бива мрачан,Mind becomes dark,Phrase,,
+,Ум људски,Human mind,Phrase,,
+,Ум Христов,Mind of Christ,Theological,,
+,Ум чист,Mind pure,Hagiographic Phrase,,
+,Уме наш и животе наш,Our mind and our life,Prayer Phrase,,
+,Умеравати,To moderate,Verb,,
+,Умилно појање,Tender singing,Angelic Phrase,,
+,Умирити гнев,To calm wrath,Verb,,
+,Умити се,To wash,Verb,,
+,Умишљали зло,Thought evil,Biblical Phrase,,
+,Умножити братство,To multiply the brotherhood,Monastic Verb,,
+,Умоболна,Mentally ill,Phrase,,
+,Умоли за нас,Pray for us,Prayer Phrase,,
+,Уморити смрћу,To destroy by death,Martyrdom Verb,,
+,Умре,Died,Death Verb,,
+,Умре један добар човек,Good man died,Phrase,,
+,Умрети,To die,Death Verb,,
+,Умрети од глади,To die of starvation,Martyrdom Verb,,
+,Умрлом пре 20 година,Dead 20 years before,Phrase,,
+,Умртвити,To kill,Verb,,
+,Умртвљен и живи,Slain and lives,Martyrdom Phrase,,
+,Умртвљена телесина,Dead corpse,Phrase,,
+,Унаоколо,All around,Adverb,,
+,Унапред,Beforehand,Adverb,,
+,Унапред,In advance,Adverb,,
+,Унапред,In advance,Adverb,,
+,Уневести се Христу,Espoused herself to Christ,Spiritual Verb,,
+,Унизити пред народом,To humiliate before people,Verb,,
+,Унука Марија,Granddaughter Maria,Personal Name,,
+,Унука постала царица,Granddaughter became empress,Historical Phrase,,
+,Унутра истина,Inwardly truth,Spiritual Phrase,,
+,Унутра плакање,Inwardly weeping,Spiritual Phrase,,
+,Унутра тишина,Inwardly stillness,Spiritual Phrase,,
+,Унутра у себи,Within themselves,Phrase,,
+,Унутра у срцу,Within the heart,Spiritual Phrase,,
+,Унутрашња одаја,Inner chamber,Phrase,,
+,Унучад,Grandchildren,Phrase,,
+,Уозбиљи се веома,Became very serious,Verb,,
+,Уочи (+ feast name),Eve of (+ feast name),Feast,,
+,Упитан,Asked,Verb,,
+,Упитати,To ask,Verb,,
+,Уплаши се,Was frightened,Verb,,
+,Упокојени митрополити,Reposed Metropolitans,Phrase,,
+,Упокоји се,Reposed,Death Verb,,
+,Упокоји се мирно,Reposed peacefully,Death Phrase,,
+,Упокојио се,Reposed,Death Verb,,
+,Упокојити се са женом,To repose with wife,Death Phrase,,
+,Употребити дарове,To use gifts,Spiritual Verb,,
+,Употребљавано без страха,Used without fear,Theological Phrase,,
+,Управда,Upravda,Personal Name,,
+,Управитељ,Governor,Church Title,,
+,Управљати пером,To guide pen,Phrase,,
+,Управљати умом,To guide mind,Spiritual Verb,,
+,Управљати црквом,To govern the Church,Ecclesiological Verb,,
+,Управљати црквом,To steer Church,Ecclesiological Verb,,
+,Управљати црквом,To govern Church,Ecclesiological Verb,,
+,Упразнити,To abolish,Theological Verb,,
+,Упразнити се,To become vacant,Ecclesiological Verb,,
+,Упути нас добром крају,Direct us to good end,Prayer Phrase,,
+,Упутити кораке,To direct steps,Verb,,
+,Урбан,Urban,Personal Name,,
+,Уредити,To arrange,Verb,,
+,Урил,Uriel,Archangel Name,,
+,Урма,Dates (fruit),Phrase,,
+,Урош,Uroš,Saint Name,,
+,Уроша Силнога,Uroš the Mighty,Hagiographic Title,,
+,Урошев великаш Гргур,Uroš's noble Grgur,Personal Name,,
+,Урошева светиња,Uroš's sanctity,Hagiographic Phrase,,
+,Уручи исплетене котарице,Handed woven baskets,Phrase,,
+,Усаветовати,To counsel,Verb,,
+,Усаветовати младожењу,To counsel bridegroom,Verb,,
+,Усаврши се у добродетељима,To be perfected in virtues,Spiritual Phrase,,
+,Усамљенички живот,Solitary life,Monastic,,
+,Усвојити веру,To embrace the faith,Spiritual Verb,,
+,Усеви,Crops,Phrase,,
+,Усели се вјером,To dwell by faith,Theological Verb,,
+,Усели се у нас,Dwell in us,Prayer,,
+,Усељење Христа,Indwelling of Christ,Theological,,
+,Усијани бакарни во,Red-hot copper bull,Martyrdom Phrase,,
+,Усиљавати се,To be strengthened,Verb,,
+,Усиновљавати,To adopt,Theological Verb,,
+,Ускоро се упокојити,Soon reposed,Death Phrase,,
+,Ускрс,Pascha,Feast,,
+,Ускрс нам иде,Easter is coming,Liturgical Phrase,,
+,Успеју ући,Succeeded in entering,Verb,,
+,Успенски храм,Dormition Cathedral,Geographical,,
+,Успети,To succeed,Verb,,
+,Успети и сести,To climb up and sit down,Verb,,
+,Усрдно примити,To receive warmly,Verb,,
+,Усред летњег дана,Amid a summer's day,Phrase,,
+,Уставши отиде,He arose and followed,Biblical Phrase,,
+,Устати с туђинима,To rise with foreigners,Verb,,
+,Устрашавати,To frighten,Verb,,
+,Устрашен војник,Frightened soldier,Phrase,,
+,Устрашени народ,Terrified people,Phrase,,
+,Устрашити,To frighten,Verb,,
+,Устрашити се,To be frightened,Verb,,
+,Устрашити се,To be terrified,Verb,,
+,Устремити се,To rush at,Verb,,
+,Устремљење,Striving,Spiritual,,
+,Устројитељ манастирског живота,Organizer of monastic life,Monastic Phrase,,
+,Устројити добро,To arrange for good,Biblical Phrase,,
+,Устројство Цркве,Structure of Church,Ecclesiastical Phrase,,
+,Уступити,To yield,Verb,,
+,Утврдити,To strengthen,Verb,,
+,Утврђење правоверних,Strengthening of Orthodox,Ecclesiastical Phrase,,
+,Утврђивати јерес,To strengthen heresy,Ecclesiological Verb,,
+,Утемељени,Grounded,Theological,,
+,Утемељивати се,To be grounded,Theological Verb,,
+,Утеха,Comfort,Spiritual,,
+,Утеха борцу,Comfort to warrior,Hagiographic Phrase,,
+,Утешити,To comfort,Verb,,
+,Утиснути мисао,To press a thought into,Demonic Verb,,
+,Утопљен у море,Drowned in sea,Martyrdom Phrase,,
+,Ући зли дух,Evil spirit entered,Phrase,,
+,Ући у одају,To enter chamber,Verb,,
+,Ући у сплетку,To enter into intrigue,Verb,,
+,Ухватити,To seize,Verb,,
+,Ухватити је сан,Sleep overtook her,Phrase,,
+,Ухватити се,To grab hold,Verb,,
+,Ухватити се за дрво,To catch hold of tree,Verb,,
+,Ухватити се за руку,To fasten onto the hand,Verb,,
+,Ухваћен од разбојника,Captured by robbers,Phrase,,
+,Учен човек,Learned man,Phrase,,
+,Учени незнабошци,Learned pagans,Phrase,,
+,Ученик мој умре,My disciple has died,Phrase,,
+,Ученик пита,Disciple asked,Phrase,,
+,Ученик св. Макарија,Disciple of Saint Macarius,Personal Name,,
+,Ученик светог Сергија Радонешког,Disciple of Saint Sergius of Radonezh,Hagiographic Phrase,,
+,Ученик чудо сагледа,Disciple beheld wonder,Miracle Phrase,,
+,Учениче крститеља,Disciple of Baptist,Hagiographic Title,,
+,Учениче славни,Glorious disciple,Hagiographic Phrase,,
+,Ученоме,To learned,Phrase,,
+,Учини невидљивим,To make invisible,Miracle Verb,,
+,Учини саучасником,To make participant,Verb,,
+,Учинимо смотру,Let us make inspection,Verb,,
+,Учинио једне апостолима,Made some apostles,Ecclesiological Verb,,
+,Учинити племићем,To make nobleman,Verb,,
+,Учитељ,Teacher,Church Title,,
+,Учити,To teach,Spiritual Verb,,
+,Учити се мудрости,To learn wisdom,Verb,,
+,Учиш нас,Teachest us,Theological Verb,,
+,Ушавши,Upon entering,Verb,,
+,Фанар,Phanar,Geographical,,
+,Фармари,Pharmacists,Profession,,
+,Фаустин,Faustinus,Personal Name,,
+,Фаустинијан,Faustinian,Personal Name,,
+,Федим еп. Амасијски,"Phaedimus, Bishop of Amasea",Personal Name,,
+,Фењер,Lantern,Angelic Symbol,,
+,Фереман,Ferreman,Geographical,,
+,Филарет Милостиви,Philaret the Merciful,Saint Name,,
+,Филиби,Philippi,Geographical,,
+,Филимон,Philemon,Saint Name,,
+,Филозофија јелинска,Greek philosophy,Phrase,,
+,Филозофија мисирска,Egyptian philosophy,Phrase,,
+,Филолог,Philologus,Saint Name,,
+,Философска школа,Philosophical school,Phrase,,
+,Философска школа,Philosophical school,Academic,,
+,Филотеј,Philotheus,Personal Name,,
+,Фирмилијан,Firmilian,Personal Name,,
+,Фока,Phocas,Personal Name,,
+,Фригијски град,Phrygian city,Geographical,,
+,Фригин / Фригија,Phrygia,Geographical,,
+,Фрументије,Frumentius,Saint Name,,
+,Фрументије блажени,Blessed Frumentius,Hagiographic Title,,
+,Фрушка гора,Fruška Gora,Geographical,,
+,Хајде за мном,Follow me,Biblical Phrase,,
+,Халки,Halki,Geographical,,
+,Халкидонски Сабор,Council of Chalcedon,Ecclesiological,,
+,Халкидска пустиња,Desert of Chalcis,Geographical,,
+,Харамбаша,Chieftain,Phrase,,
+,Харитон,Chariton,Personal Name,,
+,Харфа златоструна,Golden-stringed harp,Hagiographic Phrase,,
+,Харфо вечите истине,Harp of eternal truth,Hagiographic Title,,
+,Хвалу изрећи,To utter praise,Verb,,
+,Хелеспонт,Hellespont,Geographical,,
+,Херојски војник,Heroic soldier,Hagiographic Phrase,,
+,Херсон,Cherson,Geographical,,
+,Хиљаде и хиљаде,Thousands upon thousands,Phrase,,
+,Хиљаду људи,Thousand people,Phrase,,
+,Химна Похвале,Hymn of Praise,Structural,,
+,Хиос,Chios,Geographical,,
+,Хитон,Chiton,Biblical,,
+,Хладити љубав,To cool love,Spiritual Verb,,
+,Хлеб живота,Bread of life,Theological Phrase,,
+,Ходе у сујети,Walk in vanity,Biblical Phrase,,
+,Хођаше по селу и граду,Went about through village and city,Phrase,,
+,Хорда,Horde,Historical,,
+,Храбра Миропија,Brave Myropia,Hagiographic Phrase,,
+,Храбри мученик,Brave martyr,Saint Title,,
+,Храбрити правоверне,To encourage the faithful,Spiritual Verb,,
+,Храбрити сина,To encourage son,Verb,,
+,Храброст војничка,Military courage,Virtue,,
+,Храм,Temple / Church (building),Geographical,,
+,Храм Дечански,Church at Dečani,Geographical,,
+,Храм идолски,Idolatrous temple,Phrase,,
+,Храм идолског бога,Temple of idol god,Phrase,,
+,Храм незнабожачки,Pagan temple,Phrase,,
+,Храм у храм,Temple into Temple,Liturgical Phrase,,
+,Хранећи се дивљим зељем,Feeding on wild herbs,Monastic Phrase,,
+,Хранити обиљем,To feed with abundance,Verb,,
+,Хранити се воћем,To nourish with fruit,Phrase,,
+,Хранити се зељем,To nourish oneself with vegetables,Phrase,,
+,Хранити се крвљу,To be nourished by blood,Theological Phrase,,
+,Хранити се поврћем,To nourish with vegetables,Phrase,,
+,Хранити се сочивом,To feed on lentils,Ascetic Phrase,,
+,Храњати до краја,To feed to the end,Verb,,
+,Храњаху брижљиво,Carefully nourished,Verb,,
+,Хрисант / Хрисантије,Chrysanthus,Personal Name,,
+,Христо,Christo,Saint Name,,
+,Христов престол небески,Christ's heavenly throne,Eschatological,,
+,Христов слуга прави,Christ's true servant,Hagiographic Phrase,,
+,Христова невеста,Bride of Christ,Spiritual Title,,
+,Христови војници,Soldiers of Christ,Hagiographic Phrase,,
+,Христом живимо,By Christ we live,Theological Phrase,,
+,Христом растемо,By Christ we grow,Theological Phrase,,
+,Христос васкрсли,The risen Christ,Theological,,
+,Христос васкрсли,Christ resurrected,Theological,,
+,Христос васкрсли из мртвих,Christ risen from dead,Theological,,
+,Хришћанин био,Was Christian,Phrase,,
+,Хришћанин од рођења,Christian from birth,Hagiographic Phrase,,
+,Хришћанин паки,Christian again,Phrase,,
+,Хришћанке,Christian women,Phrase,,
+,Хришћанска жена,Christian woman,Phrase,,
+,Хришћанска крв,Christian blood,Phrase,,
+,Хришћански родитељи,Christian parents,Phrase,,
+,Хришћански учитељи,Christian teachers,Phrase,,
+,Хришћанско звање,Christian calling,Theological,,
+,Хроме,Lame,Phrase,,
+,Хтеде га скинути,Wanted to take down,Verb,,
+,Хтеде стражаре погубити,Wanted to execute guards,Phrase,,
+,Хтела безмерна мудрост,Willed immeasurable wisdom,Theological Phrase,,
+,Хулити,To blaspheme,Theological Verb,,
+,Цар Авенир,King Abenner,Personal Name,,
+,Цар Авенир,King Abenner,Personal Name,,
+,Цар Аврелијан,Emperor Aurelian,Personal Name,,
+,Цар Андроник II Палеолог,Emperor Andronicus II Palaeologus,Personal Name,,
+,Цар Антонин,Emperor Antoninus,Personal Name,,
+,Цар Аркадије,Emperor Arcadius,Personal Name,,
+,Цар Аркадије,Emperor Arcadius,Personal Name,,
+,Цар Ахав,King Ahab,Biblical Name,,
+,Цар вавилонски,King of Babylon,Biblical Title,,
+,Цар Валтазар,Emperor Belshazzar,Biblical Name,,
+,Цар Декије,Emperor Decius,Personal Name,,
+,Цар Дометијан,Emperor Domitian,Personal Name,,
+,Цар Душан,Emperor Dušan,Personal Name,,
+,Цар Душан,Emperor Dušan,Personal Name,,
+,Цар Зинон,Emperor Zeno,Personal Name,,
+,Цар Иван Грозни,Tsar Ivan the Terrible,Personal Name,,
+,Цар Издигерд,Emperor Yezdigerd,Personal Name,,
+,Цар иконоборац,Iconoclast emperor,Historical Title,,
+,Цар Ираклије,Emperor Heraclius,Personal Name,,
+,Цар Јерменски,Armenian King,Title,,
+,Цар Јерменски,King of Armenia,Title,,
+,Цар јудејски Јосија,King Josiah of Judea,Biblical Name,,
+,Цар Јустинијан,Emperor Justinian,Personal Name,,
+,Цар Кало-Јован,Tsar Kalo-John,Personal Name,,
+,Цар Кантакузен,Emperor Kantakuzen,Personal Name,,
+,Цар Кир,King Cyrus,Biblical Name,,
+,Цар Констанс,Emperor Constans,Personal Name,,
+,Цар Константин Велики,Emperor Constantine the Great,Personal Name,,
+,Цар Константин Копроним,Emperor Constantine Copronymus,Personal Name,,
+,Цар Константин Мономах,Emperor Constantine Monomachus,Personal Name,,
+,Цар Констанције,Emperor Constantius,Personal Name,,
+,Цар Консте,Emperor Constus,Personal Name,,
+,Цар Лав,Emperor Leo,Personal Name,,
+,Цар Лав Велики,Emperor Leo the Great,Personal Name,,
+,Цар Лав Исаврјанин,Emperor Leo the Isaurian,Personal Name,,
+,Цар Лав Мудри,Emperor Leo the Wise,Personal Name,,
+,Цар Ликиније,Emperor Licinius,Personal Name,,
+,Цар Маврикије,Emperor Maurice,Personal Name,,
+,Цар Максенције,Emperor Maxentius,Personal Name,,
+,Цар Максимијан,Emperor Maximian,Personal Name,,
+,Цар Манасија,King Manasseh,Biblical Name,,
+,Цар небески,Heavenly King,Theological,,
+,Цар Сапор,King Shapur,Personal Name,,
+,Цар светитељ,Saintly emperor,Saint Title,,
+,Цар српски,Serbian Emperor,Historical Title,,
+,Цар Теодосије,Emperor Theodosius,Personal Name,,
+,Цар Теодосије,Emperor Theodosius,Personal Name,,
+,Цар Теодосије Велики,Emperor Theodosius the Great,Personal Name,,
+,Цар Теодосије Млађи,Emperor Theodosius the Younger,Personal Name,,
+,Цар Трајан,Emperor Trajan,Personal Name,,
+,Цар Фока,Emperor Phocas,Personal Name,,
+,Царева сплетка,Imperial intrigue,Historical Phrase,,
+,Цариград,Constantinople,Geographical,,
+,Цариник,Tax collector,Title,,
+,Царица,Empress,Title,,
+,Царица Евдоксија,Empress Eudoxia,Personal Name,,
+,Царица Ирина,Empress Irene,Personal Name,,
+,Царица Језавеља,Queen Jezebel,Biblical Name,,
+,Царовање Диоклецијаново,Reign of Diocletian,Historical Phrase,,
+,Царовао у тешко време,Reigned in difficult time,Historical Phrase,,
+,Царовати у сјају,To reign in radiance,Phrase,,
+,Царска наредба,Imperial decree,Historical,,
+,Царска посета,Royal visit,Phrase,,
+,Царске двери,Royal Doors,Liturgical,,
+,Царски логотет,Imperial logothete,Church Title,,
+,Царски намесник,Imperial governor,Historical Title,,
+,Царско достојанство,Royal dignity,Theological,,
+,Царство без краја,Kingdom without end,Theological,,
+,Царство бесмртно,Immortal kingdom,Theological,,
+,Царство бесмртно,Immortal Kingdom,Theological,,
+,Царство Божје,Kingdom of God,Theological,,
+,Царство демонско,Demonic kingdom,Theological,,
+,Царство земно,Earthly kingdom,Theological,,
+,Царство Индијско,Indian kingdom,Geographical,,
+,Царство Јеврејско,Jewish kingdom,Theological,,
+,Царство Јелинско,Hellenic kingdom,Theological,,
+,Царство невиности,Kingdom of innocence,Biblical,,
+,Царство правде,Kingdom of righteousness,Biblical,,
+,Царство свето,Holy kingdom,Theological,,
+,Царство српско,Serbian empire,Historical,,
+,Царство Христово,Kingdom of Christ,Theological,,
+,Царство Христово,Christ's Kingdom,Theological,,
+,Царство чистоте,Kingdom of purity,Biblical,,
+,Цару се допадне,Emperor was pleased,Phrase,,
+,Цвет и лист,Flower and leaf,Phrase,,
+,Цвет разне боје,Flowers of various colors,Phrase,,
+,Цветна недеља,Palm Sunday,Feast,,
+,Целa година,Whole year,Temporal Phrase,,
+,Цела црква,Whole Church,Ecclesiological,,
+,Целе породице,Entire families,Phrase,,
+,Целебно миро,Healing myrrh,Phrase,,
+,Целивати,To kiss,Verb,,
+,Цело житије,Whole life,Hagiographic Phrase,,
+,Цело тело,Whole body,Ecclesiological,,
+,Целомудреност,Chastity,Virtue,,
+,Целосно тело,Body whole,Phrase,,
+,Цео дан стајао,All day stood,Temporal Phrase,,
+,Цепати цркву,To divide Church,Ecclesiological Verb,,
+,Цигаље живе,Living bricks,Ecclesiological Phrase,,
+,Циклан,Tsqalani,Geographical,,
+,Циклански,Of Tsqalani,Geographical,,
+,Циљ ка добру,Goal toward good,Phrase,,
+,Циљ разделења,Purpose of division,Theological,,
+,Циљеви ближи и крајњи,Goals nearer and final,Phrase,,
+,Цицилија,Cecilia,Saint Name,,
+,Црвенити се,To turn crimson,Phrase,,
+,Црви закипеше,Worms swarmed,Phrase,,
+,Црви те јести,Worms eat thee,Phrase,,
+,Црви те славити,Worms glorify thee,Phrase,,
+,Црви узаврети,Worms swarm forth,Phrase,,
+,Цркао во у јарму,Ox had died in yoke,Phrase,,
+,Црква Божја,Church of God,Ecclesiological,,
+,Црква Влахерни,Church of Blachernae,Geographical,,
+,Црква на земљи,Church on earth,Ecclesiological,,
+,Црква на небу,Church in heaven,Ecclesiological,,
+,Црква њенога имена,Church of her name,Ecclesiological,,
+,Црква св. Ирине,Church of Saint Irene,Geographical,,
+,Црква св. Софије,Church of Saint Sophia,Geographical,,
+,Црквена служба,Church service,Liturgical,,
+,Црнац,Black man,Phrase,,
+,Црни миш,Black mouse,Phrase,,
+,Црно лице,Black face,Phrase,,
+,Црно Море,Black Sea,Geographical,,
+,Црћи,To die (of animals),Verb,,
+,Чавли,Nails,Martyrdom,,
+,Чак и мртве васкрсавати,Even to raise dead,Miracle Verb,,
+,Чак у Дамаск,All way to Damascus,Geographical Phrase,,
+,Чалме,Handkerchiefs,Phrase,,
+,Час карајући,Sometimes reproving,Miracle Phrase,,
+,Час поучавајући,Sometimes teaching,Miracle Phrase,,
+,Часни Крст,Honorable Cross,Theological,,
+,Часни пост / Велики пост,Great Lent,Feast,,
+,Част и слава,Honor and glory,Devotional Phrase,,
+,Части и службе подељене,Honors and duties divided,Phrase,,
+,Чврсто,Firmly,Adverb,,
+,Чврсто везао,Firmly bound,Verb,,
+,Чезнути,"To yearn, to long for",Spiritual Verb,,
+,Чекао купца,Waited for buyer,Phrase,,
+,Чекати да уђе,Waiting to enter,Phrase,,
+,Чекати муке,To await torments,Martyrdom Phrase,,
+,Чељад у кући,Household,Phrase,,
+,Чељусти смрти,Jaws of death,Theological Phrase,,
+,Чесна глава,Honorable head,Martyrdom,,
+,Чесно,Chastely,Adverb,,
+,Чесно кончати живот,To end life honorably,Hagiographic Phrase,,
+,Чесно сахрани,Honorably buried,Burial Verb,,
+,Чесно сахранити,To reverently bury,Ecclesiological Verb,,
+,Честа демонска привиђења,Frequent demonic apparitions,Spiritual Phrase,,
+,Честан муж,Honorable man,Phrase,,
+,Често обасјавати,To often illumine,Miracle Verb,,
+,Често тукао,Often beat,Verb,,
+,Честь и слава,Honor and glory,Devotional Phrase,,
+,Четврто откровење,Fourth revelation,Theological,,
+,Четвртог дана,On the fourth day,Temporal Phrase,,
+,Четврту радост,Fourth joy,Phrase,,
+,Четири животиње,Four living creatures,Biblical,,
+,Четири отровнице,Four venomous serpents,Phrase,,
+,Четири стихије,Four elements,Phrase,,
+,Чије житије,Whose Life,Phrase,,
+,Чим је Творац,Since is Creator,Theological Phrase,,
+,Чин злих духова,Rank of evil spirits,Demonic,,
+,Чин иночки,Monastic tonsure,Monastic,,
+,Чин презвитерски,Priestly rank,Church Title,,
+,Чин свете Литургије,Order of the Holy Liturgy,Liturgical,,
+,Чини му се истином,Seem to be truth,Phrase,,
+,Чини неједнаким,Makes unequal,Verb,,
+,Чини радост неисказану,Gives unspeakable joy,Phrase,,
+,Чини што драго,Do what wilt,Phrase,,
+,Чинимо сваки дан,Let us do every day,Temporal Phrase,,
+,Чинити добро,To do good,Spiritual Verb,,
+,Чинити мађије,To perform sorcery,Phrase,,
+,Чинити насиље,To do violence,Verb,,
+,Чинити чудеса превелика,To work exceedingly great miracles,Miracle Verb,,
+,Чинови ангелски,Angelic orders,Angelic,,
+,Чист душом и телом,Pure in soul and body,Hagiographic Phrase,,
+,Чиста вера православна,Pure Orthodox Faith,Theological,,
+,Чиста као злато,Pure as gold,Hagiographic Phrase,,
+,Чиста савест,Pure conscience,Spiritual,,
+,Чистећи срце,Cleansing heart,Spiritual Phrase,,
+,Чисти правоверни,Pure and Orthodox,Phrase,,
+,Чистије од крина,Purer than lily,Hagiographic Phrase,,
+,Чистилиште,Purgatory,Theological,,
+,Чистоме,To pure,Spiritual,,
+,Чистота,Purity,Theological,,
+,Чистота вере,Purity of faith,Spiritual,,
+,Чистота живота,Purity of life,Spiritual,,
+,Чистота морална,Moral purity,Virtue,,
+,Читавих 34 године,A full thirty-four years,Temporal Phrase,,
+,Члан се губи,Member is lost,Phrase,,
+,Члан тела,Member of body,Ecclesiological,,
+,Чобанин,Shepherd,Phrase,,
+,Човек гостољубац,Hospitable man,Phrase,,
+,Човек прави,True man,Phrase,,
+,Човек савршен,Perfect man,Theological,,
+,Човек светао као сунце,Man radiant as the sun,Phrase,,
+,Човек странац,Foreign man,Phrase,,
+,Човекољубив,Man-loving,Theological Adjective,,
+,Човекољубиви,Loving of mankind,Theological Attribute,,
+,Човекољубиви Господ,Loving Lord,Theological,,
+,Чу неисказане ријечи,Heard unspeakable words,Biblical Quote,,
+,Чувајући стадо,Guarding the flock,Phrase,,
+,Чувар девствености,Guardian of virginity,Angelic Phrase,,
+,Чувати од гордости,To guard from pride,Spiritual Verb,,
+,Чувати праведника,To guard righteous,Theological Verb,,
+,Чувати чистоту,To preserve purity,Spiritual Verb,,
+,Чувши глас Божји,Hearing voice of God,Biblical Phrase,,
+,Чуда од неустрашивости,Miracles of fearlessness,Hagiographic Phrase,,
+,Чудеса Елпидијева,Miracles of Elpidius,Phrase,,
+,Чудеса од мошти,Miracles from relics,Miracle Phrase,,
+,Чудеса преславна,Glorious miracles,Miracle Phrase,,
+,Чудесан догађај,Miraculous event,Phrase,,
+,Чудесна трубо,Wondrous trumpet,Hagiographic Phrase,,
+,Чудесни крст,Miraculous cross,Liturgical,,
+,Чудесни Рај,Wondrous Paradise,Biblical,,
+,Чудесним начином,In a miraculous manner,Phrase,,
+,Чудесним начином,By wondrous manner,Miracle Phrase,,
+,Чудесно дрво,Wondrous tree,Phrase,,
+,Чудесно избављење,Miraculous deliverance,Phrase,,
+,Чудесно исцели,Miraculously healed,Miracle Phrase,,
+,Чудесно јединство,Wondrous unity,Ecclesiological,,
+,Чудесно спасење,Miraculous salvation,Phrase,,
+,Чудесно стварање,Wondrous creation,Theological,,
+,Чудесно створење света,Wondrous creation of the world,Theological,,
+,Чудним начином,In a wondrous manner,Phrase,,
+,Чудно и криво,Strange and wrong,Phrase,,
+,Чудо се рашчу,Miracle spread,Miracle Phrase,,
+,Чудо хришћанске вере,Miracle of Christian faith,Theological,,
+,Чудо хришћанске љубави,Miracle of Christian love,Theological,,
+,Чудов манастир,Chudov Monastery,Geographical,,
+,Чудотворна спона,Miraculous bond,Ecclesiological,,
+,Чудотворне мошти,Wonderworking relics,Ecclesiological,,
+,Чудотворне мошти,Wonder-working relics,Miracle Phrase,,
+,Чудотворне мошти,Wonder-working relics,Miracle Phrase,,
+,Чудотворци,Wonderworkers,Saint Title,,
+,Чути глас,To hear voice,Phrase,,
+,Чути глас,To hear voice,Miracle Phrase,,
+,Чути песму,To hear hymn,Phrase,,
+,Чути проповед,To hear preaching,Phrase,,
+,Чути се пред Богом,To be heard before God,Phrase,,
+,Џамија,Mosque,Geographical,,
+,Џелат,Executioner,Phrase,,
+,Џелат,Executioner,Martyrdom,,
+,Џелати,Executioners,Phrase,,
+,Шапће у уши,Whispering in ears,Phrase,,
+,Шведи,Swedes,Historical,,
+,Шест пута понавља,Six times repeats,Phrase,,
+,Шест синова,Six sons,Phrase,,
+,Шести и најмлађи,Sixth and youngest,Phrase,,
+,Шести син царев,Emperor's sixth son,Phrase,,
+,Шестокрили Серафими,Six-winged Seraphim,Angelic Order,,
+,Шибан,Flogged,Martyrdom Verb,,
+,Шибан по плећима,Flogged upon the shoulders,Martyrdom Phrase,,
+,Шибана,Flogged,Martyrdom Adjective,,
+,Шибаху,Beaten,Martyrdom Verb,,
+,Ширина и дужина,Breadth and length,Theological,,
+,Ширина љубави Божје,Breadth of God's love,Theological,,
+,Ширити учење,To spread teaching,Ecclesiological Verb,,
+,Шити,To sew,Verb,,
+,Шишман,Shishman,Personal Name,,
+,Шкопити заробљенике,To mutilate captives,Verb,,
+,Шпанија,Spain,Geographical,,
+,Шта бива с царевима,What happened to emperors,Phrase,,
+,Шта виде,What didst see,Question,,
+,Шта више,More than,Phrase,,
+,Шта је сујета,What is vanity,Rhetorical Phrase,,
+,Шта на празник јести,What eat for feast,Liturgical Question,,
+,Шта привлачи,What attracts,Phrase,,
+,Шта се рађа,What is born,Phrase,,
+,Шта чини јединство,What constitutes unity,Theological Phrase,,
+,Шта чу,What didst hear,Question,,
+,Штап,Staff,Phrase,,
+,Штап из руке,Staff from hand,Phrase,,
+,Што Бог хоће,What God wills,Theological Phrase,,
+,Што јача вера,The stronger the faith,Spiritual Phrase,,
+,Што јаче прославити,To glorify all the more,Verb,,
+,Што је дотле ћутао,What had kept silent,Phrase,,
+,Што је од Бога,That is from God,Theological Phrase,,
+,Што је супротно добру,What is contrary to good,Philosophical Phrase,,
+,Што мошти чине,What relics accomplish,Miracle Phrase,,
+,Што нас чини једнаким,What makes us equal,Theological Phrase,,
+,Што није хтео открити Мојсеју,What did not wish to reveal to Moses,Biblical Phrase,,
+,Што Он неће,What He wills not,Theological Phrase,,
+,Што рука извади,Whatever hand draws,Phrase,,
+,Што се распе,Who was crucified,Martyrdom Phrase,,
+,Што ти га посла Бог,Which God hath sent thee,Biblical Quote,,
+,Што ти је припремљен,Which hath been prepared for thee,Biblical Quote,,
+,Штурост,Barrenness,Phrase,,
+,5. Децембар,December 5,Temporal,,
+,Преподобни Сава Освећени,Venerable Sabas the Sanctified,Saint Name,,
+,Сава Освећени,Sabas the Sanctified,Saint Name,,
+,Незнатно село,Insignificant village,Phrase,,
+,Село Муталаск,Village of Mutalask,Geographical,,
+,Муталаск,Mutalask,Geographical,,
+,У области Кападокијској,In region of Cappadocia,Geographical Phrase,,
+,Област Кападокијска,Region of Cappadocia,Geographical,,
+,Кападокијска,Cappadocia,Geographical,,
+,Постало знаменито,Became renowned,Phrase,,
+,По овоме великом светилу,Because of this great luminary,Hagiographic Phrase,,
+,Велико светило,Great luminary,Hagiographic Title,,
+,Цркве православне,Of Orthodox Church,Ecclesiastical Phrase,,
+,Од оца Јована,Of father John,Phrase,,
+,Мајке Софије,Mother Sophia,Phrase,,
+,У осмој години,In eighth year,Temporal Phrase,,
+,Напустио дом родитељски,Left parents' home,Phrase,,
+,Дом родитељски,Parents' home,Phrase,,
+,Замонашио се,Became monk,Monastic Verb,,
+,У оближњој обитељи,In nearby monastery,Monastic Phrase,,
+,Обитељ,Monastery,Monastic,,
+,Званој Флавијанова,Called Flavian's,Phrase,,
+,Флавијанова,Flavian's,Personal Name,,
+,После 10 година,After 10 years,Temporal Phrase,,
+,Пређе у Палестинске манастире,Went to Palestinian monasteries,Geographical Phrase,,
+,Палестински манастири,Palestinian monasteries,Geographical,,
+,Најдуже задржи,Stayed longest,Temporal Verb,,
+,Обитељ светог Јевтимија Великог,Monastery of Saint Euthymius the Great,Geographical,,
+,Свети Јевтимије Велики,Saint Euthymius the Great,Saint Name,,
+,Јевтимије Велики,Euthymius the Great,Saint Name,,
+,В. 20. јануар,See January 20,Reference,,
+,Теоктист,Theoctistus,Saint Name,,
+,Прозорљиви Јевтимије,Farsighted Euthymius,Hagiographic Phrase,,
+,Прозорљив,Farsighted,Hagiographic Adjective,,
+,Прорече за њега,Prophesied concerning him,Miracle Phrase,,
+,Славан монах,Glorious monk,Hagiographic Title,,
+,Наставник монасима,Teacher of monks,Monastic Title,,
+,Основати лавру,Found lavra,Monastic Verb,,
+,Лавра,Lavra,Monastic,,
+,Већу од свих лаври,Greater than all lavras,Phrase,,
+,Тога времена,Of that time,Temporal Phrase,,
+,По смрти светог Јевтимија,After death of Saint Euthymius,Temporal Phrase,,
+,Удаљи се у пустињу,Withdrew to desert,Monastic Verb,,
+,У једној пештери,In cave,Monastic Phrase,,
+,Пештера,Cave,Monastic,,
+,Коју му ангел Божји исказа,Which angel of God showed him,Miracle Phrase,,
+,Ангел Божји исказа,Angel of God showed,Miracle Phrase,,
+,Проведе као отшелник,Spent as hermit,Monastic Phrase,,
+,Отшелник,Hermit,Monastic Title,,
+,Пет година,Five years,Temporal Phrase,,
+,Када поста савршен монах,When became perfect monk,Monastic Phrase,,
+,Савршен монах,Perfect monk,Monastic Title,,
+,Почеше се скупљати,Began to gather,Verb,,
+,По Промислу Божјем,By God's Providence,Theological Phrase,,
+,Око њега,Around him,Phrase,,
+,Многи желатељи,Many seekers,Phrase,,
+,Желатељи духовног живота,Seekers of spiritual life,Monastic Phrase,,
+,Духовни живот,Spiritual life,Spiritual,,
+,Убрзо,Soon,Adverb,,
+,Скупи се велики број,Gathered in great number,Phrase,,
+,Морао зидати,Had to build,Verb,,
+,И цркву и келије,Both church and cells,Monastic Phrase,,
+,Келије многе,Many cells,Monastic Phrase,,
+,Дођоше му Јермени,Armenians came to him,Phrase,,
+,Јермени,Armenians,Geographical,,
+,Којима одреди пештеру,For whom appointed cave,Phrase,,
+,Одреди пештеру,Appointed cave,Verb,,
+,Где ће служити,Where would serve,Phrase,,
+,На јерменском језику,In Armenian language,Phrase,,
+,Јерменски језик,Armenian language,Phrase,,
+,Када му отац умре,When his father died,Death Phrase,,
+,Његова остарела мајка,His aged mother,Phrase,,
+,Остарела мајка,Aged mother,Phrase,,
+,Коју замонаши,Whom tonsured as nun,Monastic Verb,,
+,Замонаши,Tonsured as nun,Monastic Verb,,
+,Даде јој келију,Gave her cell,Monastic Phrase,,
+,Даље од манастира,Away from monastery,Phrase,,
+,Подвизаваше до краја живота,Struggled until end of life,Monastic Phrase,,
+,До краја живота,Until end of life,Temporal Phrase,,
+,Многе напасти претрпе,Endured many afflictions,Hagiographic Phrase,,
+,Од блиских људи,From close people,Phrase,,
+,Блиски људи,Close people,Phrase,,
+,Од јеретика,From heretics,Phrase,,
+,Од демона,From demons,Spiritual Phrase,,
+,Све побеђиваше,Conquered all,Hagiographic Verb,,
+,Благошћу и попустљивошћу,By kindness and lenience,Spiritual Phrase,,
+,Благост,Kindness,Spiritual,,
+,Попустљивост,Lenience,Spiritual,,
+,Непоколебљивим вероисповедањем,By unshakable confession of faith,Ecclesiastical Phrase,,
+,Непоколебљиво вероисповедање,Unshakable confession of faith,Ecclesiastical,,
+,Православно вероисповедање,Orthodox confession of faith,Ecclesiastical,,
+,Крсним знаком,By sign of cross,Spiritual Phrase,,
+,Призивањем Бога у помоћ,Calling upon God for help,Prayer Phrase,,
+,Призивање Бога,Calling upon God,Prayer,,
+,Нарочито велику борбу,Especially great struggle,Monastic Phrase,,
+,На гори Кастелу,On Mount Castellium,Geographical Phrase,,
+,Гора Кастел,Mount Castellium,Geographical,,
+,Кастел,Castellium,Geographical,,
+,Основао други манастир,Founded second monastery,Phrase,,
+,Основао седам манастира,Founded seven monasteries,Phrase,,
+,Свега седам манастира,Seven monasteries altogether,Phrase,,
+,Теодосије Велики,Theodosius the Great,Saint Name,,
+,Његов сусед,His neighbor,Phrase,,
+,Сматрани су највећим светилима,Were considered greatest luminaries,Hagiographic Phrase,,
+,Највећа светила,Greatest luminaries,Hagiographic Title,,
+,Стубови Православља,Pillars of Orthodoxy,Hagiographic Title,,
+,На Истоку,In East,Geographical Phrase,,
+,Цареве и патријархе,Emperors and patriarchs,Historical Phrase,,
+,Исправљали у вери,Corrected in faith,Ecclesiastical Verb,,
+,Свима и свакоме служили,To all and everyone ministered,Hagiographic Phrase,,
+,Примером смерности светитељске,By example of saintly humility,Hagiographic Phrase,,
+,Смерност светитељска,Saintly humility,Hagiographic,,
+,Чудесне силе Божје,Miraculous power of God,Miracle Phrase,,
+,После трудног живота,After laborious life,Phrase,,
+,Трудни живот,Laborious life,Phrase,,
+,Много плодног живота,Very fruitful life,Hagiographic Phrase,,
+,Плодни живот,Fruitful life,Hagiographic,,
+,532. године,Year 532,Temporal Phrase,,
+,У деведесет четвртој години,In ninety-fourth year,Temporal Phrase,,
+,Између многих других дела,Among many other works,Phrase,,
+,Чудотворних и добрих дела,Miraculous and good works,Miracle Phrase,,
+,Нека буде споменуто,Let it be mentioned,Phrase,,
+,Први уредио чин богослужења,First arranged order of divine services,Liturgical Phrase,,
+,Уредио чин богослужења,Arranged order of divine services,Liturgical Verb,,
+,Чин богослужења,Order of divine services,Liturgical,,
+,По манастирима,In monasteries,Monastic Phrase,,
+,Познат под именом,Known by name,Phrase,,
+,Чин Јерусалимске цркве,Order of Jerusalem Church,Liturgical,,
+,Јерусалимска црква,Jerusalem Church,Geographical,,
+,Преподобни мученици карејски,Venerable Martyrs of Karyes,Saint Name,,
+,Мученици карејски,Martyrs of Karyes,Saint Name,,
+,Карејски,Of Karyes,Geographical,,
+,Пострадали од паписта,Suffered from papists,Martyrdom Phrase,,
+,Паписти,Papists,Historical,,
+,У време уније,During time of union,Historical Phrase,,
+,Унија,Union,Historical,,
+,Коју створи с папом,Which made with pope,Historical Phrase,,
+,Цар Михаил Палеолог,Emperor Michael Palaeologus,Personal Name,,
+,Михаил Палеолог,Michael Palaeologus,Personal Name,,
+,1260-1281,1260-1281,Temporal,,
+,Прот Свете Горе,Protos of Holy Mountain,Monastic Title,,
+,Прот,Protos,Monastic Title,,
+,Би обешен,Was hanged,Martyrdom Verb,,
+,Остали мачем посечени,Rest cut down by sword,Martyrdom Phrase,,
+,Мачем посечени,Cut down by sword,Martyrdom Phrase,,
+,В. 10. октобар,See October 10,Reference,,
+,Преподобни Нектарије Битољски,Venerable Nectarius of Bitola,Saint Name,,
+,Нектарије Битољски,Nectarius of Bitola,Saint Name,,
+,Битољски,Of Bitola,Geographical,,
+,Родом из Битоља,From Bitola,Geographical Phrase,,
+,Битољ,Bitola,Geographical,,
+,Подвизао се најпре,Struggled first,Monastic Phrase,,
+,У манастиру Светих Врача,In monastery of Holy Unmercenaries,Geographical,,
+,Манастир Светих Врача,Monastery of Holy Unmercenaries,Geographical,,
+,Свети Врачи,Holy Unmercenaries,Saint Name,,
+,Код Битоља,Near Bitola,Geographical Phrase,,
+,Заједно са замонашеним оцем,Together with tonsured father,Phrase,,
+,Замонашени отац,Tonsured father,Monastic Title,,
+,Пахомије,Pachomius,Personal Name,,
+,Потом прешао на Кареју,Then moved to Karyes,Geographical Phrase,,
+,Кареја,Karyes,Geographical,,
+,Продужи подвиг,Continued struggle,Monastic Verb,,
+,Под руководством стараца,Under guidance of elders,Monastic Phrase,,
+,Руководство стараца,Guidance of elders,Monastic Phrase,,
+,Старац Филотеј,Elder Philotheus,Personal Name,,
+,Филотеј,Philotheus,Personal Name,,
+,Старац Дионисије,Elder Dionysius,Personal Name,,
+,У келији Светог Архангела,In cell of Holy Archangel,Geographical,,
+,Келија Светог Архангела,Cell of Holy Archangel,Geographical,,
+,После побеђене зависти,After conquering envy,Spiritual Phrase,,
+,Побеђена завист,Conquered envy,Spiritual Phrase,,
+,Завист људска,Human envy,Spiritual,,
+,Напасти демонске,Demonic affliction,Spiritual,,
+,Тешке болести,Grave illness,Phrase,,
+,Преселио се у Царство Христово,Departed to Christ's Kingdom,Death Phrase,,
+,5. децембра 1500. године,December 5 1500,Temporal Phrase,,
+,1500. године,Year 1500,Temporal Phrase,,
+,Мошти целе,Relics whole,Miracle Phrase,,
+,Нетљене,Incorrupt,Miracle Adjective,,
+,Благоухане,Fragrant,Miracle Adjective,,
+,Почивају у истој келији,Rest in same cell,Phrase,,
+,У истој келији,In same cell,Phrase,,
+,Преподобни Карион и Захарија,Venerable Carion and Zaccharias,Saint Name,,
+,Карион,Carion,Saint Name,,
+,Захарија,Zaccharias,Saint Name,,
+,Отац и син,Father and son,Phrase,,
+,Оба велики подвижници,Both great ascetics,Hagiographic Phrase,,
+,Велики подвижници мисирски,Great Egyptian ascetics,Hagiographic Phrase,,
+,Мисирски,Egyptian,Geographical,,
+,Оставио живу жену,Left living wife,Phrase,,
+,Жива жена,Living wife,Phrase,,
+,С двоје деце,With two children,Phrase,,
+,Двоје деце,Two children,Phrase,,
+,Отишао у монахе,Went into monasticism,Monastic Verb,,
+,Млади Захарије,Young Zaccharias,Phrase,,
+,Као дете узет,Taken as child,Phrase,,
+,Узет у манастир,Taken to monastery,Monastic Phrase,,
+,Подвигом својим превазишао,By struggle surpassed,Monastic Phrase,,
+,И свога оца,Both own father,Phrase,,
+,Многе друге подвижнике,Many other ascetics,Monastic Phrase,,
+,Знамените подвижнике,Renowned ascetics,Hagiographic Title,,
+,Кад су питали,When was asked,Phrase,,
+,Ко је прави монах,Who is true monk,Monastic Question,,
+,Прави монах,True monk,Monastic Title,,
+,Онај ко себе принуђава,He who compels himself,Quote,,
+,Стално принуђава,Constantly compels,Verb,,
+,К извршењу заповести,To fulfill commandments,Spiritual Phrase,,
+,Извршење заповести Божјих,Fulfill God's commandments,Spiritual Phrase,,
+,Заповести Божје,God's commandments,Biblical,,
+,Началник монаха,Chief of monks,Hagiographic Title,,
+,Војвода духовни,Spiritual captain,Hagiographic Title,,
+,Христових јунака,Of Christ's warriors,Hagiographic Phrase,,
+,Прослави се постом,Glorified himself by fasting,Hagiographic Phrase,,
+,Бдењем и кротошћу,By vigils and meekness,Monastic Phrase,,
+,Бдење,Vigils,Monastic,,
+,Кротост,Meekness,Spiritual,,
+,Благом милошћу,By gracious mercy,Spiritual Phrase,,
+,Блага милост,Gracious mercy,Spiritual,,
+,Учаше монахе,Taught monks,Monastic Verb,,
+,Не бринут о хлебу,Not to worry about bread,Monastic Quote,,
+,С трудом и молитвом,With labor and prayer,Monastic Phrase,,
+,Поверит се небу,To trust in heaven,Spiritual Phrase,,
+,Првенства не искат,Not to seek primacy,Monastic Quote,,
+,Нити каква чина,Nor any rank,Monastic Quote,,
+,Најређе кушати,Most rarely to taste,Monastic Phrase,,
+,Јелеја и вина,Oil and wine,Monastic Phrase,,
+,Држати се службе,To keep to services,Liturgical Phrase,,
+,У прописно време,At appointed time,Liturgical Phrase,,
+,Прописно време,Appointed time,Liturgical,,
+,Служба нек је радост,Let service be joy,Liturgical Quote,,
+,Не тешко бреме,Not heavy burden,Liturgical Quote,,
+,Тешко бреме,Heavy burden,Phrase,,
+,Све што каза,All that told,Phrase,,
+,Примером својим показа,By own example showed,Hagiographic Phrase,,
+,Другима показа,Showed to others,Phrase,,
+,Ко градинар мудри,Like wise gardener,Phrase,,
+,Градинар мудри,Wise gardener,Phrase,,
+,Градину огради,Fenced garden,Verb,,
+,Младице многе,Many seedlings,Phrase,,
+,Пажљиво посади,Carefully planted,Verb,,
+,Младице расле,Seedlings grew,Phrase,,
+,Плод доносиле,Bore fruit,Phrase,,
+,Чете од монаха,Bands of monks,Monastic Phrase,,
+,Саву прославиле,Glorified Sabas,Hagiographic Phrase,,
+,Петнаест стотина година,Fifteen hundred years,Temporal Phrase,,
+,Прошло је година,Years have passed,Temporal Phrase,,
+,Још цвета,Still flowers,Verb,,
+,Савина градина,Sabas's garden,Hagiographic Phrase,,
+,Духовна градина,Spiritual garden,Spiritual Phrase,,
+,Хиљаде монаха,Thousands of monks,Monastic Phrase,,
+,Стотине хиљада,Hundreds of thousands,Phrase,,
+,Савина обитељ,Sabas's monastery,Geographical,,
+,Дала је до сада,Has given until now,Phrase,,
+,Светитељу Саво,O holy Sabas,Prayer Address,,
+,Славни отшелниче,Glorious hermit,Hagiographic Title,,
+,Помоли се за нас,Pray for us,Prayer Phrase,,
+,Може бити велики,Can be great,Phrase,,
+,Као вештак,As craftsman,Phrase,,
+,Вештак,Craftsman,Phrase,,
+,Државник,Statesman,Phrase,,
+,Војсковођ,Commander,Phrase,,
+,Нико није већи,No one is greater,Phrase,,
+,Велики у вери,Great in faith,Spiritual Phrase,,
+,У нади и љубави,In hope and love,Spiritual Phrase,,
+,Колико је велики,How great,Phrase,,
+,У вери и нади у Бога,In faith and hope in God,Spiritual Phrase,,
+,Најбоље показује случај,Best shown by incident,Phrase,,
+,Овај случај,This incident,Phrase,,
+,Једнога дана јави,One day reported,Phrase,,
+,Економ манастирски,Monastery steward,Monastic Title,,
+,Економ,Steward,Monastic Title,,
+,Идуће суботе и недеље,Coming Saturday and Sunday,Temporal Phrase,,
+,Неће моћи ударити,Will not be able to strike,Phrase,,
+,Ударити у клепало,To strike semantron,Liturgical Phrase,,
+,Клепало,Semantron,Liturgical,,
+,По обичају сазивати,By custom to summon,Liturgical Phrase,,
+,Сазивати братију,To summon brethren,Monastic Phrase,,
+,На заједничку службу,To common service,Liturgical Phrase,,
+,Заједничка служба,Common service,Liturgical,,
+,На трпезу,To meal,Monastic Phrase,,
+,У манастиру нема,In monastery there is not,Phrase,,
+,Ни трунке брашна,Grain of flour,Phrase,,
+,Трунка брашна,Grain of flour,Phrase,,
+,Нити ма чега,Nor anything at all,Phrase,,
+,Од јела и пића,Of food and drink,Phrase,,
+,Чак ни службе Божје,Even divine service,Liturgical Phrase,,
+,Бити не може,Could not be held,Phrase,,
+,Из тога истог разлога,For same reason,Phrase,,
+,Одговори без предомишљања,Answered without hesitation,Phrase,,
+,Без предомишљања,Without hesitation,Phrase,,
+,Нећу изоставити,Will not omit,Quote,,
+,Изоставити божанску службу,Omit divine service,Liturgical Phrase,,
+,Божанска служба,Divine service,Liturgical,,
+,Због недостатка брашна,Because of lack of flour,Quote,,
+,Недостатак брашна,Lack of flour,Phrase,,
+,Веран је Онај,Faithful is He,Biblical Quote,,
+,Који нам је заповедио,Who commanded us,Biblical Quote,,
+,Не бринути се о телесном,Not to worry about bodily,Biblical Quote,,
+,О телесном,About bodily,Phrase,,
+,Моћан исхранити,Mighty to feed,Biblical Quote,,
+,У време глади,In time of hunger,Biblical Quote,,
+,Време глади,Time of hunger,Phrase,,
+,Положи сву наду на Бога,Placed all hope in God,Spiritual Phrase,,
+,Положи наду,Placed hope,Spiritual Verb,,
+,У крајњем случају,In extreme case,Phrase,,
+,Беше готов,Was ready,Phrase,,
+,Пошаље црквене сасуде,Send church vessels,Phrase,,
+,Црквени сасуди,Church vessels,Liturgical,,
+,Или риза,Or vestments,Liturgical,,
+,У град и прода,To city and sell,Phrase,,
+,Само да се не би изоставила,Only that should not be omitted,Phrase,,
+,Никако изоставила,By no means be omitted,Phrase,,
+,Уобичајена братска трпеза,Customary fraternal meal,Monastic Phrase,,
+,Братска трпеза,Fraternal meal,Monastic,,
+,Пре него приспе субота,Before Saturday arrived,Temporal Phrase,,
+,Неки људи,Some people,Phrase,,
+,Покренути Промислом Божјим,Moved by God's Providence,Theological Phrase,,
+,Дотераше у манастир,Drove to monastery,Verb,,
+,30 мазги,30 mules,Phrase,,
+,Мазги,Mules,Phrase,,
+,Натоварених пшеницом,Loaded with wheat,Phrase,,
+,Вином и јелејем,Wine and oil,Phrase,,
+,Шта сад велиш брате,What sayest thou now brother,Quote,,
+,Да ли да не ударамо,Shall we not strike,Quote,,
+,Не сазивамо оце,Not summon fathers,Quote,,
+,Застиде се,Was ashamed,Verb,,
+,Због свог маловерства,Because of little faith,Spiritual Phrase,,
+,Маловерство,Little faith,Spiritual,,
+,Замоли за опроштај,Asked for forgiveness,Phrase,,
+,Замоли игумана,Asked abbot,Monastic Phrase,,
+,За опроштај,For forgiveness,Phrase,,
+,Животописац Савин,Sabas's biographer,Phrase,,
+,Животописац,Biographer,Phrase,,
+,Назива светитеља,Calls saint,Phrase,,
+,Суровим према демонима,Stern toward demons,Hagiographic Quote,,
+,Сурови према демонима,Stern toward demons,Hagiographic Phrase,,
+,Благим према људима,Gentle toward men,Hagiographic Quote,,
+,Благ према људима,Gentle toward men,Hagiographic Phrase,,
+,Једном побунише се,Once rebelled,Verb,,
+,Побунише се монаси,Monks rebelled,Phrase,,
+,Против св. Саве,Against Saint Sabas,Phrase,,
+,По наредби патријарха,By order of patriarch,Ecclesiastical Phrase,,
+,Истерани из манастира,Expelled from monastery,Monastic Phrase,,
+,Саградише себи колибе,Built themselves huts,Phrase,,
+,Колибе,Huts,Phrase,,
+,У потоку Текутском,In Tekoa ravine,Geographical Phrase,,
+,Поток Текутски,Tekoa ravine,Geographical,,
+,Текутски,Tekoa,Geographical,,
+,Трпљаху оскудицу,Suffered want,Phrase,,
+,Оскудицу у свему,Want in everything,Phrase,,
+,Оскудица,Want,Phrase,,
+,Чувши да гладују,Hearing that were starving,Phrase,,
+,Гладују,Were starving,Verb,,
+,Натовари магаре брашном,Loaded donkey with flour,Phrase,,
+,Магаре,Donkey,Phrase,,
+,Однесе им сам лично,Carried to them personally,Phrase,,
+,Сам лично,Personally,Phrase,,
+,Видећи да немају цркве,Seeing that had no church,Phrase,,
+,Им и цркву сазида,Built them church as well,Phrase,,
+,Најпре примише с мржњом,First received with hatred,Phrase,,
+,Примише с мржњом,Received with hatred,Phrase,,
+,С мржњом,With hatred,Phrase,,
+,Но после,But later,Temporal Phrase,,
+,На љубав његову,To his love,Phrase,,
+,Љубављу одговорише,Responded with love,Phrase,,
+,За раније недело,For earlier deed,Phrase,,
+,Према њему покајаше,Toward him repented,Spiritual Verb,,
+,Покајаше се,Repented,Spiritual Verb,,
+,Преблаги Бог,Most gracious God,Theological Title,,
+,Викну грешнога Адама,Called to sinful Adam,Biblical Phrase,,
+,Грешни Адам,Sinful Adam,Biblical,,
+,Гдје си,Where art thou,Biblical Quote,,
+,И у Рају,Even in Paradise,Biblical Phrase,,
+,Показује се пастир добри,Shows Himself Good Shepherd,Biblical Phrase,,
+,Пастир добри,Good Shepherd,Biblical Title,,
+,Који виче,Who calls,Biblical Phrase,,
+,За изгубљеном овцом,After lost sheep,Biblical Phrase,,
+,Изгубљена овца,Lost sheep,Biblical,,
+,И сада Бог довикује,Even now God calls,Theological Phrase,,
+,Довикује сваком грешнику,Calls to every sinner,Theological Phrase,,
+,Хотећи тим речима,Wishing by these words,Biblical Phrase,,
+,И да га укори,Both to rebuke him,Biblical Phrase,,
+,Да га опомене,To warn him,Biblical Phrase,,
+,О одсуству зла,On absence of evil,Theological,,
+,Одсуство зла,Absence of evil,Theological,,
+,У делима Божјим,In God's works,Theological Phrase,,
+,Прво откровење,First revelation,Theological,,
+,Које саопштава,Which communicates,Verb,,
+,Свето Писмо,Holy Scripture,Biblical,,
+,Свет произашао,World proceeded,Theological Phrase,,
+,Од добра а не од зла,From good not from evil,Theological Phrase,,
+,Од неке силе супротне Богу,From some power opposed to God,Theological Phrase,,
+,Сила супротна Богу,Power opposed to God,Theological,,
+,Од уображене мешавине,From imagined mixture,Philosophical Phrase,,
+,Уображена мешавина,Imagined mixture,Philosophical,,
+,Праизворна мешавина,Primordial mixture,Philosophical,,
+,Од добра и зла,Of good and evil,Philosophical Phrase,,
+,Друго откровење,Second revelation,Theological,,
+,Све добро што створио,All is good which created,Theological Quote,,
+,Добри Бог,Good God,Theological Title,,
+,Добра светлост,Good is light,Biblical Quote,,
+,Добар свод небески,Good is firmament of heaven,Biblical Quote,,
+,Свод небески,Firmament of heaven,Biblical,,
+,Добро копно,Good is dry land,Biblical Quote,,
+,Копно,Dry land,Biblical,,
+,Добро море,Good is sea,Biblical Quote,,
+,Добра трава,Good is grass,Biblical Quote,,
+,Биље,Plants,Biblical,,
+,Родно дрвеће,Fruit-bearing trees,Biblical,,
+,Добра светила небеска,Good are heavenly luminaries,Biblical Quote,,
+,Светила небеска,Heavenly luminaries,Biblical,,
+,Сунце месец и звезде,Sun moon and stars,Biblical Phrase,,
+,Добре животиње водне,Good are water creatures,Biblical Quote,,
+,Животиње водне,Water creatures,Biblical,,
+,Птице небеске,Birds of air,Biblical,,
+,Добре све живе душе,Good are all living souls,Biblical Quote,,
+,Живе душе,Living souls,Biblical,,
+,По врстама њиховим,According to their kinds,Biblical Phrase,,
+,Добра стока,Good is cattle,Biblical Quote,,
+,Стока,Cattle,Biblical,,
+,Ситне животиње,Small creatures,Biblical,,
+,Зверови земаљски,Beasts of earth,Biblical,,
+,Најзад добар и човек,Finally good also is man,Biblical Quote,,
+,Господар над свим створењима,Lord over all creatures,Biblical Phrase,,
+,Под господством Божјим,Under God's lordship,Biblical Phrase,,
+,Господство Божје,God's lordship,Biblical,,
+,Оценитељ вредности,Evaluator of worth,Phrase,,
+,Овога свега,Of all this,Phrase,,
+,Не може бити неко,Cannot be someone,Phrase,,
+,Ко површно гледа,Who looks superficially,Phrase,,
+,Површно,Superficially,Adverb,,
+,Делимично гледа,Looks partially,Phrase,,
+,Делимично,Partially,Adverb,,
+,Само Онај који види,Only He who sees,Theological Phrase,,
+,Сва створења укупно,All creatures together,Phrase,,
+,Свако на по се,Each separately,Phrase,,
+,Зна њихов број,Knows their number,Phrase,,
+,Име својства и суштину,Name properties and essence,Phrase,,
+,Својства,Properties,Phrase,,
+,Суштина,Essence,Philosophical,,
+,Несравњено боље,Incomparably better,Phrase,,
+,Видје све добро веома,Saw all was very good,Biblical Quote,,
+,Па ипак било људи,And yet were people,Phrase,,
+,Клеветали дело Божје,Slandered God's work,Phrase,,
+,Говорећи,Saying,Verb,,
+,Свет зло у суштини,World evil in essence,Philosophical Quote,,
+,У суштини својој,In its essence,Philosophical Phrase,,
+,Зло појединачна створења,Individual creatures evil,Philosophical Quote,,
+,Појединачна створења,Individual creatures,Phrase,,
+,Зло материја,Matter evil,Philosophical Quote,,
+,Из које су бића уобличена,From which beings are formed,Philosophical Phrase,,
+,Бића земаљска,Earthly beings,Phrase,,
+,Уобличена,Formed,Verb,,
+,Зло међутим у греху,Evil however in sin,Theological Phrase,,
+,Грех од злог духа,Sin from evil spirit,Theological Phrase,,
+,Зло у духу зла,Evil in spirit of evil,Theological Phrase,,
+,Дух зла,Spirit of evil,Theological,,
+,А не у материји,Not in matter,Philosophical Phrase,,
+,Дух отпали од Бога,Spirit fallen from God,Theological Phrase,,
+,Отпали дух,Fallen spirit,Theological,,
+,Сејач зла,Sower of evil,Theological Title,,
+,У свету,In world,Phrase,,
+,Отуда кукољ,Hence tares,Biblical Phrase,,
+,Кукољ,Tares,Biblical,,
+,По Божјој пшеници,Among God's wheat,Biblical Phrase,,
+,Божја пшеница,God's wheat,Biblical,,
+,Труди се,Strives,Verb,,
+,Као своја оруђа зла,As its instruments of evil,Theological Phrase,,
+,Оруђа зла,Instruments of evil,Theological,,
+,Употреби дух човечји,Use human spirit,Theological Phrase,,
+,Дух човечји,Human spirit,Philosophical,,
+,Материјалне ствари,Material things,Philosophical,,
+,У опште,In general,Phrase,,
+,Он је тај,He is one,Phrase,,
+,Убацује помисао,Casts thought,Spiritual Verb,,
+,У разум људски,Into human mind,Phrase,,
+,Разум људски,Human mind,Philosophical,,
+,Као да је сав свет зло,As if whole world evil,Quote,,
+,Створени свет,Created world,Theological,,
+,Основно зло,Fundamentally evil,Philosophical Quote,,
+,Клевета Божја дела,Slanders God's works,Theological Phrase,,
+,Да би заклонио своја,To conceal his own,Phrase,,
+,Оптужује Бога,Accuses God,Theological Phrase,,
+,Да не би био оптужен,That he not be accused,Phrase,,
+,О браћо моја,O my brethren,Address,,
+,Чувајмо се коварства,Let us guard against cunning,Warning,,
+,Коварство злога духа,Cunning of evil spirit,Spiritual Phrase,,
+,Коварство,Cunning,Phrase,,
+,Чувајмо се нарочито,Let us guard especially,Warning,,
+,Од злих помисли,From evil thoughts,Spiritual Phrase,,
+,Зле помисли,Evil thoughts,Spiritual,,
+,Које сеје по уму,Which sows in mind,Spiritual Phrase,,
+,Сеје по уму,Sows in mind,Spiritual Verb,,
+,По уму нашем,In our mind,Phrase,,
+,Истинити Просветитељу,True Enlightener,Theological Title,,
+,У Твоје руке предајемо,Into Thy hands we commit,Prayer Phrase,,
+,Предајемо ум наш,We commit our mind,Prayer Phrase,,
+,Срца наша,Our hearts,Prayer Phrase,,
+,Обасјај нас,Illumine us,Prayer Verb,,
+,Твојом истинитом светлошћу,With Thy true light,Prayer Phrase,,
+,Истинита светлост,True light,Theological,,
