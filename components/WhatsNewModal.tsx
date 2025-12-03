@@ -26,20 +26,35 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
 
   const formatText = (text: string, idx: number) => {
     const parts: React.ReactNode[] = [];
-    const codeRegex = /`([^`]+)`/g;
+    const combinedRegex = /`([^`]+)`|\[([^\]]+)\]\(([^)]+)\)/g;
     let lastIndex = 0;
     let match;
     let keyCounter = 0;
 
-    while ((match = codeRegex.exec(text)) !== null) {
+    while ((match = combinedRegex.exec(text)) !== null) {
       if (match.index > lastIndex) {
         parts.push(text.substring(lastIndex, match.index));
       }
-      parts.push(
-        <code key={`${idx}-${keyCounter++}`} className="bg-white/20 px-1.5 py-0.5 rounded text-sm font-mono">
-          {match[1]}
-        </code>
-      );
+      
+      if (match[1]) {
+        parts.push(
+          <code key={`${idx}-${keyCounter++}`} className="bg-white/20 px-1.5 py-0.5 rounded text-sm font-mono">
+            {match[1]}
+          </code>
+        );
+      } else if (match[2] && match[3]) {
+        parts.push(
+          <a 
+            key={`${idx}-${keyCounter++}`} 
+            href={match[3]} 
+            className="text-gold hover:text-white underline transition-colors"
+            onClick={handleClose}
+          >
+            {match[2]}
+          </a>
+        );
+      }
+      
       lastIndex = match.index + match[0].length;
     }
 
