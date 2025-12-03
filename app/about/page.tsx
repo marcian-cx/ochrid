@@ -132,7 +132,25 @@ export default function AboutPage() {
           </p>
         </section>
 
-        <div className="mt-16 pt-8 border-t border-ink/10">
+        <section className="mt-12 py-8 border-y border-ink/10">
+          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide">
+            Support This Project
+          </h2>
+          <p className="mb-6">
+            OCHRID.COM is provided free of charge as a service to the Orthodox faithful.
+            If you've found it edifying and would like to support the continued development and translation work, you're welcome to do so via the button below.
+          </p>
+          <a
+            href="https://buymeacoffee.com/ochrid"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-burgundy text-parchment px-6 py-2.5 text-sm font-semibold uppercase tracking-wide hover:bg-gold hover:text-ink transition-colors rounded"
+          >
+            Support via Buy Me a Coffee
+          </a>
+        </section>
+
+        <div className="mt-12 pt-8 border-t border-ink/10">
           <p className="text-center text-sm text-burgundy/80">
             Lord Jesus Christ, by the prayers of St. Nikolai Velimirović and all the saints, have mercy on us.
           </p>
