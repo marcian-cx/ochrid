@@ -5747,7 +5747,7 @@
 ,Списак оптужених,List of the accused,Martyrdom,,
 ,Спојити,To join together,Theological Verb,,
 ,Споља борба,Outwardly battle,Phrase,,
-,Споља варка,Outwardly deception,Phrase,,
+,Споља варка,Outwardly illusion,Phrase,,
 ,Споља и унутра,Externally and internally,Phrase,,
 ,Споља неверници,From without by unbelievers,Phrase,,
 ,Споља раскош,Outwardly splendor,Phrase,,
