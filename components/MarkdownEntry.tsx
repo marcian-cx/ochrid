@@ -118,8 +118,8 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
   );
   
   return (
-    <article className="w-full md:w-3/5 mx-auto px-4 md:px-0">
-      <div className="mb-12">
+    <article className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0">
+      <div className="mb-4">
         <div className="flex items-baseline justify-between gap-4">
           <div>
             <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-0">{subtitle}</h1>
@@ -143,25 +143,18 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
                 <h2 className="text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
                   <span
                     onClick={() => setActiveView("saints")}
-                    className={`cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] ${
-                      activeView === "saints"
-                        ? "text-burgundy"
-                        : "text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
-                    }`}
-                    style={activeView === "saints" ? { textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" } : {}}
+                    className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] text-burgundy"
+                    style={{ textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" }}
                   >
-                    {heading}
+                    <span className="hidden md:inline">{heading}</span>
+                    <span className="md:hidden">Lives</span>
                   </span>
                   <span
                     onClick={() => setActiveView("scripture")}
-                    className={`cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] ${
-                      activeView === "scripture"
-                        ? "text-burgundy"
-                        : "text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
-                    }`}
-                    style={activeView === "scripture" ? { textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" } : {}}
+                    className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
                   >
-                    Scripture Readings
+                    <span className="hidden md:inline">Scripture Readings</span>
+                    <span className="md:hidden">Scripture</span>
                   </span>
                 </h2>
               </div>
@@ -184,18 +177,16 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
                 onClick={() => setActiveView("saints")}
                 className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
               >
-                Lives of the Saints
+                <span className="hidden toggle:inline">Lives of the Saints</span>
+                <span className="toggle:hidden">Lives</span>
               </span>
               <span
                 onClick={() => setActiveView("scripture")}
-                  className={`cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] ${
-                    activeView === "scripture"
-                      ? "text-burgundy"
-                      : "text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
-                  }`}
-                style={activeView === "scripture" ? { textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" } : {}}
+                className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] text-burgundy"
+                style={{ textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" }}
               >
-                Scripture Readings
+                <span className="hidden toggle:inline">Scripture Readings</span>
+                <span className="toggle:hidden">Scripture</span>
               </span>
             </h2>
           </div>
