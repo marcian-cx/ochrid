@@ -1,4 +1,7 @@
 import { useCalendar } from "@/lib/CalendarContext";
+import { OrthocalDay } from "@/lib/orthocal";
+import { useState } from "react";
+import OrthocalInfo from "./OrthocalInfo";
 
 type MarkdownEntryProps = {
   content: string;
@@ -6,10 +9,12 @@ type MarkdownEntryProps = {
   dateDisplay: string;
   subtitle?: string;
   hasSerbianContent: boolean;
+  orthocalData: OrthocalDay | null;
 };
 
-export default function MarkdownEntry({ content, dateDisplay, subtitle = "Пролог из Охрида", hasSerbianContent }: MarkdownEntryProps) {
+export default function MarkdownEntry({ content, dateDisplay, subtitle = "Пролог из Охрида", hasSerbianContent, orthocalData }: MarkdownEntryProps) {
   const { language, setLanguage } = useCalendar();
+  const [activeView, setActiveView] = useState<"saints" | "scripture">("saints");
   const sections = content.split(/^## /m).filter(Boolean);
   
   const parseInlineMarkdown = (text: string): React.ReactNode[] => {
@@ -124,7 +129,7 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
         </div>
       </div>
 
-      {sections.map((section, idx) => {
+      {activeView === "saints" && sections.map((section, idx) => {
         const lines = section.trim().split('\n');
         const heading = lines[0];
         const body = lines.slice(1).join('\n').trim();
@@ -133,13 +138,70 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
         
         return (
           <section key={idx} className={isHymn ? "mb-12 pl-6 border-l-2 border-burgundy/20" : "mb-12"}>
-            <h2 className="text-base font-bold mb-4 text-burgundy uppercase tracking-wider">
-              {heading}
-            </h2>
+            {idx === 0 && (
+              <div>
+                <h2 className="text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
+                  <span
+                    onClick={() => setActiveView("saints")}
+                    className={`cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] ${
+                      activeView === "saints"
+                        ? "text-burgundy"
+                        : "text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
+                    }`}
+                    style={activeView === "saints" ? { textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" } : {}}
+                  >
+                    {heading}
+                  </span>
+                  <span
+                    onClick={() => setActiveView("scripture")}
+                    className={`cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] ${
+                      activeView === "scripture"
+                        ? "text-burgundy"
+                        : "text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
+                    }`}
+                    style={activeView === "scripture" ? { textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" } : {}}
+                  >
+                    Scripture Readings
+                  </span>
+                </h2>
+              </div>
+            )}
+            {idx !== 0 && (
+              <h2 className="text-base font-bold mb-4 text-burgundy uppercase tracking-wider">
+                {heading}
+              </h2>
+            )}
             {renderBody(body, isHymn)}
           </section>
         );
       })}
+
+      {activeView === "scripture" && (
+        <div className="mb-12">
+          <div>
+            <h2 className="text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
+              <span
+                onClick={() => setActiveView("saints")}
+                className="cursor-pointer transition-all w-1/2 px-2 py-1 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
+              >
+                Lives of the Saints
+              </span>
+              <span
+                onClick={() => setActiveView("scripture")}
+                  className={`cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] ${
+                    activeView === "scripture"
+                      ? "text-burgundy"
+                      : "text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
+                  }`}
+                style={activeView === "scripture" ? { textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" } : {}}
+              >
+                Scripture Readings
+              </span>
+            </h2>
+          </div>
+          <OrthocalInfo data={orthocalData} />
+        </div>
+      )}
     </article>
   );
 }

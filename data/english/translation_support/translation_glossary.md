@@ -2948,7 +2948,7 @@
 ,Нагомилане,Accumulated,Verb,,
 ,Нагомилано богатство,Accumulated wealth,Phrase,,
 ,Награду од Бога,Reward from God,Spiritual Phrase,,
-,Над варкама,Above deceptions,Spiritual Phrase,,
+,Над варкама,Above illusions,Spiritual Phrase,,
 ,Над главама нашим,Above our heads,Phrase,,
 ,Над маловерством,Over little faith,Spiritual Phrase,,
 ,Над судбом,On fate,Phrase,,

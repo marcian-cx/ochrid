@@ -71,8 +71,8 @@ function ReadingPageContent({
         julianSerbian={julianSerbian}
         gregorianEnglish={gregorianEnglish}
         gregorianSerbian={gregorianSerbian}
+        orthocalData={orthocalData}
       />
-      <OrthocalInfo data={orthocalData} />
     </div>
   );
 }
