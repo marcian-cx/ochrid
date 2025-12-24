@@ -182,7 +182,7 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
             <h2 className="text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
               <span
                 onClick={() => setActiveView("saints")}
-                className="cursor-pointer transition-all w-1/2 px-2 py-1 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
+                className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
               >
                 Lives of the Saints
               </span>
