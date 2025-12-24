@@ -177,16 +177,16 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
                 onClick={() => setActiveView("saints")}
                 className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
               >
-                <span className="hidden toggle:inline">Lives of the Saints</span>
-                <span className="toggle:hidden">Lives</span>
+                <span className="hidden md:inline">Lives of the Saints</span>
+                <span className="md:hidden">Lives</span>
               </span>
               <span
                 onClick={() => setActiveView("scripture")}
                 className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] text-burgundy"
                 style={{ textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" }}
               >
-                <span className="hidden toggle:inline">Scripture Readings</span>
-                <span className="toggle:hidden">Scripture</span>
+                <span className="hidden md:inline">Scripture Readings</span>
+                <span className="md:hidden">Scripture</span>
               </span>
             </h2>
           </div>
