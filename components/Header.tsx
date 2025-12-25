@@ -22,7 +22,7 @@ export default function Header() {
                 className="px-1.5 py-0.5 text-[10px] font-semibold tracking-wider text-burgundy border border-burgundy/30 rounded leading-none"
                 style={{ fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}
               >
-                BETA · v0.3
+                BETA · v0.4
               </span>
             </div>
             <span className="hidden sm:inline text-burgundy/30 text-sm leading-none">•</span>
