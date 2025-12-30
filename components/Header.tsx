@@ -1,10 +1,22 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [aboutDropdownOpen, setAboutDropdownOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
+        setAboutDropdownOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
 
   return (
     <header className="sticky top-0 z-50 border-b border-gold bg-parchment">
@@ -22,7 +34,7 @@ export default function Header() {
                 className="px-1.5 py-0.5 text-[10px] font-semibold tracking-wider text-burgundy border border-burgundy/30 rounded leading-none"
                 style={{ fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}
               >
-                BETA · v0.4
+                BETA · v0.5
               </span>
             </div>
             <span className="hidden sm:inline text-burgundy/30 text-sm leading-none">•</span>
@@ -44,12 +56,35 @@ export default function Header() {
             >
               Prayers
             </Link>
-            <Link 
-              href="/about" 
-              className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
-            >
-              About
-            </Link>
+            <div className="relative" ref={dropdownRef}>
+              <button
+                onClick={() => setAboutDropdownOpen(!aboutDropdownOpen)}
+                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0 flex items-center gap-1"
+              >
+                About
+                <svg className={`w-3 h-3 transition-transform ${aboutDropdownOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              {aboutDropdownOpen && (
+                <div className="absolute right-0 mt-2 w-48 bg-parchment border border-gold rounded shadow-lg py-1">
+                  <Link
+                    href="/about"
+                    onClick={() => setAboutDropdownOpen(false)}
+                    className="block px-4 py-2 text-burgundy hover:text-gold hover:bg-burgundy/5 transition-colors uppercase tracking-wider text-xs"
+                  >
+                    About This Website
+                  </Link>
+                  <Link
+                    href="/censorship"
+                    onClick={() => setAboutDropdownOpen(false)}
+                    className="block px-4 py-2 text-burgundy hover:text-gold hover:bg-burgundy/5 transition-colors uppercase tracking-wider text-xs"
+                  >
+                    Censorship
+                  </Link>
+                </div>
+              )}
+            </div>
           </nav>
 
           <button
@@ -86,13 +121,25 @@ export default function Header() {
               >
                 Prayers
               </Link>
-              <Link 
-                href="/about" 
-                onClick={() => setMobileMenuOpen(false)}
-                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
-              >
-                About
-              </Link>
+              <div className="flex flex-col gap-1">
+                <span className="text-burgundy/60 uppercase tracking-wider py-0 text-xs">
+                  About
+                </span>
+                <Link 
+                  href="/about" 
+                  onClick={() => setMobileMenuOpen(false)}
+                  className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0 pl-3"
+                >
+                  About This Website
+                </Link>
+                <Link 
+                  href="/censorship" 
+                  onClick={() => setMobileMenuOpen(false)}
+                  className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0 pl-3"
+                >
+                  Censorship
+                </Link>
+              </div>
             </nav>
           </div>
         )}

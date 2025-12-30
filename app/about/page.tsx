@@ -23,30 +23,26 @@ export default function AboutPage() {
 
   return (
     <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
-      <div className="mb-12">
+      <div className="mb-8">
         <h1 className="text-4xl font-bold mb-1 text-burgundy">About</h1>
         <p className="text-xs uppercase tracking-widest text-burgundy/50">About This Project</p>
       </div>
       
       <div className="space-y-8 text-base leading-normal text-ink">
         <p>
-          A friend recently sent me the link to the Prologue from Ochrid on the Australian ROCOR diocese website. 
-          When I clicked on the link, I found it led to a web archive version from an old serbian diocese website, which was both hard to use and ethically dubious. Being a software engineer by trade, I wanted to rehost 
-          this content to make it available to the Orthodox faithful in a simple, accessible, and focused way. 
-
+          OCHRID.COM presents the first ever faithful, uncensored, and freely available English translation of the Prologue from 
+          Ochrid by St. Nikolai Velimirović. This translation is made directly from the original Serbian text, 
+          preserving every word St. Nikolai wrote, with only minor tweaks for clarity, <strong> never meaning.</strong>
         </p>
 
         <p>
-          However, I soon realized that the translation used across the web, here and elsewhere, is under the copyright of the Serbian 
-          Orthodox Archdiocese. After they pulled it from their website, reproducing the web archive version 
-          was not ethically defensible. This created a need for a new, open source translation with complete 
-          fidelity to the original Serbian text, and an Orthodox flavor like the previous translation, but 
-          that could be shared and used by the faithful without permission and at will.
+          The currently available standard English edition is under the copyright of the Serbian Orthodox Archdiocese, and can therefore not be reproduced or distributed without permission.
+          It also contains cases of <Link href="/censorship" className="text-burgundy hover:text-gold underline">censorship</Link>. This translation exists to preserve the original text written by St. Nikolai and make it available to the faithful without cost barriers and for all uses.
+           We believe the faithful deserve access to this treasure of a text with no restrictions.
         </p>
 
         <p>
-          What you are reading now is a never before seen privately funded translation, made directly from the original 
-          Serbian text by St. Nikolai. This translation is licensed under{' '}
+          This work is licensed under{' '}
           <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener" className="text-burgundy hover:text-gold underline">
             Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
           </a>, 
@@ -134,17 +130,8 @@ export default function AboutPage() {
 
         <div className="mt-16 pt-8 border-t border-ink/10">
           <p className="text-center text-sm text-burgundy/80">
-            Lord Jesus Christ, by the prayers of St. Nikolai Velimirović and all the saints, have mercy on us.
+            Lord Jesus Christ, Son of God, by the prayers of St. Nikolai Velimirović and all the saints, have mercy on us.
           </p>
-        </div>
-
-        <div className="mt-8 text-center">
-          <Link 
-            href="/" 
-            className="text-burgundy hover:text-gold transition-colors text-sm uppercase tracking-wider"
-          >
-            Return to Daily Reading
-          </Link>
         </div>
       </div>
     </div>
