@@ -6,12 +6,14 @@ A clean, fast, devotional site hosting daily readings from the *Prologue from Oc
 
 ## ✨ Features
 
-- **Daily Readings**: Automatic redirect to today's entry
+- **Daily Readings**: Lives of Saints, Hymns, Reflections, and Homilies for every day of the year
+- **Scripture Integration**: Daily scripture readings via Orthocal.info API
+- **Dual Calendar Support**: Toggle between Julian (Old Calendar) and Gregorian (New Calendar) dates
+- **Bilingual Content**: English translations with Serbian originals
+- **Morning & Evening Prayers**: Traditional Orthodox prayer cycles with audio
 - **Beautiful UI**: Reverent design with parchment tones and elegant typography
 - **Fast & Static**: Built with Next.js 14 for optimal performance
-- **Navigation**: Easy previous/next day browsing
 - **Responsive**: Perfect on desktop, tablet, and mobile
-- **Support Button**: Integrated Ko-fi/Buy Me a Coffee donation link
 
 ---
 
@@ -20,8 +22,9 @@ A clean, fast, devotional site hosting daily readings from the *Prologue from Oc
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **Data**: Static JSON
-- **Deployment**: Vercel (recommended) or Netlify
+- **Data**: Markdown files, JSON
+- **External API**: Orthocal.info for liturgical calendar data
+- **Deployment**: Netlify
 
 ---
 
@@ -29,79 +32,72 @@ A clean, fast, devotional site hosting daily readings from the *Prologue from Oc
 
 ### 1. Install Dependencies
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
-### 2. Scrape the Prologue Data
+### 2. Run Development Server
 
-First, install Python dependencies:
-
-\`\`\`bash
-pip install -r requirements.txt
-\`\`\`
-
-Then run the scraper:
-
-\`\`\`bash
-cd scripts
-python3 scrape_prologue.py
-\`\`\`
-
-This will populate `data/prologue.json` with all daily entries from the archived ROCOR website.
-
-### 3. Run Development Server
-
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 Open [http://localhost:3000](http://localhost:3000) to see the site.
 
-### 4. Build for Production
+### 3. Build for Production
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
+
+This generates a static export in the `out/` directory.
 
 ---
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 ochrid/
 ├── app/
-│   ├── [date]/
-│   │   └── page.tsx          # Dynamic daily entry pages
+│   ├── about/                 # About page with translation progress
+│   ├── donate/                # Support page
+│   ├── prayers/               # Morning & evening prayers
+│   ├── readings/[date]/       # Dynamic daily reading pages
 │   ├── globals.css            # Global styles
 │   ├── layout.tsx             # Root layout
 │   ├── page.tsx               # Home (redirects to today)
 │   └── not-found.tsx          # 404 page
 ├── components/
-│   ├── DateNavigator.tsx      # Prev/Next navigation
-│   ├── Entry.tsx              # Entry display component
-│   ├── Footer.tsx             # Footer with support button
-│   └── Header.tsx             # Site header
+│   ├── DateNavigator.tsx      # Date navigation & calendar toggle
+│   ├── FastingBanner.tsx      # Fasting information display
+│   ├── Footer.tsx             # Site footer
+│   ├── Header.tsx             # Site header
+│   ├── MarkdownEntry.tsx      # Prologue entry renderer
+│   ├── OrthocalInfo.tsx       # Scripture readings & commemorations
+│   ├── ReadingContent.tsx     # Reading display logic
+│   ├── TranslationProgress.tsx # Translation calendar view
+│   └── WhatsNewModal.tsx      # Changelog modal
 ├── data/
-│   └── prologue.json          # All daily entries (generated)
-├── scripts/
-│   └── scrape_prologue.py     # Python scraper
+│   ├── changes/               # Version changelog markdown files
+│   ├── english/               # English Prologue translations (markdown)
+│   ├── serbian/               # Serbian Prologue originals (markdown)
+│   ├── prayers/               # Morning & evening prayer JSON
+│   └── references/            # Reference materials
+├── lib/
+│   ├── CalendarContext.tsx    # Calendar mode state management
+│   └── orthocal.ts            # Orthocal API integration
 ├── utils/
-│   └── date.ts                # Date utility functions
+│   ├── changelog.ts           # Changelog utilities
+│   ├── date.ts                # Date utility functions
+│   └── translationProgress.ts # Translation tracking
 └── public/
-    └── favicon.ico            # Site icon
-\`\`\`
+    ├── ochrid_favicon.png     # Site icon
+    └── morning_prayers.mp3    # Audio prayer file
+```
 
 ---
 
 ## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Deploy!
 
 ### Deploy to Netlify
 
@@ -112,51 +108,103 @@ ochrid/
 5. Set publish directory: `out`
 6. Deploy!
 
+The site is configured for static export and includes redirects for SPA routing.
+
 ---
 
 ## 🎨 Customization
-
-### Update Support Link
-
-Edit `components/Footer.tsx` and replace the Buy Me a Coffee URL with your own:
-
-\`\`\`tsx
-<a href="https://buymeacoffee.com/YOUR_USERNAME" ...>
-\`\`\`
 
 ### Customize Colors
 
 Edit `tailwind.config.ts` to change the color scheme:
 
-\`\`\`ts
+```ts
 colors: {
-  parchment: "#f5f0e8",  // Background
-  ink: "#2c2416",        // Text
-  gold: "#d4af37",       // Accent
-  burgundy: "#6b2a2a",   // Primary
+  parchment: "#0a0a0a",    // Dark background
+  ink: "#e8e8e8",          // Light text
+  gold: "#e6c458",         // Accent gold
+  burgundy: "#d4a5a5",     // Primary burgundy
 }
-\`\`\`
+```
+
+### Adjust Responsive Breakpoints
+
+Edit the `screens` configuration in `tailwind.config.ts`:
+
+```ts
+screens: {
+  'toggle': '1024px',  // Toggle text breakpoint
+}
+```
+
+---
+
+## 📖 Content Management
+
+### Adding/Editing Translations
+
+Daily entries are stored as markdown files in:
+- `data/english/[month]/[month]-[day].md`
+- `data/serbian/[month]/[month]-[day].md`
+
+Each file follows this structure:
+
+```markdown
+## 1. SAINT NAME
+
+Saint biography and life story...
+
+## HYMN OF PRAISE
+
+Poetic hymn...
+
+## REFLECTION
+
+Spiritual reflection...
+
+## CONTEMPLATION
+
+Contemplative thoughts...
+
+## HOMILY
+
+Homiletical teaching...
+```
+
+### Adding Changelog Entries
+
+Create a new markdown file in `data/changes/` following the format `[major]_[minor].md`:
+
+```markdown
+# Version X.Y
+
+- Feature or change description
+- Another change
+```
 
 ---
 
 ## 🕯️ Future Enhancements
 
-- [ ] Orthocal API integration for commemorations
-- [ ] Search functionality by saint name
-- [ ] Daily email digests
-- [ ] Saint iconography
-- [ ] PDF export of daily entries
-- [ ] Yearly print edition
+- [ ] Search functionality by saint name or date
+- [ ] Audio recordings of daily readings
+- [ ] Daily email/push notifications
+- [ ] Print-friendly layouts
+- [ ] Additional prayer collections
+- [ ] Saint iconography integration
 
 ---
 
 ## 🙏 Credits
 
-Content: **St. Nikolai Velimirović** (1880-1956)
+**Content**: St. Nikolai Velimirović (1880-1956)
 
-Original source: ROCOR archived website
+**Translation**: Direct from Serbian original
+
+**Liturgical Data**: [Orthocal.info](https://orthocal.info)
+
+**License**: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
 
 ---
 
 **Soli Deo gloria** ✝
-
