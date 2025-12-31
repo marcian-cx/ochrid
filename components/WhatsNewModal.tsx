@@ -82,15 +82,15 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
       <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
         <div className="bg-parchment border border-burgundy/30 rounded-md shadow-2xl max-w-md w-full mx-auto">
           <div className="px-6 pt-2 pb-1">
-            <h2 className="text-2xl font-bold text-burgundy border-b border-gold pb-1 font-mono">{title}</h2>
+            <h2 className="text-xl font-bold text-burgundy border-b border-gold pb-1 font-mono my-2">{title}</h2>
           </div>
 
           <div className="px-6">
-            <ul className="space-y-3">
+            <ul className="space-y-0.5">
               {bulletPoints.map((point, idx) => (
-                <li key={idx} className="flex items-start gap-3 text-ink">
-                  <span className="text-burgundy mt-1">✦</span>
-                  <span className="leading-relaxed">{formatText(point, idx)}</span>
+                <li key={idx} className="flex items-baseline gap-2 text-ink">
+                  <span className="text-burgundy text-xs">✦</span>
+                  <span>{formatText(point, idx)}</span>
                 </li>
               ))}
             </ul>
@@ -99,7 +99,7 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
           <div className="px-6 pb-4 flex justify-end">
             <button
               onClick={handleClose}
-              className="px-4 py-1.5 bg-parchment text-burgundy border border-burgundy/50 rounded hover:bg-burgundy hover:text-parchment transition-colors text-sm"
+              className="px-4 py-1 bg-parchment text-burgundy border border-burgundy/50 rounded hover:bg-burgundy hover:text-parchment transition-colors text-sm"
             >
               Got it
             </button>
