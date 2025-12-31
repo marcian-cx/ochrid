@@ -82,7 +82,7 @@ export function parseTranslationProgress(): ProgressStats {
     daysByMonth[month].sort((a, b) => a.day - b.day);
   }
 
-  const translatedCount = days.filter((d) => d.englishTranslated).length;
+  const translatedCount = days.filter((d) => d.englishTranslated || d.englishVerified).length;
   const verifiedCount = days.filter((d) => d.englishVerified).length;
 
   return {
