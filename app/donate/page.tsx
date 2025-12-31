@@ -1,8 +1,16 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Support - OCHRID",
-  description: "Support the OCHRID project",
+  title: "Support the Prologue from Ochrid Translation Project",
+  description: "Support the free English translation of the Prologue from Ochrid. Help keep this Orthodox daily reading resource available to all.",
+  openGraph: {
+    title: "Support the Prologue from Ochrid",
+    description: "Help keep the free Prologue from Ochrid translation available to all.",
+    url: "https://ochrid.com/donate",
+  },
+  alternates: {
+    canonical: "https://ochrid.com/donate",
+  },
 };
 
 export default function DonatePage() {

@@ -65,15 +65,48 @@ export async function generateMetadata({ params }: { params: { date: string } })
   
   if (!content) {
     return {
-      title: "Not Found",
+      title: "Reading Not Found",
     };
   }
 
   const displayDate = formatJulianGregorianDisplay(params.date);
-  const preview = content.substring(0, 160).replace(/[#*\n]/g, ' ').trim();
+  
+  const lines = content.split('\n');
+  const firstHeading = lines.find(line => line.startsWith('## '))?.replace('## ', '') || '';
+  const saintName = firstHeading.replace(/^\d+\.\s*/, '');
+  
+  const preview = content.substring(0, 200).replace(/[#*\n]/g, ' ').replace(/\s+/g, ' ').trim();
+
+  const title = saintName 
+    ? `${displayDate} - ${saintName} | Prologue from Ochrid`
+    : `${displayDate} | Prologue from Ochrid - St. Nikolai Velimirović`;
+    
+  const description = `Prologue from Ochrid for ${displayDate}. ${preview.substring(0, 150)}...`;
 
   return {
-    title: `${displayDate} - OCHRID`,
-    description: preview || "Daily Orthodox reading from OCHRID",
+    title,
+    description,
+    keywords: [
+      "Prologue from Ochrid",
+      displayDate,
+      saintName,
+      "St. Nikolai Velimirovic",
+      "Orthodox daily reading",
+      "Lives of the Saints",
+    ].filter(Boolean),
+    openGraph: {
+      title,
+      description,
+      type: "article",
+      url: `https://ochrid.com/readings/${params.date}`,
+    },
+    twitter: {
+      card: "summary",
+      title,
+      description,
+    },
+    alternates: {
+      canonical: `https://ochrid.com/readings/${params.date}`,
+    },
   };
 }

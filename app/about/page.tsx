@@ -3,8 +3,24 @@ import TranslationProgress from "@/components/TranslationProgress";
 import { parseTranslationProgress } from "@/utils/translationProgress";
 
 export const metadata = {
-  title: "About - OCHRID",
-  description: "About OCHRID - A Daily Orthodox Companion",
+  title: "About the Prologue from Ochrid - Free English Translation",
+  description: "Learn about the first faithful, uncensored, and free English translation of the Prologue from Ochrid by St. Nikolai Velimirović. A daily Orthodox companion with lives of saints, hymns, and homilies.",
+  keywords: [
+    "What is the Prologue from Ochrid",
+    "Prologue from Ochrid about",
+    "St. Nikolai Velimirovic biography",
+    "Prologue of Ochrid English translation",
+    "Orthodox daily readings free",
+    "Lives of the Saints Orthodox",
+  ],
+  openGraph: {
+    title: "About the Prologue from Ochrid",
+    description: "The first faithful, uncensored English translation of the Prologue from Ochrid by St. Nikolai Velimirović. Free for all to use and share.",
+    url: "https://ochrid.com/about",
+  },
+  alternates: {
+    canonical: "https://ochrid.com/about",
+  },
 };
 
 export default function AboutPage() {

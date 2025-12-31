@@ -1,8 +1,22 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Censorship - OCHRID",
-  description: "Documented cases of censorship in the standard English translation of the Prologue from Ochrid",
+  title: "Censorship in the Prologue from Ochrid Translation",
+  description: "Documented cases of censorship and alterations in the standard English translation of the Prologue from Ochrid by St. Nikolai Velimirović. See what was changed from the original Serbian text.",
+  keywords: [
+    "Prologue from Ochrid censorship",
+    "Prologue of Ochrid original text",
+    "St. Nikolai Velimirovic uncensored",
+    "Serbian Orthodox Archdiocese translation",
+  ],
+  openGraph: {
+    title: "Censorship in the Prologue from Ochrid",
+    description: "Documented cases of censorship in the standard English translation vs. the original Serbian text.",
+    url: "https://ochrid.com/censorship",
+  },
+  alternates: {
+    canonical: "https://ochrid.com/censorship",
+  },
 };
 
 interface CensorshipCase {

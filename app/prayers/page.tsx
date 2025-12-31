@@ -38,8 +38,23 @@ async function getPrayers() {
 }
 
 export const metadata = {
-  title: "Orthodox Prayers - OCHRID",
-  description: "Traditional Orthodox morning and evening prayers",
+  title: "Orthodox Morning and Evening Prayers",
+  description: "Traditional Orthodox Christian morning and evening prayers. Part of the Prologue from Ochrid daily companion by St. Nikolai Velimirović.",
+  keywords: [
+    "Orthodox prayers",
+    "Orthodox morning prayers",
+    "Orthodox evening prayers",
+    "Eastern Orthodox prayers",
+    "Christian daily prayers",
+  ],
+  openGraph: {
+    title: "Orthodox Morning and Evening Prayers",
+    description: "Traditional Orthodox Christian morning and evening prayers from the Prologue from Ochrid.",
+    url: "https://ochrid.com/prayers",
+  },
+  alternates: {
+    canonical: "https://ochrid.com/prayers",
+  },
 };
 
 export default async function PrayersPage() {
