@@ -75,12 +75,12 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
   return (
     <>
       <div
-        className="fixed inset-0 bg-ink/20 z-40 backdrop-blur-[2px]"
+        className="fixed inset-0 bg-ink/20 z-40 backdrop-blur-[2px] animate-fade-in"
         onClick={handleClose}
       />
 
       <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-        <div className="bg-parchment border border-burgundy/30 rounded-md shadow-2xl max-w-md w-full mx-auto">
+        <div className="bg-parchment border border-burgundy/30 rounded-md shadow-2xl max-w-md w-full mx-auto animate-fade-scale">
           <div className="px-6 pt-2 pb-1">
             <h2 className="text-xl font-bold text-burgundy border-b border-gold pb-1 font-mono my-2">{title}</h2>
           </div>

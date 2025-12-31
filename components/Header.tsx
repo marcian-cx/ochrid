@@ -53,7 +53,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
           <nav className="hidden md:flex items-center gap-4 text-xs">
             <button
               onClick={toggleTheme}
-              className="text-burgundy hover:text-gold transition-colors p-1"
+              className="text-burgundy hover:text-gold transition-all duration-200 p-1 hover:rotate-12"
               aria-label="Toggle theme"
             >
               {theme === "dark" ? (
@@ -89,7 +89,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
                 </svg>
               </button>
               {aboutDropdownOpen && (
-                <div className="absolute right-0 mt-2 w-48 bg-parchment border border-gold rounded shadow-lg py-1">
+                <div className="absolute right-0 mt-2 w-48 bg-parchment border border-gold rounded shadow-lg py-1 animate-slide-down">
                   <Link
                     href="/about"
                     onClick={() => setAboutDropdownOpen(false)}
@@ -112,7 +112,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
           <div className="md:hidden flex items-center gap-2">
             <button
               onClick={toggleTheme}
-              className="text-burgundy hover:text-gold transition-colors p-1"
+              className="text-burgundy hover:text-gold transition-all duration-200 p-1 hover:rotate-12"
               aria-label="Toggle theme"
             >
               {theme === "dark" ? (
@@ -144,7 +144,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
         </div>
 
         {mobileMenuOpen && (
-          <div className="md:hidden border-t border-burgundy/20 mt-2 pt-2">
+          <div className="md:hidden border-t border-burgundy/20 mt-2 pt-2 animate-fade-in">
             <nav className="flex flex-col text-sm">
               <Link 
                 href="/" 
@@ -176,7 +176,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
                   </svg>
                 </button>
                 {mobileAboutOpen && (
-                  <div className="flex flex-col pl-4 border-l border-burgundy/20 ml-1">
+                  <div className="flex flex-col pl-4 border-l border-burgundy/20 ml-1 animate-slide-down">
                     <Link 
                       href="/about" 
                       onClick={() => setMobileMenuOpen(false)}
