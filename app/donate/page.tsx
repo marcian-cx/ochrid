@@ -16,9 +16,12 @@ export const metadata = {
 export default function DonatePage() {
   return (
     <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
-      <h1 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">Support</h1>
+      <div className="mb-8">
+        <h1 className="text-4xl font-bold mb-1 text-burgundy">Support</h1>
+        <p className="text-xs uppercase tracking-widest text-burgundy/50">Help This Project Continue</p>
+      </div>
       
-      <div className="space-y-8 text-base leading-relaxed text-ink">
+      <div className="space-y-8 text-base leading-normal text-ink">
         <p>
           This website is provided free of charge as a service to the Orthodox faithful 
           and all who seek spiritual nourishment from the Prologue from Ochrid.
@@ -26,29 +29,29 @@ export default function DonatePage() {
 
         <p>
           If you find this resource valuable and would like to support its continued availability and 
-          development, you can make a contribution through the link below. All donations go toward 
-          hosting costs, maintenance, and improvements to make these sacred texts more accessible.
+          development, you can make a contribution through the link below. Your donations support
+          development costs, hosting, domain costs, translation work, and other expenses.
         </p>
 
-        <div className="my-12 py-8 text-center border-y border-ink/10">
-          <h2 className="text-lg font-semibold mb-6 text-burgundy uppercase tracking-wide text-sm">
+        <section className="my-12 py-8 text-center border-y border-gold/30">
+          <h2 className="text-lg font-semibold mb-6 text-burgundy uppercase tracking-wide border-0 pb-0 mt-0">
             Make a Donation
           </h2>
-          <p className="mb-6 text-ink/70 text-sm">
+          <p className="text-center mb-6 text-burgundy/70 text-sm">
             Your support helps keep this resource freely available
           </p>
           <a
             href="https://buymeacoffee.com/ochrid"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block bg-burgundy text-parchment px-8 py-3 font-semibold hover:bg-gold hover:text-ink transition-colors"
+            className="inline-block bg-burgundy !text-parchment px-8 py-3 font-semibold rounded hover:bg-gold hover:!text-ink transition-colors"
           >
             Support via Buy Me a Coffee
           </a>
-        </div>
+        </section>
 
         <section className="mt-12">
-          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide text-sm">
+          <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide border-0 pb-0 mt-0">
             Other Ways to Help
           </h2>
           
@@ -78,17 +81,7 @@ export default function DonatePage() {
             and running over, will be poured into your lap. — Luke 6:38
           </p>
         </div>
-
-        <div className="mt-8 text-center">
-          <Link 
-            href="/" 
-            className="text-burgundy hover:text-gold transition-colors text-sm uppercase tracking-wider"
-          >
-            Return to Daily Reading
-          </Link>
-        </div>
       </div>
     </div>
   );
 }
-

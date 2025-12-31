@@ -84,6 +84,9 @@ export const metadata: Metadata = {
   classification: "Orthodox Christianity",
   verification: {
     google: "hcbILvir7vFh6oNVPgjRgq-BRk8FXjCAGhgUTegvvIA",
+    other: {
+      "msvalidate.01": "BDE83891DB7CC4397440D62FC4839EB9",
+    },
   },
 };
 
@@ -179,7 +182,7 @@ export default async function RootLayout({
         <ThemeProvider>
           <div className="min-h-screen flex flex-col">
             <Header version={changelog?.version} />
-            <main className="flex-grow py-12 px-4 md:px-6 lg:px-8 xl:px-12">
+            <main className="flex-grow py-6 px-4 md:px-6 lg:px-8 xl:px-12">
               {children}
             </main>
             <Footer />

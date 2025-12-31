@@ -78,6 +78,12 @@ export default function Header({ version = "0.0" }: HeaderProps) {
             >
               Prayers
             </Link>
+            <Link 
+              href="/donate" 
+              className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
+            >
+              Support
+            </Link>
             <div className="relative" ref={dropdownRef}>
               <button
                 onClick={() => setAboutDropdownOpen(!aboutDropdownOpen)}
@@ -159,6 +165,13 @@ export default function Header({ version = "0.0" }: HeaderProps) {
                 className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2"
               >
                 Prayers
+              </Link>
+              <Link 
+                href="/donate" 
+                onClick={() => setMobileMenuOpen(false)}
+                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2"
+              >
+                Support
               </Link>
               <div>
                 <button

@@ -53,7 +53,7 @@ export default function AboutPage() {
 
         <p>
           The most widely available English edition is under the copyright of the Serbian Orthodox Archdiocese, and can therefore not be reproduced or distributed without permission.
-          It also contains cases of <Link href="/censorship" className="text-burgundy hover:text-gold underline">censorship</Link>. This translation exists to preserve the original text written 
+          It also contains cases of <Link href="/censorship" className="text-burgundy hover:text-gold underline">censorship</Link>. Other lesser known translations exist but are not available online, and cost several hundred dollars to purchase. This translation exists to preserve the original text written 
           by St. Nikolai and make it available to the faithful without cost barriers and for all uses.
            We believe the faithful deserve access to this treasure of a text with no restrictions.
         </p>
@@ -143,6 +143,15 @@ export default function AboutPage() {
             Rdr. Marcian Sakarya is a Reader of the Russian Orthodox Church Outside of Russia. 
             He lives in North Carolina with his wife and daughter.
           </p>
+          <a 
+            href="mailto:rdr.marcian@proton.me" 
+            className="mt-4 inline-flex items-center gap-2 px-4 py-2 border border-burgundy/30 rounded text-burgundy hover:text-gold hover:border-gold/50 transition-colors"
+          >
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+            </svg>
+            rdr.marcian@proton.me
+          </a>
         </section>
 
         <div className="mt-16 pt-8 border-t border-ink/10">
