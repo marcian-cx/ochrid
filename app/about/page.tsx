@@ -30,14 +30,15 @@ export default function AboutPage() {
       
       <div className="space-y-8 text-base leading-normal text-ink">
         <p>
-          OCHRID.COM presents the first ever faithful, uncensored, and freely available English translation of the Prologue from 
+          OCHRID.COM presents the first ever faithful, uncensored, and free to use and share English translation of the Prologue from 
           Ochrid by St. Nikolai Velimirović. This translation is made directly from the original Serbian text, 
           preserving every word St. Nikolai wrote, with only minor tweaks for clarity, <strong> never meaning.</strong>
         </p>
 
         <p>
-          The currently available standard English edition is under the copyright of the Serbian Orthodox Archdiocese, and can therefore not be reproduced or distributed without permission.
-          It also contains cases of <Link href="/censorship" className="text-burgundy hover:text-gold underline">censorship</Link>. This translation exists to preserve the original text written by St. Nikolai and make it available to the faithful without cost barriers and for all uses.
+          The most widely available English edition is under the copyright of the Serbian Orthodox Archdiocese, and can therefore not be reproduced or distributed without permission.
+          It also contains cases of <Link href="/censorship" className="text-burgundy hover:text-gold underline">censorship</Link>. This translation exists to preserve the original text written 
+          by St. Nikolai and make it available to the faithful without cost barriers and for all uses.
            We believe the faithful deserve access to this treasure of a text with no restrictions.
         </p>
 

@@ -51,6 +51,10 @@ export default function CensorshipPage() {
         </p>
 
         <p>
+          Another english translation without censorship, copyright 1985 Lazarica Press, appears to exist but is not widely available.
+        </p>
+
+        <p>
           We present these cases not to criticize, but to preserve the integrity of St. Nikolai's original work. 
           Readers deserve to know what the saint actually wrote, even when his words may seem uncomfortable to modern sensibilities.
         </p>
