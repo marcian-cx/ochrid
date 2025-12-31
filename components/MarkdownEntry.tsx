@@ -139,11 +139,11 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
         return (
           <section key={idx} className={isHymn ? "mb-12 pl-6 border-l-2 border-burgundy/20" : "mb-12"}>
             {idx === 0 && (
-              <div>
-                <h2 className="text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
+              <div className="border-l border-t border-r border-burgundy/40 rounded-tl-[4px] rounded-tr-[4px]">
+                <h2 className="mt-0 text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
                   <span
                     onClick={() => setActiveView("saints")}
-                    className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] text-burgundy"
+                    className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-tl-[4px] text-burgundy bg-burgundy/5 border-r border-burgundy/40"
                     style={{ textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" }}
                   >
                     <span className="hidden md:inline">{heading}</span>
@@ -151,7 +151,7 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
                   </span>
                   <span
                     onClick={() => setActiveView("scripture")}
-                    className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
+                    className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-tr-[4px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
                   >
                     <span className="hidden md:inline">Scripture Readings</span>
                     <span className="md:hidden">Scripture</span>
@@ -171,18 +171,18 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
 
       {activeView === "scripture" && (
         <div className="mb-12">
-          <div>
-            <h2 className="text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
+          <div className="border-l border-t border-r border-burgundy/40 rounded-tl-[4px] rounded-tr-[4px]">
+            <h2 className="mt-0 text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
               <span
                 onClick={() => setActiveView("saints")}
-                className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-[3px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
+                className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-tl-[4px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy border-r border-burgundy/40"
               >
                 <span className="hidden md:inline">Lives of the Saints</span>
                 <span className="md:hidden">Lives</span>
               </span>
               <span
                 onClick={() => setActiveView("scripture")}
-                className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-[3px] text-burgundy"
+                className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-tr-[4px] text-burgundy bg-burgundy/5"
                 style={{ textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" }}
               >
                 <span className="hidden md:inline">Scripture Readings</span>
