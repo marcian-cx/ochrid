@@ -126,7 +126,7 @@ export default function Home() {
           </Link>
 
           <Link 
-            href="/donate"
+            href="/support"
             className="p-4 bg-burgundy/5 border border-burgundy/30 rounded hover:border-gold transition-colors group"
           >
             <h3 className="text-sm font-semibold text-burgundy mb-1 uppercase tracking-wider group-hover:text-gold transition-colors">

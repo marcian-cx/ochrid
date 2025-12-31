@@ -9,7 +9,7 @@ export default function Footer() {
             <Link href="/about" className="text-burgundy hover:text-gold transition-colors">
               About
             </Link>
-            <Link href="/donate" className="text-burgundy hover:text-gold transition-colors">
+            <Link href="/support" className="text-burgundy hover:text-gold transition-colors">
               Support
             </Link>
             <a 

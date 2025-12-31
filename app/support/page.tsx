@@ -7,14 +7,14 @@ export const metadata = {
   openGraph: {
     title: "Support the Prologue from Ochrid",
     description: "Help keep the free Prologue from Ochrid translation available to all.",
-    url: "https://ochrid.com/donate",
+    url: "https://ochrid.com/support",
   },
   alternates: {
-    canonical: "https://ochrid.com/donate",
+    canonical: "https://ochrid.com/support",
   },
 };
 
-export default function DonatePage() {
+export default function SupportPage() {
   return (
     <div className="w-full md:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-8">
@@ -114,7 +114,7 @@ export default function DonatePage() {
 
         <section className="mt-12 bg-parchment border border-burgundy/10 rounded-md p-6">
           <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide border-0 pb-0 mt-0">
-            Can't Donate? You Can Still Help
+            Can't Give Financially? You Can Still Help
           </h2>
           
           <div className="space-y-3">

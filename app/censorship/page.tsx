@@ -38,12 +38,20 @@ const censorshipCases: CensorshipCase[] = [
         original: "1. How the Japhethites (the white race) spread over the whole world;",
         alteration: "\"(the white race)\" — бела раса — removed",
       },
+    ],
+    explanation: "The original Serbian text uses \"Јафетити (бела раса)\" meaning \"Japhethites (the white race)\". This is a biblical reference to Genesis 9-10, where Noah's three sons become the ancestors of different peoples. The SAD translation removes the parenthetical.",
+  },
+  {
+    id: 2,
+    date: "December 13",
+    section: "Contemplation",
+    changes: [
       {
         original: "3. How the Hamitic tribes have remained to this day in a subjugated position.",
         alteration: "Entire point removed",
       },
     ],
-    explanation: "The original Serbian text uses \"Јафетити (бела раса)\" meaning \"Japhethites (the white race)\" and includes a third point about the Hamitic tribes. These are biblical references to Genesis 9-10, where Noah's three sons, Shem, Ham, and Japheth, become the ancestors of different peoples. The SAD translation removes the parenthetical and omits the third point entirely.",
+    explanation: "The original Serbian text includes a third point about the Hamitic tribes. This references Genesis 9:25-27, Noah's prophecy concerning his sons. The SAD translation omits this third point entirely.",
   },
 ];
 
@@ -99,11 +107,9 @@ export default function CensorshipPage() {
           ))}
         </div>
 
-        {censorshipCases.length === 1 && (
-          <p className="text-center text-burgundy/60 italic mt-8">
-            If more cases of censorship exist, they will be documented as this translation work progresses.
-          </p>
-        )}
+        <p className="text-center text-burgundy/60 italic mt-8">
+          Additional cases of censorship will be documented as this translation work progresses.
+        </p>
 
         <div className="mt-16 pt-8 border-t border-ink/10">
           <p className="text-center text-sm text-burgundy/80">

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import TranslationProgress from "@/components/TranslationProgress";
 import { parseTranslationProgress } from "@/utils/translationProgress";
 
@@ -137,21 +138,44 @@ export default function AboutPage() {
 
         <section className="mt-12">
           <h2 className="text-lg font-semibold mb-4 text-burgundy uppercase tracking-wide">
-            About the Author
+            Who's Behind This?
           </h2>
-          <p>
-            Rdr. Marcian Sakarya is a Reader of the Russian Orthodox Church Outside of Russia. 
-            He lives in North Carolina with his wife and daughter.
-          </p>
-          <a 
-            href="mailto:rdr.marcian@proton.me" 
-            className="mt-4 inline-flex items-center gap-2 px-4 py-2 border border-burgundy/30 rounded text-burgundy hover:text-gold hover:border-gold/50 transition-colors"
-          >
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-            </svg>
-            rdr.marcian@proton.me
-          </a>
+          <div className="flex flex-col md:flex-row gap-6 items-center md:items-start">
+            <div className="flex-shrink-0">
+              <Image 
+                src="/family_photo.png" 
+                alt="Rdr. Marcian Sakarya and family"
+                width={192}
+                height={192}
+                className="w-48 h-48 object-cover rounded-md border-2 border-burgundy/30"
+              />
+            </div>
+            <div className="flex-1 space-y-3">
+              <p>
+                I'm <strong>Rdr. Marcian Sakarya</strong>, a Reader in the Russian Orthodox Church Outside of Russia. 
+                I live in North Carolina with my wife and daughter.
+              </p>
+              <p>
+                When I discovered that the standard English translation of the Prologue from Ochrid contained censorship 
+                and was locked behind copyright, I felt that St. Nikolai, whose work has profoundly influenced me, deserved better. St. Nikolai's complete words, unaltered 
+                and unfiltered, deserve to be freely accessible to every Orthodox Christian.
+              </p>
+              <p>
+                Over <strong>200+ hours</strong> have gone into this translation and development work so far, with hundreds more ahead. 
+                This is a labor of love, but your support helps cover hosting, development, and the time needed to 
+                complete the remaining translations with the care they deserve.
+              </p>
+              <a 
+                href="mailto:rdr.marcian@proton.me" 
+                className="mt-2 inline-flex items-center gap-2 px-4 py-2 border border-burgundy/30 rounded text-burgundy hover:text-gold hover:border-gold/50 transition-colors"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                </svg>
+                rdr.marcian@proton.me
+              </a>
+            </div>
+          </div>
         </section>
 
         <div className="mt-16 pt-8 border-t border-ink/10">

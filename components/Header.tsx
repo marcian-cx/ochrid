@@ -79,7 +79,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
               Prayers
             </Link>
             <Link 
-              href="/donate" 
+              href="/support" 
               className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
             >
               Support
@@ -167,7 +167,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
                 Prayers
               </Link>
               <Link 
-                href="/donate" 
+                href="/support" 
                 onClick={() => setMobileMenuOpen(false)}
                 className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2"
               >
