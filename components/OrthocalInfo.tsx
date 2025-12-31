@@ -39,7 +39,7 @@ export default function OrthocalInfo({ data }: OrthocalInfoProps) {
 
       {data.commemorations && data.commemorations.length > 0 && (
         <section className="mb-12">
-          <h3 className="text-xl font-semibold mb-6 text-burgundy uppercase tracking-wide text-sm">
+          <h3 className="text-sm font-semibold mb-6 text-burgundy uppercase tracking-wide">
             Commemorations
           </h3>
           <ul className="space-y-2 text-sm text-ink/80">

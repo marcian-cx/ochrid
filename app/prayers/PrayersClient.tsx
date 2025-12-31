@@ -1,23 +1,7 @@
 "use client";
 
 import { useState, useRef } from "react";
-
-type SubPrayer = {
-  title?: string;
-  prayer: string;
-};
-
-type SimplePrayer = {
-  title?: string;
-  prayer: string;
-};
-
-type NestedPrayer = {
-  title: string;
-  prayers: SubPrayer[];
-};
-
-type Prayer = SimplePrayer | NestedPrayer;
+import { Prayer, NestedPrayer } from "@/lib/types";
 
 type PrayerSection = {
   key: string;
@@ -45,7 +29,7 @@ const PRAYER_SECTIONS: PrayerSection[] = [
 ];
 
 function isNestedPrayer(prayer: Prayer): prayer is NestedPrayer {
-  return 'prayers' in prayer;
+  return "prayers" in prayer;
 }
 
 function hasNumberedList(text: string): boolean {
@@ -264,7 +248,7 @@ export default function PrayersClient({ prayers }: { prayers: Record<string, Pra
                         </svg>
                       </button>
                       </div>
-                      <div className="flex width-[10px] border-l border-burgundy/40">
+                      <div className="flex w-[10px] border-l border-burgundy/40">
                       <button
                         onClick={() => stopAudio(section.key)}
                         className="flex items-center justify-center w-9 h-9 hover:bg-burgundy/5 transition-colors text-burgundy"

@@ -1,23 +1,7 @@
 import { readFile } from "fs/promises";
 import { join } from "path";
 import PrayersClient from "./PrayersClient";
-
-type SubPrayer = {
-  title?: string;
-  prayer: string;
-};
-
-type SimplePrayer = {
-  title?: string;
-  prayer: string;
-};
-
-type NestedPrayer = {
-  title: string;
-  prayers: SubPrayer[];
-};
-
-type Prayer = SimplePrayer | NestedPrayer;
+import { Prayer } from "@/lib/types";
 
 async function getPrayers() {
   try {

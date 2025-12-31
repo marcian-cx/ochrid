@@ -1,11 +1,6 @@
 import Link from "next/link";
 import { getTodayKey } from "@/utils/date";
 
-export const metadata = {
-  title: "Prologue from Ochrid - Free English Translation | St. Nikolai Velimirović",
-  description: "The first faithful, uncensored, and free English translation of the Prologue from Ochrid by St. Nikolai Velimirović. Daily Orthodox readings, lives of saints, hymns, and homilies for every day of the year.",
-};
-
 export default function Home() {
   const todayKey = getTodayKey();
 
@@ -24,7 +19,7 @@ export default function Home() {
         
         <Link 
           href={`/readings/${todayKey}`}
-          className="inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
+          className="btn inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
         >
           Read Today's Entry →
         </Link>
@@ -154,7 +149,7 @@ export default function Home() {
 
         <Link 
           href={`/readings/${todayKey}`}
-          className="inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
+          className="btn inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
         >
           Begin Reading Today
         </Link>

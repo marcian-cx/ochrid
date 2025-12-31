@@ -48,7 +48,7 @@ export default function AboutPage() {
         <p>
           OCHRID.COM presents the first ever faithful, uncensored, and free to use and share English translation of the Prologue from 
           Ochrid by St. Nikolai Velimirović. This translation is made directly from the original Serbian text, 
-          preserving every word St. Nikolai wrote, with only minor tweaks for clarity, <strong> never meaning.</strong>
+          preserving every word St. Nikolai wrote, with only minor tweaks for clarity, <strong>never meaning.</strong>
         </p>
 
         <p>
@@ -60,7 +60,7 @@ export default function AboutPage() {
 
         <p>
           This work is licensed under{' '}
-          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener" className="text-burgundy hover:text-gold underline">
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer" className="text-burgundy hover:text-gold underline">
             Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
           </a>, 
           which means anyone can use, copy, and share it freely as long as they credit Rdr. Marcian Sakarya 
@@ -89,7 +89,7 @@ export default function AboutPage() {
             </p>
             <p>
               <strong>Daily Scripture Readings</strong> — The appointed Scripture passages for each day, 
-              provided through integration with <a href="https://orthocal.info" target="_blank" rel="noopener" className="text-burgundy hover:text-gold underline">Orthocal.info</a>
+              provided through integration with <a href="https://orthocal.info" target="_blank" rel="noopener noreferrer" className="text-burgundy hover:text-gold underline">Orthocal.info</a>
             </p>
             <p>
               <strong>Fasting Calendar</strong> — Information about the fasting rule for each day
@@ -125,7 +125,7 @@ export default function AboutPage() {
           <p>
             The Prologue translation is made directly from the original Serbian text by St. Nikolai Velimirović 
             and is licensed under{' '}
-            <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener" className="text-burgundy hover:text-gold underline">
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer" className="text-burgundy hover:text-gold underline">
               CC BY-SA 4.0
             </a>. You are free to use, copy, and share 
             this translation as long as you credit Rdr. Marcian Sakarya and OCHRID.COM.

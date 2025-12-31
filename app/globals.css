@@ -35,8 +35,12 @@
     @apply mb-4 text-justify;
   }
   
-  a {
+  a:not(.btn) {
     @apply text-burgundy hover:text-gold transition-colors;
+  }
+  
+  .btn {
+    @apply transition-all;
   }
 }
 

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState, useRef, useEffect } from "react";
 import { useTheme } from "@/lib/ThemeContext";
+import { getTodayKey } from "@/utils/date";
 
 type HeaderProps = {
   version?: string;
@@ -14,6 +15,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
   const [mobileAboutOpen, setMobileAboutOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const { theme, mounted, toggleTheme } = useTheme();
+  const todayKey = getTodayKey();
 
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
@@ -32,10 +34,8 @@ export default function Header({ version = "0.0" }: HeaderProps) {
           
           <div className="flex items-center gap-2 sm:gap-3">
             <div className="flex items-baseline gap-1.5" title="This website is a work in progress">
-              <Link href="/">
-                <h1 className="text-lg sm:text-xl font-bold text-burgundy hover:text-gold transition-colors mb-0 leading-none">
-                  OCHRID
-                </h1>
+              <Link href="/" className="text-lg sm:text-xl font-bold text-burgundy hover:text-gold transition-colors leading-none">
+                OCHRID
               </Link>
               <span 
                 className="px-1.5 py-0.5 text-[10px] font-semibold tracking-wider text-burgundy border border-burgundy/30 rounded leading-none"
@@ -67,7 +67,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
               ))}
             </button>
             <Link 
-              href="/" 
+              href={`/readings/${todayKey}`}
               className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
             >
               Daily Reading
@@ -153,7 +153,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
           <div className="md:hidden border-t border-burgundy/20 mt-2 pt-2 animate-fade-in">
             <nav className="flex flex-col text-sm">
               <Link 
-                href="/" 
+                href={`/readings/${todayKey}`}
                 onClick={() => setMobileMenuOpen(false)}
                 className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2"
               >

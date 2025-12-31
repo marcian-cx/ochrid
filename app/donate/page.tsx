@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata = {
   title: "Support the Prologue from Ochrid Translation Project",
@@ -38,7 +39,7 @@ export default function DonatePage() {
             Your Support Makes This Possible
           </h2>
           <div className="space-y-1 text-sm mb-5">
-            <p>✦ <strong>$5/month</strong> — Covers hosting for 50 daily visitors</p>
+            <p className="mb-0">✦ <strong>$5/month</strong> — Covers hosting for 50 daily visitors</p>
             <p>✦ <strong>$15/month</strong> — Funds verification of 10 translated days</p>
             <p>✦ <strong>$30/month</strong> — Supports new features and mobile improvements</p>
             <p>✦ <strong>$50/month</strong> — Helps complete the remaining 200+ translations</p>
@@ -48,7 +49,7 @@ export default function DonatePage() {
               href="https://buymeacoffee.com/ochrid"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block bg-burgundy !text-parchment px-6 py-2.5 font-semibold rounded hover:bg-gold hover:!text-ink transition-all hover:scale-105"
+              className="btn inline-block border border-burgundy/30 text-burgundy px-6 py-2.5 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
             >
               Support This Mission →
             </a>
@@ -66,9 +67,11 @@ export default function DonatePage() {
           </h2>
           <div className="flex flex-col md:flex-row gap-6 items-center md:items-start">
             <div className="flex-shrink-0">
-              <img 
+              <Image 
                 src="/family_photo.png" 
                 alt="Rdr. Marcian Sakarya and family"
+                width={192}
+                height={192}
                 className="w-48 h-48 object-cover rounded-md border-2 border-burgundy/30"
               />
             </div>
@@ -102,11 +105,11 @@ export default function DonatePage() {
             href="https://buymeacoffee.com/ochrid"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block bg-burgundy !text-parchment px-8 py-3.5 text-lg font-semibold rounded hover:bg-gold hover:!text-ink transition-all hover:scale-105"
+            className="btn inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
           >
             Support This Mission →
           </a>
-          <p className="mt-4 text-xs text-burgundy/60">One-time or monthly • Cancel anytime • Secure payment</p>
+          <p className="mt-4 text-xs text-burgundy/60 text-center">One-time or monthly • Cancel anytime • Secure payment</p>
         </section>
 
         <section className="mt-12 bg-parchment border border-burgundy/10 rounded-md p-6">

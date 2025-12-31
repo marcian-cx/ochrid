@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export const metadata = {
   title: "Censorship in the Prologue from Ochrid Translation",
   description: "Documented cases of censorship and alterations in the standard English translation of the Prologue from Ochrid by St. Nikolai Velimirović. See what was changed from the original Serbian text.",
