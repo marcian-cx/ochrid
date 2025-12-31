@@ -6,6 +6,7 @@ import { useState, useRef, useEffect } from "react";
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [aboutDropdownOpen, setAboutDropdownOpen] = useState(false);
+  const [mobileAboutOpen, setMobileAboutOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -106,39 +107,54 @@ export default function Header() {
 
         {mobileMenuOpen && (
           <div className="md:hidden border-t border-burgundy/20 mt-2 pt-2">
-            <nav className="flex flex-col gap-2 text-sm">
+            <nav className="flex flex-col text-sm">
               <Link 
                 href="/" 
                 onClick={() => setMobileMenuOpen(false)}
-                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
+                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2"
               >
                 Daily Reading
               </Link>
               <Link 
                 href="/prayers" 
                 onClick={() => setMobileMenuOpen(false)}
-                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0"
+                className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2"
               >
                 Prayers
               </Link>
-              <div className="flex flex-col gap-1">
-                <span className="text-burgundy/60 uppercase tracking-wider py-0 text-xs">
-                  About
-                </span>
-                <Link 
-                  href="/about" 
-                  onClick={() => setMobileMenuOpen(false)}
-                  className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0 pl-3"
+              <div>
+                <button
+                  onClick={() => setMobileAboutOpen(!mobileAboutOpen)}
+                  className="w-full flex items-center justify-between text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2"
                 >
-                  About This Website
-                </Link>
-                <Link 
-                  href="/censorship" 
-                  onClick={() => setMobileMenuOpen(false)}
-                  className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-0 pl-3"
-                >
-                  Censorship
-                </Link>
+                  <span>About</span>
+                  <svg 
+                    className={`w-4 h-4 transition-transform ${mobileAboutOpen ? 'rotate-180' : ''}`} 
+                    fill="none" 
+                    stroke="currentColor" 
+                    viewBox="0 0 24 24"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
+                </button>
+                {mobileAboutOpen && (
+                  <div className="flex flex-col pl-4 border-l border-burgundy/20 ml-1">
+                    <Link 
+                      href="/about" 
+                      onClick={() => setMobileMenuOpen(false)}
+                      className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2 text-xs"
+                    >
+                      About This Website
+                    </Link>
+                    <Link 
+                      href="/censorship" 
+                      onClick={() => setMobileMenuOpen(false)}
+                      className="text-burgundy hover:text-gold transition-colors uppercase tracking-wider py-2 text-xs"
+                    >
+                      Censorship
+                    </Link>
+                  </div>
+                )}
               </div>
             </nav>
           </div>
