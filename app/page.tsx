@@ -24,7 +24,7 @@ export default function Home() {
         
         <Link 
           href={`/readings/${todayKey}`}
-          className="inline-block bg-burgundy text-parchment px-8 py-3 font-semibold rounded hover:bg-gold hover:text-ink transition-all hover:scale-105"
+          className="inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
         >
           Read Today's Entry →
         </Link>
@@ -154,7 +154,7 @@ export default function Home() {
 
         <Link 
           href={`/readings/${todayKey}`}
-          className="inline-block bg-burgundy text-parchment px-8 py-3 font-semibold rounded hover:bg-gold hover:text-ink transition-all"
+          className="inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
         >
           Begin Reading Today
         </Link>
