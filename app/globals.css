@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --color-parchment: 245 240 230;
+  --color-ink: 26 26 26;
+  --color-gold: 184 134 11;
+  --color-burgundy: 107 45 53;
+}
+
+.dark {
+  --color-parchment: 10 10 10;
+  --color-ink: 232 232 232;
+  --color-gold: 230 196 88;
+  --color-burgundy: 166 124 124;
+}
+
 @layer base {
   body {
     @apply text-base leading-relaxed;

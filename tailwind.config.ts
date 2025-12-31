@@ -6,13 +6,14 @@ const config: Config = {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  darkMode: "class",
   theme: {
     extend: {
       colors: {
-        parchment: "#0a0a0a",
-        ink: "#e8e8e8",
-        gold: "#e6c458",
-        burgundy: "#d4a5a5",
+        parchment: "rgb(var(--color-parchment) / <alpha-value>)",
+        ink: "rgb(var(--color-ink) / <alpha-value>)",
+        gold: "rgb(var(--color-gold) / <alpha-value>)",
+        burgundy: "rgb(var(--color-burgundy) / <alpha-value>)",
       },
       fontFamily: {
         serif: ["Georgia", "Garamond", "serif"],
