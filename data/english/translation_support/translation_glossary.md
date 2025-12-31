@@ -12346,7 +12346,7 @@
 ,Молитвом изазвао појаву,By prayer caused appearance,Miracle Phrase,,
 ,Појаву Христа Господа,Appearance of Christ Lord,Miracle Phrase,,
 ,Пред неверним Јеврејима,Before unbelieving Jews,Miracle Phrase,,
-,Што одлучи на крштење,Which decided for baptism,Miracle Phrase,,
+,Што одлучи на крштење,Which led to baptism,Miracle Phrase,,
 ,Управљао црквом,Governed Church,Ecclesiastical Phrase,,
 ,Тридесет година,Thirty years,Temporal Phrase,,
 ,Мирно прешао,Passed peacefully,Death Phrase,,
