@@ -38,7 +38,7 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
       
       if (match[1]) {
         parts.push(
-          <code key={`${idx}-${keyCounter++}`} className="bg-white/20 px-1.5 py-0.5 rounded text-sm font-mono">
+          <code key={`${idx}-${keyCounter++}`} className="bg-burgundy/10 px-1.5 py-0.5 rounded text-sm font-mono">
             {match[1]}
           </code>
         );
@@ -47,7 +47,7 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
           <a 
             key={`${idx}-${keyCounter++}`} 
             href={match[3]} 
-            className="text-gold hover:text-white underline transition-colors"
+            className="text-burgundy hover:text-gold underline transition-colors"
             onClick={handleClose}
           >
             {match[2]}
@@ -74,24 +74,22 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
 
   return (
     <>
-      {/* Backdrop */}
       <div
         className="fixed inset-0 bg-ink/20 z-40 backdrop-blur-[2px]"
         onClick={handleClose}
       />
 
-      {/* Modal */}
       <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-        <div className="bg-black rounded-md shadow-2xl max-w-md w-full mx-auto">
+        <div className="bg-parchment border border-burgundy/30 rounded-md shadow-2xl max-w-md w-full mx-auto">
           <div className="px-6 pt-2 pb-1">
-            <h2 className="text-2xl font-bold text-white border-b border-gold pb-1">{title}</h2>
+            <h2 className="text-2xl font-bold text-burgundy border-b border-gold pb-1 font-mono">{title}</h2>
           </div>
 
           <div className="px-6">
             <ul className="space-y-3">
               {bulletPoints.map((point, idx) => (
-                <li key={idx} className="flex items-start gap-3 text-white">
-                  <span className="text-white mt-1">✦</span>
+                <li key={idx} className="flex items-start gap-3 text-ink">
+                  <span className="text-burgundy mt-1">✦</span>
                   <span className="leading-relaxed">{formatText(point, idx)}</span>
                 </li>
               ))}
@@ -101,7 +99,7 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
           <div className="px-6 pb-4 flex justify-end">
             <button
               onClick={handleClose}
-              className="px-4 py-1.5 bg-black text-white border border-white rounded hover:bg-white hover:text-black transition-colors text-sm"
+              className="px-4 py-1.5 bg-parchment text-burgundy border border-burgundy/50 rounded hover:bg-burgundy hover:text-parchment transition-colors text-sm"
             >
               Got it
             </button>

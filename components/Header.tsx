@@ -4,7 +4,11 @@ import Link from "next/link";
 import { useState, useRef, useEffect } from "react";
 import { useTheme } from "@/lib/ThemeContext";
 
-export default function Header() {
+type HeaderProps = {
+  version?: string;
+};
+
+export default function Header({ version = "0.0" }: HeaderProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [aboutDropdownOpen, setAboutDropdownOpen] = useState(false);
   const [mobileAboutOpen, setMobileAboutOpen] = useState(false);
@@ -37,7 +41,7 @@ export default function Header() {
                 className="px-1.5 py-0.5 text-[10px] font-semibold tracking-wider text-burgundy border border-burgundy/30 rounded leading-none"
                 style={{ fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}
               >
-                BETA · v0.5
+                BETA · v{version}
               </span>
             </div>
             <span className="hidden sm:inline text-burgundy/30 text-sm leading-none">•</span>

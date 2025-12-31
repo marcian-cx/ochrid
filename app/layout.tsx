@@ -33,7 +33,7 @@ export default async function RootLayout({
         />
         <ThemeProvider>
           <div className="min-h-screen flex flex-col">
-            <Header />
+            <Header version={changelog?.version} />
             <main className="flex-grow py-12 px-4 md:px-6 lg:px-8 xl:px-12">
               {children}
             </main>
