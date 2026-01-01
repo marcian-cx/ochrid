@@ -53,7 +53,7 @@ export default function AboutPage() {
         </p>
 
         <p>
-          The most widely available English edition is under the copyright of the Serbian Orthodox Archdiocese, and can therefore not be reproduced or distributed without permission.
+          The most widely available English edition is under copyright and can therefore not be reproduced or distributed without permission.
           It also contains cases of <Link href="/censorship" className="text-burgundy hover:text-gold underline">censorship</Link>. Other lesser known translations exist but are not available online, and cost several hundred dollars to purchase. This translation exists to preserve the original text written 
           by St. Nikolai and make it available to the faithful without cost barriers and for all uses.
            We believe the faithful deserve access to this treasure of a text with no restrictions.

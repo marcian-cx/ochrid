@@ -5,7 +5,6 @@ export const metadata = {
     "Prologue from Ochrid censorship",
     "Prologue of Ochrid original text",
     "St. Nikolai Velimirovic uncensored",
-    "Serbian Orthodox Archdiocese translation",
   ],
   openGraph: {
     title: "Censorship in the Prologue from Ochrid",
@@ -65,13 +64,13 @@ export default function CensorshipPage() {
       
       <div className="space-y-8 text-base leading-normal text-ink">
         <p>
-          The standard English translation of the Prologue from Ochrid, published by the Serbian Orthodox Archdiocese, 
+          The standard English translation of the Prologue from Ochrid in circulation today 
           contains instances where the original text written by St. Nikolai Velimirović has been altered or removed. 
           This page documents these cases of censorship to demonstrate why a faithful translation is necessary.
         </p>
 
         <p>
-          Another english translation without censorship, copyright 1985 Lazarica Press, appears to exist but is not widely available.
+          Another english translation without censorship appears to exist but is not widely available.
         </p>
 
         <p>
