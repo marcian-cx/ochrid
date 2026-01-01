@@ -5,7 +5,6 @@ import { CalendarProvider, useCalendar } from "@/lib/CalendarContext";
 import DateNavigator from "@/components/DateNavigator";
 import FastingBanner from "@/components/FastingBanner";
 import ReadingContent from "@/components/ReadingContent";
-import OrthocalInfo from "@/components/OrthocalInfo";
 import { OrthocalDay, fetchOrthocalClient } from "@/lib/orthocal";
 
 type ReadingPageClientProps = {
@@ -38,6 +37,9 @@ function ReadingPageContent({
   const { mode, getFromCache, setInCache } = useCalendar();
   const [orthocalData, setOrthocalData] = useState<OrthocalDay | null>(initialOrthocal);
 
+  const serbianContent = mode === "julian" ? julianSerbian : gregorianSerbian;
+  const hasSerbianContent = !!serbianContent;
+
   useEffect(() => {
     if (mode === "julian") {
       setOrthocalData(initialOrthocal);
@@ -58,12 +60,10 @@ function ReadingPageContent({
     });
   }, [mode, gregorianDate, initialOrthocal, getFromCache, setInCache]);
 
-  const serbianContent = mode === "julian" ? julianSerbian : gregorianSerbian;
-
   return (
     <div>
       <DateNavigator currentDate={gregorianDate} />
-      <FastingBanner data={orthocalData} hasSerbianContent={!!serbianContent} />
+      <FastingBanner data={orthocalData} hasSerbianContent={hasSerbianContent} />
       <ReadingContent
         gregorianDate={gregorianDate}
         julianDate={julianDate}

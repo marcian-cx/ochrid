@@ -14,7 +14,7 @@ type MarkdownEntryProps = {
 
 export default function MarkdownEntry({ content, dateDisplay, subtitle = "Пролог из Охрида", hasSerbianContent, orthocalData }: MarkdownEntryProps) {
   const { language, setLanguage } = useCalendar();
-  const [activeView, setActiveView] = useState<"saints" | "scripture">("saints");
+  const [activeView, setActiveView] = useState<"prologue" | "scripture">("prologue");
   const sections = content.split(/^## /m).filter(Boolean);
   
   const parseInlineMarkdown = (text: string): React.ReactNode[] => {
@@ -69,12 +69,12 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
       <div className="text-base leading-normal text-ink">
         {parts.map((part, partIdx) => {
           const lines = part.trim().split('\n');
-          const subtitle = lines[0];
+          const subsectionTitle = lines[0];
           const text = lines.slice(1).join('\n').trim();
           
           return (
             <div key={partIdx} className={partIdx > 0 ? "mt-6" : ""}>
-              <p className="text-sm uppercase tracking-wider text-burgundy/90 mb-3 font-semibold">{subtitle}</p>
+              <p className="text-sm uppercase tracking-wider text-burgundy/90 mb-3 font-semibold">{subsectionTitle}</p>
               {text && (
                 <div className="space-y-4">
                   {text.split('\n\n').map((paragraph, pIdx) => (
@@ -90,10 +90,10 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
   };
 
   const LanguageToggle = () => (
-    <div className="hidden lg:flex items-center gap-1 border border-burgundy/30 rounded-md p-0.5">
+    <div className="hidden lg:flex items-center gap-1 border border-burgundy/30 rounded-md ml-4 flex-shrink-0">
       <button
         onClick={() => setLanguage("english")}
-        className={`px-2 md:px-3 py-1 md:py-1.5 text-xs md:text-sm rounded transition-colors ${
+        className={`px-2 py-1 text-xs rounded transition-colors ${
           language === "english"
             ? "bg-burgundy text-parchment"
             : "text-burgundy hover:bg-burgundy/10"
@@ -104,7 +104,7 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
       <button
         onClick={() => setLanguage("serbian")}
         disabled={!hasSerbianContent}
-        className={`px-2 md:px-3 py-1 md:py-1.5 text-xs md:text-sm rounded transition-colors ${
+        className={`px-2 py-1 text-xs rounded transition-colors ${
           language === "serbian"
             ? "bg-burgundy text-parchment"
             : hasSerbianContent
@@ -120,16 +120,37 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
   return (
     <article className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-4">
-        <div className="flex items-baseline justify-between gap-4">
-          <div>
-            <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-0">{subtitle}</h1>
-            <p className="text-xs uppercase tracking-widest text-burgundy/50">{dateDisplay}</p>
-          </div>
-          <LanguageToggle />
+        <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-1 border-0">
+          {dateDisplay}
+        </h1>
+        <div className="flex items-center justify-between">
+          <span 
+            onClick={() => setActiveView("prologue")}
+            className={`text-sm font-medium uppercase tracking-wider cursor-pointer transition-all ${
+              activeView === "prologue" 
+                ? "text-burgundy" 
+                : "text-burgundy/40 hover:text-burgundy/60"
+            }`}
+            style={activeView === "prologue" ? { textShadow: "0 0 6px rgba(212, 165, 165, 0.2)" } : {}}
+          >
+            {subtitle}
+          </span>
+          <span 
+            onClick={() => setActiveView("scripture")}
+            className={`text-sm font-medium uppercase tracking-wider cursor-pointer transition-all ${
+              activeView === "scripture" 
+                ? "text-burgundy" 
+                : "text-burgundy/40 hover:text-burgundy/60"
+            }`}
+            style={activeView === "scripture" ? { textShadow: "0 0 6px rgba(212, 165, 165, 0.2)" } : {}}
+          >
+            <span className="hidden sm:inline">Scripture Reading</span>
+            <span className="sm:hidden">Scripture</span>
+          </span>
         </div>
       </div>
 
-      {activeView === "saints" && sections.map((section, idx) => {
+      {activeView === "prologue" && sections.map((section, idx) => {
         const lines = section.trim().split('\n');
         const heading = lines[0];
         const body = lines.slice(1).join('\n').trim();
@@ -138,32 +159,12 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
         
         return (
           <section key={idx} className={isHymn ? "mb-12 pl-6 border-l-2 border-burgundy/20" : "mb-12"}>
-            {idx === 0 && (
-              <div className="border-l border-t border-r border-burgundy/40 rounded-tl-[4px] rounded-tr-[4px]">
-                <h2 className="mt-0 text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
-                  <span
-                    onClick={() => setActiveView("saints")}
-                    className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-tl-[4px] text-burgundy bg-burgundy/5 border-r border-burgundy/40"
-                    style={{ textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" }}
-                  >
-                    <span className="hidden md:inline">{heading}</span>
-                    <span className="md:hidden">Lives</span>
-                  </span>
-                  <span
-                    onClick={() => setActiveView("scripture")}
-                    className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-tr-[4px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy"
-                  >
-                    <span className="hidden md:inline">Scripture Readings</span>
-                    <span className="md:hidden">Scripture</span>
-                  </span>
-                </h2>
-              </div>
-            )}
-            {idx !== 0 && (
-              <h2 className="text-base font-bold mb-4 text-burgundy uppercase tracking-wider">
+            <div className="flex items-center justify-between border-b border-gold mb-4">
+              <h2 className="text-base font-bold text-burgundy uppercase tracking-wider mt-0 mb-0 border-0">
                 {heading}
               </h2>
-            )}
+              {idx === 0 && <LanguageToggle />}
+            </div>
             {renderBody(body, isHymn)}
           </section>
         );
@@ -171,25 +172,6 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
 
       {activeView === "scripture" && (
         <div className="mb-12">
-          <div className="border-l border-t border-r border-burgundy/40 rounded-tl-[4px] rounded-tr-[4px]">
-            <h2 className="mt-0 text-base font-bold text-burgundy uppercase tracking-wider flex items-center justify-between pb-0">
-              <span
-                onClick={() => setActiveView("saints")}
-                className="cursor-pointer transition-all w-1/2 px-2 py-2 rounded-tl-[4px] text-burgundy/40 hover:bg-burgundy/10 hover:text-burgundy border-r border-burgundy/40"
-              >
-                <span className="hidden md:inline">Lives of the Saints</span>
-                <span className="md:hidden">Lives</span>
-              </span>
-              <span
-                onClick={() => setActiveView("scripture")}
-                className="cursor-pointer transition-all w-1/2 text-right px-2 py-2 rounded-tr-[4px] text-burgundy bg-burgundy/5"
-                style={{ textShadow: "0 0 8px rgba(212, 165, 165, 0.4)" }}
-              >
-                <span className="hidden md:inline">Scripture Readings</span>
-                <span className="md:hidden">Scripture</span>
-              </span>
-            </h2>
-          </div>
           <OrthocalInfo data={orthocalData} />
         </div>
       )}
