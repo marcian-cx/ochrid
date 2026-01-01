@@ -35,7 +35,7 @@ export default function Header({ version = "0.0" }: HeaderProps) {
           <div className="flex items-center gap-2 sm:gap-3">
             <div className="flex items-baseline gap-1.5" title="This website is a work in progress">
               <Link href="/" className="text-lg sm:text-xl font-bold text-burgundy hover:text-gold transition-colors leading-none">
-                OCHRID
+                  OCHRID
               </Link>
               <span 
                 className="px-1.5 py-0.5 text-[10px] font-semibold tracking-wider text-burgundy border border-burgundy/30 rounded leading-none"

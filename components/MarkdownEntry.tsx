@@ -119,7 +119,7 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
   
   return (
     <article className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0">
-      <div className="mb-4">
+      <div className="mb-8">
         <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-1 border-0">
           {dateDisplay}
         </h1>
