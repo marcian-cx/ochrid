@@ -7,13 +7,14 @@ type MarkdownEntryProps = {
   content: string;
   currentDate: string;
   dateDisplay: string;
-  subtitle?: string;
   hasSerbianContent: boolean;
   orthocalData: OrthocalDay | null;
 };
 
-export default function MarkdownEntry({ content, dateDisplay, subtitle = "Пролог из Охрида", hasSerbianContent, orthocalData }: MarkdownEntryProps) {
+export default function MarkdownEntry({ content, dateDisplay, hasSerbianContent, orthocalData }: MarkdownEntryProps) {
   const { language, setLanguage } = useCalendar();
+  const subtitle = language === "english" ? "Prologue from Ochrid" : "Пролог из Охрида";
+  const subtitleShort = language === "english" ? "Prologue" : "Пролог";
   const [activeView, setActiveView] = useState<"prologue" | "scripture">("prologue");
   const sections = content.split(/^## /m).filter(Boolean);
   
@@ -90,7 +91,7 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
   };
 
   const LanguageToggle = () => (
-    <div className="hidden lg:flex items-center gap-1 border border-burgundy/30 rounded-md ml-4 flex-shrink-0">
+    <div className="hidden sm:flex items-center gap-1 border border-burgundy/30 rounded-md p-0.5 ml-4 flex-shrink-0 relative bottom-1">
       <button
         onClick={() => setLanguage("english")}
         className={`px-2 py-1 text-xs rounded transition-colors ${
@@ -118,7 +119,7 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
   );
   
   return (
-    <article className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0">
+    <article className="w-full md:w-4/5 lg:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-8">
         <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-1 border-0">
           {dateDisplay}
@@ -133,7 +134,8 @@ export default function MarkdownEntry({ content, dateDisplay, subtitle = "Про
             }`}
             style={activeView === "prologue" ? { textShadow: "0 0 6px rgba(212, 165, 165, 0.2)" } : {}}
           >
-            {subtitle}
+            <span className="hidden sm:inline">{subtitle}</span>
+            <span className="sm:hidden">{subtitleShort}</span>
           </span>
           <span 
             onClick={() => setActiveView("scripture")}

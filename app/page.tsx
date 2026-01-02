@@ -5,7 +5,7 @@ export default function Home() {
   const todayKey = getTodayKey();
 
   return (
-    <div className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0">
+    <div className="w-full md:w-4/5 lg:w-3/5 mx-auto px-4 md:px-0">
       <section className="text-center mb-10">
         <h1 className="text-3xl md:text-4xl font-bold text-burgundy mb-2">
           The Prologue from Ochrid

@@ -18,9 +18,6 @@ const config: Config = {
       fontFamily: {
         serif: ["Georgia", "Garamond", "serif"],
       },
-      screens: {
-        'toggle': '1024px',
-      },
     },
   },
   plugins: [],

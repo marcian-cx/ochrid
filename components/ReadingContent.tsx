@@ -34,7 +34,7 @@ export default function ReadingContent({
 
   if (!englishContent) {
     return (
-      <div className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0">
+      <div className="w-full md:w-4/5 lg:w-3/5 mx-auto px-4 md:px-0">
         <div className="mb-12">
           <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-0">Prologue from Ochrid</h1>
           <p className="text-xs uppercase tracking-widest text-burgundy/50">{dateDisplay}</p>
@@ -53,7 +53,6 @@ export default function ReadingContent({
         content={englishContent}
         currentDate={currentDate}
         dateDisplay={dateDisplay}
-        subtitle="Prologue from Ochrid"
         hasSerbianContent={hasSerbianContent}
         orthocalData={orthocalData}
       />
@@ -63,7 +62,7 @@ export default function ReadingContent({
   if (language === "serbian") {
     if (!serbianContent) {
       return (
-        <div className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0">
+        <div className="w-full md:w-4/5 lg:w-3/5 mx-auto px-4 md:px-0">
           <p className="text-burgundy/70">Serbian translation not available for this date.</p>
         </div>
       );
@@ -73,7 +72,6 @@ export default function ReadingContent({
         content={serbianContent}
         currentDate={currentDate}
         dateDisplay={dateDisplay}
-        subtitle="Пролог из Охрида"
         hasSerbianContent={hasSerbianContent}
         orthocalData={orthocalData}
       />

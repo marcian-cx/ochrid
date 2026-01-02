@@ -41,11 +41,11 @@ export default function FastingBanner({ data, hasSerbianContent = false }: Fasti
   }
 
   return (
-    <div className="w-full md:w-4/5 toggle:w-3/5 mx-auto px-4 md:px-0 flex items-center justify-between mb-6 pb-1 border-b border-ink/10">
+    <div className="w-full md:w-4/5 lg:w-3/5 mx-auto px-4 md:px-0 flex items-center justify-between mb-6 pb-1 border-b border-ink/10">
       <span className="text-xs uppercase tracking-wide text-burgundy/80 font-semibold md:hidden">{getMobileDisplay(data)}</span>
       <span className="text-xs uppercase tracking-wide text-burgundy/80 font-semibold hidden md:block">{getDesktopDisplay(data)}</span>
       <div className="flex items-center gap-3">
-        <div className="flex lg:hidden items-center gap-1 border border-burgundy/30 rounded-md p-0.5">
+        <div className="flex sm:hidden items-center gap-1 border border-burgundy/30 rounded-md p-0.5">
           <button
             onClick={() => setLanguage("english")}
             className={`px-2 py-1 text-xs rounded transition-colors ${
