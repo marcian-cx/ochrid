@@ -67,10 +67,25 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
 
   const lines = content.split("\n");
   const title = lines[0].replace(/^#\s*/, "").trim();
-  const bulletPoints = lines
-    .slice(1)
-    .filter((line) => line.trim().startsWith("-"))
-    .map((line) => line.replace(/^-\s*/, "").trim());
+  
+  type Section = { heading: string | null; bullets: string[] };
+  const sections: Section[] = [];
+  let currentSection: Section = { heading: null, bullets: [] };
+  
+  for (const line of lines.slice(1)) {
+    const trimmed = line.trim();
+    if (trimmed.startsWith("## ")) {
+      if (currentSection.bullets.length > 0 || currentSection.heading) {
+        sections.push(currentSection);
+      }
+      currentSection = { heading: trimmed.replace(/^##\s*/, ""), bullets: [] };
+    } else if (trimmed.startsWith("-")) {
+      currentSection.bullets.push(trimmed.replace(/^-\s*/, ""));
+    }
+  }
+  if (currentSection.bullets.length > 0 || currentSection.heading) {
+    sections.push(currentSection);
+  }
 
   return (
     <>
@@ -85,15 +100,22 @@ export default function WhatsNewModal({ version, content }: WhatsNewModalProps) 
             <h2 className="text-xl font-bold text-burgundy border-b border-gold pb-1 font-mono my-2">{title}</h2>
           </div>
 
-          <div className="px-6">
-            <ul className="space-y-0.5">
-              {bulletPoints.map((point, idx) => (
-                <li key={idx} className="flex items-baseline gap-2 text-ink">
-                  <span className="text-burgundy text-xs">✦</span>
-                  <span>{formatText(point, idx)}</span>
-                </li>
-              ))}
-            </ul>
+          <div className="px-6 space-y-4">
+            {sections.map((section, sectionIdx) => (
+              <div key={sectionIdx}>
+                {section.heading && (
+                  <h3 className="text-sm font-semibold text-burgundy uppercase tracking-wider mb-2">{section.heading}</h3>
+                )}
+                <ul className="space-y-0.5">
+                  {section.bullets.map((point, idx) => (
+                    <li key={idx} className="flex items-baseline gap-2 text-ink">
+                      <span className="text-burgundy text-xs">✦</span>
+                      <span>{formatText(point, sectionIdx * 100 + idx)}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
           </div>
 
           <div className="px-6 pb-4 flex justify-end">
