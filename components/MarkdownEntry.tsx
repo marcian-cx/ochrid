@@ -2,6 +2,7 @@ import { useCalendar } from "@/lib/CalendarContext";
 import { OrthocalDay } from "@/lib/orthocal";
 import { useState } from "react";
 import OrthocalInfo from "./OrthocalInfo";
+import { TranslationStatus } from "@/utils/translationProgress";
 
 type MarkdownEntryProps = {
   content: string;
@@ -9,14 +10,41 @@ type MarkdownEntryProps = {
   dateDisplay: string;
   hasSerbianContent: boolean;
   orthocalData: OrthocalDay | null;
+  translationStatus: TranslationStatus;
 };
 
-export default function MarkdownEntry({ content, dateDisplay, hasSerbianContent, orthocalData }: MarkdownEntryProps) {
+export default function MarkdownEntry({ content, dateDisplay, hasSerbianContent, orthocalData, translationStatus }: MarkdownEntryProps) {
   const { language, setLanguage } = useCalendar();
   const subtitle = language === "english" ? "Prologue from Ochrid" : "Пролог из Охрида";
   const subtitleShort = language === "english" ? "Prologue" : "Пролог";
   const [activeView, setActiveView] = useState<"prologue" | "scripture">("prologue");
   const sections = content.split(/^## /m).filter(Boolean);
+  
+  const TranslationBadge = () => {
+    if (!translationStatus || language !== "english") return null;
+    
+    const isVerified = translationStatus === "verified";
+    const label = isVerified ? "verified" : "translated";
+    const tooltip = isVerified 
+      ? "This page has been verified with a close reading. It should read in natural hagiographic English."
+      : "This page has been translated from Serbian to English. It may contain minor phrasing or syntactic issues.";
+    
+    const badgeClass = isVerified
+      ? "ml-2 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider bg-burgundy text-parchment rounded leading-none relative group cursor-pointer"
+      : "ml-2 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-burgundy border border-burgundy/30 rounded leading-none relative group cursor-pointer";
+    
+    return (
+      <span 
+        className={badgeClass}
+        style={{ fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}
+      >
+        {label}
+        <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-2 text-xs normal-case tracking-normal font-normal bg-parchment text-ink border border-burgundy/30 rounded shadow-lg opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none w-64 text-left leading-relaxed z-50">
+          {tooltip}
+        </span>
+      </span>
+    );
+  };
   
   const parseInlineMarkdown = (text: string): React.ReactNode[] => {
     const elements: React.ReactNode[] = [];
@@ -121,8 +149,9 @@ export default function MarkdownEntry({ content, dateDisplay, hasSerbianContent,
   return (
     <article className="w-full md:w-4/5 lg:w-3/5 mx-auto px-4 md:px-0">
       <div className="mb-8">
-        <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-1 border-0">
+        <h1 className="text-xl sm:text-2xl font-bold uppercase tracking-wide text-burgundy mb-1 border-0 flex items-center">
           {dateDisplay}
+          <TranslationBadge />
         </h1>
         <div className="flex items-center justify-between">
           <span 

@@ -3,6 +3,7 @@ import { join } from "path";
 import ReadingPageClient from "./ReadingPageClient";
 import { fetchOrthocalByDate } from "@/lib/orthocal";
 import { getJulianDateKey, formatJulianGregorianDisplay } from "@/utils/date";
+import { getTranslationStatus } from "@/utils/translationProgress";
 
 async function getContentForDate(dateKey: string, language: "english" | "serbian"): Promise<string | null> {
   try {
@@ -46,6 +47,9 @@ export default async function DayPage({ params }: { params: { date: string } }) 
     fetchOrthocalByDate(gregorianDate),
   ]);
 
+  const julianTranslationStatus = getTranslationStatus(julianDate);
+  const gregorianTranslationStatus = getTranslationStatus(gregorianDate);
+
   return (
     <ReadingPageClient
       gregorianDate={gregorianDate}
@@ -55,6 +59,8 @@ export default async function DayPage({ params }: { params: { date: string } }) 
       gregorianEnglish={gregorianEnglish}
       gregorianSerbian={gregorianSerbian}
       initialOrthocal={julianOrthocal}
+      julianTranslationStatus={julianTranslationStatus}
+      gregorianTranslationStatus={gregorianTranslationStatus}
     />
   );
 }

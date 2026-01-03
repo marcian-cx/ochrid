@@ -70,7 +70,7 @@ export default function FastingBanner({ data, hasSerbianContent = false }: Fasti
             Српски
           </button>
         </div>
-        <span className="text-xs text-ink/50 hidden lg:block">{data.summary_title}</span>
+        <span className="text-xs text-ink/50 hidden sm:block">{data.summary_title}</span>
       </div>
     </div>
   );

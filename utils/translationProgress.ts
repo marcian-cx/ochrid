@@ -93,3 +93,35 @@ export function parseTranslationProgress(): ProgressStats {
   };
 }
 
+export type TranslationStatus = "verified" | "translated" | null;
+
+const MONTH_TO_NUM: Record<string, string> = {
+  "Jan": "01",
+  "Feb": "02",
+  "Mar": "03",
+  "Apr": "04",
+  "May": "05",
+  "Jun": "06",
+  "Jul": "07",
+  "Aug": "08",
+  "Sep": "09",
+  "Oct": "10",
+  "Nov": "11",
+  "Dec": "12",
+};
+
+export function getTranslationStatus(dateKey: string): TranslationStatus {
+  const progress = parseTranslationProgress();
+  const [monthNum, dayNum] = dateKey.split("-");
+  
+  const monthName = Object.entries(MONTH_TO_NUM).find(([, num]) => num === monthNum)?.[0];
+  if (!monthName) return null;
+  
+  const dayProgress = progress.daysByMonth[monthName]?.find(d => d.day === parseInt(dayNum, 10));
+  if (!dayProgress) return null;
+  
+  if (dayProgress.englishVerified) return "verified";
+  if (dayProgress.englishTranslated) return "translated";
+  return null;
+}
+

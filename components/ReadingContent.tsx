@@ -4,6 +4,7 @@ import MarkdownEntry from "./MarkdownEntry";
 import { useCalendar } from "@/lib/CalendarContext";
 import { formatDateDisplay } from "@/utils/date";
 import { OrthocalDay } from "@/lib/orthocal";
+import { TranslationStatus } from "@/utils/translationProgress";
 
 type ReadingContentProps = {
   gregorianDate: string;
@@ -13,6 +14,8 @@ type ReadingContentProps = {
   gregorianEnglish: string | null;
   gregorianSerbian: string | null;
   orthocalData: OrthocalDay | null;
+  julianTranslationStatus: TranslationStatus;
+  gregorianTranslationStatus: TranslationStatus;
 };
 
 export default function ReadingContent({ 
@@ -23,6 +26,8 @@ export default function ReadingContent({
   gregorianEnglish,
   gregorianSerbian,
   orthocalData,
+  julianTranslationStatus,
+  gregorianTranslationStatus,
 }: ReadingContentProps) {
   const { mode, language } = useCalendar();
 
@@ -31,6 +36,7 @@ export default function ReadingContent({
   const currentDate = mode === "julian" ? julianDate : gregorianDate;
   const dateDisplay = formatDateDisplay(currentDate);
   const hasSerbianContent = !!serbianContent;
+  const translationStatus = mode === "julian" ? julianTranslationStatus : gregorianTranslationStatus;
 
   if (!englishContent) {
     return (
@@ -55,6 +61,7 @@ export default function ReadingContent({
         dateDisplay={dateDisplay}
         hasSerbianContent={hasSerbianContent}
         orthocalData={orthocalData}
+        translationStatus={translationStatus}
       />
     );
   }
@@ -74,6 +81,7 @@ export default function ReadingContent({
         dateDisplay={dateDisplay}
         hasSerbianContent={hasSerbianContent}
         orthocalData={orthocalData}
+        translationStatus={null}
       />
     );
   }

@@ -6,6 +6,7 @@ import DateNavigator from "@/components/DateNavigator";
 import FastingBanner from "@/components/FastingBanner";
 import ReadingContent from "@/components/ReadingContent";
 import { OrthocalDay, fetchOrthocalClient } from "@/lib/orthocal";
+import { TranslationStatus } from "@/utils/translationProgress";
 
 type ReadingPageClientProps = {
   gregorianDate: string;
@@ -15,6 +16,8 @@ type ReadingPageClientProps = {
   gregorianEnglish: string | null;
   gregorianSerbian: string | null;
   initialOrthocal: OrthocalDay | null;
+  julianTranslationStatus: TranslationStatus;
+  gregorianTranslationStatus: TranslationStatus;
 };
 
 export default function ReadingPageClient(props: ReadingPageClientProps) {
@@ -33,6 +36,8 @@ function ReadingPageContent({
   gregorianEnglish,
   gregorianSerbian,
   initialOrthocal,
+  julianTranslationStatus,
+  gregorianTranslationStatus,
 }: ReadingPageClientProps) {
   const { mode, getFromCache, setInCache } = useCalendar();
   const [orthocalData, setOrthocalData] = useState<OrthocalDay | null>(initialOrthocal);
@@ -72,6 +77,8 @@ function ReadingPageContent({
         gregorianEnglish={gregorianEnglish}
         gregorianSerbian={gregorianSerbian}
         orthocalData={orthocalData}
+        julianTranslationStatus={julianTranslationStatus}
+        gregorianTranslationStatus={gregorianTranslationStatus}
       />
     </div>
   );
