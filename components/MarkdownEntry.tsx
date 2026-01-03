@@ -30,15 +30,20 @@ export default function MarkdownEntry({ content, dateDisplay, hasSerbianContent,
       : "This page has been translated from Serbian to English. It may contain minor phrasing or syntactic issues.";
     
     const badgeClass = isVerified
-      ? "ml-2 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider bg-burgundy text-parchment rounded leading-none relative group cursor-pointer"
-      : "ml-2 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-burgundy border border-burgundy/30 rounded leading-none relative group cursor-pointer";
+      ? "ml-2 px-1 sm:px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider bg-burgundy text-parchment rounded leading-none relative group cursor-pointer"
+      : "ml-2 px-1 sm:px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-burgundy border border-burgundy/30 rounded leading-none relative group cursor-pointer";
     
     return (
       <span 
         className={badgeClass}
         style={{ fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}
       >
-        {label}
+        <span className="hidden sm:inline">{label}</span>
+        <span className="sm:hidden flex items-center justify-center w-3 h-3">
+          <svg viewBox="0 0 20 20" fill="currentColor" className="w-3 h-3">
+            <path fillRule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clipRule="evenodd" />
+          </svg>
+        </span>
         <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-2 text-xs normal-case tracking-normal font-normal bg-parchment text-ink border border-burgundy/30 rounded shadow-lg opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none w-64 text-left leading-relaxed z-50">
           {tooltip}
         </span>
