@@ -34,9 +34,9 @@ export default function OrthocalInfo({ data }: OrthocalInfoProps) {
           <p className="text-sm uppercase tracking-wider text-burgundy/90 mb-3 font-semibold">
             {reading.display}
           </p>
-          <div className="space-y-1 text-base leading-normal text-ink/90">
+          <div className="text-base leading-normal text-ink/90">
             {reading.passage.map((verse, vIndex) => (
-              <p key={vIndex}>
+              <p key={vIndex} className="mb-1 last:mb-0">
                 <sup className="text-burgundy text-xs mr-1">{verse.verse}</sup>
                 {verse.content}
               </p>
