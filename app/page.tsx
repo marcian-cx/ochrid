@@ -1,9 +1,7 @@
 import Link from "next/link";
-import { getTodayKey } from "@/utils/date";
+import TodayLink from "@/components/TodayLink";
 
 export default function Home() {
-  const todayKey = getTodayKey();
-
   return (
     <div className="w-full md:w-4/5 lg:w-3/5 mx-auto px-4 md:px-0">
       <section className="text-center mb-10">
@@ -17,12 +15,9 @@ export default function Home() {
           The first faithful, uncensored, and free English translation
         </p>
         
-        <Link 
-          href={`/readings/${todayKey}`}
-          className="btn inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
-        >
+        <TodayLink className="btn inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all">
           Read Today's Entry →
-        </Link>
+        </TodayLink>
       </section>
 
       <section className="mb-12">
@@ -147,12 +142,9 @@ export default function Home() {
           <footer className="text-xs text-burgundy/70">— St. Nikolai Velimirović, Preface to the Prologue from Ochrid</footer>
         </blockquote>
 
-        <Link 
-          href={`/readings/${todayKey}`}
-          className="btn inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all"
-        >
+        <TodayLink className="btn inline-block border border-burgundy/30 text-burgundy px-8 py-3 font-semibold rounded hover:border-gold hover:text-gold hover:bg-burgundy/5 transition-all">
           Begin Reading Today
-        </Link>
+        </TodayLink>
       </section>
     </div>
   );
