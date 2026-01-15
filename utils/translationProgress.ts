@@ -124,4 +124,3 @@ export function getTranslationStatus(dateKey: string): TranslationStatus {
   if (dayProgress.englishTranslated) return "translated";
   return null;
 }
-
